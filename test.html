@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THREE.JS test</title>
-    <!--<link href="/threejs.css" rel="stylesheet" type="text/css" media="all">-->
+    <title>404</title>
+    <!--<link href="style.css" rel="stylesheet" type="text/css" media="all">-->
     <style>
       html, body {
          margin: 0;
@@ -21,8 +21,9 @@
     <canvas id="c"></canvas>
     
     <script type="module">
-      import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r122/three.module.js';
-      function main() {
+      import * as THREE from 'three/build/three.module.js';
+      import { GLTFLoader } from 
+	  function main() {
         const canvas = document.querySelector('#c');
         const renderer = new THREE.WebGLRenderer({canvas});
         renderer.autoClearColor=false;
