@@ -19,7 +19,7 @@
         const renderer = new THREE.WebGLRenderer({canvas});
         renderer.autoClearColor=false;
         const fov = 75;
-        const aspect = 2;  // the canvas default
+        const aspect = 2;
         const near = 0.1;
         const far = 5;
         const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
@@ -50,7 +50,7 @@
         
         
         function render(time) {
-            time *= 0.001;  // convert time to seconds
+            time *= 0.001; 
             
             if (resizeRendererToDisplaySize(renderer)) {
               const canvas = renderer.domElement;
