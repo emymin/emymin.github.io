@@ -34,20 +34,25 @@
         const pages = ["moon.html","torques.html"];
         let index=0;
         const container = document.getElementById("container");
-        const pagelink = document.getElementById("pagelink")
+        const pagelink = document.getElementById("pagelink");
+
+        function refreshContainer(){
+            let page = pages[index];
+            container.src=page;
+            pagelink.href=page;
+            pagelink.innerHTML=page;
+        }
+        
+        refreshContainer();
+        
         function next(){
             index=(index+1)%pages.length;
-            let newpage = pages[index];
-            container.src=newpage;
-            pagelink.href=newpage;
-            pagelink.innerHTML=newpage;
+            refreshContainer();
         }
         function previous(){
             index=(index-1+pages.length)%pages.length;
             let newpage = pages[index];
-            container.src=newpage;
-            pagelink.href=newpage;
-            pagelink.innerHTML=newpage;
+            refreshContainer();
         }
 
     </script>
