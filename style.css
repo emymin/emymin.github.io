@@ -62,7 +62,7 @@ a {
 
 .homepage-bar {
     width:25%;
-    min-width:fit-content;
+    min-width:450px;
     display:flex;
     align-items: center;
     justify-content: center;
