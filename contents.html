@@ -1,87 +1,28 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contents</title>
-    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<link rel="stylesheet" type="text/css" href="style.css">
 
-  </head>
-  <body>
-    <div style="height:200%"><canvas id="c"></canvas></div>
-    <script type="module">
-      import * as THREE from '/three/build/three.module.js'; 
+<div id="navigation"></div>
+<script src="/libs/jquery-3.6.0.min.js"></script>
+<script>$(function() {
+    $("#navigation").load("/navbar.html");
+});</script>
 
-      function clamp(a,b,c){
-          return Math.min(c,Math.max(b,a));
-      }
+<body>
+    <div class="card contentbox">
+        <div style="margin:40px">
+            <h1>CONTENTS</h1>
+            <br>
+            <ul style="list-style-type:square;">
+                <li><a href="webgl/"">WebGL stuff</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
 
-	  function main() {
-        const canvas = document.querySelector('#c');
-        const renderer = new THREE.WebGLRenderer({canvas});
-        renderer.autoClearColor=false;
-        const fov = 75;
-        const aspect = 2;
-        const near = 0.1;
-        const far = 5;
-        const camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
-        camera.position.z=2;
-        const scene = new THREE.Scene();
-        const geometry = new THREE.BoxGeometry(0.2,0.2,0.2);
-        const material = new THREE.MeshPhongMaterial({color: 0xFFFFFF});
-        let cubes = [];
-        for(let i=0;i<20;i++){
-            const cube = new THREE.Mesh(geometry, material);
-            cube.position.y-=(i-1.7)/2;
-            cube.position.x+=clamp(Math.random(),0.2,0.8)*2-1
-            cube.rotation.x=Math.random();
-            cube.rotation.y=Math.random();
-            cube.rotation.z=Math.random();
-            cubes.push(cube);
-            scene.add(cube);
-        }
-        const intensity = 1;
-        const light = new THREE.DirectionalLight(0xFFAAAA,intensity);
-        const light2 = new THREE.DirectionalLight(0xAAAAFF,intensity);
-        light.position.set(1,1,0);
-        light2.position.set(-1,-1,0);
-        scene.add(light);
-        scene.add(light2);
-        
-        function resizeRendererToDisplaySize(renderer) {
-          const canvas = renderer.domElement;
-          const pixelRatio = window.devicePixelRatio;
-          const width  = canvas.clientWidth  * pixelRatio | 0;
-          const height = canvas.clientHeight * pixelRatio | 0;
-          const needResize = canvas.width !== width || canvas.height !== height;
-          if (needResize) {
-            renderer.setSize(width, height, false);
-          }
-          return needResize;
-        }
-        
-        
-        function render(time) {
-            time *= 0.001;
-            
-            if (resizeRendererToDisplaySize(renderer)) {
-              const canvas = renderer.domElement;
-              camera.aspect = canvas.clientWidth / canvas.clientHeight;
-              camera.updateProjectionMatrix();
-            }
-            
-            let pos = document.documentElement.scrollTop/(canvas.clientHeight/15)
-            camera.position.y=-pos;
-
-           
-            renderer.render(scene, camera);
-           
-            requestAnimationFrame(render);
-        }
-          requestAnimationFrame(render);
-          
-      }
-      main();
-    </script>
-  </body>
 </html>
