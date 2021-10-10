@@ -576,9 +576,9 @@ function main() {
 
   const gui = new GUI();
   const lightingFolder = gui.addFolder("Lighting");
-  lightingFolder.add(params,"hdri",{Market:"market",Room:"room",Night:"night",Studio:"studio",Garden:"garden",Machinery:"machinery"});
-  lightingFolder.add(params,"ssr");
-  lightingFolder.add(params,"bloom");
+  lightingFolder.add(params,"hdri",{Market:"market",Room:"room",Night:"night",Studio:"studio",Garden:"garden",Machinery:"machinery"}).name("Environment map");
+  lightingFolder.add(params,"ssr").name("Use SSR (GPU intensive)");
+  lightingFolder.add(params,"bloom").name("Use bloom");
   gui.open();
   
   function resizeRendererToDisplaySize(renderer) {
