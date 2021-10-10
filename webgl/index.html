@@ -31,27 +31,31 @@
     </center>
 
     <script>
-        const pages = ["moon.html","torques.html"];
+        const sketches = ["moon","torques","daft"];
+        sketches.reverse();
         let index=0;
         const container = document.getElementById("container");
         const pagelink = document.getElementById("pagelink");
 
         function refreshContainer(){
-            let page = pages[index];
+
+            const sketchName = sketches[index];
+            const page = "sketch.html?sketch="+sketchName;
+
             container.src=page;
             pagelink.href=page;
-            pagelink.innerHTML=page;
+            pagelink.innerHTML=sketchName;
         }
         
         refreshContainer();
         
         function next(){
-            index=(index+1)%pages.length;
+            index=(index+1)%sketches.length;
             refreshContainer();
         }
         function previous(){
-            index=(index-1+pages.length)%pages.length;
-            let newpage = pages[index];
+            index=(index-1+sketches.length)%sketches.length;
+            let newpage = sketches[index];
             refreshContainer();
         }
 

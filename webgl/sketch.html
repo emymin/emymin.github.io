@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketch</title>
+    <link href="../style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <script>
+      function loadSketch(){
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const sketch = urlParams.get("sketch");
+  
+        const script = document.createElement("script");
+        script.setAttribute("type","module");
+        script.setAttribute("src","js/sketches/"+sketch+".js");
+
+        document.title=sketch;
+        document.body.appendChild(script);
+        console.log("Loaded sketch "+sketch);
+        
+      }
+      window.onload = function() {
+        if(document.readyState == 'complete') {
+          loadSketch();
+        }
+      };
+
+    </script>
+  </body>
+</html>
