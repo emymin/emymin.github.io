@@ -3,6 +3,7 @@ import { RGBELoader } from '/libs/three/examples/jsm/loaders/RGBELoader.js';
 import '/libs/jquery.js';
 import { OrbitControls } from '/libs/three/examples/jsm/controls/OrbitControls.js';
 import { EquirectangularReflectionMapping,PlaneGeometry,MeshStandardMaterial,Mesh,TextureLoader } from '../../../libs/three/build/three.module.js';
+import { GetCustomStandard } from '../CustomStandardShader.js';
 
 const texloader = new TextureLoader();
 
@@ -10,21 +11,30 @@ function loadSVGTex(url,callback){
 
 }
 
+const uniforms = {
+  time: { value: 0 }
+};
+
+
 
 function makeFlag(nationName,flagURL,index,scene,flags){
-  console.log(nationName+":"+flagURL);
-  const subdivs = 50;
-  
+  console.log(nationName+":"+flagURL);  
   
   const loadFunc = (flagURL.endsWith(".svg")) ? loadSVGTex : texloader.load;
 
   const callback = (texture)=>{
-    const flagMat = new MeshStandardMaterial();
+    const flagMat = GetCustomStandard({name:"waveFlag_"+nationName,customVert:`
+    vec4 origin = modelMatrix * vec4(0,0,0,1);
+    float offset = sin(dot(origin.xz,vec2(23233.435,21234.534))*654523.12)*53431.23;
+    transformed.z+=sin(time*2.+uv.x*8.+offset)*0.1*uv.x;
+    `,uniforms:uniforms,customVertHeader:"uniform float time;"});
     flagMat.map = texture;
-    const flagGeom = new PlaneGeometry(1,1,50,50);
+    flagMat.side=THREE.DoubleSide;
+    const ratio = texture.image.width/texture.image.height;
+    const flagGeom = new PlaneGeometry(1*ratio,1,10*ratio,1);
     const flag = new THREE.Mesh(flagGeom,flagMat);
     flag.name=nationName;
-    flag.position.set(index*2,0,0);
+    flag.position.set((index%5)*3,0,(index/5)*-1);
     scene.add(flag);
     flags.push(flag);
   }
@@ -38,7 +48,8 @@ function makeFlag(nationName,flagURL,index,scene,flags){
   
 
 }
-function flagsFromApi(flags,scene){
+
+/*function flagsFromApi(flags,scene){ //NOPE, NationStates flag CORS doesn't allow them being loaded from browsers, using fetchNationStates.py to generate the data statically and load it
   $.ajax({
     type:"GET",
     url:"https://www.nationstates.net/cgi-bin/api.cgi?region=the_lands_of_the_great_oh",
@@ -49,7 +60,7 @@ function flagsFromApi(flags,scene){
         nations.forEach((nationName,index)=>{
           $.ajax({
             type:"GET",
-            url:"https://www.nationstates.net/cgi-bin/api.cgi?nation="+nationName,
+            url:"https://www.nationstates.net/cgi-bin/api.cgi?region="+nationName,
             dataType:"xml",
             success:function(xml){
               $(xml).find("FLAG").each(function(){
@@ -62,16 +73,17 @@ function flagsFromApi(flags,scene){
       });
     }
   });
-}
+}*/
 
 function flagsFromData(flags,scene,data){
-  for (const [index, [nationName, flagURL]] of Object.entries(Object.entries(data))){
+  for (const [index, [nationName, nationData]] of Object.entries(Object.entries(data))){
+    const flagURL = "/webgl/assets/data/flags/flags/"+nationData["flag"];
     makeFlag(nationName,flagURL,index,scene,flags);
 
   } 
 }
 function flagsFromJson(flags,scene,jsonPath){
-  $.getJSON("/webgl/assets/data/flags.json",function(data){
+  $.getJSON("/webgl/assets/data/flags/flags.json",function(data){
     console.log(data);
     flagsFromData(flags,scene,data);
   });
@@ -83,11 +95,9 @@ function main() {
   const renderer = new THREE.WebGLRenderer({canvas});
   renderer.autoClearColor=false;
   const camera = new THREE.PerspectiveCamera( 20, window.innerWidth / window.innerHeight, 1, 10000 );
+
   const scene = new THREE.Scene();
   
-  const uniforms = {
-    time: { value: 0 }
-  };
 
   const rgbeloader = new RGBELoader().setPath("/webgl/assets/textures/Flags/");
   rgbeloader.load("skybox.hdr",(hdr)=>{
@@ -97,8 +107,9 @@ function main() {
   });
 
   
-  camera.position.set(0,0,5);
+  camera.position.set(0,0,10);
   const controls = new OrbitControls(camera,renderer.domElement);
+  controls.target.set(6,0,-2);
   controls.update();
 
   const flagsMeshes = [];

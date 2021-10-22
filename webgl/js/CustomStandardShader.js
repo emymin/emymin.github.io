@@ -1,6 +1,6 @@
-import { MeshStandardMaterial, UniformsUtils } from "../../libs/three/build/three.module.js";
+import { MeshStandardMaterial } from "../../libs/three/build/three.module.js";
 
-export function GetCustomStandard({name,customMain,customFunctions,uniforms,customHeader}={}){
+export function GetCustomStandard({name,customMain,customFunctions,uniforms,customHeader,customVert,customVertHeader}={}){
 	const customMaterial = new MeshStandardMaterial();
 	customMaterial.name=name;
 	customMaterial.defines.USE_UV="";
@@ -12,6 +12,9 @@ export function GetCustomStandard({name,customMain,customFunctions,uniforms,cust
 		}
 		if(customHeader){
 			shader.fragmentShader = customHeader+"\n"+shader.fragmentShader;
+		}
+		if(customVertHeader){
+			shader.vertexShader = customVertHeader+"\n"+shader.vertexShader;
 		}
 		if(customFunctions){
 			shader.fragmentShader = shader.fragmentShader.replace(
@@ -34,6 +37,9 @@ export function GetCustomStandard({name,customMain,customFunctions,uniforms,cust
 				#include <alphatest_fragment>
 				`
 			);
+		}
+		if(customVert){
+			shader.vertexShader = shader.vertexShader.replace("#include <displacementmap_vertex>","#include <displacementmap_vertex>\n"+customVert);
 		}
 		
 	};
