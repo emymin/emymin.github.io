@@ -78,5 +78,13 @@
     "friidomland": {
         "motto": "If I'm going down, I'm taking you with me",
         "flag": "friidomland.png"
+    },
+    "aftokrator": {
+        "motto": "Nobis pacem mundi augeat",
+        "flag": "aftokrator.png"
+    },
+    "insufferable_people": {
+        "motto": "You Can't Stop Progress",
+        "flag": "insufferable_people.png"
     }
 }
