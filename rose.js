@@ -1,6 +1,6 @@
 
 const c = document.getElementById("roseCanvas");
-const p = document.getElementById("formula");
+//const p = document.getElementById("formula");
 const ctx = c.getContext("2d");
 ctx.imageSmoothingEnabled = true;
 
@@ -56,9 +56,9 @@ function draw(time){
     ctx.stroke();
 
 
-    formula = "\\[\\theta = "+currentTheta.toFixed(1)+"\\] \\[r = R * cos(\\frac{"+n+"}{"+d+"} * \\theta) = "+(currentR/100).toFixed(1)+"\\]";
-    p.innerHTML = formula;
-    MathJax.typeset();
+    //formula = "\\[\\theta = "+currentTheta.toFixed(1)+"\\] \\[r = R * cos(\\frac{"+n+"}{"+d+"} * \\theta) = "+(currentR/100).toFixed(1)+"\\]";
+    //p.innerHTML = formula;
+    //MathJax.typeset();
 
     setpos(newPos.x,newPos.y);
     currentTheta+=speed;
