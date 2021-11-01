@@ -13,8 +13,8 @@
     --title-color: #000000;
     --border-color: #000000;
     --link-color: #000000;
-    --text-color: #5A5A60;
-    --card-color: #FFDEDA;
+    --text-color: #000000;
+    --card-color: #ebd9c0;
     --big-font: "Quicksand";
     --small-font: "Open Sans"
 }
@@ -40,6 +40,11 @@ h1 {
     font-family: var(--big-font);
     text-align: center;
 }
+h2 { 
+    color:var(--title-color);
+    font-family: var(--big-font);
+    text-align: center;
+}
 
 p {
     color:var(--text-color);
@@ -56,8 +61,6 @@ a {
 
 .card{
     background-color: var(--card-color);
-    border-style: solid;
-    border-color: var(--border-color);
 }
 
 .homepage-bar {
@@ -128,6 +131,11 @@ a {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+.center-horizontal {
+    width: 50%;
+    margin: 0 auto;
+  }
+
 .footer{
     font-size: smaller;
 }

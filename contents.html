@@ -14,13 +14,24 @@
 
 <body>
     <div class="card contentbox">
-        <div style="margin:40px">
+        <div style="margin:40px;">
             <h1>CONTENTS</h1>
+            <div class="center-horizontal" style="width: 200px;"><img src="resources/svg/dividers/4.svg"></div>
             <br>
-            <ul style="list-style-type:square;">
-                <li><a href="webgl/"">WebGL stuff</a></li>
-                <li><a href="vrchat/"">My VRChat content</a></li>
-            </ul>
+            <div style="list-style-type:square;text-align: center;">
+                <h2><a href="webgl/"">WebGL stuff</a></h2>
+                <p>Random experiments of bringing graphics to the browser</p>
+                <h2><a href="vrchat/"">My VRChat content</a></h2>
+                <p>Various worlds/assets I've created for the virtual reality world of VRChat</p>
+            </div>
+            
+            <br><br>
+            <div class="center-horizontal">
+                <canvas id="roseCanvas" width="300" height="300" style="display: block;margin:0 auto 0 auto; ">
+            </div>
+            <script src="/rose.js"></script>
+            
+
         </div>
     </div>
 </body>
