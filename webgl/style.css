@@ -29,17 +29,20 @@ html, body {
 
  .buttonlist{
     list-style: none;
-    margin: 40px;
+}
+
+.buttonlist li{
+   display:inline-block;
+   transform: translate(-50%, -50%);
  }
- .buttonlist li{
-     display:inline;
-     margin:10px;
- }
+
  .buttonlist li input{
      width:40px;
      filter:invert(1);
-     vertical-align: middle;
+     margin:10px;
  }
+
+
 
  .center {
     position: fixed;

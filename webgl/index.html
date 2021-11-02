@@ -15,16 +15,14 @@
 <script src="/navbar.js" type="module"></script>
 
 <body>
-    <div style="text-align: center;">
-        <h1>WebGL stuff</h1> 
-    </div>
+
     <div class="card contentbox invisible">
         <iframe id="container" src="moon.html" title="Page" scrolling="no" class="container"></iframe>
     </div>
     <div class="center-horizontal">
         <ul class="buttonlist">
             <li><input type="image" src="/resources/svg/arrow-left.svg" onclick="previous()"></li>
-            <li><a id="pagelink" href="moon.html">moon.html</a></li>
+            
             <li><input type="image" src="/resources/svg/arrow-right.svg" onclick="next()"></li>
         </ul>
     </div>
@@ -34,7 +32,7 @@
         sketches.reverse();
         let index=0;
         const container = document.getElementById("container");
-        const pagelink = document.getElementById("pagelink");
+        //const pagelink = document.getElementById("pagelink");
 
         function refreshContainer(){
 
@@ -42,8 +40,8 @@
             const page = "sketch.html?sketch="+sketchName;
 
             container.src=page;
-            pagelink.href=page;
-            pagelink.innerHTML=sketchName;
+            //pagelink.href=page;
+            //pagelink.innerHTML=sketchName;
         }
         
         refreshContainer();
