@@ -65,7 +65,7 @@ a {
 
 .homepage-bar {
     width:25%;
-    min-width:450px;
+    min-width:200px;
     display:flex;
     align-items: center;
     justify-content: center;
@@ -132,8 +132,9 @@ a {
     transform: translate(-50%, -50%);
 }
 .center-horizontal {
-    width: 50%;
-    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
   }
 
 .footer{
