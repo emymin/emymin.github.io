@@ -59,13 +59,14 @@ a {
     text-decoration: none;
 }
 
+
 .card{
     background-color: var(--card-color);
 }
 
 .homepage-bar {
     width:25%;
-    min-width:200px;
+    min-width:400px;
     display:flex;
     align-items: center;
     justify-content: center;
