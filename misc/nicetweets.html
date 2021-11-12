@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Nice Tweets">
+    <meta property="og:image" content="https://emymin.github.io/resources/pictures/lily.png">
+    <meta property="og:image:alt" content="a">
+    <meta property="og:description" content="A list of nice tweets, because twitter's lists are broken">
+    <title>Nice Tweets</title>
+</head>
+<link rel="stylesheet" type="text/css" href="/style.css">
+<!--<script src="/navbar.js" type="module"></script>
+-->
+<style>
+:root {
+    --bg-color:#000000;
+    --title-color: #ffffff;
+    --text-color:#ffffff;
+    --card-color: #000000;
+    --border-color:#000000;
+    --link-color: #ffffff;
+}
+.background{
+    background:linear-gradient(45deg, rgb(0, 0, 48), rgb(0, 174, 255));
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+}
+.card{
+    background-color:#00000000;
+    left: 50%; 
+    margin-top: 5rem;
+    transform: translateX(-50%);
+    position:absolute;
+}
+.content{
+    position: absolute;
+    left: 50%;
+    margin-top: 5rem;
+    transform: translateX(-50%);
+    width: 80%;
+}
+.navbar li img{
+    filter:invert(1);
+ }
+
+#navigation{
+    position: absolute;
+    left: 50%; 
+    top:0%;
+    transform: translateX(-50%);
+    width: 100%;
+    z-index: 1;
+}
+
+</style>
+
+<script sync src="https://platform.twitter.com/widgets.js"></script>
+
+<body>
+    <div class="background"></div>
+    <div class="center"><div id="loader" class="loader"></div></div>
+
+    <div class="content">
+        <div id="tweet-holder">
+        </div>
+    </div>
+
+</body>
+
+<script>
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+const ids = [
+"1456714798918512640",
+"1433766931685859331",
+"1416168785216692226",
+"1388888415068884992",
+"1364689675437416448",
+"1294644039220957184",
+"1270408048335630338",
+"1260015787521105920",
+"1252691277948301315",
+"1248074398323572738",
+"1228809978758254594",
+"1224676089982857219",
+"1225766624692776960",
+"1212336500505022466",
+"1208494142411722752",
+"1211756520251281411",
+"1168858594286215168",
+"1171124389892546561",
+"1185876184208420864",
+];
+
+const holder = document.getElementById("tweet-holder");
+const loader = document.getElementById("loader");
+
+const promises = [];
+
+function appendTweet(id){
+    
+    const promise = twttr.widgets.createTweet(id,holder,{
+        theme:"dark",
+        width:"550",
+        align:"center",
+        dnt:true
+    });
+    promises.push(promise);
+}
+
+for(const id of ids){
+    appendTweet(id);
+}
+
+Promise.all(promises).then(()=>{
+    loader.parentElement.removeChild(loader);
+})
+
+</script>
+
+</html>
