@@ -57,7 +57,12 @@ a {
     color:var(--link-color);
     font-family: var(--small-font);
     text-decoration: none;
+    transition: 0.5s;
 }
+a:hover{
+    opacity: 0.5;
+}
+
 
 
 .card{
@@ -176,6 +181,13 @@ a {
     height: 100%;
     width: 100%;
     object-fit: contain
+}
+
+.menuitem::before{
+    content:"✤ ";
+}
+.menuitem::after{
+    content:" ✤";
 }
 
 
