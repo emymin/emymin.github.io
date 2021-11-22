@@ -53,11 +53,14 @@ p {
     margin-right: 40px;
 }
 
+p a{
+    font-weight:bold;
+}
+
 a {
     color:var(--link-color);
     font-family: var(--small-font);
     text-decoration: none;
-    font-weight: bold;
     transition: 0.5s;
 }
 a:hover{
@@ -98,7 +101,6 @@ button{
     transition: all 0.4s ease;
     color: var(--text-color);
     font-size: 25px;
-    font-weight: normal;
 }
 
 .navbar {
@@ -117,7 +119,6 @@ button{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-weight: normal;
 }
 
 .contentbox{
