@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="He Run">
+    <meta property="og:image" content="https://emymin.github.io/resources/pictures/lily.png">
+    <meta property="og:image:alt" content="a">
+    <meta property="og:description" content="A simple homebrew PS1 game">
+    <title>He Run</title>
+</head>
+<link rel="stylesheet" type="text/css" href="/style.css">
+<style>
+.embed{
+    text-align: center;
+}
+</style>
+<script src="/navbar.js" type="module"></script>
+
+<body>
+    <div class="card contentbox">
+        <div class="center-horizontal">
+            <h1>He Run</h1>
+            <br><br>
+            <p>I was interested in trying to develop a tiny game for some old console, so I ended up choosing the PS1 and made this game!
+                 I'm happy with the result, even though it doesn't have particularly amazing gameplay!<br>
+                <br><br>
+                It can be played online using <a href="https://github.com/Unzor/wasmpsx">WASMpsx</a> in this page, just click the "Play" button!<br>
+                Alternatively, the ISO can be downloaded <a href="HERUN.ISO">here</a> to play with your own emulator (or on real hardware?)
+                <br><br>
+            </p>
+            <br>
+            <div style="text-align: center;display:flex;flex-wrap: wrap;justify-content: center;">
+                <div>
+                    <button onclick="loadGame()">Play</button>
+                    <br><br>
+                    <wasmpsx-player id="emulator"></wasmpsx-player>
+                </div>
+                <table style="margin:10px">
+                    <tr><td>Start</td><td>V</td></tr>
+                    <tr><td>Select</td><td>C</td></tr>
+                    <tr><td>Arrow buttons</td><td>Arrow keys</td>
+                    <tr><td>L1</td><td>W</td></tr>
+                    <tr><td>L2</td><td>E</td></tr>
+                    <tr><td>R1</td><td>R</td></tr>
+                    <tr><td>R2</td><td>T</td></tr>
+                    <tr><td>Triangle</td><td>D</td></tr>
+                    <tr><td>Circle</td><td>X</td></tr>
+                    <tr><td>Cross</td><td>Z</td></tr>
+                    <tr><td>Square</td><td>S</td></tr>
+                </table>
+
+            </div>
+            
+        </div>
+    </div>
+</body>
+
+<script src="wasmpsx.min.js"></script>
+<script>
+    function loadGame(){
+        document.getElementById('emulator').loadUrl('HERUN.iso');
+    }
+</script>
+</html>

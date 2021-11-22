@@ -57,12 +57,25 @@ a {
     color:var(--link-color);
     font-family: var(--small-font);
     text-decoration: none;
+    font-weight: bold;
     transition: 0.5s;
 }
 a:hover{
     opacity: 0.5;
 }
 
+table,td,th{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    padding:10px;
+}
+
+button{
+    background-color: var(--bg-color);
+}
 
 
 .card{
@@ -76,6 +89,7 @@ a:hover{
     align-items: center;
     justify-content: center;
     text-align: center;
+    
 }
 .homepage-bar a {
     width: 40px;
@@ -84,6 +98,7 @@ a:hover{
     transition: all 0.4s ease;
     color: var(--text-color);
     font-size: 25px;
+    font-weight: normal;
 }
 
 .navbar {
@@ -102,6 +117,7 @@ a:hover{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-weight: normal;
 }
 
 .contentbox{
@@ -183,10 +199,11 @@ a:hover{
     object-fit: contain
 }
 
-.menuitem::before{
+
+.menuitem:hover:before{
     content:"✤ ";
 }
-.menuitem::after{
+.menuitem:hover:after{
     content:" ✤";
 }
 
