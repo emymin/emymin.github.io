@@ -163,28 +163,6 @@ button{
     font-size: smaller;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    grid-gap: 1px;
-    background-color: --bg-color;
-    padding: 2rem;
-}
-
-.grid-item {
-    background-color: var(--bg-color);
-    text-align: center;
-    padding:0.5rem;
-}
-
-.grid-tall {
-    grid-row: span 2 / auto;
-}
-
-.grid-wide {
-    grid-column: span 2 / auto;
-}
-
 
 
 .fill {
