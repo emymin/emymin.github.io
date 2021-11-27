@@ -1,9 +1,9 @@
 import * as THREE from '/libs/three/build/three.module.js';
 
 
-export function shadertoy(fragmentShader) {
+export function shadertoy(fragmentShader,id="canvas") {
 
-    const canvas = document.querySelector('#canvas');
+    const canvas = document.querySelector('#'+id);
     const renderer = new THREE.WebGLRenderer({canvas});
     renderer.autoClearColor=false;
 
