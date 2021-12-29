@@ -27,12 +27,12 @@ html, body {
 }
 
 ::-moz-selection {
-    color: var(--title-color);
-    background: var(--bg-color);
+    color: var(--bg-color);
+    background: var(--title-color);
   }
 ::selection {
-    color: var(--title-color);
-    background: var(--bg-color);
+    color: var(--bg-color);
+    background: var(--title-color);
 }
 
 h1 { 
@@ -214,3 +214,24 @@ button{
       transform: rotate(360deg);
     }
   }
+
+.links-container{
+
+    text-align: center;
+    margin-top: 100px; 
+}
+
+
+.linkcard {
+    display:inline-block;
+    text-align: center;
+    margin:10px;
+}
+.linkcard p{
+    text-align: center;
+    margin-top: 10px;
+}
+.linkcard a img{
+    width: 100px;
+    height:100px;
+}
