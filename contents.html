@@ -3,7 +3,7 @@ layout: page
 title: Contents
 description: Contents of the website
 ---
-{% assign contents_list=site.pages | where:"is_category","true" %}
+{% assign contents_list=site.pages | where:"is_category","true" | sort: "category_weight" %}
 {%include page_list.html list=contents_list show_description=true %}
 <div id="roseContainer" class="center-horizontal"></div>
 <script src="/libs/svg.js"></script>
