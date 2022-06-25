@@ -1,0 +1,7 @@
+---
+layout: fullscreen/webgl_fullscreen
+---
+{% capture fragment %}
+{{content}}
+{% endcapture %}
+{% include shadertoy.html shader=fragment canvas_id="canvas" %}

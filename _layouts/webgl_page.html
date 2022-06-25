@@ -1,0 +1,42 @@
+---
+layout: page
+---
+<style>
+    html {
+        overflow-y: scroll;
+    }
+</style>
+<div style="position:relative;text-align:center">
+    <canvas id="canvas" style="width:100%;height:30%;"></canvas>
+    {% if page.require_interaction == true %}
+    <h1 id="interactiontext" style="
+        z-index: 1;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);">Click to Start</h1>
+    {%endif%}
+</div>
+<div style="width:200px;text-align:center;position:relative;margin-bottom:40px;" class="center-horizontal">
+    <h2><a href="/webgl">WebGL</a></h2>
+    {% for sketch in site.webgl reversed %}
+
+    <a href="{{sketch.url}}" {% if sketch.title==page.title %} style="color:var(--title-color);" {%endif%}>
+        {% if sketch.title == page.title %}
+        >
+        {%endif%}
+        {{sketch.title}}
+    </a>
+    <br>
+    {% endfor %}
+</div>
+<script>
+    const canvas = document.getElementById("canvas");
+    function resizeCanvas() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    }
+    window.addEventListener('resize', resizeCanvas, false);
+    resizeCanvas();
+</script>
+{{content}}

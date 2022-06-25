@@ -1,0 +1,32 @@
+---
+layout: page
+title: Links
+description: Links to my various stuff
+---
+<style>
+.links-container{
+text-align: center;
+margin-top: 100px; 
+}
+.linkcard {
+display:inline-block;
+text-align: center;
+margin:20px;
+}
+.linkcard p{
+text-align: center;
+margin-top: 10px;
+}
+.linkcard a img{
+width: 100px;
+height:100px;
+}
+</style>
+<div class="links-container">
+    {% for category in site.data.links %}
+        <h1>{{category[0]}}</h1>
+        {% for link in category[1] %}
+            <div class="linkcard"><a href={{link[1].url}}><img src={{link[1].icon}}></a><p>{{link[0]}}<br>{{link[1].subtitle}}</p></div>
+        {% endfor %}
+    {% endfor %}
+</div>

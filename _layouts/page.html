@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{% if page.hide_navigation!=true %}
+      {% include navigation.html %}
+{% endif %}
+<div style="margin:40px;text-align: center;">
+    <h1 style="margin:40px;">{{page.title}}</h1>
+    <img src="/assets/svg/dividers/4.svg" style="width: 200px;" class="divider">
+</div>
+<div style="margin-left:100px;margin-right:100px;">
+    {{content}}
+</div>

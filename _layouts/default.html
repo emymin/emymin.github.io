@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include headers.html %}
+    <link rel="stylesheet" type="text/css" href="{{page.style}}">
+    {% if page.override_css %}
+    <link rel="stylesheet" type="text/css" href="{{page.override_css}}">
+    {% endif %}
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>

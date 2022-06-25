@@ -1,0 +1,8 @@
+---
+layout: page
+title: Projects
+description: Pages for some of my projects
+is_category: true
+---
+{% assign projects_list = site.projects | reversed %}
+{% include page_list.html list=projects_list show_description=true %}

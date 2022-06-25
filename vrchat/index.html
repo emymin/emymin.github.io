@@ -1,0 +1,35 @@
+---
+layout: page
+title: VRChat
+description: My VRChat stuff
+is_category: true
+---
+<style>
+    .container {
+        margin:20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:center;
+    }
+    
+    .item {
+        flex: 1;
+        max-width: 400px;
+        margin:20px;
+    }
+    .item img{
+        max-width:400px;
+        height:100%;
+        width:auto;
+    }
+    .container a:hover{
+        opacity: 1;
+    }
+
+</style>
+<div class="container">
+    {% for item in site.data.vrchat_projects %}
+        <a data-tilt class="item" href="{{item.url}}"><img src="{{item.thumbnail}}"></a>
+    {%endfor%}
+</div>
+<script type="text/javascript" src="/libs/vanilla-tilt.min.js"></script>

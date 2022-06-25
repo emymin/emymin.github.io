@@ -1,0 +1,17 @@
+:root {
+    --bg-color: #1a2026;
+    --title-color: #ffffff;
+    --text-color: #e2e2e2;
+    --card-color: #1fd1ed;
+    --border-color: #000000;
+    --link-color: #ff0000;
+    --svg-icon-color: #ffffff
+}
+
+.navbar li img {
+    filter: invert(1);
+}
+
+.divider {
+    filter: invert(1);
+}

@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/assets/fonts/open-sans-v29-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('/assets/fonts/open-sans-v29-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/assets/fonts/open-sans-v29-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('/assets/fonts/open-sans-v29-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('/assets/fonts/open-sans-v29-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('/assets/fonts/open-sans-v29-latin-regular.svg#OpenSans') format('svg');
+    /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/assets/fonts/quicksand-v29-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: local(''),
+        url('/assets/fonts/quicksand-v29-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('/assets/fonts/quicksand-v29-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('/assets/fonts/quicksand-v29-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('/assets/fonts/quicksand-v29-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('/assets/fonts/quicksand-v29-latin-regular.svg#Quicksand') format('svg');
+    /* Legacy iOS */
+}
+
+:root {
+    --bg-color: #ece3d6;
+    --title-color: #000000;
+    --border-color: #000000;
+    --link-color: #000000;
+    --text-color: #000000;
+    --card-color: #ebd9c0;
+    --main-font: "Open Sans";
+}
+
+body {
+    background-color: var(--bg-color);
+    font-family: var(--main-font);
+    font-weight: normal;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+h1 {
+    color: var(--title-color);
+}
+
+h2 {
+    color: var(--title-color);
+}
+
+p {
+    color: var(--text-color);
+}
+
+p a {
+    font-weight: bold;
+}
+
+table,
+td,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.center-horizontal {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+::-moz-selection {
+    color: var(--bg-color);
+    background: var(--title-color);
+}
+
+::selection {
+    color: var(--bg-color);
+    background: var(--title-color);
+}
