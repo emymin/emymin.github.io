@@ -30,6 +30,14 @@ layout: page
     <br>
     {% endfor %}
 </div>
+<script async src="/libs/esmodule/es-module-shims.js"></script>
+<script type="importmap">
+    {
+    "imports": {
+     "three": "/libs/three/build/three.module.js"
+    }
+   }
+</script>
 <script>
     const canvas = document.getElementById("canvas");
     function resizeCanvas() {

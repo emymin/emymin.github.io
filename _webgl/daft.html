@@ -9,7 +9,7 @@ require_interaction: true
 <script type="module">
     import { ACESFilmicToneMapping, AmbientLight, BoxBufferGeometry, BoxGeometry, Color, DirectionalLight, DoubleSide, EquirectangularReflectionMapping,
        HemisphereLight, Light, LinearToneMapping, Material, Mesh, MeshBasicMaterial, MeshStandardMaterial, NormalBlending, Plane, PlaneGeometry, PointLight,
-       RectAreaLight, RepeatWrapping, Scene, ShaderMaterial, SphereGeometry, sRGBEncoding, TextureLoader, Vector3, VideoTexture } from '/libs/three/build/three.module.js';
+       RectAreaLight, RepeatWrapping, Scene, ShaderMaterial, SphereGeometry, sRGBEncoding, TextureLoader, Vector3, VideoTexture, MathUtils } from 'three';
 
     import { FBXLoader } from '/libs/three/examples/jsm/loaders/FBXLoader.js';
     import { EffectComposer } from '/libs/three/examples/jsm/postprocessing/EffectComposer.js';
@@ -20,8 +20,7 @@ require_interaction: true
     import { OrbitControls } from '/libs/three/examples/jsm/controls/OrbitControls.js';
     import * as THREE from '/libs/three/build/three.module.js';
     import { RGBELoader } from '/libs/three/examples/jsm/loaders/RGBELoader.js';
-    import { degToRad,clamp } from '/libs/three/src/math/MathUtils.js';
-    import { GUI } from '/libs/three/examples/jsm/libs/dat.gui.module.js'
+    import { GUI } from '/libs/three/examples/jsm/libs/lil-gui.module.min.js'
     
     import { GetCustomStandard } from '/assets/js/CustomStandardShader.js';
 
@@ -457,7 +456,7 @@ require_interaction: true
       planeMat.normalMap = setTextureRepeat(texloader.load("Floor/normal.jpg"),repeat.x,repeat.y);
       planeMat.roughnessMap = setTextureRepeat(texloader.load("Floor/roughness.jpg"),repeat.x,repeat.y);
       const plane = new THREE.Mesh(planeGeom,planeMat);
-      plane.rotation.set(degToRad(-90),0,0);
+      plane.rotation.set(MathUtils.degToRad(-90),0,0);
       plane.position.set(0,0,0);
       return plane;
     }
@@ -546,7 +545,7 @@ require_interaction: true
         scene.add(model);
         panelsMaterial=model.materials.get("panels");
         panelsMaterial.defines.AUDIO="";
-        model.rotation.set(degToRad(-19),0,0);
+        model.rotation.set(MathUtils.degToRad(-19),0,0);
         model.position.set(0.5,0.42,0);
       });
 
@@ -554,7 +553,7 @@ require_interaction: true
       LoadThomasModel().then(model=>{
         console.log(model);
         scene.add(model);
-        model.rotation.set(degToRad(-16),0,0);
+        model.rotation.set(MathUtils.degToRad(-16),0,0);
         model.position.set(-0.5,0.05,0);
       })
 
