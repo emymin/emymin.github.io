@@ -6,6 +6,12 @@
     {% if page.override_css %}
     <link rel="stylesheet" type="text/css" href="{{page.override_css}}">
     {% endif %}
+
+    {% if page.head_scripts %}
+      {% for path in page.head_scripts %}
+        <script type="text/javascript" src="{{path}}"></script>
+      {% endfor %}
+    {% endif %}
   </head>
   <body>
     {{ content }}
