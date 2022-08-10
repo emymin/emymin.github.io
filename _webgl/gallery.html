@@ -1,0 +1,27 @@
+---
+layout: aframe_page
+title: Gallery
+description: Dall-E 2 AI art gallery
+date: 2022-08-06 00:00:00 -0500
+draft: true
+---
+<a-scene embedded renderer="colorManagement: true;">
+    <a-assets>
+        <a-asset-item id="room" src="/assets/models/room.glb"></a-asset-item>
+        <img id="lightmap_floor" src="/assets/textures/Gallery_Lightmaps/FloorLightMap.png">
+        <img id="lightmap_hallway" src="/assets/textures/Gallery_Lightmaps/HallwayLightmap.png">
+        <img id="lightmap_pillars" src="/assets/textures/Gallery_Lightmaps/PillarsLightMap.png">
+        <img id="lightmap_walls" src="/assets/textures/Gallery_Lightmaps/WallsLightmap.png">
+    </a-assets>
+
+    <a-entity gltf-model="#room" 
+    lightmap__floor="texture: #lightmap_floor; key: Floor"
+    lightmap__hallway="texture: #lightmap_hallway; key: Hallway"
+    lightmap__pillars="texture: #lightmap_pillars; key: Pillars"
+    lightmap__walls="texture: #lightmap_walls; key: Walls"></a-entity>
+
+    <a-entity id="leftHand" hand-tracking-controls="hand: left;"></a-entity>
+    <a-entity id="rightHand" hand-tracking-controls="hand: right;"></a-entity>
+
+    <a-sky color="#f0f8ff"></a-sky>
+</a-scene>
