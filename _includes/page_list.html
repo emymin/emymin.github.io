@@ -9,11 +9,13 @@
         }
     </style>
     {% for item in include.list %}
+    {% if item.draft!=true%}
     <h2>
         <a class="menuitem" href="{{item.url}}">{{item.title}}</a>
     </h2>
     {% if include.show_description==true %}
     <p>{{item.description}}</p>
+    {%endif%}
     {%endif%}
     {% endfor %}
 </div>

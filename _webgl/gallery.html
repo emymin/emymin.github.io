@@ -7,25 +7,40 @@ draft: true
 ---
 <script src="/libs/aframe/aframe-lightmap.js"></script>
 <script src="/libs/aframe/aframe-teleport-controls.min.js"></script>
-<script src="/assets/js/aframe-components/room-materials.js"></script>
+<script src="/assets/js/aframe-components/paintings.js"></script>
+
 <a-scene embedded renderer="colorManagement: true;">
     <a-assets>
         <a-asset-item id="room" src="/assets/models/room.glb"></a-asset-item>
+        <a-asset-item id="paintings" src="/assets/models/paintings.glb"></a-asset-item>
+
         <img id="lightmap_floor" src="/assets/textures/Gallery/FloorLightMap.png">
         <img id="lightmap_hallway" src="/assets/textures/Gallery/HallwayLightmap.png">
         <img id="lightmap_pillars" src="/assets/textures/Gallery/PillarsLightMap.png">
         <img id="lightmap_walls" src="/assets/textures/Gallery/WallsLightmap.png">
+        <img id="lightmap_paintings" src="/assets/textures/Gallery/PaintingsLightMap.png">
 
-        <img id="floor_albedo" src="/assets/textures/Gallery/floor/albedo.jpg">
-        <img id="floor_roughness" src="/assets/textures/Gallery/floor/roughness.jpg">
+        {% for i in (1..36) %}
+            <img id="painting{{i}}" src="/assets/images/dalle_gallery/{{i}}.jpg"> 
+        {% endfor %}
     </a-assets>
 
-    <a-entity gltf-model="#room" 
-    lightmap__floor="texture: #lightmap_floor; key: Floor"
-    lightmap__hallway="texture: #lightmap_hallway; key: Hallway"
-    lightmap__pillars="texture: #lightmap_pillars; key: Pillars"
-    lightmap__walls="texture: #lightmap_walls; key: Walls"
-    room-materials="floor_albedo:#floor_albedo"></a-entity>
+    {% for i in (0..2) %}
+        <a-entity gltf-model="#room" 
+        lightmap__floor="texture: #lightmap_floor; key: Floor"
+        lightmap__hallway="texture: #lightmap_hallway; key: Hallway"
+        lightmap__pillars="texture: #lightmap_pillars; key: Pillars"
+        lightmap__walls="texture: #lightmap_walls; key: Walls"
+        room-materials="floor_albedo:#floor_albedo" position="0 0 {{i | times: 14}}"></a-entity>
+    {% endfor %}
+
+    {% for i in (0..2) %}
+    {% assign offset = i | times: 12 %}
+    <a-entity gltf-model="#paintings"
+    paintings="{% for p in (1..12) %}{% assign index = p | plus: offset %}
+    painting{{p}}:#painting{{index}};{% endfor %}lightmap:#lightmap_paintings;"
+    position = "0 0 {{i | times: 14}}"></a-entity>
+    {%endfor%}
 
     <a-entity id="cameraRig">
         <a-entity id="head" camera="active: true" look-controls wasd-controls position="0 1.6 0"></a-entity>
