@@ -5,21 +5,33 @@ description: Dall-E 2 AI art gallery
 date: 2022-08-06 00:00:00 -0500
 draft: true
 ---
+<script src="/libs/aframe/aframe-lightmap.js"></script>
+<script src="/libs/aframe/aframe-teleport-controls.min.js"></script>
+<script src="/assets/js/aframe-components/room-materials.js"></script>
 <a-scene embedded renderer="colorManagement: true;">
     <a-assets>
         <a-asset-item id="room" src="/assets/models/room.glb"></a-asset-item>
-        <img id="lightmap_floor" src="/assets/textures/Gallery_Lightmaps/FloorLightMap.png">
-        <img id="lightmap_hallway" src="/assets/textures/Gallery_Lightmaps/HallwayLightmap.png">
-        <img id="lightmap_pillars" src="/assets/textures/Gallery_Lightmaps/PillarsLightMap.png">
-        <img id="lightmap_walls" src="/assets/textures/Gallery_Lightmaps/WallsLightmap.png">
+        <img id="lightmap_floor" src="/assets/textures/Gallery/FloorLightMap.png">
+        <img id="lightmap_hallway" src="/assets/textures/Gallery/HallwayLightmap.png">
+        <img id="lightmap_pillars" src="/assets/textures/Gallery/PillarsLightMap.png">
+        <img id="lightmap_walls" src="/assets/textures/Gallery/WallsLightmap.png">
+
+        <img id="floor_albedo" src="/assets/textures/Gallery/floor/albedo.jpg">
+        <img id="floor_roughness" src="/assets/textures/Gallery/floor/roughness.jpg">
     </a-assets>
 
     <a-entity gltf-model="#room" 
     lightmap__floor="texture: #lightmap_floor; key: Floor"
     lightmap__hallway="texture: #lightmap_hallway; key: Hallway"
     lightmap__pillars="texture: #lightmap_pillars; key: Pillars"
-    lightmap__walls="texture: #lightmap_walls; key: Walls"></a-entity>
+    lightmap__walls="texture: #lightmap_walls; key: Walls"
+    room-materials="floor_albedo:#floor_albedo"></a-entity>
 
+    <a-entity id="cameraRig">
+        <a-entity id="head" camera="active: true" look-controls wasd-controls position="0 1.6 0"></a-entity>
+        <a-entity oculus-touch-controls="hand: left" teleport-controls="button: trigger; collisionEntities: .collidable; cameraRig: #cameraRig; teleportOrigin: #head;"></a-entity>
+        <a-entity oculus-touch-controls="hand: right" teleport-controls="button: trigger; collisionEntities: .collidable; cameraRig: #cameraRig; teleportOrigin: #head;"></a-entity>
+    </a-entity>
     <a-entity id="leftHand" hand-tracking-controls="hand: left;"></a-entity>
     <a-entity id="rightHand" hand-tracking-controls="hand: right;"></a-entity>
 
