@@ -5,6 +5,7 @@ description: Dall-E 2 AI art gallery
 date: 2022-08-06 00:00:00 -0500
 draft: true
 ---
+<script src="/libs/aframe/aframe-extras.min.js"></script>
 <script src="/libs/aframe/aframe-lightmap.js"></script>
 <script src="/libs/aframe/aframe-teleport-controls.min.js"></script>
 <script src="/assets/js/aframe-components/paintings.js"></script>
@@ -12,6 +13,7 @@ draft: true
     <a-assets>
         <a-asset-item id="room" src="/assets/models/room.glb"></a-asset-item>
         <a-asset-item id="paintings" src="/assets/models/paintings.glb"></a-asset-item>
+        <a-asset-item id="navmesh" src="/assets/models/gallery_navmesh.glb"></a-asset-item>
 
         <img id="lightmap_floor" src="/assets/textures/Gallery/FloorLightMap.png">
         <img id="lightmap_hallway" src="/assets/textures/Gallery/HallwayLightmap.png">
@@ -41,13 +43,18 @@ draft: true
     position = "0 0 {{i | times: 14}}"></a-entity>
     {%endfor%}
 
-    <a-entity id="cameraRig" rotation="0 180 0">
-        <a-entity id="head" camera="active: true" look-controls="pointerLockEnabled:true;" wasd-controls position="0 1.6 0"></a-entity>
+    <a-entity gltf-model="#navmesh" nav-mesh visible="false" class="collidable"></a-entity>
+
+    <a-entity id="cameraRig" rotation="0 180 0" movement-controls="constrainToNavMesh:true;controls:keyboard,touch">
+        <a-entity id="head" camera="active: true" look-controls="pointerLockEnabled:true;" position="0 1.6 0"></a-entity>
         <a-entity oculus-touch-controls="hand: left" teleport-controls="button: trigger; collisionEntities: .collidable; cameraRig: #cameraRig; teleportOrigin: #head;"></a-entity>
         <a-entity oculus-touch-controls="hand: right" teleport-controls="button: trigger; collisionEntities: .collidable; cameraRig: #cameraRig; teleportOrigin: #head;"></a-entity>
     </a-entity>
-    <a-entity id="leftHand" hand-tracking-controls="hand: left;"></a-entity>
-    <a-entity id="rightHand" hand-tracking-controls="hand: right;"></a-entity>
+
+    <!---    
+        <a-entity id="leftHand" hand-tracking-controls="hand: left;"></a-entity>
+        <a-entity id="rightHand" hand-tracking-controls="hand: right;"></a-entity>
+    --->
 
     <a-sky color="#f0f8ff"></a-sky>
 </a-scene>
