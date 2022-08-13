@@ -42,7 +42,7 @@ draft: true
     position = "0 0 {{i | times: 14}}"></a-entity>
     {%endfor%}
 
-    <a-entity id="cameraRig">
+    <a-entity id="cameraRig" rotation="0 180 0">
         <a-entity id="head" camera="active: true" look-controls wasd-controls position="0 1.6 0"></a-entity>
         <a-entity oculus-touch-controls="hand: left" teleport-controls="button: trigger; collisionEntities: .collidable; cameraRig: #cameraRig; teleportOrigin: #head;"></a-entity>
         <a-entity oculus-touch-controls="hand: right" teleport-controls="button: trigger; collisionEntities: .collidable; cameraRig: #cameraRig; teleportOrigin: #head;"></a-entity>
@@ -52,3 +52,50 @@ draft: true
 
     <a-sky color="#f0f8ff"></a-sky>
 </a-scene>
+<script type="application/json" id="descriptions">
+    {{ site.data.gallery_descriptions | jsonify }}
+</script>
+<script>
+    
+    const descriptions = JSON.parse(document.getElementById('descriptions').innerHTML);
+
+    const scene = document.querySelector("a-scene");
+    for(let room=0;room<3;room++){
+        for(let face=0;face<4;face++){
+            for(let i=0;i<3;i++){
+                let index = room*12+face*3+i;
+                let entity = document.createElement("a-entity");
+                entity.setAttribute("geometry",{
+                    primitive:"plane",
+                    height:"0.45",
+                    width:"1.1"
+                });
+                entity.setAttribute("material",{
+                    "color":"#404040"
+                });
+                entity.setAttribute("text",{
+                    value:descriptions[index],
+                    align:"center",
+                    color:"#ffffff",
+                    width:1
+                });
+                let x = -5.49;
+                let y = 2+i*-2;
+                let final_offset = 14*room;
+                let final_x,final_y;
+                switch(face){
+                    case 0:{final_x=x;final_y=y;break;}
+                    case 1:{final_x=-y;final_y=x;break;}
+                    case 2:{final_x=-x;final_y=-y;break;}
+                    case 3:{final_x=y;final_y=-x;break;}
+                }
+                final_y+=final_offset;
+                rotation = 90 + face*-90;
+                
+                entity.setAttribute("position",final_x.toString()+" 0.5 "+final_y.toString());
+                entity.setAttribute("rotation","0 " + rotation.toString()+ " 0");
+                scene.appendChild(entity);
+            }
+        }
+    }
+</script>
