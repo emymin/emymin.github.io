@@ -1,6 +1,6 @@
 ---
 layout: aframe_page
-title: Gallery
+title: Dall-E 2 Gallery
 description: Dall-E 2 AI art gallery
 date: 2022-08-06 00:00:00 -0500
 draft: true
@@ -8,7 +8,10 @@ draft: true
 <script src="/libs/aframe/aframe-extras.min.js"></script>
 <script src="/libs/aframe/aframe-lightmap.js"></script>
 <script src="/libs/aframe/aframe-teleport-controls.min.js"></script>
+
 <script src="/assets/js/aframe-components/paintings.js"></script>
+<script src="/assets/js/aframe-components/hide-hallway.js"></script>
+
 <a-scene embedded renderer="colorManagement: true;">
     <a-assets>
         <a-asset-item id="room" src="/assets/models/room.glb"></a-asset-item>
@@ -32,7 +35,11 @@ draft: true
         lightmap__hallway="texture: #lightmap_hallway; key: Hallway"
         lightmap__pillars="texture: #lightmap_pillars; key: Pillars"
         lightmap__walls="texture: #lightmap_walls; key: Walls"
-        room-materials="floor_albedo:#floor_albedo" position="0 0 {{i | times: 14}}"></a-entity>
+        room-materials="floor_albedo:#floor_albedo" position="0 0 {{i | times: 14}}"
+        {% if i==2 %}
+        hide-hallway
+        {%endif%}
+        ></a-entity>
     {% endfor %}
 
     {% for i in (0..2) %}
