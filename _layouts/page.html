@@ -1,13 +1,39 @@
----
-layout: default
----
-{% if page.hide_navigation!=true %}
-      {% include navigation.html %}
-{% endif %}
-<div style="margin:40px;text-align: center;">
-    <h1 style="margin:40px;">{{page.title}}</h1>
-    <img src="/assets/svg/dividers/4.svg" style="width: 200px;" class="divider">
-</div>
-<div style="margin-left:100px;margin-right:100px;">
-    {{content}}
-</div>
+<!DOCTYPE html>
+<html>
+
+<head>
+    {% include headers.html %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+
+<body>
+    <div class="top-bar">
+        <div class="left-content">
+            <a href="/"><img class="icon" src="/assets/svg/lily.svg"></img></a>
+            <a href="/blog">Blog</a>
+            <a href="/creations">Creations</a>
+            <a href="/vr">VR</a>
+            <a href="/images">Images</a>
+            <a href="/videos">Videos</a>
+        </div>
+        <div class="social-links">
+            <a href="https://github.com/emymin" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://twitter.com/emymin1" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://mastodon.social/@emymin" target="_blank"><i class="fab fa-mastodon"></i></a>
+            <a href="/links"><i class="fas fa-ellipsis"></i></i></a>
+        </div>
+    </div>
+
+    <div class="content">
+        {% if page.hide_title!=true %}
+            {% include title.html %}
+        {% endif %}
+        {{content}}
+    </div>
+
+    <div class="bottom-bar">
+    </div>
+</body>
+
+</html>

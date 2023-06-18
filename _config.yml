@@ -1,32 +1,9 @@
 timezone: Europe/Rome
 url: https://emymin.github.io
 
-collections:
-  webgl:
-    output: true
-  projects:
-    output: true
-
 defaults:
   -
     scope:
       path: ""
     values:
-      style: "/assets/css/style.css"
       thumbnail: "/assets/images/lily.png"
-  -
-    scope:
-      path: "webgl"
-    values:
-      override_css: "/assets/css/dark.css"
-  -
-    scope:
-      path: ""
-      type: "webgl"
-    values:
-      override_css: "/assets/css/dark.css"
-  -
-    scope:
-      path: "vrchat"
-    values:
-      override_css: "/assets/css/vrchat.css"
