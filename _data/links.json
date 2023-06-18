@@ -2,41 +2,52 @@
     "Social":{
         "Twitter":{
             "url":"https://twitter.com/emymin1",
-            "icon":"/assets/svg/twitter.svg"
+            "icon":"/assets/svg/sites/twitter.svg"
         },
         "Mastodon":{
             "url":"https://mastodon.social/@emymin",
-            "icon":"/assets/svg/mastodon.svg"
-        },
-        "VRChat":{
-            "url":"https://vrchat.com/home/user/usr_a9bf892d-b447-47ce-a572-20c83dbfffd8",
-            "icon":"/assets/svg/vrchat.svg"
+            "icon":"/assets/svg/sites/mastodon.svg"
         },
         "Youtube":{
             "url":"https://www.youtube.com/channel/UCXin7mNmukBobwP5KlIG6Ag",
-            "icon":"/assets/svg/youtube.svg"
+            "icon":"/assets/svg/sites/youtube.svg"
+        },
+        "Peertube":{
+            "url":"https://peertube.tv/a/emymin/video-channels",
+            "icon":"/assets/svg/sites/peertube.svg"
+        },
+        "Pixiv":{
+            "url":"https://www.pixiv.net/en/users/39375749",
+            "icon":"/assets/svg/sites/pixiv.svg"
         }
     },
     "Dev":{
         "Github":{
             "url":"https://www.github.com/emymin",
-            "icon":"/assets/svg/github.svg"
+            "icon":"/assets/svg/sites/github.svg"
         },
         "Booth":{
             "url":"https://emymin.booth.pm/",
-            "icon":"/assets/svg/booth.svg"
+            "icon":"/assets/svg/sites/booth.svg"
         }
     },
     "Chat":{
         "Discord":{
-            "url":"",
-            "icon":"/assets/svg/discord.svg",
-            "subtitle":"emymin#8814"
+            "url":"https://discord.gg/5rSDksd2zY",
+            "icon":"/assets/svg/sites/discord.svg"
         },
         "Matrix":{
             "url":"",
-            "icon":"/assets/svg/matrix.svg",
+            "icon":"/assets/svg/sites/matrix.svg",
             "subtitle":"@emymin:matrix.org"
+        },
+        "VRChat":{
+            "url":"https://vrchat.com/home/user/usr_a9bf892d-b447-47ce-a572-20c83dbfffd8",
+            "icon":"/assets/svg/sites/vrchat.svg"
+        },
+        "NeosVR":{
+            "url":"https://api.neos.com/api/users/U-emymin",
+            "icon":"/assets/svg/sites/neosvr.svg"
         }
     }
 }

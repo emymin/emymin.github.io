@@ -24,9 +24,11 @@ height:100px;
 </style>
 <div class="links-container">
     {% for category in site.data.links %}
-        <h1>{{category[0]}}</h1>
-        {% for link in category[1] %}
-            <div class="linkcard"><a href={{link[1].url}}><img src={{link[1].icon}}></a><p>{{link[0]}}<br>{{link[1].subtitle}}</p></div>
-        {% endfor %}
+    <h1>{{category[0]}}</h1>
+    {% for link in category[1] %}
+    <div class="linkcard"><a {% if link[1].url !="" %}href={{link[1].url}} target="_blank"{% endif %}><img src={{link[1].icon}} class="color-svg"></a>
+        <p>{{link[0]}}<br>{{link[1].subtitle}}</p>
+    </div>
+    {% endfor %}
     {% endfor %}
 </div>
