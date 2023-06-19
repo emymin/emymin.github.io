@@ -1,0 +1,40 @@
+<style>
+    .card-container{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .card {
+        text-align: center;
+        width: 300px;
+        height: 400px;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .image {
+        width: 250px;
+        height: 250px;
+        object-fit: cover;
+        border-radius: 40px;
+        box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.7);
+    }
+
+    .title {
+        font-weight: bold;
+        margin: 10px;
+    }
+
+    .description {
+        margin: 10px;
+    }
+</style>
+<div class="card-container">
+{% for section in page.sections %}
+    <div class="card">
+        <a href={{section[1].url}}><img src={{section[1].image}} alt="Image" class="image"></a>
+        <h2 class="title">{{section[0]}}</h2>
+        <p class="description">{{section[1].description}}</p>
+    </div> 
+{% endfor %}
+</div>
