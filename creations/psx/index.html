@@ -1,0 +1,93 @@
+---
+layout: page
+title: PSX Homebrew
+description: My PSX homebrew experiments
+games:
+- title: "He Run"
+  description: "A small 2D game about a cat that runs"
+  image: "herun.png"
+  url: "HERUN.ISO"
+---
+<style>
+.horizontal-table {
+  display: flex;
+  flex-direction: column;
+}
+
+.horizontal-table tr {
+  display: flex;
+}
+
+.horizontal-table td {
+  flex: 1;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.card-container{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .card {
+        text-align: center;
+        width: 200px;
+        height: 200px;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .image {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        border-radius: 40px;
+        box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.7);
+    }
+
+    .title {
+        font-weight: bold;
+        margin: 10px;
+    }
+
+    .description {
+        margin: 10px;
+    }
+</style>
+<div style="padding:40px;text-align: center;">
+    <p>All the ISOs in this page can be played in the browser thanks to <a href="https://github.com/js-emulators/wasmpsx">WasmPSX.</a> Simply click on the image to load it.</p>
+</div>
+
+<div style="display:flex;justify-content: center;">
+    <wasmpsx-player id="emulator" style="box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.7);"></wasmpsx-player>
+    <table class="horizontal-table">
+        <tr><td>Start</td><td>V</td></tr>
+        <tr><td>Select</td><td>C</td></tr>
+        <tr><td>Arrow buttons</td><td>Arrow keys</td>
+        <tr><td>L1</td><td>W</td></tr>
+        <tr><td>L2</td><td>E</td></tr>
+        <tr><td>R1</td><td>R</td></tr>
+        <tr><td>R2</td><td>T</td></tr>
+        <tr><td>Triangle</td><td>D</td></tr>
+        <tr><td>Circle</td><td>X</td></tr>
+        <tr><td>Cross</td><td>Z</td></tr>
+        <tr><td>Square</td><td>S</td></tr>
+    </table>
+</div>
+
+<script src="wasmpsx/wasmpsx.min.js"></script>
+<script>
+    function loadGame(url){
+        document.getElementById('emulator').loadUrl(url);
+    }
+</script>
+
+<div class="card-container">
+    {% for game in page.games %}
+        <div class="card">
+            <a href="#" onclick='loadGame("{{game.url}}")'><img src={{game.image}} alt="Image" class="image"></a>
+            <h2 class="title">{{game.title}}</h2>
+            <p class="description">{{game.description}}</p>
+        </div> 
+    {% endfor %}
+</div>
