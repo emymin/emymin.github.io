@@ -14,8 +14,8 @@
             <a href="/blog">Blog</a>
             <a href="/creations">Creations</a>
             <a href="/vr">VR</a>
-            <a href="/images">Images</a>
             <a href="/videos">Videos</a>
+            <a href="/misc">Misc</a>
         </div>
         <div class="social-links">
             <a href="https://github.com/emymin" target="_blank"><i class="fab fa-github"></i></a>
@@ -33,11 +33,11 @@
     </div>
 
     <div class="bottom-bar" style="display: flex;">
-        {% assign path_array = page.path | split:"/" %}
-        {% assign path_array = path_array | pop %}
-        {% assign href_url = "" %}
-        <p>guest@emymin:~{% for dir in path_array %}{% assign href_url = dir | prepend:"/" | prepend:href_url  %}/<a href="{{href_url}}">{{dir}}</a>{%endfor%}$</p>
-        <input type="text" id="terminal-input" maxlength="500">
+        {% assign path_array = page.url | split:"/" %}
+        {% assign path_array = path_array | shift%}
+        {% assign href_url = "/" %}
+        <p>guest@emymin:~{% for dir in path_array %}{% assign href_url = href_url | append:dir | append:"/"  %}<a href="{{href_url}}">/{{dir}}</a>{%endfor%}$</p>
+        <input type="text" id="terminal-input" maxlength="100">
     </div>
 
     <script>
