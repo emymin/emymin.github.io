@@ -32,8 +32,25 @@
         {{content}}
     </div>
 
-    <div class="bottom-bar">
+    <div class="bottom-bar" style="display: flex;">
+        {% assign path_array = page.path | split:"/" %}
+        {% assign path_array = path_array | pop %}
+        {% assign href_url = "" %}
+        <p>guest@emymin:~{% for dir in path_array %}{% assign href_url = dir | prepend:"/" | prepend:href_url  %}/<a href="{{href_url}}">{{dir}}</a>{%endfor%}$</p>
+        <input type="text" id="terminal-input" maxlength="500">
     </div>
+
+    <script>
+        const input = document.querySelector("#terminal-input");
+        input.addEventListener("keyup",function(event){
+            if(event.key === "Enter") {
+                const command = input.value;
+                console.log(command);
+                input.value="";
+            }
+        })
+    </script>
+
 </body>
 
 </html>
