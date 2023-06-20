@@ -85,3 +85,14 @@ a {
     margin-left: 10px;
     text-decoration: none;
 }
+
+#terminal-input {
+    padding-left: 1ch;
+    width:500ch;
+    overflow: hidden;
+    background-color: transparent;
+    color: var(--fg-color);
+    border: none; 
+    outline: none;
+    font-family: inherit; 
+}
