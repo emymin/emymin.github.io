@@ -1,0 +1,35 @@
+* {
+  cursor: url(1.png), auto;
+  -webkit-animation: cursor 1000ms infinite;
+  animation: cursor 1000ms infinite;
+}
+
+@-webkit-keyframes cursor {
+  20% {cursor: url(1.png), auto;}
+  40% {cursor: url(2.png), auto;}
+  60% {cursor: url(3.png), auto;}
+  80% {cursor: url(4.png), auto;}
+  100% {cursor: url(5.png), auto;}
+  120% {cursor: url(6.png), auto;}
+  140% {cursor: url(7.png), auto;}
+  160% {cursor: url(8.png), auto;}
+  180% {cursor: url(9.png), auto;}
+  200% {cursor: url(10.png), auto;}
+  220% {cursor: url(11.png), auto;}
+  240% {cursor: url(12.png), auto;}
+} 
+
+@keyframes cursor {
+  20% {cursor: url(1.png), auto;}
+  40% {cursor: url(2.png), auto;}
+  60% {cursor: url(3.png), auto;}
+  80% {cursor: url(4.png), auto;}
+  100% {cursor: url(5.png), auto;}
+  120% {cursor: url(6.png), auto;}
+  140% {cursor: url(7.png), auto;}
+  160% {cursor: url(8.png), auto;}
+  180% {cursor: url(9.png), auto;}
+  200% {cursor: url(10.png), auto;}
+  220% {cursor: url(11.png), auto;}
+  240% {cursor: url(12.png), auto;}
+}
