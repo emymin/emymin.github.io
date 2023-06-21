@@ -5,16 +5,16 @@
         display: flex;
         flex-wrap: wrap;
         gap: 10px;
-        list-style-type: none;
         padding: 40px;
         padding-top: 0px;
     }
-
-    .image-gallery>li {
-        height: 300px;
+    
+    .image-gallery li {
+        flex-grow: 1;
+        height: 40vh;
         cursor: pointer;
         position: relative;
-        flex: 1 1 auto;
+        list-style-type: none;
     }
 
     .image-gallery li img {
@@ -69,10 +69,10 @@
 
 {% for category in page.categories %}
 <ul class="image-gallery" id="{{category.tag}}">
-    {% assign images = site.static_files | where: category.tag, true %}
+    {% assign images = site.static_files | where: category.tag, true | reverse %}
     {% for image in images %}
     <li>
-        <img src="{{image.path}}">
+        <img src="{{image.path}}" loading="lazy" onclick="openImageModal('{{image.path}}')">
     </li>
     {% endfor %}
 </ul>
@@ -84,7 +84,7 @@
         const galleries = document.getElementsByClassName('image-gallery');
         for (let i = 0; i < galleries.length; i++) {
             if (galleries[i].id === id) {
-                galleries[i].style.display = 'block';
+                galleries[i].style.display = 'flex';
             } else {
                 galleries[i].style.display = 'none';
             }
@@ -101,3 +101,5 @@
     showGallery("{{ first.tag }}")
 </script>
 {%endif%}
+
+{% include image_modal.html %}
