@@ -2,39 +2,18 @@
 layout: page
 ---
 <style>
-    .post-container {
-        display: flex;
-        justify-content: center;
-        padding: 40px;
-    }
-
-    .post {
-        width: 1000px;
-        background-color: #3c3836;
-        border-radius: 20px;
-    }
-
     .title {
         font-size: 50px;
     }
-
-    .title-wrapper {
-        display: flex;
-        justify-content: center;
-    }
-    .title-wrapper img{
-        width: 50px;
-        padding: 20px;
+    .description{
+        font-style: italic;
     }
 </style>
-<div class="post-container">
-    <div class="post">
+<div class="pagecontent-container">
+    <div class="pagecontent">
         <div style="text-align: center;">
-            <div class="title-wrapper">
-                <!-- <img src="/assets/svg/decorated-left.svg" class="color-svg-drop-shadow"> -->
-                <h1 class="title">{{page.title}}</h1>
-                <!-- <img src="/assets/svg/decorated-right.svg" class="color-svg-drop-shadow"> -->
-            </div>
+            <h1 class="title">{{page.title}}</h1>
+            <p class="description">{{page.description}}</p>
             <p>{{ page.date | date_to_string }}</p>
             <img src="/assets/svg/dividers/4.svg" style="width: 200px;" class="color-svg-drop-shadow">
         </div>
