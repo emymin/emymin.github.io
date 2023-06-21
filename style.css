@@ -88,7 +88,6 @@ a {
 }
 
 #terminal-input {
-    padding-left: 1ch;
     width:100ch;
     overflow: hidden;
     background-color: transparent;
@@ -97,6 +96,7 @@ a {
     outline: none;
     font-family: inherit; 
     display: inline-block;
+    vertical-align: middle;
 }
 
 .pagecontent-container {

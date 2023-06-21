@@ -39,7 +39,7 @@
         {% assign path_array = page.url | split:"/" %}
         {% assign path_array = path_array | shift%}
         {% assign href_url = "/" %}
-        <p style="display: inline-block;">guest@emymin:~{% for dir in path_array %}{% assign href_url = href_url | append:dir | append:"/"  %}<a href="{{href_url}}">/{{dir}}</a>{%endfor%}$</p>
+        <p style="display: inline-block; vertical-align: middle;">guest@emymin:~{% for dir in path_array %}{% assign href_url = href_url | append:dir | append:"/"  %}<a href="{{href_url}}">/{{dir}}</a>{%endfor%}$</p>
         <input type="text" id="terminal-input" maxlength="100">
     </div>
 
