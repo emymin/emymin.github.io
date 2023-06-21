@@ -50,6 +50,7 @@ a {
     bottom: 0;
     width: 100%;
     box-shadow: 0px -2px 35px 0px rgba(0, 0, 0, 0.7);
+    white-space: nowrap;
 }
 
 .content {
@@ -95,4 +96,17 @@ a {
     border: none; 
     outline: none;
     font-family: inherit; 
+    display: inline-block;
+}
+
+.pagecontent-container {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.pagecontent {
+    width: 1000px;
+    background-color: #3c3836;
+    border-radius: 20px;
 }
