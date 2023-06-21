@@ -9,11 +9,26 @@ defaults:
       thumbnail: "/assets/images/lily.png"
   -
     scope:
-      path: "_posts"
+      path: "collections/_posts"
     values:
       hide_title: true
+  -
+    scope:
+      path: "creations/renders/images"
+    values:
+      render: true
+  -
+    scope:
+      path: "vr/screenshots/vrc"
+    values:
+      vrc_screenshot: true
+  -
+    scope:
+      path: "vr/screenshots/neos"
+    values:
+      neos_screenshot: true
 
-
+collections_dir: collections
 collections:
   posts:
     permalink: /blog/:year/:month/:day/:title

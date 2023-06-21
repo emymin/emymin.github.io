@@ -1,0 +1,103 @@
+{% assign size = page.categories | size %}
+{% assign first = page.categories | first %}
+<style>
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        list-style-type: none;
+        padding: 40px;
+        padding-top: 0px;
+    }
+
+    .image-gallery>li {
+        height: 300px;
+        cursor: pointer;
+        position: relative;
+        flex: 1 1 auto;
+    }
+
+    .image-gallery li img {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        vertical-align: middle;
+        border-radius: 5px;
+    }
+
+    .image-gallery li img:hover {
+        opacity: 0.7;
+        transition: all .4s ease;
+    }
+</style>
+{% if size > 1 %}
+<style>
+    .view-box {
+        display: flex;
+        justify-content: center;
+        width: fit-content;
+        align-items: center;
+        border: 1px solid var(--fg-color);
+        border-radius: 10px;
+        overflow: hidden;
+        cursor: pointer;
+    }
+
+    .view-box>div {
+        padding: 10px;
+        border-right: 1px solid var(--fg-color);
+    }
+
+    .view-box>div:last-child {
+        border-right: none;
+    }
+
+    .view-box>div.active {
+        background-color: var(--fg-color);
+        color: var(--bg-color)
+    }
+</style>
+<div style="display: flex;justify-content: center;">
+    <div class="view-box">
+        {% for category in page.categories %}
+        <div class="view-button" id="{{category.tag}}" onclick="showGallery('{{category.tag}}')"> {{category.title}}
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+{% for category in page.categories %}
+<ul class="image-gallery" id="{{category.tag}}">
+    {% assign images = site.static_files | where: category.tag, true %}
+    {% for image in images %}
+    <li>
+        <img src="{{image.path}}">
+    </li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
+{% if size > 1 %}
+<script>
+    function showGallery(id) {
+        const galleries = document.getElementsByClassName('image-gallery');
+        for (let i = 0; i < galleries.length; i++) {
+            if (galleries[i].id === id) {
+                galleries[i].style.display = 'block';
+            } else {
+                galleries[i].style.display = 'none';
+            }
+        }
+        const viewsButtons = document.getElementsByClassName("view-button");
+        for (let i = 0; i < viewsButtons.length; i++) {
+            viewsButtons[i].classList.remove('active');
+            if (viewsButtons[i].id === id) {
+                viewsButtons[i].classList.add("active")
+            }
+        }
+    }
+
+    showGallery("{{ first.tag }}")
+</script>
+{%endif%}

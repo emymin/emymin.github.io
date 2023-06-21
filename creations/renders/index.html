@@ -2,9 +2,6 @@
 layout: page
 title: Renders
 description: A bunch of renders I made in Blender
-categories:
-images: 16
-videos: 4
 ---
 <style>
 .image-gallery {
@@ -88,8 +85,9 @@ videos: 4
 </div>
 
 <div class="image-gallery">
-    {% for i in (1..page.images) reversed %}
-    <img src="images/{{ i }}.jpg" onclick="openImageModal('images/{{ i }}.jpg')"><br>
+    {% assign renders = site.static_files | where: "render", true | sort:"basename" | reverse %}
+    {% for render in renders %}
+      <img src="{{render.path}}" onclick="openImageModal('{{render.path}}')"><br>
     {% endfor %}
 </div>
 
