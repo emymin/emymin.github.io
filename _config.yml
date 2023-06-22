@@ -27,6 +27,11 @@ defaults:
       path: "vr/screenshots/neos"
     values:
       neos_screenshot: true
+  -
+    scope:
+      path: "misc/minecraft/images"
+    values:
+      minecraft_build: true
 
 collections_dir: collections
 collections:
