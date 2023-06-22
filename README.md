@@ -1,5 +1,5 @@
 # emymin.github.io
-My personal website, you can visit it [here](http://emymin.github.io)
+My personal website, you can visit it [here](https://emymin.net)
 
 ## Building
 Build with [Jekyll](https://jekyllrb.com/) using ```jekyll build```
