@@ -45,6 +45,8 @@ a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    overflow: auto;
+    overflow-y: hidden;
 }
 
 .bottom-bar {
@@ -118,3 +120,33 @@ a {
     position:relative
 }
 
+::selection {
+    color: var(--bg-color);
+    background: var(--fg-color);
+}
+
+::-moz-selection {
+    color: var(--bg-color);
+    background: var(--fg-color);
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: var(--fg-color); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: var(--fg-color); 
+}
