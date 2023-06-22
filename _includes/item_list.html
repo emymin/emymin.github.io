@@ -36,7 +36,7 @@
 
 {% for item in page.items %}
 <div class="item-container">
-    <a href={{item.url}} target="_blank">
+    <a href={{item.url}} {% if page.open_in_new_tab == true %}target="_blank"{% endif %}>
         <img src={{item.thumbnail}} alt="Image" class="item-image">
     </a>
     <div class="item-content">
