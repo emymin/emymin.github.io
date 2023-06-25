@@ -28,7 +28,7 @@ description: A bunch of renders I made in Blender
 
 
 <div class="image-gallery">
-    {% assign renders = site.static_files | where: "render", true | sort:"basename" | reverse %}
+    {% assign renders = site.static_files | where: "render", true | sort_natural:"basename" | reverse %}
     {% for render in renders %}
       <img src="{{render.path}}" onclick="openImageModal('{{render.path}}')" loading="lazy"><br>
     {% endfor %}
