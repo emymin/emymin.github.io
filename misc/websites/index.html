@@ -5,18 +5,21 @@ description: Links to websites I think are COOL or USEFUL
 categories:
     - title: Art
       items:
+        - title: Poly Haven
+          description: The Public 3D Asset Library
+          url: https://polyhaven.com/
+        - title: Shadertoy
+          description: Build and Share your best shaders with the world and get Inspired
+          url: https://www.shadertoy.com/
         - title: Eyecandy
           description: Visual Technique Library
           url: https://eycndy.co/
-        - title: C82
-          description: Digital Art
-          url: https://c82.net
-        - title: Randoma11y
-          description: Get random, accessible color combinations and train the robots by voting.
-          url: https://randoma11y.com/    
         - title: Art Collections
           description: High Quality Collections of Digitized Art and Archival Finds
           url: https://simonsarris.com/art-collections
+        - title: Randoma11y
+          description: Get random, accessible color combinations and train the robots by voting.
+          url: https://randoma11y.com/    
         - title: Mecabricks
           description: Build & Render your 3D LEGO® models online
           url: https://www.mecabricks.com/
@@ -29,15 +32,9 @@ categories:
         - title: Cameron's World
           description: A love letter to the Internet of old      
           url: https://www.cameronsworld.net/
-        - title: Poly Haven
-          description: The Public 3D Asset Library
-          url: https://polyhaven.com/
         - title: WWWTXT
           description: WWWTXT digs deep and resurrects the voices of digital pioneers as unedited, compelling, and insightful 140-character excerpts.
           url: https://wwwtxt.org
-        - title: Shadertoy
-          description: Build and Share your best shaders with the world and get Inspired
-          url: https://www.shadertoy.com/
         - title: IOR List
           description: Index of Refraction values (IOR) 
           url: https://pixelandpoly.com/ior.html
@@ -49,6 +46,9 @@ categories:
           url: https://allrgb.com/
     - title: Tech
       items:
+        - title: Tildeverse
+          description: we're a loose association of like-minded tilde communities. 
+          url: https://tildeverse.org/
         - title: Hundred Rabbits
           description: Hundred Rabbits is a small artist collective. Together, we explore the planned failability of modern technology at the bounds of the hyper-connected world
           url: https://100r.co    
@@ -76,6 +76,9 @@ categories:
         - title: PCjs Machines
           description: Home of the original IBM PC emulator for browsers
           url: https://www.pcjs.org/
+        - title: KeyOxide
+          description: Verifying online identity with cryptography.
+          url: https://keyoxide.org/
     - title: VR
       items:
         - title: VRChatの世界
@@ -90,6 +93,9 @@ categories:
         - title: NeosLove
           description: Welcome to the metaverse
           url: http://neos.love/
+        - title: Avatar Network
+          description: Avatar Networkは、BOOTHの3Dモデル（アバターやアイテム）を、対応アイテムや対応アバターがあるか？
+          url: http://avatar-network.herokuapp.com
         - title: VRC Prefabs
           description: VRC Prefabs is a VRChat community that has focus on helping and sharing with others.
           url: https://vrcprefabs.com/
@@ -109,35 +115,41 @@ categories:
         - title: Imaginantia
           description: 思ったことを書きます
           url: https://phi16.hatenablog.com/
+        - title: C82
+          description: Digital Art
+          url: https://c82.net
     - title: Misc
       items:
         - title: itazuraneko
           description: Japanese Learning Resources
           url: https://itazuraneko.neocities.org/
-        - title: Six Degrees Of Wikipedia
-          description: Six Degrees of Wikipedia traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any of the nearly six million pages on the world's largest free online encyclopedia.
-          url: https://www.sixdegreesofwikipedia.com/
-        - title: Shepherd
-          description: Discover the best books
-          url: https://shepherd.com/
-        - title: Apollo in real time
-          description: A real-time journey through the Apollo missions
-          url: https://apolloinrealtime.org/
+        - title: TheMoeWay
+          description: Japanese Learning and Immersion Guides
+          url: https://learnjapanese.moe/
+        - title: Effect Index
+          description: Effect Index, which is currently under construction, is a resource dedicated to establishing the field of formalised subjective effect documentation. 
+          url: https://effectindex.com/
         - title: Internet Archive
           description:  Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more. 
           url: https://archive.org/
         - title: Neocities
           description: Neocities is a social network of 605,400 web sites that are bringing back the lost individual creativity of the web
           url: https://neocities.org
+        - title: Shepherd
+          description: Discover the best books
+          url: https://shepherd.com/
         - title: Library Genesis
           description: Library Genesis is a file-sharing based shadow library website for scholarly journal articles, academic and general-interest books, images, comics, audiobooks, and magazines. 
           url: http://libgen.is/
+        - title: Six Degrees Of Wikipedia
+          description: Six Degrees of Wikipedia traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any of the nearly six million pages on the world's largest free online encyclopedia.
+          url: https://www.sixdegreesofwikipedia.com/
+        - title: Apollo in real time
+          description: A real-time journey through the Apollo missions
+          url: https://apolloinrealtime.org/
         - title: IcebergCharts
           description: Iceberg Charts are an information format in which things that are well known are put at the top and the truly obscure at the bottom. 
           url: https://icebergcharts.com/
-        - title: KeyOxide
-          description: Verifying online identity with cryptography.
-          url: https://keyoxide.org/
     - title: List
       items:
         - title: Whitedesert
@@ -155,6 +167,18 @@ categories:
 ---
 
 <div class="pagecontent-container">
+  <div class="pagecontent">
+      {% include corners.html %}
+      <div style="padding: 80px;">
+          <p>This is a list of websites I think are cool, inspiring, pretty, useful or insightful!</p>
+          <p>I will be expanding it with new websites I run into every now and then!</p>
+      </div>
+
+  </div>
+</div>
+
+
+<div class="pagecontent-container">
     <div class="pagecontent">
         {% include corners.html %}
         <div style="padding: 80px;">
@@ -164,7 +188,7 @@ categories:
                 {% for item in category.items %}
                 <div style="display: flex;flex-direction: column; padding: 20px;">
                     <a href="{{item.url}}" style="font-size: 20px;" target="_blank">{{item.title}}</a>
-                    <p>{{item.description}}</p>
+                    <p style="font-style: italic;">{{item.description}}</p>
                 </div>
                 {% endfor %}
             </div>
