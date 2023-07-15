@@ -34,6 +34,15 @@ input.addEventListener("keyup", function (event) {
                 s.type = "module"
                 s.src = "/assets/mod.js"
                 document.body.appendChild(s);
+                break;
+            }
+            case "shake" : {
+                document.head.innerHTML += '<link rel="stylesheet" href="/assets/shake.css">';
+                break;
+            }
+            case "marquee" : {
+                document.body.innerHTML = "<marquee> "+document.body.innerHTML+ "</marquee>"
+                break;
             }
 
         }
