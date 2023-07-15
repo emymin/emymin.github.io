@@ -35,9 +35,7 @@ input.addEventListener("keyup", function (event) {
                 s.src = "/assets/mod.js"
                 document.body.appendChild(s);
             }
-            case "paint" : {
-                document.head.innerHTML += '<link rel="stylesheet" href="https://unpkg.com/xp.css"/>'
-            }
+
         }
     }
 })
