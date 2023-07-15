@@ -1,4 +1,19 @@
 const input = document.querySelector("#terminal-input");
+
+const cursor = localStorage.getItem("cursor");
+if(cursor){
+    document.head.innerHTML += '<link id="cursor" rel="stylesheet" href="/assets/cursors/'+cursor+'/cursor.css" type="text/css"/>';
+}
+function setCursor(cursor){
+    document.querySelector("#cursor")?.remove()
+    if(localStorage.getItem("cursor")!=cursor){
+        document.head.innerHTML += '<link id="cursor" rel="stylesheet" href="/assets/cursors/'+cursor+'/cursor.css" type="text/css"/>';
+        localStorage.setItem("cursor",cursor);
+    }else{
+        localStorage.setItem("cursor",false);
+    }
+}
+
 input.addEventListener("keyup", function (event) {
     if (event.key === "Enter") {
         const command = input.value;
@@ -6,16 +21,13 @@ input.addEventListener("keyup", function (event) {
         input.value = "";
         switch (command) {
             case "koyuki": {
-                document.querySelector("#cursor")?.remove()
-                document.head.innerHTML += '<link id="cursor" rel="stylesheet" href="/assets/cursors/koyuki/cursor.css" type="text/css"/>'; break;
+                setCursor("koyuki"); break;
             }
             case "maya": {
-                document.querySelector("#cursor")?.remove()
-                document.head.innerHTML += '<link id="cursor" rel="stylesheet" href="/assets/cursors/maya/cursor.css" type="text/css"/>'; break;
+                setCursor("maya"); break;
             }
             case "rusk": {
-                document.querySelector("#cursor")?.remove()
-                document.head.innerHTML += '<link id="cursor" rel="stylesheet" href="/assets/cursors/rusk/cursor.css" type="text/css"/>'; break;
+                setCursor("rusk"); break;
             }
         }
     }
