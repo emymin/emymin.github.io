@@ -10,7 +10,7 @@ function setCursor(cursor){
         document.head.innerHTML += '<link id="cursor" rel="stylesheet" href="/assets/cursors/'+cursor+'/cursor.css" type="text/css"/>';
         localStorage.setItem("cursor",cursor);
     }else{
-        localStorage.setItem("cursor",false);
+        localStorage.setItem("cursor","");
     }
 }
 
@@ -28,6 +28,15 @@ input.addEventListener("keyup", function (event) {
             }
             case "rusk": {
                 setCursor("rusk"); break;
+            }
+            case "chipdisko" : {
+                var s = document.createElement("script")
+                s.type = "module"
+                s.src = "/assets/mod.js"
+                document.body.appendChild(s);
+            }
+            case "paint" : {
+                document.head.innerHTML += '<link rel="stylesheet" href="https://unpkg.com/xp.css"/>'
             }
         }
     }
