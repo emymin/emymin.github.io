@@ -1,0 +1,29 @@
+@keyframes rainbow {
+    0% { color: red; }
+    14% { color: orange; }
+    28% { color: yellow; }
+    42% { color: green; }
+    57% { color: blue; }
+    71% { color: indigo; }
+    85% { color: violet; }
+    100% { color: red; }
+}
+@keyframes rainbow-bg { 
+    0% { background-color: violet; }
+    14% { background-color: indigo; }
+    28% { background-color: blue; }
+    42% { background-color: green; }
+    57% { background-color: yellow; }
+    71% { background-color: orange; }
+    85% { background-color: red; }
+    100% { background-color: violet; }
+}
+@keyframes rainbow-image {
+    0% { filter: hue-rotate(0deg); }
+    100% { filter: hue-rotate(360deg); }
+}
+
+
+* { animation: rainbow 2s infinite;}
+body, .top-bar, .bottom-bar { animation: rainbow-bg 2s infinite; }
+img { animation: rainbow-image 1s infinite;}

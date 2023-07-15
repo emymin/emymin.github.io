@@ -30,10 +30,12 @@ input.addEventListener("keyup", function (event) {
                 setCursor("rusk"); break;
             }
             case "chipdisko" : {
+                if(!confirm("Epylepsy warning, are you sure you want to continue?")){break;}
                 var s = document.createElement("script")
                 s.type = "module"
                 s.src = "/assets/mod.js"
                 document.body.appendChild(s);
+                document.head.innerHTML += '<link rel="stylesheet" href="/assets/rainbow.css">';
                 break;
             }
             case "shake" : {
