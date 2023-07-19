@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<!-- Using https://github.com/sadolit/textractor-websocket to receive text extracted at runtime from visual novels-->
+<html>
+
+<head>
+  <title>Textractor Websocket Interface</title>
+  <link rel="stylesheet" href="https://unpkg.com/tuicss@2.0.1/dist/tuicss.min.css">
+  <script src="https://unpkg.com/tuicss@2.0.1/dist/tuicss.min.js"></script>
+  <script>
+    var socket = new WebSocket("ws://localhost:6677");
+
+    socket.onmessage = function (event) {
+      var message = event.data;
+      var output = document.getElementById("output");
+      var template = document.getElementById("received");
+      var window = template.content.cloneNode(true);
+      var p = window.getElementById("text");
+      p.textContent = message;
+      output.prepend(window);
+    };
+  </script>
+</head>
+
+
+<body class="tui-bg-blue-black">
+  <div style="text-align: center; margin-top: 100px;">
+    <div class="info-text" style="">Textractor Websocket Interface</div>
+    <div id="output"></div>
+  </div>
+
+
+  <template id="received">
+    <div class="tui-window" style="margin-top: 50px;">
+      <fieldset class="tui-fieldset">
+        <legend>Received Message</legend>
+        <p id="text"></p>
+      </fieldset>
+    </div>
+    <br>
+  </template>
+
+</body>
+
+</html>
