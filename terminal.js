@@ -41,7 +41,8 @@ input.addEventListener("keyup", function (event) {
             }
             case "chipdisko" : {
                 if(!confirm("Epylepsy warning, are you sure you want to continue?")){break;}
-                appendScript("/assets/mod.js",true)
+                appendScript("/assets/mod.js",true);
+                document.head.innerHTML += '<link rel="stylesheet" href="/assets/rainbow.css">';
                 break;
             }
             case "shake" : {
