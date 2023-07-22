@@ -65,6 +65,19 @@ categories:
         - title: Physically Based
           description: A database of physically based values for CG artists
           url: https://physicallybased.info
+        - title: Coolors
+          description: The super fast color palettes generator
+          url: https://coolors.co/
+        - title: Big Box Collection
+          description: Remember when video games game in big boxes?
+          url: https://bigboxcollection.com
+        - title: Same Energy
+          description: Visual Search Engine
+          url: https://bigboxcollection.com
+        - title: Winamp Skin Museum
+          description: Infinite scroll through 80k Winamp skins with interactive preview
+          url: https://skins.webamp.org/
+        
     - title: Tech
       items:
         - title: Tildeverse
@@ -183,6 +196,9 @@ categories:
         - title: Astronaut
           description: These videos come from YouTube. They were uploaded in the last week and have titles like DSC 1234 and IMG 4321. They have almost zero previous views. 
           url: http://astronaut.io/
+        - title: Atlas Obscura
+          description: The Definitive Guide to the World's Hidden Wonders
+          url: https://www.atlasobscura.com/ 
     - title: List
       items:
         - title: Whitedesert
@@ -196,7 +212,22 @@ categories:
           url: https://terra.finzdani.net/
         - title: Moonjump
           description: Moonjump is a server that redirects you to a random page harvested from the arcane depths of the web.
-          url: https://moonjump.app/    
+          url: https://moonjump.app/
+        - title: Wiby
+          description: Search Engine for the Classic Web
+          url: https://wiby.me
+        - title: PersonalSit.es
+          description: This site was built to share and revel in each others' personal sites
+          url: https://personalsit.es/
+        - title: Marginalia Search
+          description: This is an independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. 
+          url: https://search.marginalia.nu/
+        - title: Brutalist Websites
+          description: In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.
+          url: https://brutalistwebsites.com/
+        - title: The Big List of Personal Websites
+          description: It's a big list of personal websites
+          url: https://biglist.terraaeon.com/
 ---
 
 <div class="pagecontent-container">
@@ -217,14 +248,14 @@ categories:
         <div style="padding: 80px;">
             {% for category in page.categories %}
             <h2 style="font-size: 50px;">{{category.title}}</h2>
-            <div style="display: flex; flex-wrap: wrap;">
+            <table style="width:100%;">
                 {% for item in category.items %}
-                <div style="display: flex;flex-direction: column; padding: 20px;">
-                    <a href="{{item.url}}" style="font-size: 20px;" target="_blank">{{item.title}}</a>
-                    <p style="font-style: italic;">{{item.description}}</p>
-                </div>
+                <tr>
+                    <td style="padding: 20px;"><a href="{{item.url}}" style="font-size: 20px;" target="_blank">{{item.title}}</a></td>
+                    <td><p style="font-style: italic;">{{item.description}}</p></td>
+                </tr>
                 {% endfor %}
-            </div>
+            </table>
             {% endfor %}
 
         </div>

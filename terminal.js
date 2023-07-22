@@ -14,6 +14,16 @@ function setCursor(cursor){
     }
 }
 
+function appendScript(src,isModule){
+    const s = document.createElement("script");
+    if(isModule){
+        s.type = "module";
+    }
+    s.src = src;
+    document.body.appendChild(s);
+    return s;
+}
+
 input.addEventListener("keyup", function (event) {
     if (event.key === "Enter") {
         const command = input.value;
@@ -31,11 +41,7 @@ input.addEventListener("keyup", function (event) {
             }
             case "chipdisko" : {
                 if(!confirm("Epylepsy warning, are you sure you want to continue?")){break;}
-                var s = document.createElement("script")
-                s.type = "module"
-                s.src = "/assets/mod.js"
-                document.body.appendChild(s);
-                document.head.innerHTML += '<link rel="stylesheet" href="/assets/rainbow.css">';
+                appendScript("/assets/mod.js",true)
                 break;
             }
             case "shake" : {
@@ -44,6 +50,10 @@ input.addEventListener("keyup", function (event) {
             }
             case "marquee" : {
                 document.body.innerHTML = "<marquee> "+document.body.innerHTML+ "</marquee>"
+                break;
+            }
+            case "winamp" : {
+                appendScript("/assets/webamp.js");
                 break;
             }
 
