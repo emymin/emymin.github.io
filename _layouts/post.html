@@ -11,14 +11,13 @@ layout: page
 </style>
 <div class="pagecontent-container" id="ornament-container">
     <div class="pagecontent">
-        {% include corners.html %}
-        <div style="text-align: center;padding-top: 80px;">
+        <div style="text-align: center;">
             <h1 class="title">{{page.title}}</h1>
             <p class="description">{{page.description}}</p>
             <p>{{ page.date | date_to_string }}</p>
             <img src="/assets/svg/dividers/4.svg" style="width: 200px;" class="color-svg-drop-shadow">
         </div>
-        <div style="padding: 40px; padding-top:40px;padding-bottom: 100px;">
+        <div style="padding: 40px;">
             {{ content }}
         </div>
     </div>

@@ -126,7 +126,9 @@ a:hover{
     width: 1000px;
     background-color: #3c3836;
     border-radius: 20px;
-    position:relative
+    position:relative;
+    border: 10px solid var(--fg-color);
+    border-style: double;
 }
 
 ::selection {
