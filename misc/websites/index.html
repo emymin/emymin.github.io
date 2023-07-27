@@ -86,6 +86,12 @@ categories:
         - title: World of Pixels
           description: Our World of Pixels is an art-based sandbox game where players can draw on and explore a giant communal canvas
           url: https://ourworldofpixels.com/
+        - title: Don't You Lecture Me With Your Thirty Dollar Website
+          description: Meme Sound Sequencer
+          url: https://thirtydollar.website/
+        - title: Cardinal
+          description: Virtual Modular Synthesizer
+          url: https://cardinal.kx.studio/
         
     - title: Tech
       items:
@@ -125,6 +131,9 @@ categories:
         - title: KeyOxide
           description: Verifying online identity with cryptography.
           url: https://keyoxide.org/
+        - title: AssetBundleStat
+          description: A WinDirStat-like online Unity asset bundle inspector
+          url: https://vsk.lox9973.com/abstat/
     - title: VR
       items:
         - title: VRChatの世界
@@ -145,6 +154,9 @@ categories:
         - title: VRC Prefabs
           description: VRC Prefabs is a VRChat community that has focus on helping and sharing with others.
           url: https://vrcprefabs.com/
+        - title: VRChat API Docs
+          description: Here you'll find Community-created documentation about the VRChat REST API, an OpenAPI specification, and generated SDK's in several languages.
+          url: https://vrchatapi.github.io/
     - title: Game
       items:
         - title: E.B.O.N.Y
@@ -262,20 +274,17 @@ categories:
 
 <div class="pagecontent-container">
   <div class="pagecontent">
-      <div style="padding: 80px;">
+      <div style="padding: 20px; text-align: center;">
           <p>This is a list of websites I think are cool, inspiring, pretty, useful or insightful!</p>
           <p>I will be expanding it with new websites I run into every now and then!</p>
       </div>
-
   </div>
 </div>
 
-
 <div class="pagecontent-container">
     <div class="pagecontent">
-        <div style="padding: 80px;">
             {% for category in page.categories %}
-            <h2 style="font-size: 50px;">{{category.title}}</h2>
+            <h2 style="font-size: 50px;" id="{{category.title}}">{{category.title}}</h2>
             <table style="width:100%;">
                 {% for item in category.items %}
                 <tr>
@@ -285,8 +294,5 @@ categories:
                 {% endfor %}
             </table>
             {% endfor %}
-
-        </div>
-
     </div>
 </div>
