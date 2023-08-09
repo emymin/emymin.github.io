@@ -32,16 +32,17 @@
         font-weight: bold;
         margin-bottom: 5px;
     }
+    .description {
+        font-weight: normal;
+    }
 </style>
 
 {% for item in page.items %}
-<div class="item-container">
-    <a href={{item.url}} {% if page.open_in_new_tab == true %}target="_blank"{% endif %}>
-        <img src={{item.thumbnail}} alt="Image" class="item-image">
-    </a>
+<a class="item-container" href={{item.url}} {% if page.open_in_new_tab == true %}target="_blank"{% endif %}>
+    <img src={{item.thumbnail}} alt="{{item.title}}" class="item-image">
     <div class="item-content">
         <h2 class="title">{{item.title}}</h2>
         <p class="description">{{item.description}}</p>
     </div>
-</div>
+</a>
 {% endfor %}
