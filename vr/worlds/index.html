@@ -1,0 +1,37 @@
+---
+layout: page
+title: VRC Worlds
+description: Cool VRC Worlds
+---
+<style>
+    .worlds-container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .world{
+        width: 500px;
+        padding: 20px;
+    }
+    .world img{
+        width: 100%;
+        box-shadow: 0px 2px 35px 0px rgba(0, 0, 0, 0.7);
+        border-radius: 20px;
+    }
+</style>
+
+
+<div class="worlds-container">
+    {% assign worlds = site.data.cool_worlds | sort:"publication_date" | reverse %}
+    {% for world in worlds %}
+    <div class="world">
+        <a href="https://vrchat.com/home/launch?worldId={{world.id}}">
+            <img src="images/{{world.id}}.jpg" loading="lazy">
+        </a>
+        <h2>{{world.name}}</h2>
+        <p>{{world.author_name}}</p>
+        <p>{{world.description | truncatewords: 50 }}</p>
+    </div>
+    {% endfor %}
+</div>

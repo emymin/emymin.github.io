@@ -38,11 +38,13 @@
 </style>
 
 {% for item in page.items %}
-<a class="item-container" href={{item.url}} {% if page.open_in_new_tab == true %}target="_blank"{% endif %}>
-    <img src={{item.thumbnail}} alt="{{item.title}}" class="item-image">
+<div class="item-container">
+    <a class="item-container" href={{item.url}} {% if page.open_in_new_tab == true %}target="_blank"{% endif %}>
+        <img src={{item.thumbnail}} alt="{{item.title}}" class="item-image">
+    </a>
     <div class="item-content">
         <h2 class="title">{{item.title}}</h2>
         <p class="description">{{item.description}}</p>
     </div>
-</a>
+</div>
 {% endfor %}
