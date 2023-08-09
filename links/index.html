@@ -69,7 +69,7 @@ height:100px;
     {% for category in page.links %}
     <h1>{{category[0]}}</h1>
     {% for link in category[1] %}
-    <div class="linkcard"><a {% if link[1].url !="" %}href={{link[1].url}} target="_blank"{% endif %}><img src={{link[1].icon}} class="color-svg-drop-shadow"></a>
+    <div class="linkcard"><a {% if link[1].url !="" %}href={{link[1].url}} target="_blank"{% endif %}><img src={{link[1].icon}} class="color-svg-drop-shadow" alt="{{link[0]}}"></a>
         <p>{{link[0]}}<br>{{link[1].subtitle}}</p>
     </div>
     {% endfor %}
