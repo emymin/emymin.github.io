@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VRC Worlds
-description: Cool VRC Worlds
+title: Cool VRC Worlds
+description: A large list of VRChat worlds I think are cool
 ---
 <style>
     .worlds-container{
@@ -21,12 +21,17 @@ description: Cool VRC Worlds
     }
 </style>
 
+<div style="text-align: center;">
+    <p>I have been world hopping (almost) daily for many years now, and I've ran into a lot of super cool worlds! <br> This is a collection of some of my favourite ones. <br>
+    Note that this is far from an exhaustive list, I will be adding more worlds as I run into them, or as I get reminded of them.</p>
+    <p style="font-style: italic;">Also considering checking out <a href="/creations/vrchat">my worlds and prefabs</a> ;)</p>
+</div>
 
 <div class="worlds-container">
     {% assign worlds = site.data.cool_worlds | sort:"publication_date" | reverse %}
     {% for world in worlds %}
     <div class="world">
-        <a href="https://vrchat.com/home/launch?worldId={{world.id}}">
+        <a href="https://vrchat.com/home/launch?worldId={{world.id}}" target="_blank">
             <img src="images/{{world.id}}.jpg" loading="lazy">
         </a>
         <h2>{{world.name}}</h2>
