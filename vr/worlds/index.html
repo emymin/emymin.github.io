@@ -4,17 +4,19 @@ title: Cool VRC Worlds
 description: A large list of VRChat worlds I think are cool
 ---
 <style>
-    .worlds-container{
+    .worlds-container {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
         text-align: center;
     }
-    .world{
+
+    .world {
         width: 500px;
         padding: 20px;
     }
-    .world img{
+
+    .world img {
         width: 100%;
         box-shadow: 0px 2px 35px 0px rgba(0, 0, 0, 0.7);
         border-radius: 20px;
@@ -22,9 +24,12 @@ description: A large list of VRChat worlds I think are cool
 </style>
 
 <div style="text-align: center;">
-    <p>I have been world hopping (almost) daily for many years now, and I've ran into a lot of super cool worlds! <br> This is a collection of some of my favourite ones. <br>
-    Note that this is far from an exhaustive list, I will be adding more worlds as I run into them, or as I get reminded of them.</p>
-    <p style="font-style: italic;">Also considering checking out <a href="/creations/vrchat">my worlds and prefabs</a> ;)</p>
+    <p>I have been world hopping (almost) daily for many years now, and I've ran into a lot of super cool worlds! <br>
+        This is a collection of some of my favourite ones. <br>
+        Note that this is far from an exhaustive list, I will be adding more worlds as I run into them, or as I get
+        reminded of them.</p>
+    <p style="font-style: italic;">Also considering checking out <a href="/creations/vrchat">my worlds and prefabs</a>
+        ;)</p>
 </div>
 
 <div class="worlds-container">
@@ -36,7 +41,18 @@ description: A large list of VRChat worlds I think are cool
         </a>
         <h2>{{world.name}}</h2>
         <p>{{world.author_name}}</p>
-        <p>{{world.description | truncatewords: 50 }}</p>
+        <p class="description">{{world.description | truncatewords: 50 | replace: "⁄","/" | replace: "˸",":" | replace:
+            "․","." }}</p>
     </div>
     {% endfor %}
 </div>
+
+<script>
+    var descriptions = document.getElementsByClassName("description");
+    var urlPattern = /(https?:\/\/[^\s]+)/g;
+    for (let description of descriptions){
+        description.innerHTML = description.innerHTML.replace(urlPattern, function (matchedUrl) {
+            return '<a href="' + matchedUrl + '">' + matchedUrl + '</a>';
+        });
+    }
+</script>
