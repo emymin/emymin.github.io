@@ -13,21 +13,53 @@
         flex-grow: 1;
         height: 40vh;
         cursor: pointer;
-        position: relative;
         list-style-type: none;
+    }
+
+    .image-gallery li:last-child{
+        flex-grow: 10;
     }
 
     .image-gallery li img {
         object-fit: cover;
-        width: 100%;
-        height: 100%;
-        vertical-align: middle;
+        min-width: 100%;
+        max-height: 100%;
+        vertical-align: bottom;
         border-radius: 5px;
     }
 
     .image-gallery li img:hover {
         opacity: 0.7;
         transition: all .4s ease;
+    }
+
+    @media (max-aspect-ratio: 1/1) {
+        li {
+            height: 30vh;
+        }
+    }
+
+
+    @media (max-height: 480px) {
+    li {
+        height: 80vh;
+    }
+    }
+
+    @media (max-aspect-ratio: 1/1) and (max-width: 480px) {
+    ul {
+        flex-direction: row;
+    }
+
+    li {
+        height: auto;
+        width: 100%;
+    }
+    img {
+        width: 100%;
+        max-height: 75vh;
+        min-width: 0;
+    }
     }
 </style>
 {% if size > 1 %}
