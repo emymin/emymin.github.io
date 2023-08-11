@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     {% include headers.html %}
@@ -19,7 +19,7 @@
         <div class="social-links">
             <a href="https://github.com/emymin" target="_blank"><img class="color-svg" src="/assets/svg/sites/github.svg" alt="Github"></a>
             <a href="https://twitter.com/emymin1" target="_blank"><img class="color-svg" src="/assets/svg/sites/twitter.svg" alt="Twitter"></a>
-            <a href="https://misskey.emymin.net/@emymin" target="_blank"><img class="color-svg" src="/assets/svg/sites/misskey.svg" alt="Misskey"></a>
+            <a href="https://misskey.emymin.net/@emymin" target="_blank" rel="me"><img class="color-svg" src="/assets/svg/sites/misskey.svg" alt="Misskey"></a>
             <a href="/links"><img class="color-svg" src="/assets/svg/ellipsis-solid.svg" alt="More"></a>
         </div>
     </div>
@@ -39,7 +39,7 @@
         {% assign path_array = path_array | shift%}
         {% assign href_url = "/" %}
         <p style="display: inline-block; vertical-align: middle;">guest@emymin:<a href="/">~</a>{% for dir in path_array %}{% assign href_url = href_url | append:dir | append:"/"  %}<a href="{{href_url}}">/{{dir}}</a>{%endfor%}$</p>
-        <input type="text" id="terminal-input" maxlength="100">
+        <input type="text" id="terminal-input" maxlength="100" aria-label="Terminal Prompt">
     </div>
 
     <script src="/terminal.js"></script>
