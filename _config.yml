@@ -1,5 +1,8 @@
 timezone: Europe/Rome
-url: https://emymin.github.io
+url: https://emymin.net
+domain: emymin.net
+plugins:
+  - jekyll-sitemap
 
 defaults:
   -
