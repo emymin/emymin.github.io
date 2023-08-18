@@ -9,6 +9,8 @@ description: A large list of VRChat worlds I think are cool
         flex-wrap: wrap;
         justify-content: center;
         text-align: center;
+        list-style: none;
+        padding-left: 0;
     }
 
     .world {
@@ -34,10 +36,10 @@ description: A large list of VRChat worlds I think are cool
         ;)</p>
 </div>
 
-<div class="worlds-container">
+<ul class="worlds-container">
     {% assign worlds = site.data.cool_worlds | sort:"publication_date" | reverse %}
     {% for world in worlds %}
-    <div class="world">
+    <li class="world">
         <a href="https://vrchat.com/home/launch?worldId={{world.id}}" target="_blank">
             <img src="images/{{world.id}}.jpg" loading="lazy" alt="{{world.name}}">
         </a>
@@ -45,9 +47,9 @@ description: A large list of VRChat worlds I think are cool
         <p>{{world.author_name}}</p>
         <p class="description">{{world.description | truncatewords: 50 | replace: "⁄","/" | replace: "˸",":" | replace:
             "․","." }}</p>
-    </div>
+    </li>
     {% endfor %}
-</div>
+</ul>
 
 <script>
     var descriptions = document.getElementsByClassName("description");

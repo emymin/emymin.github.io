@@ -3,6 +3,8 @@
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
+        list-style: none;
+        padding-left: 0;
     }
     .card {
         text-align: center;
@@ -36,14 +38,14 @@
         font-weight: normal;
     }
 </style>
-<div class="card-container">
+<ul class="card-container">
 {% for section in page.sections %}
-    <div class="card">
+    <li class="card">
         <a href={{section[1].url}}>
             <img src={{section[1].image}} alt="Image" class="image">
             <h2 class="title">{{section[0]}}</h2>
             <p class="description">{{section[1].description}}</p>
         </a>
-    </div> 
+    </li> 
 {% endfor %}
-</div>
+</ul>

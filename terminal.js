@@ -1,5 +1,10 @@
-const input = document.querySelector("#terminal-input");
-
+const input = document.createElement("input");
+input.type = "text";
+input.id = "terminal-input";
+input.maxLength = "100";
+input.ariaLabel = "Terminal Prompt";
+document.querySelector("#footer").appendChild(input);
+//<input type="text" id="terminal-input" maxlength="100" aria-label="Terminal Prompt">
 const cursor = localStorage.getItem("cursor");
 if(cursor){
     document.head.innerHTML += '<link id="cursor" rel="stylesheet" href="/assets/cursors/'+cursor+'/cursor.css" type="text/css"/>';

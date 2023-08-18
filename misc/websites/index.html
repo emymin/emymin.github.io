@@ -411,28 +411,24 @@ categories:
           description: Beneath the utilitarian purpose of computation, computing is also a source of delight and wonder. 
           url: https://arbesman.net/computationaldelights/
 ---
-
 <div class="pagecontent-container">
   <div class="pagecontent">
-      <div style="padding: 20px; text-align: center;">
+      <header style="text-align: center; font-style: italic;">
           <p>This is a list of websites I think are cool, inspiring, pretty, useful or insightful!</p>
           <p>I will be expanding it with new websites I run into every now and then!</p>
-      </div>
-  </div>
-</div>
-
-<div class="pagecontent-container">
-    <div class="pagecontent">
-            {% for category in page.categories %}
-            <h2 style="font-size: 50px;" id="{{category.title}}">{{category.title}}</h2>
-            <table style="width:100%;">
-                {% for item in category.items %}
-                <tr>
-                    <td style="padding: 20px;"><a href="{{item.url}}" style="font-size: 20px;" target="_blank">{{item.title}}</a></td>
-                    <td><p style="font-style: italic;">{{item.description}}</p></td>
-                </tr>
-                {% endfor %}
-            </table>
+      </header>
+      {% for category in page.categories %}
+      <section>
+        <h2 style="font-size: 50px;" id="{{category.title}}">{{category.title}}</h2>
+        <table style="width:100%;">
+            {% for item in category.items %}
+            <tr>
+                <td style="padding: 20px;"><a href="{{item.url}}" style="font-size: 20px;" target="_blank">{{item.title}}</a></td>
+                <td><p style="font-style: italic;">{{item.description}}</p></td>
+            </tr>
             {% endfor %}
+        </table>
+      </section>
+      {% endfor %}
     </div>
 </div>

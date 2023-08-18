@@ -33,7 +33,7 @@ links:
         Discord:
             url: "https://discord.gg/5rSDksd2zY"
             icon: "/assets/svg/sites/discord.svg"
-            subtitle: "Emy's Voices (Discord server)"
+            subtitle: "Emy's Voices"
         Matrix:
             url: ""
             icon: "/assets/svg/sites/matrix.svg"
@@ -47,31 +47,42 @@ links:
 
 ---
 <style>
-.links-container{
-text-align: center;
-margin-top: 80px; 
-}
-.linkcard {
-display:inline-block;
-text-align: center;
-margin:20px;
-}
-.linkcard p{
-text-align: center;
-margin-top: 10px;
-}
-.linkcard a img{
-width: 100px;
-height:100px;
-}
+    .sections-container{
+        display: flex;
+        flex-direction: column;
+        margin-top: 80px;
+        align-items: center;
+        text-align: center;
+    }
+    .links-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        list-style: none;
+        padding-left: 0;
+    }
+    .linkcard {
+        margin:20px;
+    }
+    .linkcard p{
+        margin-top: 10px;
+    }
+    .linkcard a img{
+        width: 100px;
+        height:100px;
+    }
 </style>
-<div class="links-container">
+<div class="sections-container">
     {% for category in page.links %}
-    <h1>{{category[0]}}</h1>
-    {% for link in category[1] %}
-    <div class="linkcard"><a {% if link[1].url !="" %}href={{link[1].url}} target="_blank"{% endif %}><img src={{link[1].icon}} class="color-svg-drop-shadow" alt="{{link[0]}}"></a>
-        <p>{{link[0]}}<br>{{link[1].subtitle}}</p>
-    </div>
-    {% endfor %}
+    <section>
+        <h2>{{category[0]}}</h2>
+        <ul class="links-container">
+            {% for link in category[1] %}
+            <div class="linkcard"><a {% if link[1].url !="" %}href={{link[1].url}} target="_blank"{% endif %}><img src={{link[1].icon}} class="color-svg-drop-shadow" alt="{{link[0]}}"></a>
+                <p>{{link[0]}}<br>{{link[1].subtitle}}</p>
+            </div>
+            {% endfor %}
+        </ul>
+    </section>
     {% endfor %}
 </div>

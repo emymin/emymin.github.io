@@ -36,6 +36,8 @@ games:
         display: flex;
         justify-content: center;
         flex-wrap: wrap;
+        list-style: none;
+        padding-left: 0;
     }
     .card {
         text-align: center;
@@ -62,12 +64,12 @@ games:
         margin: 10px;
     }
 </style>
-<div style="padding:40px;text-align: center;">
+<header style="padding:40px;text-align: center;">
     <p>All the ISOs in this page can be played in the browser thanks to <a href="https://github.com/js-emulators/wasmpsx">WasmPSX.</a> Simply click on the image to load it.</p>
     <p>Audio will not work because it can't load CUE files currently</p>
-</div>
+</header>
 
-<div style="display:flex;justify-content: center;padding-bottom: 40px;">
+<section style="display:flex;justify-content: center;padding-bottom: 40px;">
     <wasmpsx-player id="emulator" style="box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.7);"></wasmpsx-player>
     <table class="horizontal-table">
         <tr><td>Start</td><td>V</td></tr>
@@ -82,7 +84,7 @@ games:
         <tr><td>Cross</td><td>Z</td></tr>
         <tr><td>Square</td><td>S</td></tr>
     </table>
-</div>
+</section>
 
 <script src="wasmpsx/wasmpsx.min.js"></script>
 <script>
@@ -91,12 +93,12 @@ games:
     }
 </script>
 
-<div class="card-container">
+<il class="card-container">
     {% for game in page.games %}
-        <div class="card">
+        <li class="card">
             <a href="#" onclick='loadGame("{{game.url}}")'><img src={{game.image}} alt="Image" class="image"></a>
             <h2 class="title">{{game.title}}</h2>
             <p class="description">{{game.description}}</p>
-        </div> 
+        </li> 
     {% endfor %}
-</div>
+    </il>
