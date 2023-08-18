@@ -2007,5 +2007,705 @@
         "author_name": "nprowler",
         "description": "Welcome to the majestic mountain trails of Winter Horseback Riding! Here, you will get to experience the beauty of nature while riding on the back of a trusty steed. Feel the crisp mountain air as you ride through the snow-covered hills, creating a magical winter wonderland that you will never forget. Go for a night ride or just warm up at a one of our cozy campfires. So, saddle up and get ready to explore this unique experience! This is my first PC/Quest compatible world and may have some visual issues on the Quest side.",
         "publication_date": "2023-03-24T19:59:53.450Z"
+      },
+      {
+        "id":"wrld_b93a7dff-cc5a-480c-a679-5ad0f0db1c02",
+        "name":"Ancient Art Museum",
+        "author_name":"Adi․",
+        "description":"See the finest sculptures in ancient history. There are 60 exhibits from ancient civilizations that emerged in Rome, Greece, Egypt and Asia. Perfectly optimised for quest!",
+        "publication_date":"2019-09-29T09:45:51.197Z"
+      },
+      {
+        "id":"wrld_b92f589a-89d5-4f6e-86dd-87c890d70701",
+        "name":"Mare tranquillitatis",
+        "author_name":"Umpelkarumpel",
+        "description":"Map based of a bad anime with good scenery",
+        "publication_date":"2019-04-18T03:12:47.427Z"
+      },
+      {
+        "id":"wrld_961d64fc-e771-42ad-873a-9d8e3773d49b",
+        "name":"BI0ME Conservatory",
+        "author_name":"astackofpaper",
+        "description":"BI0ME is a digital conservatory created to be a sort of community garden․ Submit plant drawings to contribute to the gardens at bi0me․com․",
+        "publication_date":"2022-06-12T17:54:18.112Z"
+      },
+      {
+        "id": "wrld_317d7b78-5bf7-4c53-ad06-65d1608cb1b1",
+        "name": "Sky Lanterns",
+        "author_name": "Ostinyo",
+        "description": "Light a lantern and release it into the sky to let the show beginǃ Updated for Unity 2019․",
+        "publication_date": "2020-05-11T17:25:13.665Z"
+      },
+      {
+        "id": "wrld_01fb8f7b-249e-4f11-83ef-e5a2fa798dcf",
+        "name": "VRCPrefabs Experiments In Time - World Jam Hub",
+        "author_name": "KidKwazine",
+        "description": "The hub world for the VRCPrefabs Experiments In Time World Jam․ All worlds were created from November 12th to November 20th 2021․",
+        "publication_date": "2021-11-29T23:13:37.045Z"
+      },
+      {
+        "id": "wrld_9b880bb6-fe21-430f-854f-67508ccf6af9",
+        "name": "Raindance Embassy",
+        "author_name": "mariraku",
+        "description": "Raindance Embassy is the VRChat home of Raindance Immersive festival․ Stroll down our London street‚ step inside and explore the galleries․ Take selfies with characters from selected games and experiences․ Find portals to award-nominated VRChat worlds․ Wear your finest avatar‚ strike a pose on the red carpet‚ and celebrate creativity in VR with us․ Trailer by Little Poe․",
+        "publication_date": "2020-11-02T17:00:48.830Z"
+      },
+      {
+        "id": "wrld_da97f2e5-28bc-4859-9280-16eeee907c69",
+        "name": "Treasure Heist",
+        "author_name": "Fins",
+        "description": "Join Henry Ark on a Short adventure through the ancient Egyptian tombs of Anubis and uncover the secret that lies in the domain of the gods․ 8 player maximum ｜ 11-06-2022 PATCH NOTE˸ Fixed Constellation tablet sync bug‚ improved overall networking stability‚ and sync‚ fixed teleport error that causes the player to load into an empty room‚ added timer and death count․",
+        "publication_date": "2022-10-28T17:07:48.337Z"
+      },
+      {
+        "id": "wrld_f7973e3c-60ed-4355-9eb2-02e2ad31ceee",
+        "name": "Scanner",
+        "author_name": "Trixelized",
+        "description": "A world in which you use a LIDAR scanner to uncover everything around you․ This world does not have an ending condition․",
+        "publication_date": "2022-07-09T13:40:03.506Z"
+      },
+      {
+        "id": "wrld_64765b1e-003f-47cb-9fa3-ceb78a6fd7c1",
+        "name": "A LONG DREAM",
+        "author_name": "heаrtwrend",
+        "description": "＂I just want to go back home․․․＂ Chapter 138 - Attack on Titan World commissioned from Karl Kroenen for my 1 year anniversary with my fiance․ Night time version coming soonǃ",
+        "publication_date": "2023-01-30T06:25:35.279Z"
+      },
+      {
+        "id": "wrld_5a06702e-0a9c-46cd-b5db-143337d50f02",
+        "name": "紫陽花岬 -Cape Hydrangea-",
+        "author_name": "East_1984",
+        "description": "",
+        "publication_date": "2020-06-29T17:49:58.236Z"
+      },
+      {
+        "id": "wrld_2c0930cb-2e35-4eb3-8014-731f07c89fd9",
+        "name": "Little Big City",
+        "author_name": "aiiko",
+        "description": "Welcome to the Little Big City‚ explore with your friend every place of this city․ This maps supports scaling using hand gesturing‚ climbing and grabbing․ I hope you enjoy it․",
+        "publication_date": "2023-08-10T22:19:28.380Z"
+      },
+      {
+        "id": "wrld_102f1f03-40c2-4817-973c-832b7e2cc52f",
+        "name": "8800 Blue Lick Rd",
+        "author_name": "ompuco",
+        "description": "Public Remarks˸ Church‚ School‚ Daycare‚ Home business this home has been it all․ This unique home is just what you are looking for․ Two kitchens‚ a private living space and many more surprises․ This is a must see․ The pictures do not tell the full story․ All information provided are only about the first building․ Except for room information․R4 Zoning․",
+        "publication_date": "2020-10-29T01:23:28.805Z"
+      },
+      {
+        "id": "wrld_a7a848af-56a5-44b2-83ec-4070a6f0121a",
+        "name": "Dubrovnik‚ Main Street ＆ Old Port",
+        "author_name": "nobelchoco",
+        "description": "Dubrovnik Main street ＆ Old port",
+        "publication_date": "2022-06-14T12:49:26.552Z"
+      },
+      {
+        "id": "wrld_04a00bbb-da55-4a13-91e0-a30a3bfb2302",
+        "name": "Bus To Nowhere",
+        "author_name": "Beyond",
+        "description": "Version 1․6․2 ［SOL］｜ New instance recommended․ ｜ An endless chaotic bus ride․｜ This world contains flashing lightsǃ",
+        "publication_date": "2022-01-03T13:57:56.026Z"
+      },
+      {
+        "id": "wrld_511d8efe-b233-4ffa-af92-846370aa0f47",
+        "name": "Sailing",
+        "author_name": "Shiro K",
+        "description": "Sail‚ chill or follow an adventure - 5 locations‚ 3 keys‚ 2 hidden caves․․․ Now with support of Esska Global Wind․ Feedback on discord․gg⁄uMbn6EhaSN",
+        "publication_date": "2021-03-30T00:57:22.073Z"
+      },
+      {
+        "id": "wrld_e34431c3-cfb3-40b4-a084-4d58c39874e9",
+        "name": "Lunar Plants",
+        "author_name": "yagiri",
+        "description": "BGM／SE˸ Maoudamasii‚ PocketSound",
+        "publication_date": "2019-07-24T13:15:48.578Z"
+      },
+      {
+        "id": "wrld_a26d13d0-34d4-4bff-b0ca-4f56667bb84c",
+        "name": "VirtualOkinawa_Kokusai-dori_［JP］［EN］",
+        "author_name": "AshibiCompany01",
+        "description": "バーチャル沖縄へめんそーれ！ 沖縄の観光地「国際通り」を再現！沖縄の魅力を伝えるコンテンツをどんどん アップデート中！！",
+        "publication_date": "2021-04-29T15:59:19.935Z"
+      },
+      {
+        "id": "wrld_5504485f-4c9e-447c-9e94-32415d71a961",
+        "name": "Technobabel Vol․ 1",
+        "author_name": "Technobabel",
+        "description": "A hub world connecting my first five VRChat rooms․",
+        "publication_date": "2018-11-10T03:53:15.075Z"
+      },
+      {
+        "id": "wrld_6b86c127-e474-4093-8e24-d10545305e9c",
+        "name": "Optimized Cabin",
+        "author_name": "matsix",
+        "description": "The cabin of matsixǃ",
+        "publication_date": "2018-11-10T01:02:46.696Z"
+      },
+      {
+        "id": "wrld_89aee181-e430-4f1d-94f1-0795cba78314",
+        "name": "kōen",
+        "author_name": "_doo_",
+        "description": "",
+        "publication_date": "2019-01-02T13:24:01.853Z"
+      },
+      {
+        "id": "wrld_acfd9876-5c18-4012-82c0-b00c89afc99d",
+        "name": "Moody",
+        "author_name": "Fins",
+        "description": "Multiple Environments‚ ambient mixer‚ customizable private bedroom‚ vistas‚ and more․ Fixed intro bugs․",
+        "publication_date": "2019-01-02T18:42:03.227Z"
+      },
+      {
+        "id": "wrld_558efdd1-6a93-416f-8a77-5b1a70eb8028",
+        "name": "Ando",
+        "author_name": "matsix",
+        "description": "Ando",
+        "publication_date": "2018-11-10T02:47:15.550Z"
+      },
+      {
+        "id": "wrld_5e138b64-2faf-4725-8d8a-c3db0e931139",
+        "name": "Nürburgring Nordschleife",
+        "author_name": "L4uR",
+        "description": "（recommended to play in private with friends） use an optimized avatar‚ you can delete flipped cars or cars which are not used by clicking on the back numberplate of the car‚ you can move stuck cars with the camera",
+        "publication_date": "2019-04-26T16:28:41.982Z"
+      },
+      {
+        "id": "wrld_2734091a-fd00-4fbc-9ca4-12cd8298793f",
+        "name": "Trista Town and School",
+        "author_name": "PMONickpop123",
+        "description": "Trista from Trails of Cold Steel 1 ＆ 2․ 65 maps in oneǃ All of the town and school mapsǃ Now Quest compatibleǃǃ Recent update˸ 5⁄3⁄23",
+        "publication_date": "2020-07-18T20:50:52.209Z"
+      },
+      {
+        "id": "wrld_0568ea87-5437-4b48-ae0a-b8d721792ade",
+        "name": "The Outlands （East Euro）",
+        "author_name": "Taggynn",
+        "description": "v․1․16˸ A foggy morning rises above a bay east of City 17; a neutral zone that often sees skirmishes between Combine and the Resistance․｜ Port of gm_Fork",
+        "publication_date": "2021-11-22T19:31:47.664Z"
+      },
+      {
+        "id": "wrld_96c9b4ef-862a-44e5-a303-063ca4241fce",
+        "name": "親戚の家 Shinsekinoie",
+        "author_name": "milk_purin",
+        "description": "雨と親戚の家 1017",
+        "publication_date": "2022-08-31T16:56:42.246Z"
+      },
+      {
+        "id": "wrld_f8089010-358c-4177-800e-8ff632f3041f",
+        "name": "Distillery Bar ［Half-Life˸ Alyx］",
+        "author_name": "DarkBlade909",
+        "description": "Map design by Valve",
+        "publication_date": "2023-03-05T18:55:02.940Z"
+      },
+      {
+        "id": "wrld_2826e2c8-7567-497d-a516-d21b24749c99",
+        "name": "Holiday",
+        "author_name": "DAGINATSUKO",
+        "description": "We venture not to escape life‚ but for life to not escape us - Holiday is a focused space for you and a few friends or significant other to relax and soak in some hotel vibes on a rainy day․ Inspiration for this world was drawn from my love for traveling and exploring new places but always having a comfy space to go back to between adventures․ My goal for this project was to create a smaller‚ focused space to escape reality with your expected VRChat creature comforts․",
+        "publication_date": "2023-02-06T13:57:07.429Z"
+      },
+      {
+        "id": "wrld_28e96571-5447-4ce4-9b01-0a812da7426b",
+        "name": "坪倉家｜Tsubokura's Home",
+        "author_name": "kohack_v",
+        "description": "Cross Platform Readyǃ Youtube is allowed only PC․ 20210525 Updated",
+        "publication_date": "2018-11-10T01:02:45.831Z"
+      },
+      {
+        "id": "wrld_89431c35-dc29-40d4-94ee-1ad656054d0f",
+        "name": "INTERIOR COLLECTION",
+        "author_name": "Miller-",
+        "description": "",
+        "publication_date": "2021-08-28T15:32:48.844Z"
+      },
+      {
+        "id": "wrld_63042ad2-0aa8-49cd-a4bd-a38af7aaf85a",
+        "name": "Endgame Stage",
+        "author_name": "poplopo",
+        "description": "Don‘t panic‼ The end is nigh for the old world․ Endgame is a talk show happening every other Wednesday at 7pm PST ｜ 10pm EST․",
+        "publication_date": "2018-11-29T00:35:11.725Z"
+      },
+      {
+        "id": "wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4",
+        "name": "Absence",
+        "author_name": "dawidcsx",
+        "description": "world made by me and my friend apathy․ any feedback on the world can be reported to my discord csx＃1996",
+        "publication_date": "2021-12-26T07:41:33.749Z"
+      },
+      {
+        "id": "wrld_bff6d3db-8c2b-4a72-8952-1beeddc9d6f8",
+        "name": "The Third Northern Hall",
+        "author_name": "duck",
+        "description": "A world loosely inspired by the book Piranesi․ Music by Toshifumi Hinata․",
+        "publication_date": "2022-08-08T04:14:59.764Z"
+      },
+      {
+        "id": "wrld_c32ee82d-e8cf-4971-ba98-fb44685b4994",
+        "name": "LakeSide Studio",
+        "author_name": "MOREFOX",
+        "description": "LakeSide Studio Custom by MOREFOX",
+        "publication_date": "2023-03-20T12:04:11.792Z"
+      },
+      {
+        "id": "wrld_c98148ca-2915-4111-997b-4baa0da854bb",
+        "name": "NEON",
+        "author_name": "AyahuyA（はかせ）",
+        "description": "NEON DREAM ROOM",
+        "publication_date": "2023-02-02T14:49:23.441Z"
+      },
+      {
+        "id": "wrld_f495426d-e58c-4392-a144-34a715df212f",
+        "name": "Fast Internet Airbnb （711MB）",
+        "author_name": "Μerlin",
+        "description": "Big download have fun․ Now higher quality and 20％ off․",
+        "publication_date": "2019-04-10T06:45:10.757Z"
+      },
+      {
+        "id": "wrld_98400948-004d-44b8-9dea-293a3badf70f",
+        "name": "Climbing Trials - Rapunzel",
+        "author_name": "Fionna",
+        "description": "By Fionna and CyanLaser․ Find enough cubefruits to unlock Rapunzel's tower․ Also look for that sneaky chameleon‚ he likes to hide․",
+        "publication_date": "2019-06-23T21:54:36.740Z"
+      },
+      {
+        "id": "wrld_7881a3fc-6614-4510-840b-5f03be5610e2",
+        "name": "Pink Tears",
+        "author_name": "MinaFrancesca",
+        "description": "MinaFrancesca's World․ Give this world to an important sister․",
+        "publication_date": "2019-06-22T18:31:04.166Z"
+      },
+      {
+        "id": "wrld_d836c3a4-4f9d-4f58-95f0-818ccd07cc4d",
+        "name": "Infinite Boxes",
+        "author_name": "yagiri",
+        "description": "",
+        "publication_date": "2019-04-25T08:26:34.791Z"
+      },
+      {
+        "id": "wrld_e90a3d88-2926-4c39-aae4-ddfe7db768f1",
+        "name": "Fluid Flow Studio",
+        "author_name": "1001",
+        "description": "Paint and control fluids using your avatar‚ shader fluid simulation",
+        "publication_date": "2019-11-09T05:27:30.688Z"
+      },
+      {
+        "id": "wrld_5a327175-1e9b-4788-a947-e9a0f058e965",
+        "name": "MAYA HOUSE",
+        "author_name": "ღKaedeಇ",
+        "description": "『MAYA』ファンワールド UdonChipsを貯めて舞夜（MAYA）ちゃんを買おう！ 舞夜ちゃんを開放するとワールド オブジェクトも増えるよ！",
+        "publication_date": "2023-02-07T15:48:07.070Z"
+      },
+      {
+        "id": "wrld_953570c1-565f-464d-bf22-cfaea7a8b5f1",
+        "name": "A․venue Pub",
+        "author_name": "Reava_",
+        "description": "A realistic pub ported from Unreal Engine with full functionality‚ arcades‚ drinking games‚ pool tables‚ props＆ extensive UI options․ Still in development feature wise‚ but optimized and ready for useǃ Join the discord to follow its development․",
+        "publication_date": "2023-04-29T21:27:31.416Z"
+      },
+      {
+        "id": "wrld_032463f5-d01d-4440-89c5-e0d2d9b120c1",
+        "name": "Breadboard Electronics",
+        "author_name": "Spelso",
+        "description": "Digital Electronics Museum ~ Discover the wonderful world of circuitry and digital computing in this logic gate simulator․ You can build circuits together with your friendsǃ",
+        "publication_date": "2023-06-09T10:36:35.938Z"
+      },
+      {
+        "id": "wrld_a58b67be-a143-4f8a-8177-a2029b14520c",
+        "name": "Where's your friend",
+        "author_name": "Kagerou",
+        "description": "Hide and Seek",
+        "publication_date": "2019-05-31T02:41:19.111Z"
+      },
+      {
+        "id": "wrld_73951752-b71d-43de-a58b-d8ed1c97c2e4",
+        "name": "PEKO PEKO BATTLE",
+        "author_name": "キャンディちゃん",
+        "description": "This is a game world like rugby or soccer․",
+        "publication_date": "2019-08-27T18:24:26.922Z"
+      },
+      {
+        "id": "wrld_73951752-b71d-43de-a58b-d8ed1c97c2e4",
+        "name": "PEKO PEKO BATTLE",
+        "author_name": "キャンディちゃん",
+        "description": "This is a game world like rugby or soccer․",
+        "publication_date": "2019-08-27T18:24:26.922Z"
+      },
+      {
+        "id": "wrld_4596b51a-9148-4bfb-ba39-6654cd594735",
+        "name": "Initial Sleigh - Sleigh Racing",
+        "author_name": "CurtisVL",
+        "description": "Race sleighs down the mountain passǃ Deliver presents to Lil' Timmy before the clock strikes 12ǃ （Or just race sleighs‚ I suppose）",
+        "publication_date": "2022-12-23T07:37:55.580Z"
+      },
+      {
+        "id": "wrld_5c5fbdc7-6168-4cda-831b-cd63acdcb7b5",
+        "name": "Cartoon Living",
+        "author_name": "_Asylum",
+        "description": "A interactable Pixar-like 2 room Livingroom w⁄Hallwayǃ soft lighting and atmosphere FAVORITE if you want me to upload whole houseǃ",
+        "publication_date": "2022-07-25T01:58:43.054Z"
+      },
+      {
+        "id": "wrld_7644eab0-6408-42ab-8088-454c32c08768",
+        "name": "Atoll of Ether",
+        "author_name": "Maebbie",
+        "description": "Swap Day ＆ Night at Spawn․ Within an endless Ocean‚ along a peaceful Beach you may find a view of the Sea that few have seen․ Lagfree using 12 Drawcalls and it also has a mirror‚ whoa․",
+        "publication_date": "2019-09-12T05:10:32.342Z"
+      },
+      {
+        "id": "wrld_608cb1e4-9bff-46f1-810c-dae5b0cd2770",
+        "name": "Raawr's Horror Hideout˸ Remastered",
+        "author_name": "Raawr",
+        "description": "A Virtual Horror Ride Remastered for Halloween 2019ǃ Only for 8 Players at onceǃ This Ride goes for 20 minǃ",
+        "publication_date": "2019-05-04T23:02:39.315Z"
+      },
+      {
+        "id": "wrld_6bb80885-9077-4334-b8f5-9e19dd7e911e",
+        "name": "lonely-stay with me-",
+        "author_name": "せな＠f_senaValli",
+        "description": "クリア時間は約1時間です。一人または二人推奨です。ルート分岐があります。日本語のみ対応",
+        "publication_date": "2022-06-11T10:21:13.757Z"
+      },
+      {
+        "id": "wrld_0a7397db-79ff-46ce-911b-7a022cbb2c52",
+        "name": "ResilienceVR IK Demo v1․2",
+        "author_name": "Haï~",
+        "description": "An experimental world about inverse kinematics․ このアバターは著者の許可を得て使用されています -- v1․2˸ Fix levers grabbing into the wrong position",
+        "publication_date": "2023-05-03T05:34:24.173Z"
+      },
+      {
+        "id": "wrld_3d96d36d-f979-45af-b870-56f20e5e581a",
+        "name": "City Scape",
+        "author_name": "DvLRaphy",
+        "description": "You drove to the outskirts of the city to watch it glow trying to de-stress after a long day․",
+        "publication_date": "2022-10-20T14:09:55.021Z"
+      },
+      {
+        "id": "wrld_a0d06f6d-57b9-4943-9b94-370c338de443",
+        "name": "Udon AudioLink v3 Beta",
+        "author_name": "llealloo",
+        "description": "Audio reactive prefab system for VRChat․ github․com ⁄ llealloo ⁄ vrc-udon-audio-link",
+        "publication_date": "2022-10-13T15:39:43.108Z"
+      },
+      {
+        "id": "wrld_d4a5d89b-3b43-48ff-af8c-b9fd6374062f",
+        "name": "High Above Ground",
+        "author_name": "nekem_nyolc",
+        "description": "Giant sci-fi tower on an alien planet․",
+        "publication_date": "2022-06-22T03:21:29.915Z"
+      },
+      {
+        "id": "wrld_0adda57b-5be5-4593-9001-390a5a3adfa5",
+        "name": "Architecture 3",
+        "author_name": "nekem_nyolc",
+        "description": "Architectural art and chill world․",
+        "publication_date": "2020-07-08T11:40:53.931Z"
+      },
+      {
+        "id": "wrld_0e627ff5-5e84-41fc-8129-8af1173a96a2",
+        "name": "Fragment˸New World",
+        "author_name": "TOTOM",
+        "description": "どこかの世界の欠片",
+        "publication_date": "2021-09-02T21:21:40.444Z"
+      },
+      {
+        "id": "wrld_20a3beaf-0bfb-4ead-93df-6b150296439c",
+        "name": "Museum-of-Vrpainting",
+        "author_name": "tanabe",
+        "description": "vr-painting",
+        "publication_date": "2020-09-22T14:11:45.708Z"
+      },
+      {
+        "id": "wrld_d9f04ef9-8e5c-4aa3-bca7-ca7ba5388b16",
+        "name": "VoxKVolumetricDirectionalLight",
+        "author_name": "VoxelKei",
+        "description": "VolumetricLight with RealtimeGI․ This world is available on my BOOTH․ https˸⁄⁄voxelkei․booth․pm⁄items⁄3368655",
+        "publication_date": "2022-01-08T01:17:32.825Z"
+      },
+      {
+        "id": "wrld_50f36446-d1d8-4e31-8639-dcaa8fe2f66d",
+        "name": "MIRЯIM",
+        "author_name": "IgbarVonSquid",
+        "description": "Something seems a little off about this mirror․․․ A Spookality 2020 winnerǃ Singleplayer recommended‚ but supports up to 4 players without sync․ Now playable on Questǃ",
+        "publication_date": "2020-10-28T05:14:21.388Z"
+      },
+      {
+        "id": "wrld_7f1da1d8-9e46-4e13-ad43-20e3900da601",
+        "name": "Holy Sword Forest v3․1",
+        "author_name": "yasufusa",
+        "description": "Holy Sword Forest 20200413update forUnity2018․4․20f1",
+        "publication_date": "2018-12-13T20:04:21.571Z"
+      },
+      {
+        "id": "wrld_3af0936c-bf2f-4f37-b40f-0a5b29ac7a18",
+        "name": "Ice Skating Udon",
+        "author_name": "Joker is punk",
+        "description": "Download at booth․pm⁄jokerispunk․ Hips control direction․ Move feet to speed up․ Turn legs quickly to hockey stop․ Spin 180 to skate backwards․ Pull both triggers for Menu （desktop˸ double-click）․",
+        "publication_date": "2022-12-21T03:25:23.489Z"
+      },
+      {
+        "id": "wrld_48abf76b-a81e-43a7-bdc0-cbd314384aae",
+        "name": "Eternal Ash",
+        "author_name": "Karl Kroenen",
+        "description": "the ashes of a once great flame ․․․ wash away the remains of a once human‚ find the soul and return it to the hollow․",
+        "publication_date": "2021-01-30T23:22:10.580Z"
+      },
+      {
+        "id": "wrld_410da335-1c87-429b-ba1d-15147c48ef23",
+        "name": "Sphmir",
+        "author_name": "Juice․․․",
+        "description": "Sometimes you just need an orb to ponder․ Maybe a mirror too․․․ Why not have both?",
+        "publication_date": "2021-08-09T18:44:29.119Z"
+      },
+      {
+        "id": "wrld_ea310009-e49a-4752-86f4-f3f70b49ebcc",
+        "name": "Loxodrome",
+        "author_name": "nemurigi",
+        "description": "",
+        "publication_date": "2022-06-05T16:48:08.782Z"
+      },
+      {
+        "id": "wrld_3b7c002d-a027-40c2-af39-e5ec9bddb3f0",
+        "name": "Star Size Comparison",
+        "author_name": "yorimiya57",
+        "description": "【Star Size VR ver5】",
+        "publication_date": "2020-01-02T23:17:11.753Z"
+      },
+      {
+        "id": "wrld_8364cbd6-819b-4737-acc3-6279e07cf0f6",
+        "name": "The Tenth Floor",
+        "author_name": "-dem-",
+        "description": "1-12 players - Length˸ 20-30 minutes․ This is a halloween⁄spookality map based around moving up an elevator where various spooky things will happen along the way․ Use a humanoid avatar with no emissions‚ turn off name plates‚ and try to make it a normalish size․",
+        "publication_date": "2021-10-30T00:41:32.459Z"
+      },
+      {
+        "id": "wrld_f5a298f6-83e6-45ee-be58-4fafbbd38139",
+        "name": "Shader Fes 2019",
+        "author_name": "momoma",
+        "description": "様々なクリエイターによる100以上のシェーダー作品を展示しています。Over 100 shader works by various creators are on display․",
+        "publication_date": "2019-12-15T02:36:35.891Z"
+      },
+      {
+        "id": "wrld_14b06a59-f43b-40b2-9083-718e1ed4c1cf",
+        "name": "Playland Escapeǃ",
+        "author_name": "JohnD0E",
+        "description": "It's Halloween and your parents have gone out for the night leaving you at your favorite Playcenter‚ what could go wrong? An escape room ⁄ puzzle style horror game for players 3-6",
+        "publication_date": "2022-10-27T20:12:59.920Z"
+      },
+      {
+        "id": "wrld_39d957b6-dffe-4370-8b04-71a77f1c82e7",
+        "name": "Voxel Optic",
+        "author_name": "じょに！JohnnyK",
+        "description": "Voxel Optic is a fan-made world of the video game ＂Superliminal＂․ The scaler gimmick works locally․",
+        "publication_date": "2022-11-25T10:35:27.943Z"
+      },
+      {
+        "id": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
+        "name": "BABELǃ",
+        "author_name": "Linx（リンクス）",
+        "description": "Shooting and Building PVP Gameǃ For 2-20 Players․ Support VR ⁄ Desktop ⁄ Quest․ 建築系対戦シューティングゲームです。2～20人で遊べます。VR ⁄ デスクトップ ⁄ Quest対応！",
+        "publication_date": "2023-01-28T11:15:04.759Z"
+      },
+      {
+        "id": "wrld_226b95e6-8fc6-4bb3-835e-13c99c1391af",
+        "name": "Approacher⁄Escape",
+        "author_name": "rance0y",
+        "description": "Escape before you get crushedǃ 60 minutes time limit․",
+        "publication_date": "2022-09-24T06:14:39.007Z"
+      },
+      {
+        "id": "wrld_264824fa-796d-495b-84eb-9deaef542362",
+        "name": "RC World",
+        "author_name": "Bia_Kawaii_Br",
+        "description": "RC World with over 30 different cars‚ you can sit in the cars to move around with it and press the jump button to exit․",
+        "publication_date": "2021-08-30T23:02:27.752Z"
+      },
+      {
+        "id": "wrld_5a528c03-01f5-4399-8f0d-cbcc5c305a57",
+        "name": "VRWare",
+        "author_name": "Haï~",
+        "description": "Challenge your friends to a series of fast-paced minigamesǃ次々と出されるミニゲームでフレンドと挑戦 ！",
+        "publication_date": "2021-09-03T05:06:55.831Z"
+      },
+      {
+        "id": "wrld_0fa4d8c1-59bc-4572-bd58-1172c3bdaf49",
+        "name": "Catch The Stars 2",
+        "author_name": "suzuki_i",
+        "description": "Catch The Stars 2",
+        "publication_date": "2022-01-09T19:18:12.468Z"
+      },
+      {
+        "id": "wrld_26c38507-8915-40d5-9338-667f01fe3b4c",
+        "name": "Valkyrie Defense",
+        "author_name": "Blonix",
+        "description": "2hours Udon game․ 5~10 player recommended․ Fly using a booster and defense crystals against hostile drones․ Be careful for the VR motion sickness․ Support EN⁄KR⁄JP․ ver 1․22",
+        "publication_date": "2021-07-17T08:24:58.691Z"
+      },
+      {
+        "id": "wrld_3b0014d7-b82f-4249-bfc4-64f65815c4f3",
+        "name": "Colorful Dash -カラフルダッシュ",
+        "author_name": "丸井アリス",
+        "description": "色を集めるアクションゲーム。 全5ステージ＋おまけ。 Use dash to clear the stage․There are 5 stages and Extra stage․ Made with Udon․",
+        "publication_date": "2020-09-10T14:52:55.966Z"
+      },
+      {
+        "id": "wrld_54501087-0024-425d-b2ef-5baf830e1940",
+        "name": "Time Breach",
+        "author_name": "Jordo",
+        "description": "Attempt to make your way out‚ a world created by Jordo‚ Legends‚ Ruuubick ＆ Akalink in two weeks for the VRCPrefabs jam ＂Experiments in Time＂․",
+        "publication_date": "2021-11-29T17:32:15.683Z"
+      },
+      {
+        "id": "wrld_c6b6c1fa-ed05-46eb-a148-38655c64b8e4",
+        "name": "Meat Grinder",
+        "author_name": "Jordo",
+        "description": "Inspired by Gmod's Slope gamemode‚ climb to the top while dodging high speed projectilesǃ Holoport is not supported",
+        "publication_date": "2019-12-07T19:40:03.049Z"
+      },
+      {
+        "id": "wrld_c4cb4e91-8d34-467f-873d-bbe72b92d21a",
+        "name": "Overseer",
+        "author_name": "Jar",
+        "description": "Beware the Overseerǃ Blend in․ Steal coins․ Run away․",
+        "publication_date": "2021-09-04T00:14:47.543Z"
+      },
+      {
+        "id": "wrld_73e0beea-eceb-491b-b21a-31353990a65e",
+        "name": "Marble Puzzles",
+        "author_name": "Jar",
+        "description": "Build contraptions to get the marble into the goal․ 20 increasingly difficult stages to clearǃ by jar",
+        "publication_date": "2020-08-19T21:24:24.916Z"
+      },
+      {
+        "id": "wrld_066616c9-1eb6-4931-9cf5-14ca5eba4be7",
+        "name": "Le Froge Ponde",
+        "author_name": "Fionna",
+        "description": "World by Fionna and Cyanlaser‚ in honor of the birth of Ruuubick․ Additional frog models by˸ Akalink‚ IgbarVonSquid‚ Chim-Cham‚ Peptron1‚ Lakuza‚ Legends‚ orels1‚ Jordo․ Special thanks to Phasedragon for Udon Object Pooling system and freesound․com and Fins for shader and sound assets․",
+        "publication_date": "2021-01-28T22:14:00.229Z"
+      },
+      {
+        "id": "wrld_955ded62-6d09-4b84-999c-05fa97f9238b",
+        "name": "Just Moved In",
+        "author_name": "Lucifer MStar",
+        "description": "Just moved in is a semi-realistic world I have created to allow for a better more immersed hangout experiences․ Now updated to look better than ever and powered by Udon․ 15⁄11⁄2021",
+        "publication_date": "2020-01-24T22:06:53.282Z"
+      },
+      {
+        "id": "wrld_b1317301-d8fa-4d49-816e-0a695989342b",
+        "name": "Abstract˸Coast［ModelRoom］",
+        "author_name": "Lura_",
+        "description": "Abstract˸Coast ［ModelRoom］",
+        "publication_date": "2022-02-27T16:00:57.193Z"
+      },
+      {
+        "id": "wrld_9b02567a-e68f-4921-a8a8-068c1a9b7b9a",
+        "name": "Pacific Dreams （Night）",
+        "author_name": "Fwullie",
+        "description": "A tropical island themed hangout with the usual stuff˸ Videoplayer‚ Billiards‚ Mirrors and more․",
+        "publication_date": "2023-01-03T03:12:25.653Z"
+      },
+      {
+        "id": "wrld_d9b3fd1c-a4ac-4671-8766-17cdb561732a",
+        "name": "Exhibition ⁄ little traitors",
+        "author_name": "haruki_haru",
+        "description": "lie?",
+        "publication_date": "2023-02-19T04:23:40.692Z"
+      },
+      {
+        "id": "wrld_480cc1fd-bd76-40be-a8e5-7b89bd548496",
+        "name": "Submerge 2",
+        "author_name": "Fins",
+        "description": "The sequel to Submerge‚ venture into the abyss with Dr․ Angela and uncover the mysterious disappearance of NOAA expedition ship․ 4 player maximum․",
+        "publication_date": "2020-11-08T03:14:38.861Z"
+      },
+      {
+        "id": "wrld_43f4f777-4e65-4d8d-bb08-d3a67b402ec8",
+        "name": "Girls' Last Tour - fan world",
+        "author_name": "OEKA_AKI",
+        "description": "Girls' Last Tour （Shojo Shumatsu Ryoko） 13 ＂RAIN SONG＂․ Made by TiltBrush․",
+        "publication_date": "2020-02-20T01:46:49.970Z"
+      },
+      {
+        "id": "wrld_9c22a75f-727d-4a87-aa5b-a1d1bd14bfcf",
+        "name": "Soglio Village",
+        "author_name": "nobelchoco",
+        "description": "",
+        "publication_date": "2020-12-26T03:43:19.537Z"
+      },
+      {
+        "id": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
+        "name": "Eccentric Rooms",
+        "author_name": "suzuki_i",
+        "description": "Eccentric Rooms",
+        "publication_date": "2023-05-22T13:46:21.518Z"
+      },
+      {
+        "id": "wrld_224d9018-f052-487d-932d-f83febf530c1",
+        "name": "v1․11 ｜ Noir - Nocturne ｜ Chapter 1",
+        "author_name": "AltCentauri",
+        "description": "v1․11 ｜ Playtime is 1-3hrsǃ ｜Travel miles below the surface to the underground city of Nocturne and discover its secretsǃ",
+        "publication_date": "2021-10-30T00:41:30.655Z"
+      },
+      {
+        "id": "wrld_7965beb8-7ea8-4e44-a5ae-ae4c0e4dcb03",
+        "name": "Late Night Sauna",
+        "author_name": "VVolfly",
+        "description": "An indoor sauna using volumetric fog and screen space reflections to give an immersive experience․",
+        "publication_date": "2021-11-13T17:48:41.198Z"
+      },
+      {
+        "id": "wrld_ca928d42-fd97-436f-9413-49be86b56cb2",
+        "name": "Grapple Island",
+        "author_name": "Sacchan",
+        "description": "Learn to use a grappling hook․ Update˸ Race system upgrades and instance recordsǃ",
+        "publication_date": "2023-02-08T02:09:04.982Z"
+      },
+      {
+        "id": "wrld_033b9f75-49be-4213-9218-a540dd2be60a",
+        "name": "Tanuki Tunes! - タヌキトゥーンズ",
+        "author_name": "Juno Tanuki",
+        "description": "Pick up an album and play it in the record player. Over 300+ albums to listen to! - 300を超えるレコードを聞けます",
+        "publication_date": "2021-10-03T21:22:10.473Z"
+      },
+      {
+        "id": "wrld_b155ff30-0bbf-486c-afc5-e7a05145387b",
+        "name": "VirtualFurence Furry Convention Hotel Estrel Berlin",
+        "author_name": "Reimajo",
+        "description": "Now with a working VR Piano, Elevators, Rooms, VR Keyboard, Chat System, Know your friends better dice game! - Follow us on Twitter @VirtualFurence or join our Discord! discord.gg pmWvzbM",
+        "publication_date": "2021-04-18T23:20:04.622Z"
+      },
+      {
+        "id": "wrld_212e2fd9-7e06-446d-b654-3c4c20e53c0f",
+        "name": "Tuscany",
+        "author_name": "Μerlin",
+        "description": "The original Tuscany demo shipped with the Oculus Rift DK1. Now with an Oculus Quest version!",
+        "publication_date": "2019-08-25T12:37:42.335Z"
+      },
+      {
+        "id": "wrld_1a35e5be-345f-4a54-8fe2-ce74928b2daa",
+        "name": "Bag End - Hobbiton",
+        "author_name": "LucidKiwi",
+        "description": "A full-scale interior recreation of Bilbo Baggins home, Bag End, set in a smaller version of Hobbiton.",
+        "publication_date": "2022-09-10T12:44:30.412Z"
+      },
+      {
+        "id": "wrld_4a48a5c1-fae9-416c-98ad-ec410687224d",
+        "name": "Would You Rather",
+        "author_name": "Kiran",
+        "description": "A game of 1000+ randomized questions of 'Would you rather...'[EN / KR / JP]",
+        "publication_date": "2021-04-24T16:23:46.881Z"
+      },
+      {
+        "id": "wrld_ab68f896-a21f-4d72-a016-5a0a42c3158f",
+        "name": "Putt Putt Pond",
+        "author_name": "Ostinyo",
+        "description": "Golf with friends... in VR! Play on two 18 hole courses with fully scripted mini golf plus other games!",
+        "publication_date": "2021-03-16T04:13:13.065Z"
+      },
+      {
+        "id": "wrld_c631055c-edeb-4ddb-a3d4-09b1dcb7a0a5",
+        "name": "Climbing Trials - Colossus",
+        "author_name": "Lakuza",
+        "description": "Climbing Dungeon + Giant Boss battle using Cyanlaser's climbing system (Made using SDK2 in 2019)",
+        "publication_date": "2020-11-15T01:34:39.916Z"
       }
 ]
