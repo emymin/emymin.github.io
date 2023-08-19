@@ -11,6 +11,8 @@ description: A large list of VRChat worlds I think are cool
         text-align: center;
         list-style: none;
         padding-left: 0;
+        opacity: 1;
+        transition: opacity 0.2s; 
     }
 
     .world {
@@ -18,16 +20,46 @@ description: A large list of VRChat worlds I think are cool
         padding: 20px;
     }
 
-    .world img {
+    .preview {
         width: 100%;
         height: 375px;
         box-shadow: 0px 2px 35px 0px rgba(0, 0, 0, 0.7);
         border-radius: 20px;
         object-fit: cover;
     }
+
+    .description {
+        height:100px;
+    }
+
+    .tags{
+        display: flex;
+        align-items: center;
+    }
+
+    .tag {
+        margin: 5px;
+        padding: 5px;
+        font-weight: normal;
+        border-radius: 5px;
+        background-color: var(--fg-color);
+        color: var(--bg-color);
+        cursor: pointer;
+    }
+
+    .tag-clicked {
+        background-color: var(--bg-color);
+        color: var(--fg-color);
+        outline: 2px solid;
+    }
+
+    .fade{
+        opacity: 0;
+    }
+
 </style>
 
-<div style="display: flex; justify-content: center;">
+<section style="display: flex; justify-content: center;">
     <div style="text-align: center; width: 80%;">
         <p>I have been world hopping (almost) daily for many years now, and I've ran into a lot of super cool worlds! <br>
             This is a collection of some of my favourite ones. <br>
@@ -35,15 +67,38 @@ description: A large list of VRChat worlds I think are cool
             reminded of them.</p>
         <p style="font-style: italic;">Also considering checking out <a href="/creations/vrchat">my worlds and prefabs</a> ;)</p>
     </div>
-</div>
+</section>
+
+{% assign worlds = site.data.cool_worlds | sort:"publication_date" | reverse %}
+
+<section style="display: flex; flex-direction: column; align-items: center;">
+    <h2>Tags</h2>
+    <p id="worldcount" style="margin-top: 0px;">{{worlds | size}} worlds visible</p>
+    <div style="display: flex; flex-wrap: wrap; max-width: 1000px; justify-content: center;">
+        {% assign all_tags =  worlds | map: 'tags' | uniq | sort %}
+        {% for tag in all_tags %}
+        {% assign count = worlds | where: "tags", tag | size %}
+        <a class="tag {{tag}}" onclick="onTagClick(this.classList.contains('tag-clicked'),'{{tag}}')"><b>{{tag}}</b> ({{count}})</a>
+        {% endfor %}
+    </div>
+</section>
 
 <ul class="worlds-container">
-    {% assign worlds = site.data.cool_worlds | sort:"publication_date" | reverse %}
     {% for world in worlds %}
-    <li class="world">
+    {% assign tags = world.tags %}
+    <li class="world {% for tag in tags %}{{tag}} {%endfor%}">
         <a href="https://vrchat.com/home/launch?worldId={{world.id}}" target="_blank">
-            <img src="images/{{world.id}}.jpg" loading="lazy" alt="{{world.name}}">
+            <img class="preview" src="images/{{world.id}}.jpg" loading="lazy" alt="{{world.name}}">
         </a>
+        <div style="display: flex; align-items: center; justify-content: space-between;">
+            <a href="vrcx://world/{{world.id}}" ><img src="/assets/svg/vrcx.svg" class="color-svg" style="width:30px"></a>
+            <div class="tags">
+                <p style="font-weight: bold;">Tags:</p>
+                {% for tag in tags %}
+                <a class="tag {{tag}}" onclick="onTagClick(this.classList.contains('tag-clicked'),'{{tag}}')">{{tag}}</a>
+                {% endfor %}
+            </div>
+        </div>
         <h2>{{world.name}}</h2>
         <p>{{world.author_name}}</p>
         <p class="description">{{world.description | truncatewords: 50 | replace: "⁄","/" | replace: "˸",":" | replace:
@@ -59,5 +114,48 @@ description: A large list of VRChat worlds I think are cool
         description.innerHTML = description.innerHTML.replace(urlPattern, function (matchedUrl) {
             return '<a href="' + matchedUrl + '">' + matchedUrl + '</a>';
         });
+    }
+
+
+    var filters = [];
+    var worldcount = Number("{{ worlds | size}}");;
+    
+    function refresh_filters(){
+        worldcount = 0;
+        document.querySelectorAll(".world").forEach(world =>{
+            keep = true;
+            filters.forEach(tag => {
+                keep = keep && world.classList.contains(tag);
+            });
+            world.style.display = keep ? "" : "none";
+            if(keep){worldcount+=1;}
+        });
+
+        document.querySelectorAll(".tag").forEach(tag => {
+            tag.classList.toggle("tag-clicked",filters.includes(tag.classList[1]));
+        });
+
+        document.querySelector("#worldcount").textContent = worldcount +" "+ (worldcount==1?"world":"worlds") + " visible";
+    }
+
+    function add_filter(filter){
+        filters.push(filter);
+        refresh_filters();
+    }
+    function remove_filter(filter){
+        const index = filters.indexOf(filter);
+        if (index > -1) {
+            filters.splice(index, 1);
+        }
+        refresh_filters();
+    }
+
+    function onTagClick(isClicked,tag){
+        var worlds = document.querySelector(".worlds-container");
+        worlds.classList.add("fade");
+        setTimeout(() => {
+            isClicked ? remove_filter(tag) : add_filter(tag);
+            worlds.classList.remove("fade");
+        },300)
     }
 </script>

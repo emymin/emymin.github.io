@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="87.136116mm"
+   height="90.284485mm"
+   viewBox="0 0 87.136116 90.284485"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#353535"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" /><defs
+     id="defs2" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-53.117807,-134.00599)"><g
+       transform="matrix(0.03527778,0,0,-0.03527778,51.883081,224.29047)"
+       fill="#000000"
+       stroke="none"
+       id="g63"><path
+         d="M 298,2549 C 193,2534 107,2471 59,2374 L 35,2325 V 1590 855 L 59,806 C 92,740 150,684 219,651 l 56,-26 611,-3 612,-3 211,-273 C 1825,196 1936,57 1956,37 l 37,-37 h 88 88 l 28,37 28,36 3,279 3,278 h 22 c 37,0 123,46 164,87 21,21 50,61 63,88 l 25,50 v 735 735 l -25,50 c -28,56 -84,116 -132,141 -84,44 -87,44 -1063,43 -511,-1 -956,-5 -987,-10 z m 1977,-128 c 47,-22 89,-64 104,-104 15,-39 15,-1415 0,-1454 -13,-35 -55,-80 -94,-101 -16,-8 -61,-18 -100,-21 l -70,-6 -5,-320 c -5,-351 -5,-350 -63,-305 -15,12 -133,158 -263,326 L 1549,740 H 927 c -584,0 -624,2 -662,19 -47,22 -89,64 -104,104 -15,39 -15,1415 0,1454 15,40 57,82 104,104 38,18 87,19 1005,19 918,0 967,-1 1005,-19 z"
+         id="path59" /><path
+         d="m 722,2138 c 53,-70 378,-538 378,-544 0,-3 -90,-133 -200,-289 -110,-156 -200,-286 -200,-289 0,-3 71,-6 159,-6 h 158 l 123,186 c 68,102 127,187 132,190 4,3 64,-81 132,-186 l 125,-190 h 171 172 l -44,63 c -63,89 -331,477 -352,509 l -17,26 193,269 c 107,147 197,274 202,281 6,9 -28,12 -156,12 l -163,-1 -119,-175 c -66,-96 -123,-177 -128,-180 -4,-3 -61,76 -128,176 l -120,180 H 869 698 Z"
+         id="path61" /></g></g></svg>
