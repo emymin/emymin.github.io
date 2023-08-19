@@ -74,7 +74,7 @@ description: A large list of VRChat worlds I think are cool
 <section style="display: flex; flex-direction: column; align-items: center;">
     <h2>Tags</h2>
     <p id="worldcount" style="margin: 5px;">{{worlds | size}} worlds visible</p>
-    <a id="vrcximport" href="">[ Export to VRCX ]</a>
+    <a id="vrcximport" href="vrcx://import/world/{% for world in worlds %}{{world.id}},{%endfor%}">[ Export to VRCX ]</a>
     <div style="display: flex; flex-wrap: wrap; max-width: 1000px; justify-content: center; margin-top: 20px;">
         {% assign all_tags =  worlds | map: 'tags' | uniq | sort %}
         {% for tag in all_tags %}
@@ -92,7 +92,7 @@ description: A large list of VRChat worlds I think are cool
             <img class="preview" src="images/{{world.id}}.jpg" loading="lazy" alt="{{world.name}}">
         </a>
         <div style="display: flex; align-items: center; justify-content: space-between;">
-            <a href="vrcx://world/{{world.id}}" ><img src="/assets/svg/vrcx.svg" class="color-svg" style="width:30px"></a>
+            <a href="vrcx://world/{{world.id}}" ><img src="/assets/svg/vrcx.svg" alt="Open in VRCX" class="color-svg" style="width:30px"></a>
             <div class="tags">
                 <p style="font-weight: bold;">Tags:</p>
                 {% for tag in tags %}
