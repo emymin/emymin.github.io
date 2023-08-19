@@ -73,8 +73,9 @@ description: A large list of VRChat worlds I think are cool
 
 <section style="display: flex; flex-direction: column; align-items: center;">
     <h2>Tags</h2>
-    <p id="worldcount" style="margin-top: 0px;">{{worlds | size}} worlds visible</p>
-    <div style="display: flex; flex-wrap: wrap; max-width: 1000px; justify-content: center;">
+    <p id="worldcount" style="margin: 0px;">{{worlds | size}} worlds visible</p>
+    <a id="vrcximport" href="">[ Export to VRCX ]</a>
+    <div style="display: flex; flex-wrap: wrap; max-width: 1000px; justify-content: center; margin-top: 20px;">
         {% assign all_tags =  worlds | map: 'tags' | uniq | sort %}
         {% for tag in all_tags %}
         {% assign count = worlds | where: "tags", tag | size %}
@@ -86,7 +87,7 @@ description: A large list of VRChat worlds I think are cool
 <ul class="worlds-container">
     {% for world in worlds %}
     {% assign tags = world.tags %}
-    <li class="world {% for tag in tags %}{{tag}} {%endfor%}">
+    <li class="world {% for tag in tags %}{{tag}} {%endfor%}" id="{{world.id}}">
         <a href="https://vrchat.com/home/launch?worldId={{world.id}}" target="_blank">
             <img class="preview" src="images/{{world.id}}.jpg" loading="lazy" alt="{{world.name}}">
         </a>
@@ -118,17 +119,21 @@ description: A large list of VRChat worlds I think are cool
 
 
     var filters = [];
-    var worldcount = Number("{{ worlds | size}}");;
+    var worldcount = Number("{{ worlds | size}}");
     
     function refresh_filters(){
         worldcount = 0;
+        var url = "vrcx://import/world/";
         document.querySelectorAll(".world").forEach(world =>{
             keep = true;
             filters.forEach(tag => {
                 keep = keep && world.classList.contains(tag);
             });
             world.style.display = keep ? "" : "none";
-            if(keep){worldcount+=1;}
+            if(keep){
+                worldcount+=1;
+                url+=world.id+","
+            }
         });
 
         document.querySelectorAll(".tag").forEach(tag => {
@@ -136,6 +141,7 @@ description: A large list of VRChat worlds I think are cool
         });
 
         document.querySelector("#worldcount").textContent = worldcount +" "+ (worldcount==1?"world":"worlds") + " visible";
+        document.querySelector("#vrcximport").href = url;
     }
 
     function add_filter(filter){
