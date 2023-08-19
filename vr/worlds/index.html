@@ -86,7 +86,7 @@ description: A large list of VRChat worlds I think are cool
 
 <ul class="worlds-container">
     {% for world in worlds %}
-    {% assign tags = world.tags %}
+    {% assign tags = world.tags | sort %}
     <li class="world {% for tag in tags %}{{tag}} {%endfor%}" id="{{world.id}}">
         <a href="https://vrchat.com/home/launch?worldId={{world.id}}" target="_blank">
             <img class="preview" src="images/{{world.id}}.jpg" loading="lazy" alt="{{world.name}}">
@@ -116,7 +116,6 @@ description: A large list of VRChat worlds I think are cool
             return '<a href="' + matchedUrl + '">' + matchedUrl + '</a>';
         });
     }
-
 
     var filters = [];
     var worldcount = Number("{{ worlds | size}}");
