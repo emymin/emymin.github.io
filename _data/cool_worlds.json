@@ -219,7 +219,7 @@
     "id": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
     "name": "Japan Street",
     "author_name": "NEET ENGINEER",
-    "description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共 同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
+    "description": "「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共 同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
     "publication_date": "2019-08-01T11:02:22.679Z",
     "tags": ["exploration"]
   },
@@ -515,7 +515,7 @@
     "id": "wrld_eb67a906-0904-4dc1-b4a6-a27d65e7dfa2",
     "name": "Emmelie's dream",
     "author_name": "emudotto",
-    "description": "Emmelie's dream ［JP］ emudotto․avatarのオリジナル3Dアバター「エメリー」を試着できるワールドです。  ［EN］ This is a world for trying on ＂Emmelie＂‚ an original 3D avatar made by emudotto․avatar․ ［KO］emudoto․avatar가 만든 오리지널 3D 아바타인 ＂Emmelie＂를 입어보는 세상입니다․ ［ZH］这是一个试戴 ＂Emmelie ＂的世界，这是一个由emudotto․avatar制作的原创3D头像。",
+    "description": "This is a world for trying on ＂Emmelie＂‚ an original 3D avatar made by emudotto․avatar․",
     "publication_date": "2022-10-23T11:58:22.261Z",
     "tags": ["avatar","hangout"]
   },
@@ -1269,7 +1269,7 @@
     "author_name": "Maki Maki",
     "description": "Pictionary game․ 2 - 20 players․ Draw or guess within the time limit․ Have funǃ",
     "publication_date": "2022-06-10T17:48:27.393Z",
-    "tags": ["puzzle"]
+    "tags": ["party-game"]
   },
   {
     "id": "wrld_7d2af18c-e4a1-4084-9cd2-b27432b45980",
@@ -2163,7 +2163,7 @@
     "id": "wrld_17743934-6102-4bf7-a083-b20b207fab95",
     "name": "Nemophila - Japanese nostalgic Laundry -",
     "author_name": "puri_san",
-    "description": "懐かしいコインランドリーと洋館とプラネタリウムで写真を撮って楽しんでください。 PC版では私のBoothShopで販売している商品を展示しています。 ハイクオリティモードを左ダブルトリガーのメニューでオフにできます。 Enjoy taking pictures in a nostalgic laundromat‚ a Western-style building and a planetarium․ The PC version shows items for sale in my BoothShop․ - High quality mode can be turned off in the left double-trigger menu․",
+    "description": "Enjoy taking pictures in a nostalgic laundromat‚ a Western-style building and a planetarium․ The PC version shows items for sale in my BoothShop․ - High quality mode can be turned off in the left double-trigger menu․",
     "publication_date": "2023-02-03T16:09:08.712Z",
     "tags": ["exploration","hangout"]
   },
@@ -2637,7 +2637,7 @@
     "author_name": "キャンディちゃん",
     "description": "This is a game world like rugby or soccer․",
     "publication_date": "2019-08-27T18:24:26.922Z",
-    "tags": ["pvp"]
+    "tags": ["pvp","sport"]
   },
   {
     "id": "wrld_4596b51a-9148-4bfb-ba39-6654cd594735",
@@ -2677,7 +2677,7 @@
     "author_name": "せな＠f_senaValli",
     "description": "クリア時間は約1時間です。一人または二人推奨です。ルート分岐があります。日本語のみ対応",
     "publication_date": "2022-06-11T10:21:13.757Z",
-    "tags": ["puzzle","experience","adventure","horror"]
+    "tags": ["experience","adventure","horror"]
   },
   {
     "id": "wrld_0a7397db-79ff-46ce-911b-7a022cbb2c52",
@@ -2861,7 +2861,7 @@
     "author_name": "Haï~",
     "description": "Challenge your friends to a series of fast-paced minigamesǃ次々と出されるミニゲームでフレンドと挑戦 ！",
     "publication_date": "2021-09-03T05:06:55.831Z",
-    "tags": ["pvp","party-game"]
+    "tags": ["party-game"]
   },
   {
     "id": "wrld_0fa4d8c1-59bc-4572-bd58-1172c3bdaf49",
