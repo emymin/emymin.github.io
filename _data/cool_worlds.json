@@ -3310,5 +3310,61 @@
     "description": "Freeze your foes in a block of ice! Watch out for magical walls and laser traps. By jar",
     "publication_date": "2021-07-17T13:51:41.665Z",
     "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_1a59da5b-b6bc-4f9d-86f9-08c17e23f154",
+    "name": "Purple's Muse",
+    "author_name": "purpleunicorn3d",
+    "description": "Relax and look at minimalistic art stuff, chill with friends. Be careful not to fall into the spike exhibit!",
+    "publication_date": "2023-07-30T22:37:08.116Z",
+    "tags": ["art","gallery","wacky"]
+  },
+  {
+    "id": "wrld_5e26eee0-e799-4210-8cf8-bcc2638e49ca",
+    "name": "Temporal World: A Haptisonic Virtual Reality Memory World",
+    "author_name": "chloelee",
+    "description": "This is an introduction to the stand-alone version of Temporal World (Official Selection SXSW 2023) and was adapted to be experienced without the custom haptic jacket originally designed for the experience. Thank you to the goEast Film Festival for making this experience possible. Temporal World is a generative, haptisonic VR experience in which artist Chloé Lee reflects on making meaning in places with varying levels of connection to her; from the personal, to the familial to the foreign. We are guided to slow down while exploring Berlin and beyond in our increasingly accelerated time. As an Asian-American artist, she explores themes of migration through discovery, documentation and, eventually, rooting herself in a new place. This VR world emphasizes the ephemerality of memory. Visitors explore and shape the landscape that is as fragmented and fickle as memory itself. -- Director/Producer: Chloé Lee; VR Experience & VRChat Developer: Lucas Martinic; Additional VRchat Development Support: Dale Deacon; info & full credits: www.temporalworld.art",
+    "publication_date": "2023-04-27T00:11:08.453Z",
+    "tags": ["art","experience","exploration"]
+  },
+  {
+    "id": "wrld_b100fc4f-f651-484f-942a-a7bb0326a740",
+    "name": "Ferret Lake",
+    "author_name": "Kattejuice",
+    "description": "Ferret Lake",
+    "publication_date": "2018-11-10T01:03:45.619Z",
+    "tags": ["hangout","avatar","exploration"]
+  },
+  {
+    "id": "wrld_48dd58d3-71b4-49fe-a404-44e72f68bb03",
+    "name": "IviMoArt - VRGallery",
+    "author_name": "IviMoArt․Net",
+    "description": "IviMoArt.net, instagram|IviMoArt, facebook|IviMoArt",
+    "publication_date": "2018-11-27T20:57:51.896Z",
+    "tags": ["art","gallery","wacky"]
+  },
+  {
+    "id": "wrld_e941323c-dbee-4469-82b2-d4eb73a439f5",
+    "name": "A Trip",
+    "author_name": "WACOMalt",
+    "description": "A Trippy chill world. Updated, old version broken by VRChat's World API.",
+    "publication_date": "2022-09-08T19:53:21.607Z",
+    "tags": ["hangout","exploration","art","tech","wacky"]
+  },
+  {
+    "id": "wrld_a3ef9e22-68d7-4dd8-9679-c3b19aaa75cf",
+    "name": "Gear Drive Room",
+    "author_name": "Sitella",
+    "description": "GearDriveRoom",
+    "publication_date": "2019-09-07T23:18:26.629Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_22f8d696-4c57-4f58-9673-2acd9ab340e7",
+    "name": "warehouse",
+    "author_name": "_ax_",
+    "description": "a simple warehouse",
+    "publication_date": "2023-02-19T13:10:15.458Z",
+    "tags": ["hangout"]
   }
 ]

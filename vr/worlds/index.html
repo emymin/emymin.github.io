@@ -29,7 +29,11 @@ description: A large list of VRChat worlds I think are cool
     }
 
     .description {
-        height:100px;
+        height:95px;
+        text-align:center;
+        text-overflow: ellipsis;
+        overflow:hidden;
+        
     }
 
     .tags{
@@ -60,7 +64,7 @@ description: A large list of VRChat worlds I think are cool
 </style>
 
 <section style="display: flex; justify-content: center;">
-    <div style="text-align: center; width: 80%;">
+    <div style="text-align: left; width: 80%; max-width: 500px;">
         <p>I have been world hopping (almost) daily for many years now, and I've ran into a lot of super cool worlds! <br>
             This is a collection of some of my favourite ones. <br>
             Note that this is far from an exhaustive list, I will be adding more worlds as I run into them, or as I get
@@ -100,8 +104,8 @@ description: A large list of VRChat worlds I think are cool
                 {% endfor %}
             </div>
         </div>
-        <h2>{{world.name}}</h2>
-        <p>{{world.author_name}}</p>
+        <h2 style="margin: 5px;">{{world.name}}</h2>
+        <p>By: <b>{{world.author_name}}</b><br> Published: {{world.publication_date | date: "%-d %B %Y"}}</p>
         <p class="description">{{world.description | truncatewords: 50 | replace: "⁄","/" | replace: "˸",":" | replace:
             "․","." }}</p>
     </li>
