@@ -3366,5 +3366,69 @@
     "description": "a simple warehouse",
     "publication_date": "2023-02-19T13:10:15.458Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_d8a747dc-854a-4712-b0e3-13bc3d9cf817",
+    "name": "The Pact",
+    "author_name": "hdorriker",
+    "description":"From One Source All Things Depend.",
+    "publication_date":"2021-08-25T18:06:42.597Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_0a9769ea-9028-4701-8f48-69f4cabe64a8",
+    "name": "Park late at night 4:30am 【深夜四時半、公園で",
+    "author_name":"satukisiryu",
+    "description":"深夜の街って徘徊したくなるよね",
+    "publication_date":"2023-08-02T20:53:59.499Z",
+    "tags":["hangout","exploration"]
+  },
+  {
+    "id":"wrld_d0825e6d-78ca-4e72-b0a2-1bf5c019da41",
+    "name":"Senjougahara Room",
+    "author_name":"Dodokoce",
+    "description":"Senjougahara's House inspired by Bakemonogatari by Shaft.",
+    "publication_date":"2020-12-15T00:49:56.906Z",
+    "tags":["hangout","art"]
+  },
+  {
+    "id":"wrld_83f73f36-f403-4925-8b5d-acde847bd30f",
+    "name":"MUNCH",
+    "author_name": "PK",
+    "description":"PK's set from Break #10, to start the show just make your way to the DJ booth and press play.",
+    "publication_date":"2023-06-27T00:30:57.671Z",
+    "tags":["experience","music"]
+  },
+  {
+    "id": "wrld_5e5511b0-9ef3-419a-bb5a-aa301089607e",
+    "name":"Aspirla",
+    "author_name":"knfoxl",
+    "description":"About the day's record and feelings.",
+    "publication_date":"2023-07-08T23:37:50.609Z",
+    "tags":["art","exploration","hub"]
+  },
+  {
+    "id": "wrld_ddc2beca-f634-47dc-be37-c30dd1d73337",
+    "name": "METANOIA",
+    "author_name": "Anonine_",
+    "description": "Rooms?",
+    "publication_date": "2023-08-25T21:47:25.946Z",
+    "tags":["exploration"]
+  },
+  {
+    "id": "wrld_127c0b92-9d13-4b19-b1e3-9012dcddaf87",
+    "name": "Frame of Mind",
+    "author_name": "YimuQrrr",
+    "description": "Better for solo play !",
+    "publication_date": "2023-02-20T12:57:29.368Z",
+    "tags": ["adventure","puzzle"]
+  },
+  {
+    "id": "wrld_2bf870d9-eeb8-47ed-a860-36ef63df37c2",
+    "name": "Looking Glass",
+    "author_name": "Glitchmood",
+    "description": "Smile! You're on camera. Open-source live event space. MAGNITUDE © 2023 Built for everyone",
+    "publication_date": "2023-08-24T16:44:48.618Z",
+    "tags": ["club"]
   }
 ]
