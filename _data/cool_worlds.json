@@ -3397,7 +3397,7 @@
     "author_name": "PK",
     "description":"PK's set from Break #10, to start the show just make your way to the DJ booth and press play.",
     "publication_date":"2023-06-27T00:30:57.671Z",
-    "tags":["experience","music"]
+    "tags":["experience","music","club"]
   },
   {
     "id": "wrld_5e5511b0-9ef3-419a-bb5a-aa301089607e",
@@ -3430,5 +3430,37 @@
     "description": "Smile! You're on camera. Open-source live event space. MAGNITUDE © 2023 Built for everyone",
     "publication_date": "2023-08-24T16:44:48.618Z",
     "tags": ["club"]
+  },
+  {
+    "id": "wrld_68bb31aa-f123-4bc1-961d-d35c6304c81c",
+    "name": "World Repository",
+    "author_name": "Blue Cat",
+    "description":"An infinite corridor leading to everywhere. Portals to worlds that I think are neat! Too many to choose from? Check out the supplemental world 'World Repository [Daily Picks]' for a daily random selection of 10 worlds from the list!",
+    "publication_date": "2021-08-08T00:25:51.694Z",
+    "tags": ["hub","exploration"]
+  },
+  {
+    "id": "wrld_c372d65c-e398-49b3-a7e8-9577f6df499a",
+    "name": "MEEKNESS",
+    "author_name": "redcap180",
+    "description": "柔和、静穏、居心地が良い The space of being quiet,gentle and chillout.",
+    "publication_date": "2023-08-20T05:15:02.508Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_7e6f721b-48a4-46d4-ad46-dd451674f715",
+    "name": "Procedural Ambience",
+    "author_name": "xCirrex",
+    "description": "A world that generates music in a relaxing atmosphere. Playable Laser Harp and Drum Machine. Particle interaction toys. Take a break, remember to drink water.",
+    "publication_date": "2020-08-07T07:02:27.751Z",
+    "tags": ["music","tech"]
+  },
+  {
+    "id": "wrld_5f358876-6be8-48e2-9a58-1d9ae3aea1b2",
+    "name": "Musical Flowers",
+    "author_name": "Luftprut",
+    "description": "A minimalistic flower patch with magical drum sticks which can be used to play musical notes.",
+    "publication_date": "2018-11-24T22:21:59.308Z",
+    "tags": ["music","exploration"]
   }
 ]
