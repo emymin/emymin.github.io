@@ -1189,7 +1189,7 @@
     "author_name": "yorimiya57",
     "description": "【Oculus Quest対応】パーティクルライブ《ＷＡＶＥ》",
     "publication_date": "2019-10-20T14:31:51.907Z",
-    "tags": ["experience"]
+    "tags": ["experience","music"]
   },
   {
     "id": "wrld_e2c213af-fa1f-47b3-aff1-cee566c529c5",
@@ -3462,5 +3462,181 @@
     "description": "A minimalistic flower patch with magical drum sticks which can be used to play musical notes.",
     "publication_date": "2018-11-24T22:21:59.308Z",
     "tags": ["music","exploration"]
+  },
+  {
+    "id": "wrld_0f8c3c54-7651-4c10-8a81-b0edb65c65f3",
+    "name": "Lab of Spatial Relation",
+    "author_name": "VMoVA",
+    "description": "",
+    "publication_date": "2023-08-30T10:29:25.525Z",
+    "tags": ["art","gallery"]
+  },
+  {
+    "id": "wrld_6812ea9b-2cd6-41ae-93a9-ee47243bf186",
+    "name": "Zep's Particle Hell",
+    "author_name": "Zepwlert",
+    "description": "Zep's Particle Hell",
+    "publication_date": "2022-08-22T08:33:59.830Z",
+    "tags": ["experience","music"]
+  },
+  {
+    "id": "wrld_d66f22a9-f568-4af1-870a-92c6df72dc34",
+    "name": "Pass of Time",
+    "author_name": "Karl Kroenen",
+    "description": "Time no longer passes, the remains of past yet litter the land",
+    "publication_date": "2020-12-18T05:28:29.678Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_72a5616c-da9c-438e-ab40-b2360dd17921",
+    "name": "Tarried Precipice",
+    "author_name": "Karl Kroenen",
+    "description": "When the world is doomed by the eternal ash, a link must be made to other elevated grounds, but of course not all want to share this new chance at life. The efforts of many is stopped by the vengeance of few... unable to move on, endless war tarries all. Now fragments of yore shelter here with looming uncertainty, can this be a different new world?... or will the ash yet reach through the same roots?",
+    "publication_date": "2023-08-27T00:39:14.653Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_51945c5d-66b6-4352-a5ee-929e05db95c9",
+    "name": "Venice Immersive 2023",
+    "author_name": "VRROOM",
+    "description": "Venice Immersive 2023",
+    "publication_date": "2023-08-29T21:02:05.134Z",
+    "tags": ["exploration","hub"]
+  },
+  {
+    "id": "wrld_ae4cae1b-7bea-44ad-a91b-9bb23ae9bccc",
+    "name": "Reality - (Liminal)",
+    "author_name": "NIIINY",
+    "description": "Is this reality ?",
+    "publication_date": "2023-08-29T01:13:09.979Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_4cb4f696-3fba-4a95-a7ed-7e280474a341",
+    "name": "Voxel Islands",
+    "author_name": "BloomingTails",
+    "description": "Come here to relax above the clouds. Contains a video player, pens and much more! If you are playing on Quest: Quest 2 or above is highly recommended!",
+    "publication_date": "2023-08-21T04:31:15.445Z",
+    "tags": ["exploration","adventure"]
+  },
+  {
+    "id": "wrld_631b394c-24be-4fd5-8684-682392dd6f2d",
+    "name": "Particle Life",
+    "author_name": "cat-love",
+    "description": "シャポ庫さんのParticle Lifeを移植したワールドです",
+    "publication_date": "2023-08-29T20:53:59.400Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_dd4da3e1-376b-42a2-82d7-4a2730ff85f9",
+    "name": "Rowdy Residence",
+    "author_name": "spookyghostboo",
+    "description": "A suburban American McMansion. Accessible in the house is a large living room, kitchen, dining area, and multiple bedrooms. Mirror and cozy areas throughout.",
+    "publication_date": "2022-12-25T06:41:45.031Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_506c5a27-3033-47d8-80d3-dfce06e455fc",
+    "name": "e-Lanes Galactic Bowling",
+    "author_name": "spookyghostboo",
+    "description": "VRChat Bowling! There are four functionaly bowling lanes. Play up to six players. Multiple mirror locations.",
+    "publication_date": "2022-07-17T23:51:28.623Z",
+    "tags": ["hangout","sport"]
+  },
+  {
+    "id": "wrld_8fb6757c-46c9-429c-8a0c-6b8e82c7cc52",
+    "name": "Frozen Star",
+    "author_name": "Silyataru",
+    "description": "Stuck inside due to a snow storm, take this time to relax and enjoy yourself. A small cabin with comfy rooms, interactive stars and plush.",
+    "publication_date": "2023-01-29T03:48:51.114Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_6987c642-e2c1-4b3f-866f-548fd7e5e715",
+    "name": "Gazebo under the Stars",
+    "author_name": "ღ Squeeshy ღ",
+    "description": "132",
+    "publication_date": "2018-11-10T01:02:46.685Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2111ce43-24d3-4111-a2fb-4db48da94055",
+    "name": "Doze Off",
+    "author_name": "みけつば_Miketsuba",
+    "description": "Doze off while watching TV",
+    "publication_date": "2023-02-27T01:24:34.124Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_3843bcb2-ad66-40c3-bf76-8d01fc8449a3",
+    "name": "Horror Portal Hub",
+    "author_name": "JustSaber",
+    "description": "se this world to connect to Horror, Scary or Thriller worlds. This map will continue to update over time! ***UPDATES FREQUENTLY*** Join The Discord Server => discord.gg/pAqN2zuuYJ (Maps are difficult to find. Thanks for the support!!)",
+    "publication_date": "2022-06-28T21:31:07.246Z",
+    "tags": ["horror","hub"]
+  },
+  {
+    "id": "wrld_ae7c68ff-4134-4adf-a7c0-2b7b1f33adaf",
+    "name": "The Waiting Room",
+    "author_name": "Ԝhat",
+    "description": "Just wait.. *WARNING* Audio & Visuals May cause Anxiety or Mental Distress - This Is My Mind ^",
+    "publication_date": "2021-04-16T04:14:26.228Z",
+    "tags": ["horror","hangout"]
+  },
+  {
+    "id": "wrld_55a04ceb-3f48-476a-a376-7828a85a2947",
+    "name": "Amnesia: Starlight's Vengeance - Deluxe",
+    "author_name": "Zeus KrAZy",
+    "description": "Welcome to the DELUXE version of Amnesia: Starlight's Vengeance! Please create a PRIVATE instance before you play!",
+    "publication_date": "2022-03-03T02:39:37.629Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_615948c0-919b-4370-827b-49cec5b359a4",
+    "name": "DOLLS～人形屋敷の少女～",
+    "author_name": "仁乃るちお（Lucio）",
+    "description": "[Haunted House World Novel]【The Girl in the Dollhouse 】 A cruel ritual that has been practiced in the village of Katashiro for many years. This is a story of a mother and son who were torn apart by the ritual.",
+    "publication_date": "2022-10-27T20:12:44.535Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_566229a8-45ae-42a4-a4ff-78866c3dcdff",
+    "name": "Analog Horror n' Chill",
+    "author_name": "Sebris",
+    "description": "A Bedroom with a CRT TV that broadcasts a variety of analog horror programming! Featuring Local58, Gemini Entertainment, BLUE_CHANNEL_, Backrooms, Â̷̮̅̃d̶͖͊̔̔̃̈́̊̈́͗̕u̷̧͕̱̹͍̫̖̼̫̒̕͜l̴̦̽̾̃̌̋͋ṱ̵̩̦͎͐͝ S̷̩̝̜̓w̶̨̛͚͕͈̣̺̦̭̝̍̓̄̒̒́͘͜͠ȉ̷m, Channel 7, and more! Content curated with VideoTXL! Relax...and chill to some spooks!||| IF THERE ARE ANY VIDEOS THAT GET TOO DISTURBING, CHECK THE VIDEO PLAYER CONTROLS ON THE LEFT SIDE OF THE DRESSER. Slide the player head all the way to the right to end the video, and it will proceed to the next one! Playlist will reset once It reaches the end.",
+    "publication_date": "2022-05-21T17:35:43.939Z",
+    "tags": ["horror","hangout"]
+  },
+  {
+    "id": "wrld_d510ce66-d64b-4668-bc7c-70edcb35c304",
+    "name": "PSX Hot Tub",
+    "author_name": "JNZi",
+    "description": "",
+    "publication_date": "2022-12-02T05:56:49.830Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2f01812b-c9f8-4b65-9e29-1a0a5cf52806",
+    "name": "LightFieldTest",
+    "author_name": "Greendayle",
+    "description": "My inferior attempts to render still frames from Google LightField Video test. Real deal video is so much better, try in VR at: https://augmentedperception.github.io/deepviewvideo",
+    "publication_date": "2021-01-09T02:57:03.937Z",
+    "tags": ["tech","photogrammetry"]
+  },
+  {
+    "id": "wrld_042dffc5-9a6c-4ae4-a655-f64516a64bcb",
+    "name": "Riddle Tower 30",
+    "author_name": "ユニ／Y-Uni",
+    "description": "Riddle Tower 30 / Riddle(Escape) Game / Supposed Time : 30-60 min.",
+    "publication_date": "2020-05-24T15:31:27.883Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_b85ae69f-28d6-48bc-ba87-afa5c8cc137a",
+    "name": "GlassTest",
+    "author_name": "myxy",
+    "description": "myxyLiquidGlass Boothで販売中です：https://usamimi-zakka.booth.pm/items/3636706",
+    "publication_date": "2022-02-07T04:44:50.658Z",
+    "tags": ["tech"]
   }
 ]
