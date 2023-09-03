@@ -3571,7 +3571,7 @@
     "id": "wrld_3843bcb2-ad66-40c3-bf76-8d01fc8449a3",
     "name": "Horror Portal Hub",
     "author_name": "JustSaber",
-    "description": "se this world to connect to Horror, Scary or Thriller worlds. This map will continue to update over time! ***UPDATES FREQUENTLY*** Join The Discord Server => discord.gg/pAqN2zuuYJ (Maps are difficult to find. Thanks for the support!!)",
+    "description": "Use this world to connect to Horror, Scary or Thriller worlds. This map will continue to update over time! ***UPDATES FREQUENTLY*** Join The Discord Server => discord.gg/pAqN2zuuYJ (Maps are difficult to find. Thanks for the support!!)",
     "publication_date": "2022-06-28T21:31:07.246Z",
     "tags": ["horror","hub"]
   },
@@ -3638,5 +3638,61 @@
     "description": "myxyLiquidGlass Boothで販売中です：https://usamimi-zakka.booth.pm/items/3636706",
     "publication_date": "2022-02-07T04:44:50.658Z",
     "tags": ["tech"]
+  },
+  {
+    "id": "wrld_ddf18aaa-0f3a-43a5-9320-06343dd8a185",
+    "name": "Night waves",
+    "author_name": "별 보기",
+    "description": "A place where you can relax at night sea",
+    "publication_date": "2023-05-04T19:49:26.053Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_435c3698-da11-41d5-888e-1ce8e214e4ed",
+    "name": "Remnant VR : Vale",
+    "author_name": "Dinky_",
+    "description": "1-4 player co-op wave survival game set in the RWBY world of Remnant. Created by Dinky_ , Steve The Mitochondria & Dapper Phantom. Fan made game with no association to Rooster Teeth.",
+    "publication_date": "2021-11-23T03:48:14.134Z",
+    "tags": ["pve","coop"]
+  },
+  {
+    "id": "wrld_4a874796-c029-4f80-8f3b-316a96ef878a",
+    "name": "Let's Udon Swimming!",
+    "author_name": "hirabiki",
+    "description": "Swimming prefab is now available! Explore the deepest of hidden secrets and wonders deep inside the cave by diving all in. Let the adventure begin!",
+    "publication_date": "2020-04-23T22:58:21.356Z",
+    "tags": ["exploration","tech"]
+  },
+  {
+    "id": "wrld_b2a858a3-e74d-4136-8fbb-3468487d7497",
+    "name": "零 -白映の水晶-",
+    "author_name": "MinaFrancesca",
+    "description": "コーエーテクモの零シリーズの二次創作です。とても怖くてやりがいのあるホラワです。完全ローカル動作です。",
+    "publication_date": "2022-02-10T23:46:24.119Z",
+    "tags": ["horror","exploration","adventure"]
+  },
+  {
+    "id": "wrld_bda88fdc-ca5b-4c28-9f85-0718cf598c36",
+    "name": "The Wanderer",
+    "author_name": "WildClaw",
+    "description": "An inn on the outskirts of VRChat. Who knows what you'll find here?",
+    "publication_date": "2018-03-14T01:49:00.813Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_be4ad5bb-e08f-41ba-bfd2-cdbe7ba9a1b2",
+    "name": "The Cupboard",
+    "author_name": "Lateo",
+    "description": "We dont know how anyone ever gets here - or leaves․",
+    "publication_date": "2018-11-10T01:02:45.854Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wld_97fda4a1-f820-4f09-a88c-2d2a95b668f7",
+    "name": "The Old HUB",
+    "author_name": "vrchat",
+    "description": "Relive your fond memories here.",
+    "publication_date": "2016-11-30T02:43:45.000Z",
+    "tags": ["hangout","hub"]
   }
 ]
