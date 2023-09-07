@@ -3245,7 +3245,7 @@
     "author_name": "DragonCookie",
     "description": "A juicy Tower Defense game made for VRChat․ Stop the Cars from reaching your heart ≺3․ Desktop and VR compatible․",
     "publication_date": "2021-09-22T20:07:06.598Z",
-    "tags": ["strategy"]
+    "tags": ["strategy","pve"]
   },
   {
     "id": "wrld_9ef194fc-a11e-4b9a-a0e8-3d7d6268d6a2",
@@ -3301,7 +3301,7 @@
     "author_name": "~Maru~",
     "description": "Co-operative active tower defense action! Protect the crystal from invading hordes!",
     "publication_date": "2023-06-17T14:39:31.075Z",
-    "tags": ["strategy"]
+    "tags": ["strategy","pve"]
   },
   {
     "id": "wrld_b2c574c6-9a6e-4bcc-b74e-1284070c324f",
@@ -3694,5 +3694,37 @@
     "description": "Relive your fond memories here.",
     "publication_date": "2016-11-30T02:43:45.000Z",
     "tags": ["hangout","hub"]
+  },
+  {
+    "id": "wrld_e06ef2d3-34b1-4f8d-835a-4ca58c9bd1c1",
+    "name": "Climbing Carnival",
+    "author_name": "Rockydog",
+    "description": "Just a small rock climbing map.",
+    "publication_date": "2019-07-16T04:06:27.288Z",
+    "tags": ["parkour"]
+  },
+  {
+    "id": "wrld_39edd804-a211-467e-bace-c95afbfc8e50",
+    "name": "VRCanvas",
+    "author_name": "Prismic247",
+    "description": "A persistent collaborative pixel drawing canvas shared between all instances. In other words: r/Place in VRChat! Place a color pixel of your choice anywhere on the canvas and it will show up for everyone everywhere, anytime... at least until someone else places over it. You can only place so often, so work together with friends to carve out a space of your own, or have fun with Freedraw mode which lets you draw without limits on a locally synced canvas. The global canvas resets monthly, and a picture of the final state will be posted up around the room.",
+    "publication_date": "2023-08-31T05:52:27.861Z",
+    "tags": ["art","tech"]
+  },
+  {
+    "id": "wrld_2fcc2472-dee5-4f24-bd83-c85f99b0724f",
+    "name": "Dream Decay",
+    "author_name": "Zayee",
+    "description": "an unfinished nightmare, the nexus of your dreams.",
+    "publication_date": "2022-04-15T07:05:16.049Z",
+    "tags": ["art","horror","exploration"]
+  },
+  {
+    "id": "wrld_a2279029-c555-4fed-945f-dde72e8fac0b",
+    "name": "The Backrooms",
+    "author_name": "Friday1",
+    "description": "Reimagined Backrooms. I will be adding more to this as time goes on. Thank you all for staying with me while i worked on this <3",
+    "publication_date": "2022-04-09T20:33:54.693Z",
+    "tags": ["horror","exploration","adventure"]
   }
 ]
