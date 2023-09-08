@@ -24,9 +24,10 @@
     <description>
     {{world.description | replace: "<","&amp;lt;" | xml_escape }}
     &lt;br&gt;
-    Created by: {{world.author_name}}
     &lt;br&gt;
-    Published on: {{world.publication_date | date: "%-d %B %Y"}}
+    Created by: &lt;b&gt;{{world.author_name}}&lt;/b&gt;
+    &lt;br&gt;
+    Published on: &lt;b&gt;{{world.publication_date | date: "%-d %B %Y"}}&lt;/b&gt;
     &lt;br&gt;
     &lt;img src='https://emymin.net/vr/worlds/images/{{world.id}}.jpg' alt='World Thumbnail'&gt;
     &lt;br&gt;
