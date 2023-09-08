@@ -1,23 +1,33 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 
 <channel>
   <title>Emy's VRC World list</title>
   <link>https://emymin.net/vr/worlds/</link>
   <description>A large list of VRChat worlds I think are cool, updated as I run into more! Unlike the main list, this feed is sorted by addition date!</description>
+  <category>IT/VR</category>
   <image>
     <url>https://emymin.net/assets/images/VRChat.png</url>
     <title>Emy's VRC World list</title>
     <link>https://emymin.net/vr/worlds/</link>
+    <description>VRChat Banner</description>
+    <width>2560</width>
+    <height>1440</height>
   </image>
   <atom:link href="http://emymin.net/vr/worlds/rss.xml" rel="self" type="application/xml" />
   {% assign worlds = site.data.cool_worlds | reverse | slice: 0,15 %}
   {% for world in worlds %}
   <item>
     <title>{{world.name | xml_escape }}</title>
-    <description>{{world.description | html_escape | xml_escape}}</description>
+    <description>
+    {{world.description | html_escape | xml_escape}}
+    &lt; br &gt;
+    &lt; a href="vrcx://world/{{world.id}}" &gt; Open in VRCX &lt; /a &gt;
+    &lt; br &gt;
+    &lt; img href='https://emymin.net/vr/worlds/images/{{world.id}}.jpg' &gt;
+    </description>
     <link>https://vrchat.com/home/launch?worldId={{world.id}}</link>
     <dc:creator>{{world.author_name | xml_escape}}</dc:creator>
     <guid isPermaLink="false">{{world.id}}</guid>
