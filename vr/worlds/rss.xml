@@ -1,7 +1,7 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
   <title>Emy's VRC World list</title>
@@ -9,20 +9,21 @@
   <description>A large list of VRChat worlds I think are cool, updated as I run into more! Unlike the main list, this feed is sorted by addition date!</description>
   <image>
     <url>https://emymin.net/assets/images/VRChat.png</url>
-    <title>VRChat</title>
+    <title>Emy's VRC World list</title>
     <link>https://emymin.net/vr/worlds/</link>
   </image>
-  {% assign worlds = site.data.cool_worlds | reverse %}
+  <atom:link href="http://emymin.net/vr/worlds/rss.xml" rel="self" type="application/rss+xml" />
+  {% assign worlds = site.data.cool_worlds | reverse | slice: 0,15 %}
   {% for world in worlds %}
   <item>
-    <title>{{world.title | xml_escape }}</title>
+    <title>{{world.name | xml_escape }}</title>
     <description>{{world.description | xml_escape}}</description>
     <link>https://vrchat.com/home/launch?worldId={{world.id}}</link>
-    <author>{{world.author | xml_escape}}</author>
+    <author>{{world.author_name | xml_escape}}</author>
     <guid>{{world.id}}</guid>
     <source url="https://vrchat.com">VRChat</source>
     {% for tag in world.tags %}
-    <category>{{ tag | capitalize }}</category>
+    <category>{{ tag | replace: "-"," " | capitalize }}</category>
     {% endfor %}
   </item>
   {% endfor %}
