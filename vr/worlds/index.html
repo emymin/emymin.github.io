@@ -18,6 +18,8 @@ description: A large list of VRChat worlds I think are cool
     .world {
         width: 500px;
         padding: 20px;
+        opacity: 1;
+        transition: opacity 0.5s; 
     }
 
     .preview {
@@ -62,13 +64,19 @@ description: A large list of VRChat worlds I think are cool
 </style>
 
 <section style="display: flex; justify-content: center;">
-    <div style="text-align: left; width: 80%; max-width: 500px;">
+    <div style="text-align: left; width: 80%; max-width: 750px;">
         <p>I have been world hopping (almost) daily for many years now, and I've ran into a lot of super cool worlds! <br>
             This is a collection of some of my favourite ones. <br>
             Note that this is far from an exhaustive list, I will be adding more worlds as I run into them, or as I get
             reminded of them.</p>
+        <p>The worlds in this list are sorted by publication date, if you want to get updates on new worlds that I add, subscribe to the <a href="rss.xml">RSS feed<img class="color-svg" style="width: 15px;margin-left: 5px;" src="/assets/svg/rss-button.svg"></a></p>
         <p style="font-style: italic;">Also considering checking out <a href="/creations/vrchat">my worlds and prefabs</a> ;)</p>
     </div>
+</section>
+
+<section style="display: flex; justify-content: center;">
+    <a href="rss.xml" style="padding: 10px;"><img class="color-svg" style="width: 45px;" src="/assets/svg/rss-button.svg"></a>
+    <a style="padding: 10px; cursor: pointer;" onclick="feeling_lucky()"><img class="color-svg" style="width: 45px;" src="/assets/svg/dice.svg"></a>
 </section>
 
 {% assign worlds = site.data.cool_worlds | sort:"publication_date" | reverse %}
@@ -164,5 +172,18 @@ description: A large list of VRChat worlds I think are cool
             isClicked ? remove_filter(tag) : add_filter(tag);
             worlds.classList.remove("fade");
         },300)
+    }
+
+    function feeling_lucky(){
+        const worlds = document.querySelectorAll(".world");
+        const index = Math.floor(Math.random() * worlds.length);
+        const world = worlds[index];
+
+        world.scrollIntoView({block:"center"});
+        world.classList.add("fade");
+
+        setTimeout(() =>{
+            world.classList.remove("fade");
+        },500)
     }
 </script>
