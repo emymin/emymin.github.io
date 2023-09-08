@@ -22,11 +22,12 @@
   <item>
     <title>{{world.name | xml_escape }}</title>
     <description>
-    {{world.description | xml_escape | markdownify }}
+    {{world.description | replace: "<","&amp;lt;" | xml_escape }}
     &lt;br&gt;
-    &lt;img href='https://emymin.net/vr/worlds/images/{{world.id}}.jpg'&gt;
+    &lt;img src='https://emymin.net/vr/worlds/images/{{world.id}}.jpg' alt='World Thumbnail'&gt;
     &lt;br&gt;
     &lt;a href="https://vrchat.com/home/launch?worldId={{world.id}}"&gt; Open in VRChat website &lt;/a&gt;
+    &lt;br&gt;
     &lt;a href="vrcx://world/{{world.id}}"&gt; Open in VRCX &lt;/a&gt;
     </description>
     <link>https://vrchat.com/home/launch?worldId={{world.id}}</link>
