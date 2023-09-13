@@ -3742,5 +3742,37 @@
     "description": "The Large Scale Club",
     "publication_date": "2022-12-20T08:30:13.820Z",
     "tags": ["club","hangout"]
+  },
+  {
+    "id": "wrld_12f21628-a8b1-4e7b-9f8a-9af6d7cdf0df",
+    "name": "Perfection in Marble",
+    "author_name": "accueil750",
+    "description": "This world is a recreation of the painting 'Perspective View of the Interior of a Metropolitan Church' by Etienne Louis Boullee",
+    "publication_date": "2023-09-11T14:35:06.119Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_a1275bbb-8605-4bb3-ab11-ac4ee64bd084",
+    "name": "まるい街",
+    "author_name": "_Renard",
+    "description": "まるい街",
+    "publication_date": "2023-09-11T10:38:13.621Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_2255fddb-ab92-4d3c-8b75-265d588f3130",
+    "name": "Udon Audio Designer",
+    "author_name": "n0p0x90",
+    "description": "In-game world audio designer with import/export functionality. Also available as free prefab.",
+    "publication_date": "2023-09-10T21:55:53.178Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_6144e584-4b1f-4cee-a5c9-7ad81f8b66af",
+    "name": "1/3/2020",
+    "author_name": "Xiexe",
+    "description": "1/3/2020",
+    "publication_date": "2023-09-08T22:14:36.521Z",
+    "tags": ["art"]
   }
 ]
