@@ -581,7 +581,7 @@
     "author_name": "SchwarzXVII",
     "description": "When beggars die‚ there are no comets seen; The heavens themselves blaze forth the death of princes․ ｜ Chess Event Hosting ｜Ballroom Blitz S1 ≺END≻ ｜ XVII",
     "publication_date": "2023-01-29T01:44:54.019Z",
-    "tags": ["strategy"]
+    "tags": ["board-game"]
   },
   {
     "id": "wrld_3320b3a9-c54c-4127-91de-1db53c9ba7fd",
@@ -3774,5 +3774,45 @@
     "description": "1/3/2020",
     "publication_date": "2023-09-08T22:14:36.521Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_764943a0-044d-48d9-a2db-80408db7a7a6",
+    "name": "September Studio wwg",
+    "author_name": "클로버_",
+    "description": "September 커버곡에 사용한 맵입니다!",
+    "publication_date": "2023-09-11T16:02:40.776Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf",
+    "name": "Eccentric Objects",
+    "author_name": "suzuki_i",
+    "description": "",
+    "publication_date": "2023-09-08T14:31:39.658Z",
+    "tags": ["tech","art"]
+  },
+  {
+    "id": "wrld_45463f40-e003-4421-b594-f75b10ee7aef",
+    "name": "Sanctum",
+    "author_name": "PammeMatth",
+    "description": "",
+    "publication_date": "2022-10-11T22:18:06.982Z",
+    "tags": ["club","exploration"]
+  },
+  {
+    "id": "wrld_3c7a8a8d-47c7-4f57-aa3f-e71b3c6abacb",
+    "name": "Garage Disco Summer",
+    "author_name": "Greendayle",
+    "description": "The Maxwel hungers. Mahjong training wheels now available. Udon updatesIt's all so tiresome... Garage Disco, inspired by Kokovin memes. Music, pool tables, mahjong tables, board games and wonderfull atmosphere. 麻雀",
+    "publication_date": "2021-09-25T04:28:40.586Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_546737c1-2614-4cc9-a1a4-7820584bd590",
+    "name": "Settlers of Catan",
+    "author_name": "Fishy",
+    "description": "The board game Settlers of Catan. Players: 3-4",
+    "publication_date": "2018-02-06T17:06:34.569Z",
+    "tags": ["board-game"]
   }
 ]
