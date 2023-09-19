@@ -3317,7 +3317,7 @@
     "author_name": "purpleunicorn3d",
     "description": "Relax and look at minimalistic art stuff, chill with friends. Be careful not to fall into the spike exhibit!",
     "publication_date": "2023-07-30T22:37:08.116Z",
-    "tags": ["art","gallery"]
+    "tags": ["art","gallery","★"]
   },
   {
     "id": "wrld_5e26eee0-e799-4210-8cf8-bcc2638e49ca",
@@ -3752,11 +3752,11 @@
     "tags": ["art"]
   },
   {
-    "id": "wrld_a1275bbb-8605-4bb3-ab11-ac4ee64bd084",
+    "id": "wrld_0a944993-c0c0-4ac4-9a2a-eebe84dff1ea",
     "name": "まるい街",
     "author_name": "_Renard",
     "description": "まるい街",
-    "publication_date": "2023-09-11T10:38:13.621Z",
+    "publication_date": "2023-09-17T16:14:14.459Z",
     "tags": ["tech"]
   },
   {
@@ -3789,7 +3789,7 @@
     "author_name": "suzuki_i",
     "description": "",
     "publication_date": "2023-09-08T14:31:39.658Z",
-    "tags": ["tech","art"]
+    "tags": ["tech","art","gallery","★"]
   },
   {
     "id": "wrld_45463f40-e003-4421-b594-f75b10ee7aef",
@@ -3814,5 +3814,61 @@
     "description": "The board game Settlers of Catan. Players: 3-4",
     "publication_date": "2018-02-06T17:06:34.569Z",
     "tags": ["board-game"]
+  },
+  {
+    "id": "wrld_b7ac11fb-37fa-4ac4-a9b5-3b89a310b6fa",
+    "name": "Invent It, Present It!",
+    "author_name": "Frog_Go_Splat",
+    "description": "Invent It, Present It! Become the world's wackiest problem solvers as you create, draw, and name your wildest inventions before presenting them to your friends!",
+    "publication_date": "2023-08-17T04:07:56.373Z",
+    "tags": ["party-game"]
+  },
+  {
+    "id": "wrld_9cb84cd0-d5e4-47b2-aa99-9fad97e2ed0c",
+    "name": "Happy Trails",
+    "author_name": "PYROGEN",
+    "description": "Happy Trails",
+    "publication_date": "2023-09-14T10:42:12.824Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_3b24fdc5-b1e6-4ab7-ab6a-913be1092ef0",
+    "name": "SupersonicPrivateJet",
+    "author_name": "Moffco",
+    "description": "Enjoy your supersonic journey through the skies.",
+    "publication_date": "2023-09-17T18:17:15.180Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_fe1e466a-2613-4ca5-8e19-ab9f963b99dd",
+    "name": "あなたの体がスクリーンになるワールド",
+    "author_name": "YM［ワイエム］",
+    "description": "iwasyncで再生した動画がアバターに投影されます。動画とアバターを色々試して、遊び方を探してみてください",
+    "publication_date": "2023-09-17T12:04:23.247Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_3f2ed002-5335-4d7e-b27c-3e70956edbea",
+    "name": "A rubber room?",
+    "author_name": "Duvee",
+    "description": "The choice is yours.",
+    "publication_date": "2023-08-30T04:07:48.401Z",
+    "tags": ["hangout","exploration","adventure"]
+  },
+  {
+    "id": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+    "name": "VR宇宙博物館 コスモリア Cosmoria",
+    "author_name": "vsp_vrc",
+    "description": "【COSMORIA: VR Museum of Space】",
+    "publication_date": "2023-09-01T15:59:44.649Z",
+    "tags": ["exploration","gallery","tech","★"]
+  },
+  {
+    "id": "wrld_9129d16c-c5ee-4733-b51c-d866a3911580",
+    "name": "Space 1999 - Moonbase Alpha",
+    "author_name": "Nova_66",
+    "description": "Space 1999 is a classic science-fiction television show produced by Gerry and Sylvia Anderson in the mid 1970s. From the expansive Moonbase Alpha to the iconic Eagle Transporter, this world attempts to reproduce the awe and wonder that I felt as a child.",
+    "publication_date": "2023-09-15T04:39:40.659Z",
+    "tags": ["hangout","art"]
   }
 ]
