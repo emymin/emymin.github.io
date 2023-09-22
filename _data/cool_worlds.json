@@ -3870,5 +3870,85 @@
     "description": "Space 1999 is a classic science-fiction television show produced by Gerry and Sylvia Anderson in the mid 1970s. From the expansive Moonbase Alpha to the iconic Eagle Transporter, this world attempts to reproduce the awe and wonder that I felt as a child.",
     "publication_date": "2023-09-15T04:39:40.659Z",
     "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_996294a3-eade-420e-ae2f-9c07fa440413",
+    "name": "The Shore",
+    "author_name": "Blue Cat",
+    "description": "A safe place.",
+    "publication_date": "2019-12-19T08:46:46.054Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_beceefff-0b61-441a-bd2a-86ff1d611921",
+    "name": "flower_photostudio",
+    "author_name": "VEIN_A",
+    "description": "撮影用に作成しました。写真などにどうぞ。",
+    "publication_date": "2023-09-03T18:09:19.014Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_4e1c0f20-a5be-429f-bb8d-0674373bcb38",
+    "name": "Think",
+    "author_name": "Spica08",
+    "description": "思考の海に、沈む... 一部知識を必要とする謎があります。 Sink deep into thinking... Some questions require specific knowledge.",
+    "publication_date": "2023-05-26T22:39:15.902Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_07bbd9a0-2d5a-42fe-9aed-0d2733644284",
+    "name": "Abstractia",
+    "author_name" : "Chipboard",
+    "description": "An abstract world to explore with elements of liminal spaces and megalophobia.",
+    "publication_date": "2023-09-19T06:01:26.613Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_ad8270dc-2035-47fb-878b-824dd7713728",
+    "name": "music for your heart",
+    "author_name": "De Pelos",
+    "description": "audiolink | vrsl | disco ball",
+    "publication_date": "2023-09-07T20:11:20.594Z",
+    "tags": ["hangout","club"]
+  },
+  {
+    "id": "wrld_9e5c3702-63f7-49ec-9a77-f7bffeeb5b4f",
+    "name": "Ocean Side",
+    "author_name": "Zangerous",
+    "description": "Welcome to Ocean Side, your next hang out spot, a scenic suspended home over an endless ocean. Features Youtube Searching via u2b and Selection of White Noise effects",
+    "publication_date": "2023-09-19T06:28:46.508Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_21fd9466-7e8d-4dbf-aac9-8839e1d40ba5",
+    "name": "LegendOfTheGoldenPotato",
+    "author_name": "Glooca",
+    "description": "A trippy map, can cause motion sickness",
+    "publication_date": "2018-11-10T01:36:15.935Z",
+    "tags": ["tech","exploration"]
+  },
+  {
+    "id": "wrld_2a1f8a35-fd52-4998-8a3f-ed4c4169fcf8",
+    "name": "Size Shibuya",
+    "author_name": "Terranek",
+    "description": "Welcome to the recreation of shibuya, in this place you can grow 100 meters or be a tiny 10cm, relax whit your friends, and explore all the town",
+    "publication_date": "2023-09-16T03:31:11.507Z",
+    "tags": ["tech","hangout"]
+  },
+  {
+    "id": "wrld_e8072442-0827-45bb-93f2-2851f10ab27a",
+    "name": "Coffee and Chill",
+    "author_name": "Kristinee28",
+    "description": "A high rise cafe with a lot of fun prefab to enjoy .. Some of the layout is inspired by KADVACORP , MODERN ROOFTOP DESIGNS IDEAS - Aj.",
+    "publication_date": "2023-04-22T03:22:15.721Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_4c64a2fa-2916-4491-8764-11221af96f98",
+    "name": "Pocket Storm",
+    "author_name": "Silyataru",
+    "description": "A small cosy world with a snow storm outside, thunder occasionally striking in the distance with flashes of lighting in the sky. Come relax in a comfy dimly lit shelter and wait out the storm",
+    "publication_date": "2023-06-09T22:38:53.723Z",
+    "tags": ["hangout"]
   }
 ]
