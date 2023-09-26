@@ -3950,5 +3950,45 @@
     "description": "A small cosy world with a snow storm outside, thunder occasionally striking in the distance with flashes of lighting in the sky. Come relax in a comfy dimly lit shelter and wait out the storm.",
     "publication_date": "2023-06-09T22:38:53.723Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_9b8ef503-3bc5-4ebb-b707-7bf686af40bb",
+    "name": "Path of the judgment",
+    "author_name": "QuarT0niX",
+    "description": "Two fishing vessels sail on a river that holds a surprise. Reference: 'Harbour' by Klaufir I wanted to make this world because I've never seen such a scary scene like that in vrchat.",
+    "publication_date": "2023-06-03T15:42:36.803Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_ce0c6797-f929-43ef-a450-88fcbb026e76",
+    "name": "Bounce Brush",
+    "author_name": "Smew",
+    "description": "Bounce Brush",
+    "publication_date": "2023-09-25T12:37:03.789Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_e740dd43-52d9-457c-aba2-6b2cc8f69ec9",
+    "name": "MANAKA YUE ART MUSEUM",
+    "author_name": "＝DonK＝",
+    "description": "創作家・真中ユエのイラスト作品を展示しています。展示内容は随時更新されます。 The solo exhibition featuring illustrations by artist Manaka Yue. The exhibits are regularly updated.",
+    "publication_date": "2023-05-01T06:01:14.757Z",
+    "tags": ["art","gallery"]
+  },
+  {
+    "id": "wrld_2b6aaafc-0385-4c98-b03b-12f2b647bdfd",
+    "name": "Comfy Camper",
+    "author_name": "Jazinity",
+    "description": "Pause that long, desert roadtrip in your parked, cozy camper RV. Pen, video player, mirrors, night mode.",
+    "publication_date": "2021-03-17T05:40:02.204Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_6bd0ac0e-b695-4626-b8a6-609d8a5b0fb5",
+    "name": "TAIWAN EXCELLENCE WORLD",
+    "author_name": "TWEX_TBD",
+    "description": "由台灣精品獎主辦的Taiwan Virtual Festival 2023，將於 9 月 23 日星期六至 12 月 25 日星期一限定公開。 The main venue for Taiwan Virtual Festival 2023 by Taiwan Excellence, open to the public from September 23 (Sat) to December 25 (Mon).",
+    "publication_date": "2023-09-23T11:18:31.933Z",
+    "tags": ["gallery","hub"]
   }
 ]
