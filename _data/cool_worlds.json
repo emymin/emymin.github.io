@@ -3998,5 +3998,37 @@
     "description": "Water will be added later.",
     "publication_date": "2023-09-25T12:24:58.151Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_045d60d0-8da4-4401-9750-73eea0837d5f",
+    "name": "Tub",
+    "author_name": "BLG18",
+    "description": "ablutophobia. Any questions?. Contact my discord. 'blg_' As always have fun!",
+    "publication_date": "2023-10-01T06:16:06.894Z",
+    "tags": ["horror","experience","adventure"]
+  },
+  {
+    "id": "wrld_3b61e4cd-9c6e-4825-9eab-1623a31205ec",
+    "name": "SkyFall",
+    "author_name": "WispyWoo",
+    "description": "SkyFall is a comfy surreal environment lost in the clouds! Tons of game and areas to chill with friends! You can buy the base files off my gumroad! https://wispywoo.gumroad.com/l/SkyFall",
+    "publication_date": "2023-10-03T02:58:23.710Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_99e74170-0a33-496f-b998-813a783b2db9",
+    "name": "Daikokuyu",
+    "author_name": "龍 lilea",
+    "description": "#大黒湯VR 北千住のキングオブ銭湯「大黒湯」が惜しまれつつも閉店、そして解体へ。歴史あるこの銭湯を遺したく、フォトグラメトリにより3Dデジタルアーカイブしました。 3650枚の写真から生成。 銭湯で憩いのひと時をどうぞ 。 //// Daikokuyu, the king of public bathhouses in Kitasenju, Japan, has regrettably closed and will be demolished. We wanted to preserve this historic bathhouse, so we created a 3D digital archive using photogrammetry. Generated from 3,650 photographs. Please enjoy a moment of relaxation in a public bathhouse.",
+    "publication_date": "2022-06-02T13:49:10.265Z",
+    "tags": ["hangout","photogrammetry"]
+  },
+  {
+    "id": "wrld_86524769-849c-4e03-b662-8af4f588b2db",
+    "name": "A Normal Home",
+    "author_name": "zSkull162",
+    "description": "Nice little place to watch videos or hang out with your friends! Wait.. what's that sound?",
+    "publication_date": "2023-10-04T18:47:52.860Z",
+    "tags": ["hangout","experience","horror"]
   }
 ]

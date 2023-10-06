@@ -223,6 +223,15 @@ categories:
         - title: PhET Interactive Simulations
           description: Interactive Simulations for Science and Math
           url: https://phet.colorado.edu/
+        - title: CollabVM
+          description: A website that lets you take turns controlling online virtual machines with complete strangers!
+          url: https://computernewb.com/collab-vm/
+        - title: Crusty Windows Wiki
+          description: the wiki for the extensive Windows bootleg archive of Computernewb and CollabVM that anyone can edit.
+          url: https://crustywindo.ws
+        - title: decomp.me
+          description: Collaboratively decompile code in your browser.
+          url: https://decomp.me/
     - title: VR
       items:
         - title: VRChatの世界
@@ -246,6 +255,9 @@ categories:
         - title: VRChat API Docs
           description: Here you'll find Community-created documentation about the VRChat REST API, an OpenAPI specification, and generated SDK's in several languages.
           url: https://vrchatapi.github.io/
+        - title: vvtimeline
+          description: Timeline of VRChat music club events
+          url: https://vrc.tl/
     - title: Game
       items:
         - title: E.B.O.N.Y
@@ -444,14 +456,43 @@ categories:
           description: Beneath the utilitarian purpose of computation, computing is also a source of delight and wonder. 
           url: https://arbesman.net/computationaldelights/
 ---
+<style>
+  .table-of-contents{
+    border: 1px solid;
+    padding: 20px;
+    width: 200px;
+  }
+
+  .table-of-contents h2{
+    text-align: center;
+  }
+
+  .table-of-contents li{
+    padding: 2px;
+  }
+</style>
+
 <div class="pagecontent-container">
   <div class="pagecontent">
       <header style="text-align: center; font-style: italic;">
           <p>This is a list of websites I think are cool, inspiring, pretty, useful or insightful!</p>
           <p>I will be expanding it with new websites I run into every now and then!</p>
       </header>
+
+      <section style="display: flex;justify-content: center; margin-top: 40px;">
+        <div class="table-of-contents">
+          <h2>🙞 Categories 🙝</h2>
+          <ul>
+            {% for category in page.categories %}
+              <li><a href="#{{category.title}}">{{category.title}}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+
+
       {% for category in page.categories %}
-      <section>
+      <section id="{{category.title}}" style="scroll-margin-top:6em;">
         <h2 style="font-size: 50px;" id="{{category.title}}">{{category.title}}</h2>
         <table style="width:100%;">
             {% for item in category.items %}
