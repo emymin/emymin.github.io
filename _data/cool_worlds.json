@@ -4030,5 +4030,29 @@
     "description": "Nice little place to watch videos or hang out with your friends! Wait.. what's that sound?",
     "publication_date": "2023-10-04T18:47:52.860Z",
     "tags": ["hangout","experience","horror"]
+  },
+  {
+    "id": "wrld_3a1e9310-6761-481b-a4cf-774756155eb6",
+    "name": "VRStation Game Jam Hub",
+    "author_name": "rollthered",
+    "description": "VRStation is a community of developers creating retro themed worlds and experiences.",
+    "publication_date": "2023-09-25T07:54:41.032Z",
+    "tags": ["hub","exploration"]
+  },
+  {
+    "id": "wrld_301edac8-8812-4374-9b4e-8bbe1644e255",
+    "name": "Dimension Structure - S01 - Platform",
+    "author_name": "XR_XharpRazor",
+    "description": "10 Places, all compacted into 1 Platform, Walk through the arcs, as they bring you to a new place.",
+    "publication_date": "2023-10-09T03:47:53.641Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_0733e12b-6e3a-4e2e-9b09-183e3627357b",
+    "name": "Rainy Road",
+    "author_name": "Bia_Kawaii_Br",
+    "description": "A Cozy two floor custom MotorHome on an infinite Highway in the Rain! Engine sound - Traffic - Rain - Video player - Sleep",
+    "publication_date": "2023-10-10T17:11:53.143Z",
+    "tags": ["hangout"]
   }
 ]
