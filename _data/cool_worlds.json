@@ -4054,5 +4054,77 @@
     "description": "A Cozy two floor custom MotorHome on an infinite Highway in the Rain! Engine sound - Traffic - Rain - Video player - Sleep",
     "publication_date": "2023-10-10T17:11:53.143Z",
     "tags": ["hangout"]
+  },
+  {
+    "id" : "wrld_12c27f81-972c-4c10-9cdd-5ef2caef8cfe",
+    "name": "Lavender Loft",
+    "author_name": "Tehl",
+    "description": "Unwind in an apartment set within a rainy evening in London. Take in the views or watch videos, there's plenty to do with friends or just by yourself.",
+    "publication_date": "2023-08-28T22:31:11.258Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id" : "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
+    "name": "天気雨のワルツ-Sun shower's Waltz",
+    "author_name": "HANI․",
+    "description": "BGM: https://www.youtube.com/watch?v=u5b2mkbV_rQ&ab_channel=DUGGYMUSIC",
+    "publication_date": "2023-10-13T10:40:04.050Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id" : "wrld_d2fc33c0-2c83-4d46-ac03-cf07af9899a6",
+    "name": "Crates",
+    "author_name": "littlewhinging",
+    "description": "Its like tnt run / spleef but with crates!",
+    "publication_date": "2023-10-10T18:01:24.552Z",
+    "tags": ["pvp","parkour"]
+  },
+  {
+    "id" : "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+    "name": "BOMBERio",
+    "author_name": "キャンディちゃん",
+    "description": "Multiplayer PvP game - Shoot bombs at each other to defeat your opponents!",
+    "publication_date": "2023-10-10T18:01:22.058Z",
+    "tags": ["pvp"]
+  },
+  {
+    "id" : "wrld_ff13af7f-8153-4c6c-833a-fb10ac991703",
+    "name": "LIMINEX",
+    "author_name": "GoldenTrashCan",
+    "description": "This a a preview of some of the rooms in my upcoming liminal space VR game, Liminex. All room designs are by me, some props are used from PolyHaven under the CC0 license.",
+    "publication_date": "2023-03-23T16:04:12.879Z",
+    "tags": ["exploration","art"]
+  },
+  {
+    "id" : "wrld_ca8b0735-0fe4-4899-8286-ca5de1280a93",
+    "name": "池核",
+    "author_name": "发 条 橙",
+    "description": "level 37 参考自backroom lost tap",
+    "publication_date": "2023-06-11T14:27:13.445Z",
+    "tags": ["exploration","art"]
+  },
+  {
+    "id" : "wrld_07e3eb56-335d-4b20-8e5a-607cd5a105ee",
+    "name": "local 58",
+    "author_name": "lilscootscoot",
+    "description": "based of off of the local 58 ARG",
+    "publication_date": "2020-05-01T08:47:13.015Z",
+    "tags": ["horror","experience"]
+  },
+  {
+    "id" : "wrld_7ff82a6a-be81-4e02-8dc5-4a4af815b1d1",
+    "name": "The Library Of Babel",
+    "author_name": "mahu",
+    "description": "This is the infinite, total library based on the short story by Jorge Luis Borges. You can seamlessly travel to the book containing any string of text using the librarian's compass. The universe (which others call the Library) is composed of an indefinite, perhaps an infinite number of hexagonal galleries. In this vast library there are no two identical books. Thus the library is total. It contains... everything.",
+    "publication_date": "2023-10-16T14:40:26.968Z",
+    "tags": ["exploration","tech","art","★"]
+  },
+  {
+    "id" : "wrld_c9ba88f9-c6a6-45df-9521-1dd2f037925b",
+    "name": "Backrooms, But chill",
+    "author_name": "Tsundoku-",
+    "description": "My version of a chill backrooms. Just a small hangout world including a video player and soggy carpet.",
+    "publication_date": "2023-10-15T23:14:52.431Z",
+    "tags": ["hangout"]
   }
 ]
