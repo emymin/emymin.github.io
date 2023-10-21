@@ -4126,5 +4126,53 @@
     "description": "My version of a chill backrooms. Just a small hangout world including a video player and soggy carpet.",
     "publication_date": "2023-10-15T23:14:52.431Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_88119b1d-2ae0-4025-b929-825fd4cfc1dc",
+    "name": "Rooms of Realities | A walk around the Asylum",
+    "author_name": "BаnаnаBreаd",
+    "description": "Enjoy a short horror escape room experience from Rooms of Realities, try to solve the puzzles and explore the asylum. If you are interested and looking for more, the full version of Rooms of Realities is now available and waiting for adventurers.",
+    "publication_date": "2023-10-20T17:54:17.981Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_9d208dec-a077-479c-a090-9f2ae3434920",
+    "name": "Subterranean Flood System",
+    "author_name": "Cekay",
+    "description": "If you don't find a way out of here, the murky waters may keep you forever... Make your way through a series of derelict flood channels and search for the exit.",
+    "publication_date": "2023-10-20T17:55:28.034Z",
+    "tags": ["exploration","adventure"]
+  },
+  {
+    "id": "wrld_486f153f-ba7a-4618-8d1e-1395c682576b",
+    "name": "GravityWell",
+    "author_name": "S_ASAGIRI",
+    "description": "探査機を重力井戸に投げ込んで遊べるワールドです。地球-月系、木星系、星の質量比を自由に変えられる系の３つがあります。",
+    "publication_date": "2023-10-20T17:59:50.487Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_74a27b4b-6b24-4f15-b219-c9ef7cb2dcc9",
+    "name": "PC ROOM",
+    "author_name": "Satoshi Minai",
+    "description": "In Japan in the 1990s, many ghost stories were born in empty night schools. A framed Beethoven played the piano in the music room at night, and a model human body danced in the science room. Now, what kind of bizarre phenomena occur in the PC room at night?",
+    "publication_date": "2023-10-20T17:55:04.631Z",
+    "tags": ["horror","experience"]
+  },
+  {
+    "id": "wrld_2c4df0ee-b61d-415c-86b0-c16270d11c00",
+    "name": "F.E.A.R.S",
+    "author_name": "ItsCripsy",
+    "description": "The Fear Endurance and Reaction Survey is a VRChat horror experience in which you'll have to go through a variety of questions and situations that will test your endurance and your reaction to FEAR - Playtime: 20-40 Minutes",
+    "publication_date": "2023-10-20T17:53:37.811Z",
+    "tags": ["horror","experience"]
+  },
+  {
+    "id": "wrld_84f641d7-c848-4cef-bce6-5462c6380995",
+    "name": "MKRS",
+    "author_name": "PseudoFossil",
+    "description": "Distant rumbling. Lost in an abandoned station on a remote planet. Enable 'Untrusted URLS'. Made for Spookality 2023.",
+    "publication_date": "2023-10-20T17:54:03.590Z",
+    "tags": ["adventure","puzzle"]
   }
 ]
