@@ -4174,5 +4174,37 @@
     "description": "Distant rumbling. Lost in an abandoned station on a remote planet. Enable 'Untrusted URLS'. Made for Spookality 2023.",
     "publication_date": "2023-10-20T17:54:03.590Z",
     "tags": ["adventure","puzzle"]
+  },
+  {
+    "id": "wrld_51105110-5110-5110-5110-511051105110",
+    "name": "Monsoon",
+    "author_name": "Table․",
+    "description": "A peaceful and serene sanctuary to chill inside of! You are advised not to go outside. My submission to Spookality 2023, made over the course of about a week and a half. ",
+    "publication_date": "2023-10-20T17:56:06.193Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id" : "wrld_03415963-883e-4510-9051-d142aeac65a5",
+    "name": "Aether's Maw|The Leviathans Trail | Spookality 2023",
+    "author_name": "AltCentauri",
+    "description": "Dive into the massive universe of the Aether Series, taking revenge against a terrifying beast in a whale hunt! 1 - 16 players | 1 - 2hr playtime | Inspired by Treasure Planet, Outer Wilds, Subnautica, and Sea of Thieves; gather your crew and prepare to explore a forgotten realm beyond the edge of the galaxy.",
+    "publication_date": "2023-10-20T17:54:31.838Z",
+    "tags": ["pve","adventure","exploration"]
+  },
+  {
+    "id": "wrld_6cc918c0-ac2f-4c4e-b142-b1320a7bba6e",
+    "name": "The Taco Room",
+    "author_name": "EchoLoveVR",
+    "description": "IT'S TACO TIME! Welcome to Taco Shell! Americas second greatest taco restaurant You are a new hire, tasked by your boss to go grab supplies from an abandon property. Things don't turn out the way we had expected.. This is my first map ever for VRChat! I hope you guys like it!",
+    "publication_date": "2023-10-20T17:53:53.182Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_5b6b3e6b-d724-406a-89db-e3bd5715935e",
+    "name": "Myoria Manor",
+    "author_name": "PUDDING☆",
+    "description": "Weekend Parties, Cozy Hangs, and Roleplay. Creator Discord: Pudding#1746",
+    "publication_date": "2023-04-01T12:34:10.557Z",
+    "tags": ["hangout","★"]
   }
 ]
