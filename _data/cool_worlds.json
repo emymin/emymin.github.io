@@ -4230,5 +4230,61 @@
     "description": "MoonLit Wanderings is your very own rainy magical cabin! Lay down and get comfy with friends and listen to the rain!",
     "publication_date": "2023-10-28T02:51:20.701Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_8afbcb22-5b96-41bc-b8d5-7c1e6d5b93d1",
+    "name": "Oil Rig",
+    "author_name": "Earth-chanVR",
+    "description": "Oil rig in the middle of the ocean. Nothing special about it at all, can be used for RP or anything tbh.",
+    "publication_date": "2023-10-31T01:51:14.337Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_b409a890-71ab-4adb-863d-9452cdeb55bb",
+    "name": "Project Reality Door",
+    "author_name": "Shovel Knight",
+    "description": "Reality's away from here. Attempting Recovery... !NOTICE!:This world is LOCAL play so all can enjoy at their own pace!",
+    "publication_date": "2023-10-18T13:10:27.157Z",
+    "tags": ["exploration","adventure"]
+  },
+  {
+    "id": "wrld_0ced80f6-29f7-4310-be6a-342eaf80c2ca",
+    "name": "Slap Splat",
+    "author_name": "cnlohr",
+    "description": "No Gaussians Here",
+    "publication_date": "2023-11-01T23:49:53.711Z",
+    "tags": ["tech","art"]
+  },
+  {
+    "id": "wrld_c280ec6a-c579-4636-b3f1-d01b5df69a62",
+    "name": "kute mute!",
+    "author_name": "fuopyǃ",
+    "description": "o kute mute!",
+    "publication_date": "2023-09-11T05:26:50.620Z",
+    "tags": ["experience"]
+  },
+  {
+    "id": "wrld_dd047e9f-b8a6-4c78-aeb5-ec723448b342",
+    "name": "RESIDUAL",
+    "author_name": "Grost",
+    "description": "an exhibit - music credits- 'Music For Amygdala' 'Brain part 1 & part 2' by _jjj_",
+    "publication_date": "2023-10-12T16:04:04.946Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_451a8ff8-2788-4a19-9136-3cc9d8789f44",
+    "name": "オカムラデジタルコレクション OKAMURA DIGITAL COLLECTION #VR試座会",
+    "author_name": "kuma․o0",
+    "description": "家具メーカーのオカムラがBOOTHで販売するデジタル家具「Contessa 2」「Sabrina」「STRIKER」を展示しています Digital furniture 'Contessa 2', 'Sabrina', and 'STRIKER' sold by furniture maker Okamura on BOOTH are on display. BOOTH Store https://okamura3d.booth.pm/",
+    "publication_date": "2023-11-02T13:00:19.156Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_3556c6e1-42db-4c6a-8d4b-22af9194a1ce",
+    "name": "METAFES2023 NIGHT",
+    "author_name": "PTC_Official",
+    "description": "Virtual Expo for Users and Creators on VRChat Shopping, socializing, music festival. You can enjoy it alone or with others, in any style you like.",
+    "publication_date": "2023-11-02T15:02:25.329Z",
+    "tags": ["hub","gallery"]
   }
 ]
