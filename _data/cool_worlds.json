@@ -4286,5 +4286,37 @@
     "description": "Virtual Expo for Users and Creators on VRChat Shopping, socializing, music festival. You can enjoy it alone or with others, in any style you like.",
     "publication_date": "2023-11-02T15:02:25.329Z",
     "tags": ["hub","gallery"]
+  },
+  {
+    "id": "wrld_51b385c6-aca9-4ad1-a887-dfd7b08d57b1",
+    "name": "The Abandoned City",
+    "author_name": "Sournetic",
+    "description": "A city lost in its own light... Abandoned by its creators...",
+    "publication_date": "2022-02-10T22:44:23.725Z",
+    "tags": ["experience","exploration","★"]
+  },
+  {
+    "id": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
+    "name": "Zombie Survival",
+    "author_name": "TealDealMeal",
+    "description": "Defeat hordes of zombies to survive! They grow stronger, but you may increase your odds using new weapons, upgrades and perks. Updates are posted in our Discord: MYujx9QJNP",
+    "publication_date": "2023-10-20T17:54:15.433Z",
+    "tags": ["pve"]
+  },
+  {
+    "id": "wrld_4183edca-3b77-400c-a667-ec8b2885a062",
+    "name": "Orchestar",
+    "author_name": "WispyWoo",
+    "description": "'Orchestar' The musical space ship! get comfy and relax to the music, or make your own with friends on the big keyboard! Fitted with a custom pool table and tons of comfy areas to cuddle up and drift through space with friends! :3",
+    "publication_date": "2023-11-04T17:55:17.556Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ff414a30-31e3-44bb-9c8e-3d721e895b0b",
+    "name": "Complex 7",
+    "author_name": "Fins",
+    "description": "The sequel to District Roboto, Complex 7 features a world 7 times larger, full of NPC, collectible, unlockable avatars, and hidden secrets. Discover the dark history behind this technicolor world of life and curiosity. [World Pre-Loading HIGHLY Recommended]All actions are local.",
+    "publication_date": "2023-11-04T03:58:10.250Z",
+    "tags": ["exploration","adventure","★"]
   }
 ]
