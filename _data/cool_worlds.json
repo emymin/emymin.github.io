@@ -4318,5 +4318,21 @@
     "description": "The sequel to District Roboto, Complex 7 features a world 7 times larger, full of NPC, collectible, unlockable avatars, and hidden secrets. Discover the dark history behind this technicolor world of life and curiosity. [World Pre-Loading HIGHLY Recommended]All actions are local.",
     "publication_date": "2023-11-04T03:58:10.250Z",
     "tags": ["exploration","adventure","★"]
+  },
+  {
+    "id": "wrld_55d2d7c5-de48-4a6d-9828-41428ea97876",
+    "name": "みんなでPlanarity UdonPlanarity",
+    "author_name": "aruma256",
+    "description": "Simple multiplayer puzzle game. 点を動かし、交差を解消せよ / Move nodes to untangle! / 原作は John Tantalo 氏による Planarity です。 / The original game is Planarity by John Tantalo. / このワールドは、同氏が MIT License で公開している raphael.planarity を元に改変(U#移植、マルチプレイ化、異なる問題生成アルゴリズムの適用など)したスクリプトを含みます。",
+    "publication_date": "2023-11-05T05:49:31.235Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_c1218afa-58ad-43a1-9a38-d4f1cf8f7eea",
+    "name": "KEY LOCK - パズルアクションゲームワールド -",
+    "author_name": "AIRE․vrc",
+    "description": "KEY LOCK",
+    "publication_date": "2023-11-01T13:52:12.980Z",
+    "tags": ["puzzle"]
   }
 ]
