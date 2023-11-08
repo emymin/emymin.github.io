@@ -4334,5 +4334,37 @@
     "description": "KEY LOCK",
     "publication_date": "2023-11-01T13:52:12.980Z",
     "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_bd1b07b1-5da0-4f2a-a27f-0c511d4f7a40",
+    "name": "Day Church",
+    "author_name": "OPCherry",
+    "description": "",
+    "publication_date": "2023-11-02T04:58:28.345Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_f545eec1-1b0a-4888-9322-4bff1aaba6a2",
+    "name": "Dream Bedroom",
+    "author_name": "F I J I W A T E R",
+    "description": "A bedroom I had a dream about once, some time after I finished the Mile-High Stairwell world.",
+    "publication_date": "2023-11-07T19:02:04.303Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_bc913672-bf38-4070-bd5b-f127dbb67e77",
+    "name": "MilleniumNet",
+    "author_name": "F I J I W A T E R",
+    "description": "A world made almost entirely of old GeoCities assets, found on the Internet Archive.",
+    "publication_date": "2021-12-19T06:35:09.485Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_1215a7fa-234f-4839-9ed4-3f4d7d656ce5",
+    "name": "Dimension Structure - R08 - Konnekt",
+    "author_name": "XR_XharpRazor",
+    "description": "Linked treehouses inspired by node graphs in a dark forest. A clubhouse or a convention center for parties and activities and gatherings. With interactive items and physic x maths toys to play with. Keep an eye on updates",
+    "publication_date": "2023-05-27T14:40:58.671Z",
+    "tags": ["hangout","tech"]
   }
 ]
