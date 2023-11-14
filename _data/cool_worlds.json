@@ -4403,7 +4403,7 @@
     "id": "wrld_a9132737-fd00-40aa-ab46-5afe3dac2b65",
     "name": "FUTURE 20th SQUARE(フューチャー 20th スクエア)",
     "author_name": "stafie（すたふぃ）",
-    "description": "フューチャーショップが20周年を記念してつくる、「未来のリテールを体感できるバーチャルスクエア」です。 バウムクーヘンをじっくり焼く、アイスバーをかわいくトッピングする... きらびやかなクリスマーケットで、さまざまな体験をお楽しみいただけます。イベント会場や配信にもご自由にお使いいただけます。ハッシュタグ「#フューチャー20VR」をつけてSNSで写真や動画をぜひご投稿ください",
+    "description": "フューチャーショップが20周年を記念してつくる、「未来のリテールを体感できるバーチャルスクエア」です。 バウムクーヘンをじっくり焼く、アイスバーをかわいくトッピングする... きらびやかなクリスマーケットで、さまざまな体験をお楽しみいただけます。",
     "publication_date": "2023-11-10T13:00:50.778Z",
     "tags": ["exhibit"]
   },
@@ -4414,5 +4414,45 @@
     "description": "Babilturo estas mondo, kiun faris Projekto Babel, la multlingva grupo por interparoli per multaj lingvoj. だべりの棟は多言語交流グループ「プロイェクトバベル」がつくった多言語交流のためのワールドです。Bower of Babbles is the world, made by Project Babel, a multilingual group, for communication with many kind of languages.",
     "publication_date": "2022-05-06T12:48:44.321Z",
     "tags": ["hub"]
+  },
+  {
+    "id": "wrld_7cead4eb-165d-46a1-bbe7-76c3f99d85bc",
+    "name": "Aero House",
+    "author_name": "Sathon",
+    "description": "Welcome to Aero House V.1: A luxurious, cozy hideaway with ample space for socializing and relaxation. Perfect for group gatherings or peaceful solitude.",
+    "publication_date": "2023-11-11T06:03:18.970Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_6891053a-08b4-4ec5-ae8f-529563e706ab",
+    "name": "Windmill Isle - Night",
+    "author_name": "Silent",
+    "description": "Welcome to Apotos! With a lovely ocean backdrop, this port town marks the start of Sonic's adventure. # An area from Sonic Unleashed. Special thanks to Averiff for the new areas! Thanks to Lugana for doing the hard work with the sourcing. Hyper thanks to Waai for creating the movement system!",
+    "publication_date": "2023-11-12T06:53:21.456Z",
+    "tags": ["exploration","hangout"]
+  },
+  {
+    "id": "wrld_4c3bffa2-82b6-451b-aa4e-85e31a3a78a2",
+    "name": "THE WAR",
+    "author_name": "パズ_PAZ",
+    "description": "Memory of that day. ! CAUTION ! This world contains war expressions. このワールドには戦争表現が含まれています。",
+    "publication_date": "2023-11-11T08:38:08.176Z",
+    "tags": ["experience","art"]
+  },
+  {
+    "id": "wrld_1382094c-0130-4c64-9f36-99c1d937a000",
+    "name": "Abyssal Seas Remeshed",
+    "author_name": "Silyataru",
+    "description": "Abyssal Seas Remeshed is a relaxing world deep underwater. Enjoy the bioluminescent life swimming around!",
+    "publication_date": "2023-11-10T22:51:58.228Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_50d4bef1-dd24-47b9-9683-a08160856487",
+    "name": "Tray Racing",
+    "author_name": "cnlohr",
+    "description": "https://github.com/cnlohr/vrc-rtrti-basic",
+    "publication_date": "2023-11-10T08:22:03.072Z",
+    "tags": ["tech"]
   }
 ]
