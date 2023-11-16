@@ -241,6 +241,15 @@ categories:
         - title: Homebrew Computers Website
           description: The Homebrew Computers Website is open to any computer project featuring a home-built CPU.
           url: https://www.homebrewcpuring.org/
+        - title: WebVM
+          description: WebVM is a server-less virtual Linux environment running fully client-side in HTML5/WebAssembly
+          url: https://webvm.io/
+        - title: 8bitworkshop
+          description: Write 8-bit code in your browser.
+          url: https://8bitworkshop.com/
+        - title: Uiua
+          description: A programming language for point-free enjoyers
+          url: https://www.uiua.org/
     - title: VR
       items:
         - title: VRChatの世界
@@ -322,6 +331,9 @@ categories:
         - title: Oimo.io
           description: I make something. 何か作ってます。触って楽しいものが好き。
           url: https://oimo.io/
+        - title: Gwern.net
+          description: This Is The Website of Gwern Branwen. 
+          url: https://gwern.net
         - title: Imaginantia
           description: 思ったことを書きます
           url: https://phi16.hatenablog.com/
@@ -352,6 +364,16 @@ categories:
         - title: Dave Stucky
           description: Sitzfleisch-induced life veteran, Spartan disposition, writer/author/essayist, public speaker, incessant dabbler, übergeeksch
           url: https://stucky.tech/
+        - title: Things Of Interest 
+          description: Today in Things Of Interest...
+          url: https://qntm.org/
+        - title: XXIIVV
+          description: A ghost enters the Library.
+          url: http://xxiivv.com/
+        - title: maria
+          description: hey! i'm maria, a web developer from the uk · i hope your day is going great and you enjoy browsing my little web nook! 
+          url: https://maria.town/
+          
     - title: Misc
       items:
         - title: itazuraneko
@@ -432,6 +454,12 @@ categories:
         - title: Recursive Recipes
           description: A recursive recipe is one where ingredients in the recipe can be replaced by another recipe. The more ingredients you replace, the more that the recipe is made truly from scratch.
           url: https://recursiverecipes.schollz.com/
+        - title: Toki Pona
+          description: Toki Pona is a human language I invented in 2001. It was my attempt to understand the meaning of life in 120 words. 
+          url: https://tokipona.org/
+        - title: Wetfish
+          description: The best internet on the internet that anyone can edit.
+          url: https://wiki.wetfish.net
     - title: List
       items:
         - title: Whitedesert
@@ -476,11 +504,14 @@ categories:
         - title: The Garden of Computational Delights
           description: Beneath the utilitarian purpose of computation, computing is also a source of delight and wonder. 
           url: https://arbesman.net/computationaldelights/
+        - title: Wiby
+          description: Search Engine for the Classic Web
+          url: https://wiby.me
 ---
 <style>
   .table-of-contents{
     border: 1px solid;
-    padding: 20px;
+    padding: 10px;
     width: 200px;
   }
 
@@ -502,7 +533,7 @@ categories:
 
       <section style="display: flex;justify-content: center; margin-top: 40px;">
         <div class="table-of-contents">
-          <h2>🙞 Categories 🙝</h2>
+          <h2>- Categories -</h2>
           <ul>
             {% for category in page.categories %}
               <li><a href="#{{category.title}}">{{category.title}}</a></li>
