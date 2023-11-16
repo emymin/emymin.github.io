@@ -4454,5 +4454,61 @@
     "description": "https://github.com/cnlohr/vrc-rtrti-basic",
     "publication_date": "2023-11-10T08:22:03.072Z",
     "tags": ["tech"]
+  },
+  {
+    "id": "wrld_7ef54852-7894-46e4-9935-7dacb78f81c5",
+    "name": "Jetski Islet",
+    "author_name": "Quap",
+    "description": "Featuring 8 Jetskis, wave simulations, and unlockables, enjoy the beach and go for high scores on the leaderboard! Can you find all 16 duckies?",
+    "publication_date": "2023-10-15T02:32:13.962Z",
+    "tags": ["driving","pvp"]
+  },
+  {
+    "id": "wrld_75e85ac2-bcc3-4eba-a6da-11ba3732e2bd",
+    "name": "Royal Ballroom Hangout",
+    "author_name": "macometer",
+    "description": "Maco's royal ballroom hangout, the place for your next prom?",
+    "publication_date": "2023-11-14T09:12:15.439Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_f73bbc2c-f677-4942-ba3c-54453162670c",
+    "name": "Raindance Immersive at Subliminal",
+    "author_name": "Histarium",
+    "description": "A Hub world showcasing all nominees at Raindance Immersive 2023.",
+    "publication_date": "2023-11-14T12:39:07.343Z",
+    "tags": ["exhibit","hub"]
+  },
+  {
+    "id": "wrld_a7a1aed7-f025-4b8e-83af-a8dc8355209f",
+    "name": "Liminal Spaces",
+    "author_name": "F I J I W A T E R",
+    "description": "Places that look somewhat familiar, but not quite right.",
+    "publication_date": "2021-02-19T05:39:46.576Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_f89c57f2-6c36-4d6b-b83e-c4e2a0547624",
+    "name": "Cthonia",
+    "author_name": "hdorriker",
+    "description": "Sustained d̵̫̚o̵͒ͅr̷̢̀s̴̘̔ë̸̥́l̵̞̑e̷̥̍s̸̺̊s̸̫͗n̴̪̿ȅ̴̮s̸̻̿s̴̻͆",
+    "publication_date": "2021-07-30T03:03:41.053Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_6850e737-3257-4746-9bce-1e64bc502715",
+    "name": "KTEK CO-07",
+    "author_name": "Kyrowo",
+    "description": "",
+    "publication_date": "2023-11-15T05:18:40.848Z",
+    "tags": ["adventure"]
+  },
+  {
+    "id": "wrld_2158241d-9e7b-424c-9e12-ded18b443164",
+    "name": "We're sorry! Something went wrong!",
+    "author_name": "rollthered",
+    "description": "This is a full recreation of the error world. I had created this for people that wanted it as their home world. This has a mirror, video player, and a VRCat as per request from Twitter.",
+    "publication_date": "2023-11-15T16:08:51.396Z",
+    "tags": ["hangout"]
   }
 ]
