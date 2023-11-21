@@ -4510,5 +4510,85 @@
     "description": "This is a full recreation of the error world. I had created this for people that wanted it as their home world. This has a mirror, video player, and a VRCat as per request from Twitter.",
     "publication_date": "2023-11-15T16:08:51.396Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_c1824301-1b7a-4a6d-ae69-de48c1bae974",
+    "name": "Kyoto Kiyomizu-dera Sando",
+    "author_name": "龍 lilea",
+    "description": "Digital archive of streets and wagashi (Japanese sweets) of Sannei-zaka, Ninei-zaka, and Yasaka-dori, the approach to Kiyomizu-dera Temple, Kyoto, by Photogrammetry. How about virtual sightseeing for eating and walking? #京都VR 京都、清水寺の参道「産寧坂」「二年坂」「八坂通」の町並みや和菓子をフォトグラメトリによりデジタルアーカイブしました。 バーチャル食べ歩き観光なんていかが?",
+    "publication_date": "2023-09-28T14:23:16.491Z",
+    "tags": ["photogrammetry","exploration"]
+  },
+  {
+    "id": "wrld_37c8ade7-c18e-47f3-b1fe-a7b8a0a1cb89",
+    "name": "SUZUOIL",
+    "author_name": "suzuki_i",
+    "description": "#SUZUOIL",
+    "publication_date": "2023-11-17T15:12:06.038Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_bc613a41-9a0c-4d86-b4c8-509d6ae3af58",
+    "name": "What A Melon Game",
+    "author_name": "Selle_",
+    "description": "Play the suika game / watermelon game on a comfy cabin! You can create your own game by taking pictures inside the world.",
+    "publication_date": "2023-11-18T02:04:59.875Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_81800175-2fdb-4e77-b602-c7fa35f33c0c",
+    "name": "Audience Anarchy",
+    "author_name": "Jar",
+    "description": "Become a television star... with live audience participation!",
+    "publication_date": "2023-11-17T20:53:28.830Z",
+    "tags": ["party-game","★"]
+  },
+  {
+    "id": "wrld_85a21707-f335-45f1-bc20-ecfda2ff7c0f",
+    "name": "isonote",
+    "author_name": "banjokanna",
+    "description": "vr only / multi-play test not finished",
+    "publication_date": "2023-05-13T14:41:57.501Z",
+    "tags": ["music"]
+  },
+  {
+    "id": "wrld_b4c07475-eacc-45bd-a264-744701eeb717",
+    "name": "Situation Voice '唐揚げレシピ'",
+    "author_name": "へすい-rerofumi",
+    "description": "サフィーちゃんがバイノーラルボイス風に唐揚げのレシピを教えてくれる。NPC model 'Sapphy' / VOICEVOX 'ナースロボ_Type-T'",
+    "publication_date": "2023-03-22T11:06:58.670Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_5e91c31e-371a-4ed6-a3d7-a98374068ff3",
+    "name": "hope [VRAA02]",
+    "author_name": "0b4k3",
+    "description": "hopeful. [Direction/Sound] obake [Model] amanek Free458679 [SpecialThanks] Amivo Darandy upusen Mane",
+    "publication_date": "2020-07-19T08:44:29.264Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_2d0a0777-65dd-4d62-b5af-a8487455485d",
+    "name": "Rooftop Blimp",
+    "author_name": "jangxx",
+    "description": "Rooftop bar with a big blimp hovering next to it.",
+    "publication_date": "2023-10-25T01:39:12.859Z",
+    "tags": ["club","tech"]
+  },
+  {
+    "id": "wrld_ef5e1903-f0be-4533-a4cd-821d1094a919",
+    "name": "雨見温泉 Rainy hot spring",
+    "author_name": "sizimityper",
+    "description": "雨見峠の傍らにある、山の中の温泉宿。",
+    "publication_date": "2023-11-18T19:07:24.937Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
+    "name": "田村酒造場 Japanese sake brewery",
+    "author_name": "I_AM_IORI ［JPN］",
+    "description": "日本酒の酒蔵を本格再現。1822年創業の田村酒造場(東京都福生市)の代表銘柄「嘉泉」の酒造りの歴史と魅力を表現しました。 In cooperation with Tamura Sake Brewery, which was founded in 1822 in Fussa City, Tokyo, we express the history and charm of sake brewing of the representative brand Kasen.",
+    "publication_date": "2023-11-20T13:01:02.974Z",
+    "tags": ["exhibit"]
   }
 ]
