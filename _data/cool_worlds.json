@@ -397,7 +397,7 @@
     "author_name": "tiwa",
     "description": "2018",
     "publication_date": "2020-03-06T11:22:42.986Z",
-    "tags": ["exploration"]
+    "tags": ["exploration","driving"]
   },
   {
     "id": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
@@ -637,7 +637,7 @@
     "author_name": "raii／らい",
     "description": "Synthesizer ⁄ Sequencer",
     "publication_date": "2023-07-16T04:38:37.294Z",
-    "tags": ["tech","music"]
+    "tags": ["tech","music","sandbox"]
   },
   {
     "id": "wrld_638abec1-338f-4c34-9a30-8c0277375649",
@@ -717,7 +717,7 @@
     "author_name": "すいほー",
     "description": "Kochou_an is world for calligraphy‚ hangout‚ and relax․ HashTag ˸ kochou_an",
     "publication_date": "2019-08-09T04:40:09.786Z",
-    "tags": ["art","hangout"]
+    "tags": ["art","hangout","sandbox"]
   },
   {
     "id": "wrld_d8c610d2-7c13-4b8b-928a-c98ccab9c74c",
@@ -725,7 +725,7 @@
     "author_name": "Kuiwa",
     "description": "［JUST USE YOUR IMAGINATION］Epilepsy hazard․",
     "publication_date": "2019-04-01T00:30:40.626Z",
-    "tags": ["experience"]
+    "tags": ["experience","music"]
   },
   {
     "id": "wrld_fb8b8fb4-77b2-4fa4-8916-21a3ee6c23e5",
@@ -1541,7 +1541,7 @@
     "author_name": "Rum Ham",
     "description": "A cozy nighttime cabin by a lake․ This is a medium sized cabin with crickets‚ hot tub‚ and a gazebo by the waterfront‚ Some of the games include pool‚ beer pong‚ and chess․ Included in the map˸ - video Player - mirror - game - fireplace - hot tub․ cricket sounds‚ cozy tent‚ credits˸ Zack Mertz",
     "publication_date": "2023-05-26T22:39:17.205Z",
-    "tags": ["hangout","exploration","★"]
+    "tags": ["hangout","★"]
   },
   {
     "id": "wrld_fb4b5900-10db-4af3-99b5-cd02440093c1",
@@ -1637,7 +1637,7 @@
     "author_name": "oikki",
     "description": "You can paint pixel art and it will stay there even if you leave! ピクセルアートを描いて永久に公開することができます。",
     "publication_date": "2023-06-27T15:16:08.891Z",
-    "tags": ["art","exhibit","tech"]
+    "tags": ["art","exhibit","tech","sandbox"]
   },
   {
     "id": "wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2",
@@ -2157,7 +2157,7 @@
     "author_name": "Lakuza",
     "description": "1-4 players․ A 5-6 hour horror game by Lakuza‚ Cyanlaser‚ Fionna ＆ Legends․ A road trip gone wrong‚ you find yourself inside a mysterious manor․ Do you investigate？Made without Udon․ （progress syncs with late joiners too）",
     "publication_date": "2020-11-15T01:29:00.903Z",
-    "tags": ["exploration","adventure","horror","puzzle","★"]
+    "tags": ["exploration","adventure","horror","★"]
   },
   {
     "id": "wrld_17743934-6102-4bf7-a083-b20b207fab95",
@@ -2373,7 +2373,7 @@
     "author_name": "aiiko",
     "description": "Welcome to the Little Big City‚ explore with your friend every place of this city․ This maps supports scaling using hand gesturing‚ climbing and grabbing․ I hope you enjoy it․",
     "publication_date": "2023-08-10T22:19:28.380Z",
-    "tags": ["tech"]
+    "tags": ["tech","exploration"]
   },
   {
     "id": "wrld_102f1f03-40c2-4817-973c-832b7e2cc52f",
@@ -2621,7 +2621,7 @@
     "author_name": "Spelso",
     "description": "Digital Electronics Museum ~ Discover the wonderful world of circuitry and digital computing in this logic gate simulator․ You can build circuits together with your friendsǃ",
     "publication_date": "2023-06-09T10:36:35.938Z",
-    "tags": ["tech"]
+    "tags": ["tech","sandbox"]
   },
   {
     "id": "wrld_a58b67be-a143-4f8a-8177-a2029b14520c",
@@ -2683,7 +2683,7 @@
     "id": "wrld_0a7397db-79ff-46ce-911b-7a022cbb2c52",
     "name": "ResilienceVR IK Demo v1․2",
     "author_name": "Haï~",
-    "description": "An experimental world about inverse kinematics․ このアバターは著者の許可を得て使用されています -- v1․2˸ Fix levers grabbing into the wrong position",
+    "description": "An experimental world about inverse kinematics․ このアバターは著者の許可を得て使用されています",
     "publication_date": "2023-05-03T05:34:24.173Z",
     "tags": ["tech"]
   },
@@ -3021,7 +3021,7 @@
     "author_name": "Juno Tanuki",
     "description": "Pick up an album and play it in the record player. Over 300+ albums to listen to! - 300を超えるレコードを聞けます",
     "publication_date": "2021-10-03T21:22:10.473Z",
-    "tags": ["hangout"]
+    "tags": ["hangout","music"]
   },
   {
     "id": "wrld_b155ff30-0bbf-486c-afc5-e7a05145387b",
@@ -3245,7 +3245,7 @@
     "author_name": "DragonCookie",
     "description": "A juicy Tower Defense game made for VRChat․ Stop the Cars from reaching your heart ≺3․ Desktop and VR compatible․",
     "publication_date": "2021-09-22T20:07:06.598Z",
-    "tags": ["strategy","pve"]
+    "tags": ["pve"]
   },
   {
     "id": "wrld_9ef194fc-a11e-4b9a-a0e8-3d7d6268d6a2",
@@ -3301,7 +3301,7 @@
     "author_name": "~Maru~",
     "description": "Co-operative active tower defense action! Protect the crystal from invading hordes!",
     "publication_date": "2023-06-17T14:39:31.075Z",
-    "tags": ["strategy","pve"]
+    "tags": ["pve"]
   },
   {
     "id": "wrld_b2c574c6-9a6e-4bcc-b74e-1284070c324f",
@@ -3453,7 +3453,7 @@
     "author_name": "xCirrex",
     "description": "A world that generates music in a relaxing atmosphere. Playable Laser Harp and Drum Machine. Particle interaction toys. Take a break, remember to drink water.",
     "publication_date": "2020-08-07T07:02:27.751Z",
-    "tags": ["music","tech"]
+    "tags": ["music","tech","sandbox"]
   },
   {
     "id": "wrld_5f358876-6be8-48e2-9a58-1d9ae3aea1b2",
@@ -3461,7 +3461,7 @@
     "author_name": "Luftprut",
     "description": "A minimalistic flower patch with magical drum sticks which can be used to play musical notes.",
     "publication_date": "2018-11-24T22:21:59.308Z",
-    "tags": ["music","exploration"]
+    "tags": ["music","exploration","art"]
   },
   {
     "id": "wrld_0f8c3c54-7651-4c10-8a81-b0edb65c65f3",
@@ -3709,7 +3709,7 @@
     "author_name": "Prismic247",
     "description": "A persistent collaborative pixel drawing canvas shared between all instances. In other words: r/Place in VRChat! Place a color pixel of your choice anywhere on the canvas and it will show up for everyone everywhere, anytime... at least until someone else places over it. You can only place so often, so work together with friends to carve out a space of your own, or have fun with Freedraw mode which lets you draw without limits on a locally synced canvas. The global canvas resets monthly, and a picture of the final state will be posted up around the room.",
     "publication_date": "2023-08-31T05:52:27.861Z",
-    "tags": ["art","tech"]
+    "tags": ["art","tech","sandbox"]
   },
   {
     "id": "wrld_2fcc2472-dee5-4f24-bd83-c85f99b0724f",
@@ -3765,7 +3765,7 @@
     "author_name": "n0p0x90",
     "description": "In-game world audio designer with import/export functionality. Also available as free prefab.",
     "publication_date": "2023-09-10T21:55:53.178Z",
-    "tags": ["tech"]
+    "tags": ["tech","sandbox"]
   },
   {
     "id": "wrld_6144e584-4b1f-4cee-a5c9-7ad81f8b66af",
@@ -3885,7 +3885,7 @@
     "author_name": "VEIN_A",
     "description": "撮影用に作成しました。写真などにどうぞ。",
     "publication_date": "2023-09-03T18:09:19.014Z",
-    "tags": ["art"]
+    "tags": ["art","sandbox"]
   },
   {
     "id": "wrld_4e1c0f20-a5be-429f-bb8d-0674373bcb38",
@@ -3965,7 +3965,7 @@
     "author_name": "Smew",
     "description": "Bounce Brush",
     "publication_date": "2023-09-25T12:37:03.789Z",
-    "tags": ["tech"]
+    "tags": ["tech","sandbox"]
   },
   {
     "id": "wrld_e740dd43-52d9-457c-aba2-6b2cc8f69ec9",
@@ -4149,7 +4149,7 @@
     "author_name": "S_ASAGIRI",
     "description": "探査機を重力井戸に投げ込んで遊べるワールドです。地球-月系、木星系、星の質量比を自由に変えられる系の３つがあります。",
     "publication_date": "2023-10-20T17:59:50.487Z",
-    "tags": ["tech"]
+    "tags": ["tech","sandbox"]
   },
   {
     "id": "wrld_74a27b4b-6b24-4f15-b219-c9ef7cb2dcc9",
@@ -4205,7 +4205,7 @@
     "author_name": "PUDDING☆",
     "description": "Weekend Parties, Cozy Hangs, and Roleplay. Creator Discord: Pudding#1746",
     "publication_date": "2023-04-01T12:34:10.557Z",
-    "tags": ["hangout","★"]
+    "tags": ["hangout","exploration","★"]
   },
   {
     "id": "wrld_260f2a2e-869d-4f80-8d32-4bf259cdc565",
@@ -4309,7 +4309,7 @@
     "author_name": "WispyWoo",
     "description": "'Orchestar' The musical space ship! get comfy and relax to the music, or make your own with friends on the big keyboard! Fitted with a custom pool table and tons of comfy areas to cuddle up and drift through space with friends! :3",
     "publication_date": "2023-11-04T17:55:17.556Z",
-    "tags": ["hangout"]
+    "tags": ["hangout","music"]
   },
   {
     "id": "wrld_ff414a30-31e3-44bb-9c8e-3d721e895b0b",
@@ -4381,7 +4381,7 @@
     "author_name": "Smew",
     "description": "Create interactive drawings with your friends!",
     "publication_date": "2021-08-24T05:07:15.132Z",
-    "tags": ["tech","art"]
+    "tags": ["tech","art","sandbox"]
   },
   {
     "id": "wrld_ab64f6bd-e246-4401-a8ad-31ef3eeb143a",
@@ -4413,7 +4413,7 @@
     "author_name": "Anno K․［あんのん］",
     "description": "Babilturo estas mondo, kiun faris Projekto Babel, la multlingva grupo por interparoli per multaj lingvoj. だべりの棟は多言語交流グループ「プロイェクトバベル」がつくった多言語交流のためのワールドです。Bower of Babbles is the world, made by Project Babel, a multilingual group, for communication with many kind of languages.",
     "publication_date": "2022-05-06T12:48:44.321Z",
-    "tags": ["hub"]
+    "tags": ["hub","★"]
   },
   {
     "id": "wrld_7cead4eb-165d-46a1-bbe7-76c3f99d85bc",
@@ -4525,7 +4525,7 @@
     "author_name": "suzuki_i",
     "description": "#SUZUOIL",
     "publication_date": "2023-11-17T15:12:06.038Z",
-    "tags": ["art"]
+    "tags": ["art","sandbox"]
   },
   {
     "id": "wrld_bc613a41-9a0c-4d86-b4c8-509d6ae3af58",
@@ -4533,7 +4533,7 @@
     "author_name": "Selle_",
     "description": "Play the suika game / watermelon game on a comfy cabin! You can create your own game by taking pictures inside the world.",
     "publication_date": "2023-11-18T02:04:59.875Z",
-    "tags": ["puzzle"]
+    "tags": ["puzzle","hangout"]
   },
   {
     "id": "wrld_81800175-2fdb-4e77-b602-c7fa35f33c0c",
@@ -4549,7 +4549,7 @@
     "author_name": "banjokanna",
     "description": "vr only / multi-play test not finished",
     "publication_date": "2023-05-13T14:41:57.501Z",
-    "tags": ["music"]
+    "tags": ["music","sandbox"]
   },
   {
     "id": "wrld_b4c07475-eacc-45bd-a264-744701eeb717",
@@ -4590,5 +4590,77 @@
     "description": "日本酒の酒蔵を本格再現。1822年創業の田村酒造場(東京都福生市)の代表銘柄「嘉泉」の酒造りの歴史と魅力を表現しました。 In cooperation with Tamura Sake Brewery, which was founded in 1822 in Fussa City, Tokyo, we express the history and charm of sake brewing of the representative brand Kasen.",
     "publication_date": "2023-11-20T13:01:02.974Z",
     "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_4acd647e-1fa0-4df7-86c7-d748134026e8",
+    "name": "VRChat Time Machine",
+    "author_name": "Zab",
+    "description": "World hop through panoramas of classic VRC worlds!",
+    "publication_date": "2023-11-21T18:00:02.665Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_188f0cd9-cead-4394-8195-290279b0afa0",
+    "name": "Pretty World Storage 예쁜월드저장소",
+    "author_name": "김에버_",
+    "description": "Sinabro 도움으로 드디어 VCC로 업데이트 ㅠㅠ. 10개 월드 추가",
+    "publication_date": "2020-04-23T06:25:47.341Z",
+    "tags": ["hub"]
+  },
+  {
+    "id": "wrld_56b348fc-b1cb-4242-8587-9eb8e01ef399",
+    "name": "Just Rain",
+    "author_name": "kden",
+    "description": "just rain",
+    "publication_date": "2019-08-22T18:26:22.070Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_b409b26b-4652-4c24-9e2a-02f7c3ad9c24",
+    "name": "サイズ公園 (Size Park)",
+    "author_name": "UT-virtual",
+    "description": "駒場祭2023に合わせて、大学サークルのUT-virtualで制作されたワールドです。 不思議なキノコを使っていろいろ遊べます。 作者：Ogajum,落雁,Tankette(アセットを除く)",
+    "publication_date": "2023-11-24T16:18:05.113Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_f01d8407-080a-4a9c-8ca8-9cd38cf9be92",
+    "name": "VEINPRM23W",
+    "author_name": "VEIN_A",
+    "description": "VEINPRM23W ワールド重たい人は入り口横のライトを変更すると多少マシになります。",
+    "publication_date": "2023-11-24T16:22:05.298Z",
+    "tags": ["art","adventure"]
+  },
+  {
+    "id": "wrld_960262d0-6327-4c2c-b6f4-14db7679def3",
+    "name": "Hub",
+    "author_name": "AyahuyA l あやふや",
+    "description": "Hub",
+    "publication_date": "2023-11-25T15:38:16.940Z",
+    "tags": ["hub","exploration"]
+  },
+  {
+    "id": "wrld_359ba870-5903-45e0-b8b7-1592b94f16bd",
+    "name": "Mid-day Hangout",
+    "author_name": "mugi1",
+    "description": ":3 hee hee hoo hoo",
+    "publication_date": "2023-01-22T22:09:26.075Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_52128cca-4f72-4ee4-9499-3ff4e53fe1ba",
+    "name": "Midnight Alone",
+    "author_name": "Koyuri",
+    "description": "Someone might be calling you in the darkness...",
+    "publication_date": "2019-08-29T03:30:12.562Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_72b30439-62a0-4c0d-a0e6-b3eb7292d355",
+    "name": "YES?",
+    "author_name": "TheZiver",
+    "description": "Chill world with a racist turret that shoots quest players, includes features like metal pipe, doxing globe, loud sounds, seizure inducing lights, motion sickness, edible rocks and copyrighted music. DAILY VRCHAT event happen here every day 21:00-23:00 UTC",
+    "publication_date": "2023-05-27T02:16:34.778Z",
+    "tags": ["tech","exploration","★"]
   }
 ]
