@@ -1605,7 +1605,7 @@
     "author_name": "Niko∗",
     "description": "Join us on a once-in-a-lifetime journey as we take you on a chillout adventure to five breathtaking locations in the universe. You'll have the chance to explore the rugged terrain of a rocky planet, the endless horizons of a planet completely covered by a big ocean, and the surreal sensation of floating in an alien atmosphere on a giant gas planet. We'll also take you up close to witness the raw power of nature on a very hot planet with a molten magma surface. In addition to these amazing destinations, we'll visit the stunning planetary nebula, where you can witness the beautiful cosmic dust and gas swirling in mesmerizing patterns. And last but not least, we'll take you to the newly discovered planet TOI-700e, a rocky planet that orbits a small, cool star and may have the potential for supporting life. Come along on this exceptional chillout adventure and uncover the magnificence of the universe in a way you have never witnessed before.",
     "publication_date": "2023-03-20T04:16:38.359Z",
-    "tags": ["experience"]
+    "tags": ["experience","hangout"]
   },
   {
     "id": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
@@ -4685,6 +4685,30 @@
     "author_name": "Connected Ink",
     "description": "Wacom Connected Ink Virtual World 'Metamorphosis'",
     "publication_date": "2022-11-18T13:39:11.968Z",
-    "tags": ["art","experience"]
+    "tags": ["art","experience","music"]
+  },
+  {
+    "id": "wrld_a04fdf7a-c507-4b60-b88b-19fa2aece66d",
+    "name": "Trinity",
+    "author_name": "Zed®",
+    "description": "",
+    "publication_date": "2023-10-27T16:31:34.099Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_c620e71d-63ed-4bbc-9250-e1ede5430641",
+    "name": "Gaia Fest",
+    "author_name": "ZEON",
+    "description": "Classic Gaia Night: Music Festival edition",
+    "publication_date": "2023-12-03T10:11:47.261Z",
+    "tags": ["music","club"]
+  },
+  {
+    "id": "wrld_e7b7d3e9-8f8c-4204-a785-47c7ccce0a2a",
+    "name": "Upnor Castle (3D Scan)",
+    "author_name": "Dauw_Jonas",
+    "description": "",
+    "publication_date": "2023-12-02T22:23:46.663Z",
+    "tags": ["photogrammetry"]
   }
 ]
