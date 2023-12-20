@@ -4710,5 +4710,29 @@
     "description": "",
     "publication_date": "2023-12-02T22:23:46.663Z",
     "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_31f20948-91c8-428a-9d84-10ff7b21d55f",
+    "name": "BLOSSOM | Experiment",
+    "author_name": "Artsy Glitch",
+    "description": "DJ // Music visualizer world inspired by Wild Flower. Enjoy!",
+    "publication_date": "2023-12-09T07:24:07.647Z",
+    "tags": ["club","music"]
+  },
+  {
+    "id": "wrld_7cf4c8a2-3d5f-4f9d-8884-5fa540866087",
+    "name": "Inside a Processor: Just In-order Superscalar",
+    "author_name": "Hidetsugu Irie",
+    "description": "Dive inside the CPU! In this world, you can go inside a simple single-core processor and observe how instructions are processed each cycle.",
+    "publication_date": "2023-12-13T06:35:26.512Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_e21daff4-c25e-4b98-831d-2ef415a851d0",
+    "name": "VFI - Cinema",
+    "author_name": "LucyLuuu",
+    "description": "The Cinema of the Virtual Film Institute - Dedicated to shining a light onto our amazing VRChat Filmmakers, while providing an excellent Stage to show off great Films. Surround Sound Audio and Reactive Lighting (LTCGI) help drive home the Cinema Experience. The Lobby contains various games, such as Pool, Chess, and Cards. And yes, we also have a comfy room with bed & asmr tools :)",
+    "publication_date": "2023-10-05T20:42:20.875Z",
+    "tags": ["exhibit","hangout"]
   }
 ]
