@@ -4734,5 +4734,29 @@
     "description": "The Cinema of the Virtual Film Institute - Dedicated to shining a light onto our amazing VRChat Filmmakers, while providing an excellent Stage to show off great Films. Surround Sound Audio and Reactive Lighting (LTCGI) help drive home the Cinema Experience. The Lobby contains various games, such as Pool, Chess, and Cards. And yes, we also have a comfy room with bed & asmr tools :)",
     "publication_date": "2023-10-05T20:42:20.875Z",
     "tags": ["exhibit","hangout"]
+  },
+  {
+    "id": "wrld_8cef720b-2067-4c23-847f-95075ec08605",
+    "name": "Styro Video Holiday Special",
+    "author_name": "DekaWolf",
+    "description": "Watch a collection of old Christmas videos and vintage computer graphics animations streamed from archive.org. Enable tooltips in VRchat for tape descriptions. Change map settings with the light switches.",
+    "publication_date": "2022-07-14T05:21:39.751Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_38ee1c16-3109-4ec2-a883-9338c9654e01",
+    "name": "神穣小学校 shinjo-es",
+    "author_name": "おふとん（Ofuton）",
+    "description": "いつかどこかの小学校の1学級だけ。ギミックはあまりありません。21.4.7:統計などを追加しました",
+    "publication_date": "2020-08-06T12:56:46.579Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_ece37a53-3e2b-42a4-b5e4-4c90cded3cc5",
+    "name": "西むらくも高架下公園-NishiMurakumo Underpass park",
+    "author_name": "AyahuyA l あやふや",
+    "description": "どこかの公園",
+    "publication_date": "2023-12-22T16:01:49.946Z",
+    "tags": ["art","exploration"]
   }
 ]
