@@ -1408,14 +1408,6 @@
     "tags": ["art","hangout"]
   },
   {
-    "id": "wrld_cfc94d63-c28f-4529-b483-f419f5ee8c44",
-    "name": "Hogwarts Great Hall",
-    "author_name": "~Robert",
-    "description": "Experience the ambience of Hogwarts‚ get sorted into your house‚ collect all the Famous Witch ＆ Wizard cards and gather around the fire and chill with friends․",
-    "publication_date": "2021-12-13T21:18:08.161Z",
-    "tags": ["hangout"]
-  },
-  {
     "id": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
     "name": "雪夢島 -Snow Reverie Island-",
     "author_name": "Leiria_vrc",
@@ -4758,5 +4750,61 @@
     "description": "どこかの公園",
     "publication_date": "2023-12-22T16:01:49.946Z",
     "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_be3f0b84-ec6f-4a67-beb6-93d5049316c7",
+    "name": "Ao",
+    "author_name": "suzuki_i",
+    "description": "Ao",
+    "publication_date": "2020-03-29T13:00:15.926Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_fdf03fdd-2452-4274-8186-705878ddea56",
+    "name": "Abandoned city",
+    "author_name": "AyahuyA（はかせ）",
+    "description": "",
+    "publication_date": "2022-08-01T12:21:41.548Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_124363f9-9a17-49e0-9fc9-4902ca1facdc",
+    "name": "ClawShot Playground",
+    "author_name": "torityan",
+    "description": "クローショットでコインを集めて実績を解除しよう！Collect coins with ClawShots to unlock achievements!",
+    "publication_date": "2023-12-25T13:50:52.466Z",
+    "tags": ["parkour"]
+  },
+  {
+    "id": "wrld_ea221364-d0be-45cc-aae2-cdddc8f9d788",
+    "name": "Experiment_12-23-23.1",
+    "author_name": "Iron_Oxide",
+    "description": "Atmospheric, still, monochromatic. An experiment with rigidbodies in Blender and lightmapping.",
+    "publication_date": "2023-12-26T05:53:58.737Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_cfc94d63-c28f-4529-b483-f419f5ee8c44",
+    "name": "Hogwarts Great Hall",
+    "author_name": "~Robert",
+    "description": "Enjoy the ambience of Hogwarts, get sorted into your house, collect all the Famous Witch & Wizard Cards, gather around the fire with friends, or *explore the depths of Hogwarts and learn how to wield magic *WIP - Not all features are currently quest compatible.",
+    "publication_date": "2021-12-13T21:18:08.161Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_dfbd5d6a-b559-4dec-8693-3509b985cbd0",
+    "name": "最後のクリスマス-Last Christmas",
+    "author_name": "HANI․",
+    "description": "12",
+    "publication_date": "2023-12-22T15:29:33.024Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_2847f8d8-4d01-478f-9284-fc39d427c110",
+    "name": "The Christmas Special 2023 Hub World",
+    "author_name": "totless",
+    "description": "The Hub world for the Totless Community Christmas Special 2023!",
+    "publication_date": "2023-12-10T22:47:06.798Z",
+    "tags": ["exhibit"]
   }
 ]
