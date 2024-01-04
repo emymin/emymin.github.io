@@ -4749,7 +4749,7 @@
     "author_name": "AyahuyA l あやふや",
     "description": "どこかの公園",
     "publication_date": "2023-12-22T16:01:49.946Z",
-    "tags": ["art","exploration"]
+    "tags": ["art","exploration","★"]
   },
   {
     "id": "wrld_be3f0b84-ec6f-4a67-beb6-93d5049316c7",
@@ -4806,5 +4806,53 @@
     "description": "The Hub world for the Totless Community Christmas Special 2023!",
     "publication_date": "2023-12-10T22:47:06.798Z",
     "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_29bde305-ffb9-4b22-8369-1eccf7316fae",
+    "name": "4D Polytopes Gallery",
+    "author_name": "chotsugai_cicei",
+    "description": "Exhibit of intractable regular 4-polytopes",
+    "publication_date": "2023-12-28T16:22:39.705Z",
+    "tags": ["tech","exhibit"]
+  },
+  {
+    "id": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
+    "name": "Japan Shrine[winter]",
+    "author_name": "RootGentle",
+    "description": "This world is a legitimate sequel by the author of the first [Japan Shrine].",
+    "publication_date": "2023-12-30T08:24:15.766Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
+    "name": "Gion Street - 祇園通り日本",
+    "author_name": "Fins",
+    "description": "Inspired by the Gion area in Kyoto - Made for 2024 NYE | 京都の祇園エリアにインスパイアされて - 2024年NYEのために作られた",
+    "publication_date": "2021-01-01T20:12:51.638Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_c5553908-9b34-42f2-b1cb-169b5cde510e",
+    "name": "ELECTRONIC REALITY",
+    "author_name": "rokumori_",
+    "description": "E.C.H.O - 2nd Anniversary Party (Final Party) - 2023.12.16 (SAT) / 20:00 (JST) START #VRC_ECHO",
+    "publication_date": "2023-12-09T10:47:34.165Z",
+    "tags": ["club"]
+  },
+  {
+    "id": "wrld_df5acb7a-554d-4d88-bd41-afcc5db228ff",
+    "name": "com8's Desert Drive",
+    "author_name": "komuhachi",
+    "description": "Drive an off-road car through a 4km x 2km desert.",
+    "publication_date": "2024-01-01T09:33:51.544Z",
+    "tags": ["driving","exploration"]
+  },
+  {
+    "id": "wrld_376ff338-bdaf-4131-9f98-a3a8efcbc7c7",
+    "name": "Playground",
+    "author_name": "kwispi",
+    "description": "Minecraft structures to explore. Many physics related guns to play with. Flying Pickups. Mirrors to chill by. Combination of two original minecraft worlds.",
+    "publication_date": "2024-01-03T13:37:17.244Z",
+    "tags": ["sandbox","hangout","exploration"]
   }
 ]
