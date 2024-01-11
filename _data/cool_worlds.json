@@ -4878,5 +4878,29 @@
     "description": "Fan recreation of the Stelline Laboratories building exterior and parking lot from Bladerunner 2049. Everything was modelled by me from scratch aside from K's spinner, which was made by Lor.Hang.Chuan on Sketchfab.",
     "publication_date": "2024-01-06T11:56:15.186Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_87d68c56-7470-4256-b532-c3e9ae9b25fc",
+    "name": "ケセドの美術室-CHESED's Art Room-",
+    "author_name": "ケセドCHESED",
+    "description": "159作目は美術室。手前の教室にはAndroid対応の絵や字を描けるギミックが３つ。奥の部屋にはPC向けに油絵のような立体的な絵を描けるギミックがあります。The 159th world is an art room. In the classroom in the foreground, there are three gimmicks that are compatible with Android and allow you to draw pictures and letters. In the back room, there is a gimmick that allows you to draw three-dimensional paintings like oil paintings on your PC.",
+    "publication_date": "2024-01-09T06:32:11.742Z",
+    "tags": ["art","sandbox"]
+  },
+  {
+    "id": "wrld_425b0d38-4d15-4b6e-ab5f-32612948dd4c",
+    "name": "Realistic Tornado",
+    "author_name": "SBoys3",
+    "description": "See a photorealistic tornado. It uses a complex custom shader to render a tornado in real time. The mesocyclone is also rendered. Drive or fly around 100km² of farmland.",
+    "publication_date": "2023-03-26T23:11:41.342Z",
+    "tags": ["tech","flying","★"]
+  },
+  {
+    "id": "wrld_65197f22-3044-456b-9ace-a8015e50ef83",
+    "name": "French Nights Paris FR",
+    "author_name": "BabyNina",
+    "description": "French Nights Paris FR",
+    "publication_date": "2023-10-02T19:11:50.423Z",
+    "tags": ["hangout"]
   }
 ]
