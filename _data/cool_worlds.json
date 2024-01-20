@@ -4950,5 +4950,69 @@
     "description": "32 AudioLink-enabled orbs that dynamically enlighten the environment and your avatar. Many settings to tinker with!",
     "publication_date": "2022-02-24T23:22:48.787Z",
     "tags": ["tech","music"]
+  },
+  {
+    "id": "wrld_7b7ca9ef-f91e-4dd2-ad06-72354bf131e8",
+    "name": "Keep The FPS !!",
+    "author_name": "キャンディちゃん",
+    "description": "If you get below 40FPS you will explode.",
+    "publication_date": "2021-01-05T13:38:47.236Z",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_b7205a92-cd52-4043-bb74-2b5e6933199d",
+    "name": "Capsule031",
+    "author_name": "たご TAGOb6c",
+    "description": "For 4 people",
+    "publication_date": "2024-01-08T16:38:30.249Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_d1a65b73-9ee9-4180-8fbf-9ab8a4a83409",
+    "name": "Monster Hunter Tri - Deserted Island + Moga Village",
+    "author_name": "GigiSpahz",
+    "description": "The Deserted Island and the Moga Village from Monster Hunter Tri. A world made for the Monster Hunter fans, by a fan. Changelogs are available in-world. Quest users may not be able to join the first time due to a Out of Memory error, but trying a second or third time should do the trick.",
+    "publication_date": "2022-11-30T02:47:37.188Z",
+    "tags": ["adventure","exploration"]
+  },
+  {
+    "id": "wrld_329485fe-50a5-4ef8-bb47-194d23f15973",
+    "name": "VRChat Cafe",
+    "author_name": "vrchat",
+    "description": "10 Year Celebration World. Day Zero uploaded content.",
+    "publication_date": "2024-01-16T14:50:14.751Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_95c2399b-be9f-4c2e-a396-8412ddfb7544",
+    "name": "geometry house by ismall",
+    "author_name": "angel̶",
+    "description": "ismall made the base world, i added prefabs and it contains a boat you can drive. welccome to my homeworld",
+    "publication_date": "2024-01-17T19:08:08.390Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_1270f0be-b098-4374-956c-f2dac55d3e80",
+    "name": "Just 4D Room",
+    "author_name": "chotsugai_cicei",
+    "description": "A simple 4D room with a standard slicing method",
+    "publication_date": "2024-01-17T05:18:01.691Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_4e46d85f-bf1e-4294-8af4-6b2a5d3fdcc7",
+    "name": "アルクアラウンド",
+    "author_name": "haco_in_the_box",
+    "description": "Quest非対応です、ご注意ください。 サカナクションの楽曲、アルクアラウンドのMVを再現したファンメイドワールドです。 Fan made world from Aruku Around, Sakanaction. また、このワールドを使った再現MVをYoutube, niconicoで公開しています。 Quest対応の表示がありますが、軽量化できていないため入ろうとすると落ちます。現状Quest非対応です、申し訳ありません。",
+    "publication_date": "2024-01-13T18:31:45.505Z",
+    "tags": ["art","★"]
+  },
+  {
+    "id": "wrld_f9dae7c1-c248-48b4-9840-53a7d5f5020a",
+    "name": "きんいろモザイク 聖地巡礼ワールド",
+    "author_name": "V WORLD",
+    "description": "アニメ「きんいろモザイク」の聖地である、イギリスのコッツウォルズ地方「バイブリー」を再現したワールドになります。",
+    "publication_date": "2024-01-19T12:07:06.343Z",
+    "tags": ["photogrammetry","exhibit"]
   }
 ]
