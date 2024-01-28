@@ -4817,7 +4817,7 @@
   },
   {
     "id": "wrld_b2d24c29-1ded-4990-a90d-dd6dcc440300",
-    "name": "Japan Shrine[winter]",
+    "name": "Japan Shrine[spring]",
     "author_name": "RootGentle",
     "description": "This world is a legitimate sequel by the author of the first [Japan Shrine].",
     "publication_date": "2023-12-30T08:24:15.766Z",
@@ -5014,5 +5014,109 @@
     "description": "アニメ「きんいろモザイク」の聖地である、イギリスのコッツウォルズ地方「バイブリー」を再現したワールドになります。",
     "publication_date": "2024-01-19T12:07:06.343Z",
     "tags": ["photogrammetry","exhibit"]
+  },
+  {
+    "id": "wrld_749e8b8a-c25b-4f75-82b3-14f38ff368a7",
+    "name": "Sunroom",
+    "author_name": "Darwfer",
+    "description": "A small room with a mirror, pens, a daynight slider, and a rain toggle.",
+    "publication_date": "2022-06-14T19:02:02.035Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_3858d3f4-7425-443e-8124-25c8ade08523",
+    "name": "Healing Lights",
+    "author_name": "i_am_jump",
+    "description": "癒しの光",
+    "publication_date": "2023-12-25T10:42:43.137Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7",
+    "name": "Smash Contest スマッシュコンテスト",
+    "author_name": "bironist",
+    "description": "サンドバッグを殴って蹴ってHome Run！かっこよく飛ばせたら#SMACONでシェア！Made with Udon",
+    "publication_date": "2021-06-25T23:39:16.646Z",
+    "tags": ["sport"]
+  },
+  {
+    "id": "wrld_291d714b-7040-4ebf-a32e-f23fd018da24",
+    "name": "夜更かしヴィラ",
+    "author_name": "わび⁄wabi_JP",
+    "description": "睡眠用ワールドです。容量多めですが、ホームワールド向けにビジターボード、イベントカレンダー、天気予報置かせてもらってます。",
+    "publication_date": "2024-01-21T08:32:50.821Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_bd4de0ec-0d56-4904-93fb-618a711f97d3",
+    "name": "Light. Water. Chairs.",
+    "author_name": "雪の降る街",
+    "description": "iwaSync3とミラーがあります。 作業などにどうぞ。 BGM sea-no ascenery",
+    "publication_date": "2024-01-22T11:26:27.185Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_1f0389ac-2244-46dd-84d4-fe3e0d107c86",
+    "name": "Tranquil Penthouse - Night",
+    "author_name": "Nimbkoll",
+    "description": "Does Tranquil Penthouse blind you? Try this one, nerd.",
+    "publication_date": "2024-01-22T23:08:21.568Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_1ea53687-e6ec-4a36-883b-b6e6774655a0",
+    "name": "ZAPZAPBATH",
+    "author_name": "Rsea_るしぃ",
+    "description": "ZAPZAPBATH",
+    "publication_date": "2023-09-29T16:52:27.627Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_fc149ea7-def0-4246-be6f-706ed51a237e",
+    "name": "Home?",
+    "author_name": "sixio",
+    "description": "",
+    "publication_date": "2023-12-15T22:59:46.340Z",
+    "tags": ["music","club","hangout","tech"]
+  },
+  {
+    "id": "wrld_7badea26-ce3e-4555-8259-004993ee7e69",
+    "name": "HOR Berlin",
+    "author_name": "mugi1",
+    "description": "Welcome to HOR Berlin. this is a faithful recreation of the DJ Booth over in Berlin. Usage instructions are at spawn.",
+    "publication_date": "2022-02-20T03:01:53.993Z",
+    "tags": ["music","art"]
+  },
+  {
+    "id": "wrld_2e89a40a-4314-4994-bbcf-3d680e4526cd",
+    "name": "Melody",
+    "author_name": "MR‚cat",
+    "description": "Combine and Reform.",
+    "publication_date": "2024-01-25T20:07:38.880Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_4e9f6ba0-d4cb-4f82-9e32-3c49fca4b914",
+    "name": "Thoughts?",
+    "author_name": "beesha",
+    "description": "Thoughts?",
+    "publication_date": "2024-01-25T21:40:27.999Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_75a667c7-1151-4fba-b391-fcc82c8af03d",
+    "name": "Rokuro Master",
+    "author_name": "KAE［かえ］",
+    "description": "You can make Pottery.",
+    "publication_date": "2024-01-26T16:48:21.609Z",
+    "tags": ["art","sandbox"]
+  },
+  {
+    "id": "wrld_83c4829f-aa78-4234-a254-5d1d257cad28",
+    "name": "Fuji Konbini (コンビニ)",
+    "author_name": "Tokkio",
+    "description": "A quiet night at a convenience store under Mt. Fuji. There are over 56,000 convenience marts in Japan that carry snacks, food, drinks, and all sorts of daily goods.",
+    "publication_date": "2024-01-26T14:13:23.433Z",
+    "tags": ["hangout"]
   }
 ]
