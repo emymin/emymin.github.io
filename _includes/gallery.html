@@ -4,27 +4,21 @@
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
         gap: 10px;
         padding: 40px;
         padding-top: 0px;
     }
     
     .image-gallery li {
-        flex-grow: 1;
-        height: 40vh;
-        cursor: pointer;
         list-style-type: none;
-    }
-
-    .image-gallery li:last-child{
-        flex-grow: 10;
+        cursor: pointer;
     }
 
     .image-gallery li img {
         object-fit: cover;
-        min-width: 100%;
-        max-height: 100%;
-        vertical-align: bottom;
+        max-width: 40vh;
+        max-height: 40vh;
         border-radius: 5px;
     }
 
@@ -33,34 +27,6 @@
         transition: all .4s ease;
     }
 
-    @media (max-aspect-ratio: 1/1) {
-        li {
-            height: 30vh;
-        }
-    }
-
-
-    @media (max-height: 480px) {
-    li {
-        height: 80vh;
-    }
-    }
-
-    @media (max-aspect-ratio: 1/1) and (max-width: 480px) {
-    ul {
-        flex-direction: row;
-    }
-
-    li {
-        height: auto;
-        width: 100%;
-    }
-    img {
-        width: 100%;
-        max-height: 75vh;
-        min-width: 0;
-    }
-    }
 </style>
 {% if size > 1 %}
 <style>
@@ -89,7 +55,7 @@
         color: var(--bg-color)
     }
 </style>
-<div style="display: flex;justify-content: center;">
+<div style="display: flex;justify-content: center;padding: 20px;">
     <div class="view-box">
         {% for category in page.categories %}
         <div class="view-button" id="{{category.tag}}" onclick="showGallery('{{category.tag}}')"> {{category.title}}
@@ -103,8 +69,14 @@
 <ul class="image-gallery" id="{{category.tag}}">
     {% assign images = site.static_files | where: category.tag, true | reverse %}
     {% for image in images %}
+
+    {% if page.write_resolutions %}
+    {% assign width = image.path | split:"x" | first | slice: -4, 4 %}
+    {% assign height = image.path | split:"x" | last | slice: 0, 4 %}
+    {% endif %}
+
     <li>
-        <img src="{{image.path}}" loading="lazy" onclick="openImageModal('{{image.path}}')">
+        <img src="{{image.path}}" {% if page.write_resolutions %} width="{{width}}" height="{{height}}"{% endif %} loading="lazy" onclick="openImageModal('{{image.path}}')">
     </li>
     {% endfor %}
 </ul>
