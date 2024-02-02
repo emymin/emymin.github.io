@@ -5118,5 +5118,85 @@
     "description": "A quiet night at a convenience store under Mt. Fuji. There are over 56,000 convenience marts in Japan that carry snacks, food, drinks, and all sorts of daily goods.",
     "publication_date": "2024-01-26T14:13:23.433Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_d458f02f-45c9-4387-b598-fbe897b21a29",
+    "name": "Arknights - Rhine Lab",
+    "author_name": "SchwarzXVII",
+    "description": "Located in Trimounts, Columbia. Terra's biggest scientific organization, famous for its Originium-related advancements. Exhibition Hall 3.",
+    "publication_date": "2024-01-28T12:46:07.991Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_2855e3d1-8fe7-488a-bc95-1d3e58b9643f",
+    "name": "고놀전시관 wwg",
+    "author_name": "서란 Seoran",
+    "description": "고놀전시관 wwg",
+    "publication_date": "2023-12-30T18:57:42.836Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_84edfdfd-65fa-483e-afcf-006059f24e54",
+    "name": "Scrawl City",
+    "author_name": "Anonine",
+    "description": "Art by Anonine, Breadystix, RainyMango, Chdata. Environment and Music by Anonine",
+    "publication_date": "2024-01-25T12:52:32.363Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_d2e84f53-716d-4410-822a-600f504f45f8",
+    "name": "Soak",
+    "author_name": "DAGINATSUKO",
+    "description": "Soak is a small space for you to take a virtual bath in a cozy little washroom. Inspiration for this world was drawn from wanting to replicate the atmospherics of vintage-themed washroom with expected VRChat creature comforts.",
+    "publication_date": "2024-01-28T15:21:54.426Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_32182ece-4023-4511-bf73-83d44835eef5",
+    "name": "Grass Kansas Hills",
+    "author_name": "SkeirBoreal",
+    "description": "demo of realistic grass instead of stupid textures",
+    "publication_date": "2024-01-23T00:55:30.151Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_698149d4-b9fc-40c3-8314-5dc1c15f0188",
+    "name": "ROOM 2-Yozakura",
+    "author_name": "うまへる",
+    "description": "ROOM 2 ver 0.43Y|Caution: High polygon count.",
+    "publication_date": "2024-01-19T11:02:35.735Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_255d3da7-8693-456a-b671-0ec1357f9b49",
+    "name": "Particle Plant",
+    "author_name": "Atoca",
+    "description": "20240131 /Sound Design by NOISERN",
+    "publication_date": "2024-01-31T16:18:00.562Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_2755f213-a369-46a3-97c9-791d289f9ba1",
+    "name": "寝起きの回廊 - Aerial garden -",
+    "author_name": "awafuki",
+    "description": "青空の下で目覚めたら、雪と水に囲まれた回廊をのんびり歩いていってみましょう。。陽だまりで本を読んだり、ゆずのお風呂に浸かったり。。どこからかパンの香りと次のベッドの気配が漂ってきます A tranquil aerial corridor surrounded by snow-covered mountains and glaciers. It features warm lounges, bedrooms, and a greenhouse.",
+    "publication_date": "2024-02-01T11:22:25.157Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_4eab1cb8-1933-4e09-9efa-884385cab5db",
+    "name": "Crescendo New Year Music Festival",
+    "author_name": "Dr_Nope",
+    "description": "Brought to you by friends at Derelict, Subsystem and Vibe Tribe VR!",
+    "publication_date": "2023-12-31T17:03:16.801Z",
+    "tags": ["club","★"]
+  },
+  {
+    "id": "wrld_1437bd4e-05bc-4787-ac4f-d56c511e55fe",
+    "name": "ひまたROOM",
+    "author_name": "ひまた。",
+    "description": "ひまたROOM",
+    "publication_date": "2024-01-31T00:53:56.513Z",
+    "tags": ["hangout","★"]
   }
 ]
