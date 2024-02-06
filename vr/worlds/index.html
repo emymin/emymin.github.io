@@ -175,7 +175,7 @@ description: A large list of VRChat worlds I think are cool
     }
 
     function feeling_lucky(){
-        const worlds = document.querySelectorAll(".world");
+        const worlds = Array.from(document.querySelectorAll(".world")).filter(world => world.style.display!="none");
         const index = Math.floor(Math.random() * worlds.length);
         const world = worlds[index];
 
