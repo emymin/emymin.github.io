@@ -4933,7 +4933,7 @@
     "author_name": "ぽてこ（'ω'）",
     "description": "chill out at home.のんびりするリスのお部屋。時間帯によって空が変化します。YamaPlayer/QvPen/mirror/タグマーカー",
     "publication_date": "2024-01-11T12:20:30.768Z",
-    "tags": ["hangout"]
+    "tags": ["hangout","★"]
   },
   {
     "id": "wrld_9456049c-dc11-46a0-97b9-44934b8a4771",
@@ -4990,14 +4990,6 @@
     "description": "ismall made the base world, i added prefabs and it contains a boat you can drive. welccome to my homeworld",
     "publication_date": "2024-01-17T19:08:08.390Z",
     "tags": ["hangout"]
-  },
-  {
-    "id": "wrld_1270f0be-b098-4374-956c-f2dac55d3e80",
-    "name": "Just 4D Room",
-    "author_name": "chotsugai_cicei",
-    "description": "A simple 4D room with a standard slicing method",
-    "publication_date": "2024-01-17T05:18:01.691Z",
-    "tags": ["tech"]
   },
   {
     "id": "wrld_4e46d85f-bf1e-4294-8af4-6b2a5d3fdcc7",
@@ -5294,5 +5286,53 @@
     "description": "Dungeon and ruins are connected.",
     "publication_date": "2024-02-14T22:10:05.537Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_d26430a5-87de-422a-bb28-d0bee8724626",
+    "name": "Tributes II - ShowVenue",
+    "author_name": "MissStabby",
+    "description": "Daft Punk inspired venue, made for the show on 16/02/2024 22:00 CET https://vrc.group/EUFUNK.1745",
+    "publication_date": "2024-02-16T23:40:47.920Z",
+    "tags": ["music","club"]
+  },
+  {
+    "id": "wrld_5a39ec00-f68f-4792-a3ac-f9c63e31ca3d",
+    "name": "Moon Diner",
+    "author_name": "AliceD",
+    "description": "A lunar hotspot where 1950s nostalgia meets virtual reality in VRChat! Step into our retro diner, but don't miss out the real party's in the restroom!",
+    "publication_date": "2024-02-17T00:11:46.353Z",
+    "tags": ["hangout","club"]
+  },
+  {
+    "id": "wrld_a70835f5-bac2-4f06-afef-5ff6417ea2ea",
+    "name": "Da House",
+    "author_name": "ღ ᴄʜᴀᴏᴛɪᴄ ღ",
+    "description": "Da House",
+    "publication_date": "2024-02-18T06:43:31.381Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_d4f56e18-daf1-4317-ab79-120aec77f6c8",
+    "name": "Puru 3D photo studio",
+    "author_name": "Pururut̵",
+    "description": "A small world where I will take 3d pictures for my other worlds",
+    "publication_date": "2024-02-17T19:26:59.875Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_01ede896-e65e-4163-87a4-9d44867d4555",
+    "name": "SANRIO Vfes MOCHIPOLY FACTORY",
+    "author_name": "Gugenka",
+    "description": "SANRIO Vfes MOCHIPOLY FACTORY",
+    "publication_date": "2024-02-18T00:00:44.532Z",
+    "tags": ["music","coop","★"]
+  },
+  {
+    "id": "wrld_cec50b60-de3e-4654-8273-55a5326df7a9",
+    "name": "German Village(Night)wwg",
+    "author_name": "클로버_",
+    "description": "길버트의 두근두근 독일 생활 (밤)",
+    "publication_date": "2024-01-14T04:52:59.706Z",
+    "tags": ["hangout"]
   }
 ]
