@@ -5374,5 +5374,61 @@
     "description": "Wander around the world while exploring small rooms along the way, with updates every Friday.",
     "publication_date": "2022-02-06T23:34:46.869Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_a36cf343-4485-4bec-ac8b-e029a6aec976",
+    "name": "Wonka Experience VR",
+    "author_name": "Starport55",
+    "description": "Parents are upset, police arrived",
+    "publication_date": "2024-02-29T07:59:25.288Z",
+    "tags": ["art","adventure"]
+  },
+  {
+    "id": "wrld_aa914106-ee10-4f19-9098-a9195ac05ccc",
+    "name": "Voxel Art Online",
+    "author_name": "Lonely Sakura",
+    "description": "A minecraft like plot building world. Build and save your creations for others to see. Explore other player's creations and feel free to give them a like. Please ALLOW UNTRUSTED URLS!",
+    "publication_date": "2024-03-03T03:43:28.998Z",
+    "tags": ["art","sandbox"]
+  },
+  {
+    "id": "wrld_0915ac17-6f45-446a-8351-9e04751be92c",
+    "name": "Mistero Rehearsal Space",
+    "author_name": "Mycana",
+    "description": "Mistero Rehearsal Space",
+    "publication_date": "2024-02-02T02:17:00.341Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_53c6358f-143f-49cf-851d-72302e3db7fe",
+    "name": "Neuschwanstein Castle",
+    "author_name": "CrazyPolski103",
+    "description": "VRCNC v0.1.0",
+    "publication_date": "2024-03-06T14:30:55.983Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_a3fdca94-f771-42cc-b133-d421a9ea1765",
+    "name": "Eepyheads Theater",
+    "author_name": "OrionRi",
+    "description": "Eepy world for eepy heads, based on this prefab: https://akimin.booth.pm/items/4638907 by AKimin",
+    "publication_date": "2024-03-05T22:04:53.398Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_55d9dbfa-dc59-4c55-9c1f-651107b45851",
+    "name": "VRtual park",
+    "author_name": "MyroP",
+    "description": "Build, manage and visit your own theme park!",
+    "publication_date": "2024-03-07T12:46:42.399Z",
+    "tags": ["sandbox","puzzle"]
+  },
+  {
+    "id": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
+    "name": "SPring-8",
+    "author_name": "S_ASAGIRI",
+    "description": "兵庫県にある大型放射光施設SPring-8の蓄積リング棟内を再現したワールドです。非公式です。",
+    "publication_date": "2024-03-07T13:43:01.462Z",
+    "tags": ["exploration"]
   }
 ]
