@@ -5189,7 +5189,7 @@
     "author_name": "ひまた。",
     "description": "ひまたROOM",
     "publication_date": "2024-01-31T00:53:56.513Z",
-    "tags": ["hangout","★"]
+    "tags": ["hangout"]
   },
   {
     "id": "wrld_00000000-5123-0000-0000-000000000000",
@@ -5357,7 +5357,7 @@
     "author_name": "Jenoso",
     "description": "Piano, coffe and chill. Android version is optimized. Credits to Coquelicotz for the base assets (Whispering Drops and Tiny Triplet).",
     "publication_date": "2024-02-25T06:13:52.121Z",
-    "tags": ["hangout"]
+    "tags": ["hangout","★"]
   },
   {
     "id": "wrld_fe130422-0782-435f-9dde-f87eee1d9ca6",
@@ -5421,7 +5421,7 @@
     "author_name": "MyroP",
     "description": "Build, manage and visit your own theme park!",
     "publication_date": "2024-03-07T12:46:42.399Z",
-    "tags": ["sandbox","puzzle"]
+    "tags": ["sandbox","puzzle","★"]
   },
   {
     "id": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
@@ -5430,5 +5430,69 @@
     "description": "兵庫県にある大型放射光施設SPring-8の蓄積リング棟内を再現したワールドです。非公式です。",
     "publication_date": "2024-03-07T13:43:01.462Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_3987e705-2587-406c-9703-4602dc400035",
+    "name": "NISSAN Heritage Cars & Safe Driving Studio",
+    "author_name": "NissanMotor",
+    "description": "NISSAN Heritage Cars & Safe Driving Studio",
+    "publication_date": "2024-03-07T00:00:19.602Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_e6b6ea55-7011-4cbe-b627-70336271550f",
+    "name": "City Night Drive",
+    "author_name": "komuhachi",
+    "description": "CVS2を使った車やスクーターで夜の街をドライブしたり集まってミーティングしたりできるワールドです。",
+    "publication_date": "2024-03-10T16:46:01.752Z",
+    "tags": ["driving","exploration"]
+  },
+  {
+    "id": "wrld_908796a7-fbf6-4feb-a228-08e0f6ba86e1",
+    "name": "Soaring Journey",
+    "author_name": "Sly Boots",
+    "description": "Syncronized looping animation & music world. Fly over fields and through the strongest of emotions. I'm sure we'll meet again, in a past that is yet to arrive.",
+    "publication_date": "2024-03-11T00:30:04.670Z",
+    "tags": ["experience"]
+  },
+  {
+    "id": "wrld_a88c403a-bacf-49ef-9019-a9a6133e5ee9",
+    "name": "metaCHA - Japanese Tea Experience",
+    "author_name": "Fukujuen",
+    "description": "「メタチャする?」仮想空間でお茶囲んで楽しもう！このワールドでは、お抹茶を作り飲む体験や、 仏様が世界の茶を巡る旅へと連れて行ってくれます。 Why don't you metaCHA? Lets have fun together over tea in a virtual space!In this world, you can experience making and drinking matcha, Buddha will take you on a journey through tea around the world.",
+    "publication_date": "2024-03-13T13:01:26.081Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_d620f1f4-81e6-476b-b359-4efdbd72faf4",
+    "name": "A.C.R.O",
+    "author_name": "Zippin",
+    "description": "A little project I've been working on to improve my basic programming skills, currently has 14 different weathers. Go unlock them or something.",
+    "publication_date": "2024-03-16T05:35:32.651Z",
+    "tags": ["exploration","experience","hangout","★"]
+  },
+  {
+    "id": "wrld_0116a019-a276-4578-ab65-8cbb513f8b35",
+    "name": "Portal Index",
+    "author_name": "exlxxl",
+    "description": "Tag base search system for world portals; Update every month!",
+    "publication_date": "2024-03-17T12:37:27.604Z",
+    "tags": ["hub","art"]
+  },
+  {
+    "id": "wrld_11ab149a-8c7f-4377-897d-3497ee55d9c4",
+    "name": "My Summer Plane",
+    "author_name": "Object",
+    "description": "Test for building plane with saccflight.",
+    "publication_date": "2023-05-29T14:45:25.944Z",
+    "tags": ["flying","tech"]
+  },
+  {
+    "id": "wrld_7769823d-efeb-415c-8570-2b22942fd662",
+    "name": "Trance's Hotel with NPCs",
+    "author_name": "Trance_Mode［JP］",
+    "description": "",
+    "publication_date": "2023-10-27T14:04:44.901Z",
+    "tags": ["hangout","tech"]
   }
 ]
