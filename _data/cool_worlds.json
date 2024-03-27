@@ -5494,5 +5494,69 @@
     "description": "",
     "publication_date": "2023-10-27T14:04:44.901Z",
     "tags": ["hangout","tech"]
+  },
+  {
+    "id": "wrld_4734371e-29e0-42fb-a79b-a51d4e52d2e1",
+    "name": "Willy's Chocolate VR Experience",
+    "author_name": "greybell",
+    "description": "A more faithful recreation of the Willy Wonka Experience in Glasgow, Scotland - featuring unpaid Oompa Loompa and The Unknown! Find all 8 pieces of paper script around the map and take a picture with them to get your photo featured in the world! Tag me on X @greybell_vr",
+    "publication_date": "2024-03-08T11:29:15.870Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_a96c95fb-34c8-46d0-af6f-e0ca891e47f6",
+    "name": "Polyrhythm",
+    "author_name": "SkyeSage",
+    "description": "patreon.com/SkyeSageCreations | EPILEPSY WARNING | i made this overnight lol",
+    "publication_date": "2024-03-20T07:50:16.380Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_3b8a6e7c-793c-4cd4-866a-07b6e4c26dc3",
+    "name": "Peirene Fountain + SilVR 3.1",
+    "author_name": "Blake447",
+    "description": "Photogrammetry scan of Peirene Fountain in Greece. Sketchfab info + webpage available by spawn",
+    "publication_date": "2019-04-12T15:55:25.083Z",
+    "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_a62b71e9-a02d-49dc-a5ac-e7cf53ef727d",
+    "name": "./ complication",
+    "author_name": "Ende",
+    "description": "写真撮影にご利用ください。/ Original BGM By bassmicrobe",
+    "publication_date": "2024-03-21T15:23:07.350Z",
+    "tags": ["adventure","art"]
+  },
+  {
+    "id": "wrld_3ef724d3-7c0b-4e49-88f0-3d243b273e14",
+    "name": "TMG Racquet Club",
+    "author_name": "Beany`",
+    "description": "World featuring playable tennis and badminton, chill areas, and other games. Come check it out! Accessory world to The Mighty Gym",
+    "publication_date": "2024-03-22T08:07:45.428Z",
+    "tags": ["sport","hangout"]
+  },
+  {
+    "id": "wrld_4c534281-6beb-41e3-87a8-171181f04499",
+    "name": "PROJECT: W.I.N.T.E.R.",
+    "author_name": "AndyLouise",
+    "description": "Explore the secrets of Project: W.I.N.T.E.R. - a world veiled in winter mystery. Uncover the enigmatic machine that controls time, shifting the landscape between day and night. Glide across the frozen lake, where whispers of hidden wonders echo beneath the icy surface",
+    "publication_date": "2023-05-26T04:02:55.045Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_529dbcdc-a5af-48bb-bc6c-edb42d7ab3ec",
+    "name": "Sailing & Boating (Early Access)",
+    "author_name": "Shiro K",
+    "description": "Improved version of my sailing map. Now with a higher level of realism and multiple boats. Early Access - new content upcoming. Feedback on discord.gg/uMbn6EhaSN or join ko-fi.com/shiro_k if you want to support me.",
+    "publication_date": "2024-03-22T22:57:54.506Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_8f97c2ce-9455-4468-9925-628f6fba0dd1",
+    "name": "MidNight Drive",
+    "author_name": "WispyWoo",
+    "description": "Get comfy n go on an adventure with some friends in midnight drive! Explore 13+ areas and unlock secret ones! Midnight drive is a comfy van map filled to the brim with everything you would need to vibe with friends on a roadtrip!",
+    "publication_date": "2024-03-24T07:32:25.939Z",
+    "tags": ["hangout"]
   }
 ]
