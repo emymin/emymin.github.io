@@ -189,7 +189,7 @@
     "author_name": "xCirrex",
     "description": "Go on an adventure to the stars in your new space shipǃ 1-5 players decide the fate of the craft as you try to reach your goal․ Fate of the Irrbloss takes inspiration from many space themed games‚ including FTL‚ Eve Online and Freespace․",
     "publication_date": "2022-04-02T09:22:29.863Z",
-    "tags": ["pve","coop","★"]
+    "tags": ["pve","coop","★","strategy"]
   },
   {
     "id": "wrld_a1071eb7-e16c-4a52-bd6e-c0efdb1b5ea5",
@@ -3237,7 +3237,7 @@
     "author_name": "DragonCookie",
     "description": "A juicy Tower Defense game made for VRChat․ Stop the Cars from reaching your heart ≺3․ Desktop and VR compatible․",
     "publication_date": "2021-09-22T20:07:06.598Z",
-    "tags": ["pve"]
+    "tags": ["pve","strategy"]
   },
   {
     "id": "wrld_9ef194fc-a11e-4b9a-a0e8-3d7d6268d6a2",
@@ -3293,7 +3293,7 @@
     "author_name": "~Maru~",
     "description": "Co-operative active tower defense action! Protect the crystal from invading hordes!",
     "publication_date": "2023-06-17T14:39:31.075Z",
-    "tags": ["pve"]
+    "tags": ["pve","strategy"]
   },
   {
     "id": "wrld_b2c574c6-9a6e-4bcc-b74e-1284070c324f",
@@ -5558,5 +5558,61 @@
     "description": "Get comfy n go on an adventure with some friends in midnight drive! Explore 13+ areas and unlock secret ones! Midnight drive is a comfy van map filled to the brim with everything you would need to vibe with friends on a roadtrip!",
     "publication_date": "2024-03-24T07:32:25.939Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_1e0e3667-af03-4ce2-9399-30014a109c48",
+    "name": "Cozy Calm",
+    "author_name": "~Sam",
+    "description": "A warm inviting home with plenty of comfortable spots set in a rainy neighborhood. Complete with Mirrors, video Player, pens, coffee and games!",
+    "publication_date": "2024-03-29T23:28:59.511Z",
+    "tags": ["★","hangout"]
+  },
+  {
+    "id": "wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb",
+    "name": "Comfy Puzzles - Jigsaw & Chill",
+    "author_name": "BoatFloater",
+    "description": "Customizable jigsaw puzzles with URL input and world camera support!",
+    "publication_date": "2024-03-28T05:06:07.329Z",
+    "tags": ["hangout","puzzle"]
+  },
+  {
+    "id": "wrld_fa594071-2cbd-4128-950f-08085f1284c8",
+    "name": "AvatarTowerBattle",
+    "author_name": "Hyakuashi",
+    "description": "AvatarTowerBattle is a gameworld where you build up pictures of your avatar on the spot. アバタータワーバトル !! - AvatarTowarBattle , AvaterTowerBattle , AvaterTowarBattle , AvatarTowerButtle",
+    "publication_date": "2020-10-26T01:02:51.362Z",
+    "tags": ["tech","strategy"]
+  },
+  {
+    "id": "wrld_86931150-5d44-472c-9621-063760a74e62",
+    "name": "MergeAvatarGame",
+    "author_name": "Hyakuashi",
+    "description": "撮影した同じアバター画像をくっつけて大きくする遊びです ゲーム自体はローカルです 枠を選択し「Cheese!!」で撮影。 上書きされたくない枠はロックアイコンを有効化してください。 「All Images」のチェックを入れると一度の撮影ですべての枠を上書きできます。 全ての枠が埋まったら「Start」でゲームを遊べます。 撮影は被写体が連続であるように撮ってください。 The game itself is local. Select a frame and shoot with 'Cheese!!'. Activate the lock icon for frames you do not want to be overwritten. If 'All Images' is checked, you can overwrite all frames in one shot. When all the frames are filled, click 'Start' to play the game. Please take pictures so that the subjects are in sequence.",
+    "publication_date": "2023-11-04T15:28:01.503Z",
+    "tags": ["tech","strategy"]
+  },
+  {
+    "id": "wrld_c101c803-7d1a-42d8-9a5e-00a0ccfb2b2f",
+    "name": "Probability Labs",
+    "author_name": "JohnD0E",
+    "description": "Welcome Test Subjects, to Probability Labs! A multiplayer game where players must use their instincts, skills, and luck to survive waves of random events. Outlast your friends and become the ultimate test subject! Or will you be just another data point? Either way, your noble contribution to science won't be forgotten.",
+    "publication_date": "2024-03-31T20:08:56.319Z",
+    "tags": ["party-game","pve"]
+  },
+  {
+    "id": "wrld_56e4a607-2cf7-47e9-b49b-d4078c432385",
+    "name": "Limina",
+    "author_name": "_Wilhelm",
+    "description": "A small, eye-scorching world enclosed only by a bright, luminous sky and a black, vacuous void. A world knowing not of color but the polarity of light and the contrast of shadow. An expanse of concourses, architectures, and walls, still brimming with vacancy. Your presence here is a peculiarity.",
+    "publication_date": "2024-03-31T15:20:30.975Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_9a8e58e8-fc8c-4081-ae3a-8d782c3cdb07",
+    "name": "Demon Core Accurate Recreation",
+    "author_name": "Blue Wing Raven",
+    "description": "Experience an exact recreation of the demon core disaster. Voiced by Spencer Filson.",
+    "publication_date": "2024-04-01T14:35:21.619Z",
+    "tags": ["experience"]
   }
 ]
