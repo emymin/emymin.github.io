@@ -5614,5 +5614,77 @@
     "description": "Experience an exact recreation of the demon core disaster. Voiced by Spencer Filson.",
     "publication_date": "2024-04-01T14:35:21.619Z",
     "tags": ["experience"]
+  },
+  {
+    "id": "wrld_b477c50c-4236-4328-b94f-7a92bdc95c46",
+    "name": "Far Citizen : Elite Mining",
+    "author_name": "｜KitKat｜",
+    "description": "Experience what it could be like to fly a mining spaceship with a warp drive! Mine and collect resources! Epilepsy Warning! Motion Sickness Warning! You should be fine in the spawn hallway, but you might want to avoid looking out of the windows.",
+    "publication_date": "2024-04-02T15:24:50.077Z",
+    "tags": ["flying","exploration"]
+  },
+  {
+    "id": "wrld_f717fe0a-c81b-4e06-8c0d-9e9b5ba44201",
+    "name": "The Texas Pocket Mansion",
+    "author_name": "Gaykujo",
+    "description": "The Texas Mansion is Based off a House in Houston TX in the Old Oaks Neighborhood.This is a single family home, built in 1993, with 5 beds and 4.5 bath, at 3,006 sqft. This house is Perfect for Roleplays and For Gatherings,Party's and Just a House To Hangout in.",
+    "publication_date": "2023-06-13T15:01:57.316Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ba420d4b-33a4-432d-8af6-a7f5abc9cdf7",
+    "name": "Roost",
+    "author_name": "わび⁄wabi_JP",
+    "description": "カフェイベント等の利用向けカフェワールドです。",
+    "publication_date": "2024-04-05T16:26:14.879Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_09e1e202-26b2-4f63-a50a-48049e306f5c",
+    "name": "waiting",
+    "author_name": "❀❀❀❀",
+    "description": ".",
+    "publication_date": "2024-04-06T03:21:56.860Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_104f4478-d4e5-4a38-b507-b8298a2321ec",
+    "name": "Learn Mandarin[EN/CN]Chinese",
+    "author_name": "YUYOLUO",
+    "description": "The world is constantly updating...But Quest cant see all the new things,so please use PC to visit better~I want to provide a world study for friends who are interested in Chinese. It is better to study with Chinese friends. Welcome to save and share the world with friends！ Thank you~",
+    "publication_date": "2023-03-18T17:08:46.521Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_a6f5d6d8-795e-43a9-bb11-38ca32824954",
+    "name": "White Silence Library",
+    "author_name": "Mokusawa",
+    "description": "雨が降っている白い図書室。 青空文庫で公開されている16082冊の本を読むことができます。 少しの謎解きがあります。",
+    "publication_date": "2024-04-06T16:37:52.472Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_c9370c40-45e2-4622-9a2d-9e210622d1c9",
+    "name": "This Ship has 5 Years of Oxygen Remaining",
+    "author_name": "Crazium",
+    "description": "After a tragedy takes place on this cargo ship, the last remaining astronaut only has 5 years of oxygen remaining as his ship drift aimlessly through space. However, with every player that joins they take a percentage of his oxygen. The more players, the more oxygen that is taken up. With the passage of time the astronaut has to sacrifice parts of his ship to survive. Will you take his oxygen? or spare him of this terrible fate? Either way... We all Go One Day.",
+    "publication_date": "2024-04-06T06:48:40.926Z",
+    "tags": ["exploration","tech"]
+  },
+  {
+    "id": "wrld_54d74b4d-a582-4306-9024-94da717659bc",
+    "name": "Sad Amelia",
+    "author_name": "Officialsayon",
+    "description": "Made by OfficialSayon This is a remake (sort of) of Sad Satan, the Dark-Web horror game. I gave it a custom spin-story to it so its more enjoyable. I did altered a few things to make it less... Well, for those that know. You know.",
+    "publication_date": "2023-10-23T19:12:38.084Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_0add58d9-1aa9-450f-b81f-b1fa0e8bafbe",
+    "name": "Generations - Project RAMA",
+    "author_name": "AltCentauri",
+    "description": "Welcome to RAMA, a generation ship with its destination set for Trappist-1e! Explore the ship while it prepares to depart! Created for 2024 Space Jam",
+    "publication_date": "2024-04-06T17:38:21.015Z",
+    "tags": ["adventure","experience","tech"]
   }
 ]
