@@ -5686,5 +5686,61 @@
     "description": "Welcome to RAMA, a generation ship with its destination set for Trappist-1e! Explore the ship while it prepares to depart! Created for 2024 Space Jam",
     "publication_date": "2024-04-06T17:38:21.015Z",
     "tags": ["adventure","experience","tech"]
+  },
+  {
+    "id": "wrld_9fb46a43-22d8-4b7f-b7d1-334158f144d8",
+    "name": "星蒼の安息地- StarReverie Rest-",
+    "author_name": "Leiria_vrc",
+    "description": "ほしぼしのはねやすめ",
+    "publication_date": "2024-04-13T13:35:37.854Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_7c31254c-379f-46d9-8590-4baa7282fdb9",
+    "name": "Black Hole Particle Toy",
+    "author_name": "Xiphic",
+    "description": "Black Hole Particle Toy",
+    "publication_date": "2024-04-15T00:44:53.702Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_b4a01c52-d603-4ab8-980e-77994e5943fe",
+    "name": "Gimbal Arena: Zero-G Game",
+    "author_name": "Dori Fey",
+    "description": "Challange your friends to a match in zero gravity! | The horizon stays locked, so there's no motion sickness. Game similar to Echo Arena. VR is recommended: this is a world about grabbing walls with your hands after all :)| Check out the video to see it in action! (made by Langa Feom)",
+    "publication_date": "2023-11-20T02:07:44.256Z",
+    "tags": ["sport","pvp","★"]
+  },
+  {
+    "id": "wrld_e8ee5654-dfcc-4363-8ee5-2373413552cc",
+    "name": "Space Hopper スペースホッパー",
+    "author_name": "bironist",
+    "description": "spaceship landing game. 宇宙船着陸ゲームです。 姿勢制御スラスターとメインエンジンを操作し着陸地点に無事着陸できればクリア！",
+    "publication_date": "2024-04-05T16:22:13.460Z",
+    "tags": ["flying","coop"]
+  },
+  {
+    "id": "wrld_9482ee6b-99b9-4285-b981-5d715c2f7c1d",
+    "name": "Scarlet Monarch MKII",
+    "author_name": "Tajasuka",
+    "description": "The Scarlet Monarch MKII is a starship with a shuttle, multiple amenities for comfort, and quite the view. There are 11 silver ship models hidden around the world, so explore! Use the hand menu to change the view of the ship's windows, or jump to FTL. Fly the shuttle out to explore the space surrounding the ship. A collaborative project with Niko and Garret2727 ",
+    "publication_date": "2024-03-31T23:39:24.891Z",
+    "tags": ["exploration","hangout"]
+  },
+  {
+    "id": "wrld_41e4eb69-33e2-438f-9462-00ec2c72a146",
+    "name": "Sea Breeze",
+    "author_name": "WispyWoo",
+    "description": "Sea Breeze is your very own tropical get away! Get comfy with your friends and take in the vast ocean and lively coral reefs! Will be available on my gumroad shortly! ^^",
+    "publication_date": "2024-04-15T07:57:30.764Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_34291565-79b1-4e5c-8ab8-c0a4c30d716a",
+    "name": "Distant In Memories | 遠い記憶の中",
+    "author_name": "Frizu",
+    "description": "The Memories Archieve Within the Space of Mind, is there something hidden in this space of mind?",
+    "publication_date": "2024-04-14T05:48:26.099Z",
+    "tags": ["art","exploration"]
   }
 ]

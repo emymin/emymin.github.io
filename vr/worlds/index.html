@@ -79,7 +79,7 @@ description: A large list of VRChat worlds I think are cool
     <a style="padding: 10px; cursor: pointer;" onclick="feeling_lucky()"><img class="color-svg" style="width: 45px;" src="/assets/svg/dice.svg"></a>
 </section>
 
-{% assign worlds = site.data.cool_worlds | sort:"publication_date" | reverse %}
+{% assign worlds = site.data.worlds | sort:"publication_date" | reverse %}
 
 <section style="display: flex; flex-direction: column; align-items: center;">
     <h2>Tags</h2>
