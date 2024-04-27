@@ -1,641 +1,713 @@
 categories:
-    - title: Art
-      items:
-        - title: Poly Haven
-          description: The Public 3D Asset Library
-          url: https://polyhaven.com/
-        - title: Shadertoy
-          description: Build and Share your best shaders with the world and get Inspired
-          url: https://www.shadertoy.com/
-        - title: Eyecandy
-          description: Visual Technique Library
-          url: https://eycndy.co/
-        - title: Art Collections
-          description: High Quality Collections of Digitized Art and Archival Finds
-          url: https://simonsarris.com/art-collections
-        - title: Randoma11y
-          description: Get random, accessible color combinations and train the robots by voting.
-          url: https://randoma11y.com/    
-        - title: Mecabricks
-          description: Build & Render your 3D LEGO® models online
-          url: https://www.mecabricks.com/
-        - title: pouët.net
-          description: your online demoscene resource
-          url: https://www.pouët.net  
-        - title: ies library
-          description: Make better renders with real-world lighting
-          url: https://ieslibrary.com
-        - title: dwitter.net
-          description: Dwitter.net is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas. Give it a go! 
-          url: https://www.dwitter.net/
-        - title: the html review
-          description: the html review is an annual journal of literature made to exist on the web. 
-          url: https://thehtml.review/
-        - title: Emoji Kitchen
-          description: Unique illustrations of combined emoji, cooked up in Google's Emoji Kitchen, and comprehensively available on the web
-          url: https://emojikitchen.dev/
-        - title: Cameron's World
-          description: A love letter to the Internet of old      
-          url: https://www.cameronsworld.net/
-        - title: WWWTXT
-          description: WWWTXT digs deep and resurrects the voices of digital pioneers as unedited, compelling, and insightful 140-character excerpts.
-          url: https://wwwtxt.org
-        - title: IOR List
-          description: Index of Refraction values (IOR) 
-          url: https://pixelandpoly.com/ior.html
-        - title: Suricrasia Online
-          description: Suricrasia Online is a Toronto-based ISP staffed entirely by anthropomorphic sharks in maid outfits.
-          url: https://suricrasia.online/
-        - title: CSS Zen Garden
-          description: The Beauty of CSS Design
-          url: https://www.csszengarden.com/
-        - title: allRGB
-          description: The objective of allRGB is simple, to create images with one pixel for every RGB color (16,777,216) not one color missing, and not one color twice.
-          url: https://allrgb.com/
-        - title: Superbad
-          description: Welcome to my Home Page on the WWW.
-          url: http://www.superbad.com/
-        - title: Chip Player JS
-          description: Web-based music player for a variety of video game and chiptune music formats. 
-          url: https://chiptune.app/
-        - title: noclip.website
-          description: A digital museum of video game levels.
-          url: https://noclip.website/
-        - title: Physically Based
-          description: A database of physically based values for CG artists
-          url: https://physicallybased.info
-        - title: Coolors
-          description: The super fast color palettes generator
-          url: https://coolors.co/
-        - title: Big Box Collection
-          description: Remember when video games game in big boxes?
-          url: https://bigboxcollection.com
-        - title: The Zoomquilt
-          description: A collaborative infinitely zooming painting
-          url: https://zoomquilt.org/
-        - title: Same Energy
-          description: Visual Search Engine
-          url: https://bigboxcollection.com
-        - title: Winamp Skin Museum
-          description: Infinite scroll through 80k Winamp skins with interactive preview
-          url: https://skins.webamp.org/
-        - title: Canvas Cycle
-          description: See the original versions of Mark Ferrari's worlds in their full glory!
-          url: http://www.effectgames.com/demos/canvascycle/
-        - title: World of Pixels
-          description: Our World of Pixels is an art-based sandbox game where players can draw on and explore a giant communal canvas
-          url: https://ourworldofpixels.com/
-        - title: Don't You Lecture Me With Your Thirty Dollar Website
-          description: Meme Sound Sequencer
-          url: https://thirtydollar.website/
-        - title: Cardinal
-          description: Virtual Modular Synthesizer
-          url: https://cardinal.kx.studio/
-        - title: Inkarnate
-          description: Turn your ideas into incredible fantasy maps
-          url: https://inkarnate.com/
-        - title: A Number From the Ghost
-          description: Virtual worlds for listening to music
-          url: https://www.anumberfromtheghost.com/
-        - title: NIPPON COLORS
-          description: The Traditional Colors of Nippon (Japan).
-          url: https://nipponcolors.com
-        - title: (we)bsite
-          description: (we)bsite is a living collection of internet dreams from people like you, inhabitants of the internet.
-          url: https://we-b.site/
-        - title: MyRetroTVs
-          description: Channel-surf the past now
-          url: https://www.myretrotvs.com/
-        - title: 2Bit
-          description: A website about 2Bit stuff
-          url: https://2bit.neocities.org/
-        - title: the end of town
-          description: (scroll down)
-          url: https://town.neocities.org/
-        - title: RaveDJ
-          description: Looking for a mix for the gym or a party? Want to create mashups of your favourite songs? Mix and mashup your favorite songs and playlists from YouTube and Spotify for free using the world's first artificial intelligence DJ.
-          url: https://rave.dj/
-        - title: ASCIIFlow
-          description: Infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.
-          url: https://asciiflow.com
-        - title: Every Noise at Once
-          description: Every Noise at Once is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for 6,274 genre-shaped distinctions by Spotify
-          url: https://everynoise.com/
-        - title: Radio Garden
-          description: Explore live radio by rotating the globe.
-          url: http://radio.garden
-        - title: Nano Gems
-          description: A curated selection of the best tiny intros from the demoscene
-          url: https://nanogems.demozoo.org/
-        - title: The Consumer Aesthetics Research Institute
-          description: CARI, or Consumer Aesthetics Research Institute, is an online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now. 
-          url: https://cari.institute/
-        - title: Wavacity
-          description: Wavacity is a port of the Audacity audio editor to the web browser.
-          url: https://wavacity.com/
-        - title: Photopea
-          description: Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
-          url: https://www.photopea.com/
-        - title: OSCII
-          description: OSCII is a web software for drawing and live-coding textmode visuals and sounds
-          url: https://adelfaure.net/tools/liblab/
-        - title: ASCII Art Archive
-          description: A large collection of ASCII art drawings and other related ASCII art pictures.
-          url: https://www.asciiart.eu/
-        - title: ertdfgcvb
-          description: Studio for design and code based in Lugano, Switzerland.
-          url: https://ertdfgcvb.xyz/
-        - title: A Cambridge Diary
-          description: Changing the way you see Cambridge
-          url: https://www.acambridgediary.co.uk/
-        - title: The Daft Punk Historian
-          description: A hub of curated Daft Punk content, history, databases, and articles.
-          url: https://thedaftpunkhistorian.weebly.com/
-        - title: Origami Simulator
-          description: This app allows you to simulate how any origami crease pattern will fold. 
-          url: https://origamisimulator.org/
-    - title: Tech
-      items:
-        - title: Tildeverse
-          description: we're a loose association of like-minded tilde communities. 
-          url: https://tildeverse.org/
-        - title: SDF Public Access UNIX System
-          description: a community platform for inspiring, facilitating and implementing new ideas
-          url: https://sdf.org/
-        - title: Hundred Rabbits
-          description: Hundred Rabbits is a small artist collective. Together, we explore the planned failability of modern technology at the bounds of the hyper-connected world
-          url: https://100r.co    
-        - title: Archive Team
-          description: History is our future, and we've been trashing our history
-          url: https://archiveteam.org
-        - title: The Eye
-          description: The Eye is a website dedicated towards archiving and serving publicly available information.
-          url: https://the-eye.eu/
-        - title: Easing Functions Cheat Sheet
-          description: Easing functions specify the rate of change of a parameter over time.
-          url: https://easings.net/
-        - title: permacomputing
-          description: Permacomputing is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture.
-          url: https://permacomputing.net/
-        - title: Fediverse.party
-          description: Explore Federated Networks
-          url: https://fediverse.party/
-        - title: Fedifinder
-          description: Join the Fediverse in 5 easy steps
-          url: https://fedifinder.glitch.me/
-        - title: FediDB
-          description: Fediverse Network Statistics
-          url: https://fedidb.org/
-        - title: Nitter
-          description: Nitter is a free and open source alternative Twitter front-end focused on privacy and performance
-          url: https://nitter.net
-        - title: BTDigg
-          description: BTDigg is the BitTorrent DHT search engine.
-          url: https://btdig.com
-        - title: PCjs Machines
-          description: Home of the original IBM PC emulator for browsers
-          url: https://www.pcjs.org/
-        - title: v86
-          description: v86 is a x86 emulator for the browser.
-          url: https://copy.sh/v86/
-        - title: KeyOxide
-          description: Verifying online identity with cryptography.
-          url: https://keyoxide.org/
-        - title: AssetBundleStat
-          description: A WinDirStat-like online Unity asset bundle inspector
-          url: https://vsk.lox9973.com/abstat/
-        - title: ffmprovisr
-          description: Making FFmpeg Easier
-          url: https://amiaopensource.github.io/ffmprovisr
-        - title: GTFOBins
-          description: GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
-          url: https://gtfobins.github.io/
-        - title: VirusTotal
-          description: Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community
-          url: https://www.virustotal.com
-        - title: Shodan
-          description: Search Engine for the Internet of Everything 
-          url: https://www.shodan.io/
-        - title: Project Gemini
-          description: Gemini is a new internet technology supporting an electronic library of interconnected text documents
-          url: https://gemini.circumlunar.space/
-        - title: Project Euler
-          description: Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. 
-          url: https://projecteuler.net/
-        - title: The Restart Page
-          description: Free unlimited rebooting experience from vintage operating systems
-          url: http://www.therestartpage.com/
-        - title: Flightradar24
-          description: Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features!
-          url: https://www.flightradar24.com
-        - title: Learn X in Y minutes
-          description: Take a whirlwind tour of your next favorite language. Community-driven!
-          url: https://learnxinyminutes.com/
-        - title: PhET Interactive Simulations
-          description: Interactive Simulations for Science and Math
-          url: https://phet.colorado.edu/
-        - title: CollabVM
-          description: A website that lets you take turns controlling online virtual machines with complete strangers!
-          url: https://computernewb.com/collab-vm/
-        - title: Crusty Windows Wiki
-          description: the wiki for the extensive Windows bootleg archive of Computernewb and CollabVM that anyone can edit.
-          url: https://crustywindo.ws
-        - title: decomp.me
-          description: Collaboratively decompile code in your browser.
-          url: https://decomp.me/
-        - title: Homebrew Computers Website
-          description: The Homebrew Computers Website is open to any computer project featuring a home-built CPU.
-          url: https://www.homebrewcpuring.org/
-        - title: WebVM
-          description: WebVM is a server-less virtual Linux environment running fully client-side in HTML5/WebAssembly
-          url: https://webvm.io/
-        - title: 8bitworkshop
-          description: Write 8-bit code in your browser.
-          url: https://8bitworkshop.com/
-        - title: Uiua
-          description: A programming language for point-free enjoyers
-          url: https://www.uiua.org/
-        - title: Simplifier
-          description: Creating a stable foundation of technology that is reliable, understandable, and practical for an individual to build for themselves. 
-          url: https://simplifier.neocities.org/
-        - title: Yume 2kki Explorer
-          description: A tool for visualizing and exploring the content of Yume 2kki
-          url: https://2kki.app/
-        - title: LLM Visualization
-          description: A 3D animated visualization of an LLM with a walkthrough.
-          url: https://bbycroft.net/llm
-        - title: Latent Dictionary
-          description: DistilBert embeddings of the Oxford 3000 word set + whatever you search for, reduced to 3 dimensions using PCA.
-          url: https://latentdictionary.com/
-        - title: QuantaMagazine
-          description: Illuminating mathematics, physics, biology and computer science research through public service journalism.
-          url: https://www.quantamagazine.org/
-        - title: ProofWiki
-          description: An online compendium of mathematical proofs
-          url: https://proofwiki.org
-        - title: Archiveteam
-          description: Archive Team is a loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving our digital heritage.
-          url: https://wiki.archiveteam.org/
-        - title: Macintosh Garden
-          description: The Macintosh Garden is an abandonware archive, dedicated in particular to supporting the Macintosh computer platform.
-          url: http://macintoshgarden.org/
-        - title: Triage
-          description: Explore Triage's Malware Analysis Sandbox to dissect your malware samples. Access malware trends, and a customizable environment for in-depth analysis and classification.
-          url: https://tria.ge/
-        - title: Infinite Mac
-          description: Infinite Mac is a collection of classic Macintosh and NeXT system releases and software, all easily accessible from the comfort of a (modern) web browser.
-          url: https://infinitemac.org/
-        - title: wiki.vg
-          description: wiki.vg originally started as a place to store technical documentation on reverse engineering efforts for the popular Minecraft game. However, the wiki now accepts any kind of technical knowledge. 
-          url: https://wiki.vg
-        - title: Graphviz Online
-          description: Graphviz Online
-          url: https://dreampuf.github.io/GraphvizOnline
-    - title: VR
-      items:
-        - title: VRChatの世界
-          description: VRChat内で訪れることが出来るワールドをご紹介
-          url: https://www.vrcw.net/
-        - title: VRCList
-          description: VRChat World List
-          url: https://vrclist.com/
-        - title: VRCLibrary
-          description: A wiki for VRChat creators to learn, share and collaborate.
-          url: https://vrclibrary.com
-        - title: NeosLove
-          description: Welcome to the metaverse
-          url: http://neos.love/
-        - title: Avatar Network
-          description: Avatar Networkは、BOOTHの3Dモデル（アバターやアイテム）を、対応アイテムや対応アバターがあるか？
-          url: http://avatar-network.herokuapp.com
-        - title: VRC Prefabs
-          description: VRC Prefabs is a VRChat community that has focus on helping and sharing with others.
-          url: https://vrcprefabs.com/
-        - title: VRChat API Docs
-          description: Here you'll find Community-created documentation about the VRChat REST API, an OpenAPI specification, and generated SDK's in several languages.
-          url: https://vrchatapi.github.io/
-        - title: vvtimeline
-          description: Timeline of VRChat music club events
-          url: https://vrc.tl/
-        - title: Kuté Muté
-          description: Welcome to the Kuté Muté page!
-          url: http://kutemute.com/
-        - title: VRChatイベントカレンダー
-          description: VRChatで行われているイベント情報をまとめています。
-          url: http://vrceve.com/
-        - title: バーチャルライフマガジン
-          description: VRChat、VR SNSのイベント情報や流行を特集するWEBマガジン。VRChatでの遊び方、Oculus Questユーザー向けのイベント情報。HTC VIVE、VALVE INDEX、VR体験サービスなど。
-          url: https://vr-lifemagazine.com/
-        - title: VRChat API Metrics
-          description: VRChat API Metrics
-          url: https://metrics.vrchat.community
-    - title: Game
-      items:
-        - title: E.B.O.N.Y
-          description: The Weirdest Riddle Game On The Internet
-          url: https://www.ebonyriddle.com/
-        - title: neal.fun
-          description: a tiny website by neal
-          url: https://neal.fun/
-        - title: WASM4
-          description: Build (and play) retro games using WebAssembly for a fantasy console
-          url: https://wasm4.org/
-        - title: SpaceTraders API
-          description: A unique multiplayer gamebuilt on a free Web API
-          url: https://spacetraders.io/
-        - title: Yume Nikki Online Project
-          description: Play Yume Nikki and Yume Nikki fangames in multiplayer with your friends, no account or downloads required.
-          url: https://ynoproject.net/
-        - title: NationStates
-          description: NationStates is a nation simulation game. 
-          url: https://www.nationstates.net/
-        - title: A Dark Room
-          description: A Minimalist Text Adventure
-          url: https://adarkroom.doublespeakgames.com/
-        - title: NotPron
-          description: The hardest riddle available on the internet
-          url: http://www.notpron.org/notpron/
-        - title: NandGame
-          description: An educational puzzle game. Solve a series of tasks where you build increasingly powerful components. Starts with the simplest logical components and ends up with a programmable computer.
-          url: https://www.nandgame.com/
-        - title: Untrusted
-          description: A user javascript adventure game
-          url: http://alexnisnevich.github.io/untrusted/
-        - title: Candy Box 2
-          description: You have 5 candies...
-          url: https://candybox2.github.io/
-        - title: The Unix Game
-          description: The Unix Game is a fun, low-barrier-to-entry programming contest where players solve coding challenges by constructing "pipelines" of UNIX text processing utilities to compute the solution.
-          url: https://unixgame.io/
-        - title: Pencil and Paper Games
-          description: Pencil and Paper Games is devoted to games you can play with nothing more than a pencil and a piece of paper. 
-          url: http://www.papg.com/
-        - title: Epitaph
-          description: Epitaph is a procedural narrative idlegame about existential risks and the death of civilizations.
-          url: https://mkremins.github.io/epitaph/
-        - title: increpare games
-          description: Makes small mostly free games and tools
-          url: https://www.increpare.com/
-        - title: Lean Game Server
-          description: A repository of learning games for the proof assistant Lean (Lean 4) and its mathematical library mathlib
-          url: https://adam.math.hhu.de/
-    - title: Linguistics
-      items:
-        - title: (=^ᆺ^)ﾉ日本語
-          description: Japanese Learning Resources
-          url: https://djtguide.github.io/
-        - title: TheMoeWay
-          description: Japanese Learning and Immersion Guides
-          url: https://learnjapanese.moe/
-        - title: News Web Easy
-          description: やさしい日本語で書いたニュース
-          url: https://www3.nhk.or.jp/news/easy/
-        - title: Omniglot
-          description: The online encyclopedia of writing systems & languages
-          url: https://omniglot.com/
-        - title: <toki>toki+pona</toki>
-          description: Toki Pona is a human language I invented in 2001. It was my attempt to understand the meaning of life in 120 words. 
-          url: https://tokipona.org/
-        - title: <toki>lipu pi++ ijo pi+ toki+pona</toki>
-          description: <toki>lipu ni li jo e ijo pona</toki>
-          url: http://lipu-pi-ijo-pi-toki.pona.la/
-        - title: <toki>lipu [_lipu_ijo_nimi_ku_utala]</toki>
-          description: interactive toki pona dictionary
-          url: https://linku.la/
-        - title: Chinese Etymology 字源
-          description: Search 100K+ ancient Chinese characters and etymology.
-          url: https://hanziyuan.net/
-        - title: Language Reactor
-          description: Your language learning toolbox. Discover, understand, and learn from native materials, including Netflix and YouTube. 
-          url: https://www.languagereactor.com/
-        - title: Japanese Conjugation Practice
-          description: Learn how to conjugate Japanese verbs and adjectives! Includes present tense, past tense, te form, and adverbs.
-          url: https://baileysnyder.com/jconj/
-        - title: <toki>sona+pona</toki>
-          description: Welcome to sona pona, the wiki for the micro-language Toki Pona.
-          url: https://sona.pona.la
-        - title: The Anglish Times
-          description: The latest world news written in Anglish, a kind of English without borrowed words.
-          url: https://theanglishtimes.com/
-        - title: ROIS-DS Center for Open Data in the Humanities 
-          description: ROIS-DS Center for Open Data in the Humanities (CODH) is developing humanities research in the era of open science.
-          url: http://codh.rois.ac.jp/
-        - title: Lojban
-          description: Lojban is a carefully constructed spoken language. It has been built for over 50 years by dozens of workers and hundreds of supporters. 
-          url: https://lojban.org
-        - title: lojban.io
-          description: A free and open-source platform for studying the artificial language Lojban.
-          url: https://lojban.io/
-    - title: Personal
-      items:
-        - title: Acko.net
-          description: Hackery, Math & Design
-          url: https://acko.net/
-        - title: Inigo Quilez
-          description: Tutorials and articles of Inigo Quilez on computer graphics, fractals, demoscene, shaders and more.
-          url: https://iquilezles.org/
-        - title: Alan Resnick
-          description: alanresnickwebsite
-          url: https://alanresnick.info
-        - title: Scarecrowkid
-          description: Welcome to my sunflower field! We're at a simple farm off the beaten path of the Internet, filled with all the things I like and hope to grow. 
-          url: https://scarecrowkid.net
-        - title: Oimo.io
-          description: I make something. 何か作ってます。触って楽しいものが好き。
-          url: https://oimo.io/
-        - title: Gwern.net
-          description: This Is The Website of Gwern Branwen. 
-          url: https://gwern.net
-        - title: Imaginantia
-          description: 思ったことを書きます
-          url: https://phi16.hatenablog.com/
-        - title: C82
-          description: Digital Art
-          url: https://c82.net
-        - title: Cadnomori
-          description: This is a place of wonder and whimsy. Find the many rooms, environments, and secrets that fill this place, and maybe take home or leave a souvenir or two. 
-          url: https://cadnomori.neocities.org
-        - title: Geouniversal
-          description: everywhere is space
-          url: https://geouniversal.neocities.org/
-        - title: max-bittker
-          description: Artist building tools for play, creativity, & communication.
-          url: https://maxbittker.github.io/
-        - title: dimden's hotel
-          description: Welcome to DIMDEN.DEV! This is my little website and blog.
-          url: https://dimden.dev/
-        - title: Fionn's Hotline Cafe
-          description: You've arrived at Pavilion City's most famous cybercafe.
-          url: https://hotlinecafe.com/
-        - title: bugman123.com
-          description: On this site, you will find some of my favorite hobbies and interests, especially science and art.
-          url: http://bugman123.com/
-        - title: Rafał Pastuszak
-          description: I'm a product developer, working at the intersection of technology, design & mental health.
-          url: https://sonnet.io/
-        - title: Dave Stucky
-          description: Sitzfleisch-induced life veteran, Spartan disposition, writer/author/essayist, public speaker, incessant dabbler, übergeeksch
-          url: https://stucky.tech/
-        - title: Things Of Interest 
-          description: Today in Things Of Interest...
-          url: https://qntm.org/
-        - title: XXIIVV
-          description: A ghost enters the Library.
-          url: http://xxiivv.com/
-        - title: maria
-          description: hey! i'm maria, a web developer from the uk · i hope your day is going great and you enjoy browsing my little web nook! 
-          url: https://maria.town/
-        - title: <toki>jan [_ken_e_ken_a_nasa]</toki>
-          description: Learn Toki Pona, because it's fun and free!
-          url: https://mun.la/
-        - title: Ritual Dust
-          description: Write your own folklore
-          url: https://ritualdust.com/
-        - title: Louie Zong
-          description: illustrator, musician, animator, etc.
-          url: https://www.louiezong.com
-        - title: The Copetti Site
-          description: Technical writings for hungry readers
-          url: https://www.copetti.org/
-    - title: Misc
-      items:
-        - title: Wolfram Alpha
-          description: Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology
-          url: https://www.wolframalpha.com/
-        - title: Effect Index
-          description: Effect Index, which is currently under construction, is a resource dedicated to establishing the field of formalised subjective effect documentation. 
-          url: https://effectindex.com/
-        - title: Internet Archive
-          description:  Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more. 
-          url: https://archive.org/
-        - title: Neocities
-          description: Neocities is a social network of 605,400 web sites that are bringing back the lost individual creativity of the web
-          url: https://neocities.org
-        - title: Shepherd
-          description: Discover the best books
-          url: https://shepherd.com/
-        - title: Library Genesis
-          description: Library Genesis is a file-sharing based shadow library website for scholarly journal articles, academic and general-interest books, images, comics, audiobooks, and magazines. 
-          url: http://libgen.is/
-        - title: Six Degrees Of Wikipedia
-          description: Six Degrees of Wikipedia traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any of the nearly six million pages on the world's largest free online encyclopedia.
-          url: https://www.sixdegreesofwikipedia.com/
-        - title: Windows93
-          description: hug + hack = infinity
-          url: http://www.windows93.net/
-        - title: Apollo in real time
-          description: A real-time journey through the Apollo missions
-          url: https://apolloinrealtime.org/
-        - title: IcebergCharts
-          description: Iceberg Charts are an information format in which things that are well known are put at the top and the truly obscure at the bottom. 
-          url: https://icebergcharts.com/
-        - title: Astronaut
-          description: These videos come from YouTube. They were uploaded in the last week and have titles like DSC 1234 and IMG 4321. They have almost zero previous views. 
-          url: http://astronaut.io/
-        - title: Atlas Obscura
-          description: The Definitive Guide to the World's Hidden Wonders
-          url: https://www.atlasobscura.com/ 
-        - title: World's Births and Deaths
-          description: World Births and Deaths, Simulated in Real-Time 
-          url: https://www.worldbirthsanddeaths.com/
-        - title: z0r.de
-          description: Flash loops collection
-          url: https://z0r.de/
-        - title: Mini Tokyo 3D
-          description: A real-time 3D digital map of Tokyo's public transport system. This data visualization was produced by Akihiko Kusanagi
-          url: https://minitokyo3d.com/
-        - title: The On-Line Encyclopedia of Integer Sequences
-          description: The On-Line Encyclopedia of Integer Sequences is an online database of integer sequences.
-          url: https://oeis.org/
-        - title: TEXTFILES.COM
-          description: A glimpse into the history of writers and artists bound by the 128 characters that the American Standard Code for Information Interchange allowed them
-          url: http://textfiles.com/
-        - title: BugMeNot
-          description: Access and share logins for websites that require you to register in order to view content.
-          url: https://bugmenot.com/
-        - title: PsychonautWiki
-          description: PsychonautWiki is a community-driven online encyclopedia that aims to document the emerging field of psychonautics in a comprehensive, scientifically-grounded manner.
-          url: https://psychonautwiki.org/
-        - title: OpenStreetMap
-          description: OpenStreetMap is a map of the world, created by people like you and free to use under an open licence.
-          url: https://www.openstreetmap.org
-        - title: The Cutting Room Floor
-          description: The Cutting Room Floor is a site dedicated to unearthing and researching unused and cut content from video games.
-          url: https://tcrf.net/
-        - title: Recursive Recipes
-          description: A recursive recipe is one where ingredients in the recipe can be replaced by another recipe. The more ingredients you replace, the more that the recipe is made truly from scratch.
-          url: https://recursiverecipes.schollz.com/
-        - title: Wetfish
-          description: The best internet on the internet that anyone can edit.
-          url: https://wiki.wetfish.net
-        - title: Periodic Table of Tools
-          description: A periodic table of tools
-          url: https://periodictableoftools.com/
-        - title: ambiphone
-          description: Ambient music + sounds for work, study and relaxation
-          url: https://ambiph.one/
-        - title: WaterwayMap
-          description: A unique, topological, view on rivers & waterways in OpenStreetMap, showing how they are connected. Find mistakes and make better maps.
-          url: https://waterwaymap.org
-        - title: Pl@ntNet identify
-          description: Pl@ntNet is a tool to help to identify plants with pictures. 
-          url: https://identify.plantnet.org/
-        - title: StreetCatWiki
-          description: StreetCatWiki aims to document cats and other visitors of the Hello Street Cat (哈啰街猫) streams. 
-          url: https://streetcat.wiki
-        - title: meow.camera
-          description: explore and share chinese cat feeders
-          url: https://meow.camera
-        - title: 37 Heaven
-          description: 37 is an important number for lots of reasons. I collect "37 factoids". 
-          url: http://thirty-seven.org/
-    - title: List
-      items:
-        - title: Whitedesert
-          description: A collection of surrealism and horror
-          url: https://whitedesert.neocities.org/
-        - title: The Whimsical Web
-          description: A curated list of sites with an extra bit of fun.
-          url: https://whimsical.club/
-        - title: Terra
-          description: Cool sites, straight from earth
-          url: https://terra.finzdani.net/
-        - title: Moonjump
-          description: Moonjump is a server that redirects you to a random page harvested from the arcane depths of the web.
-          url: https://moonjump.app/
-        - title: The no-JS Club
-          description: Promenade for Javascript freed websites
-          url: https://no-js.club/
-        - title: Wiby
-          description: Search Engine for the Classic Web
-          url: https://wiby.me
-        - title: PersonalSit.es
-          description: This site was built to share and revel in each others' personal sites
-          url: https://personalsit.es/
-        - title: Marginalia Search
-          description: This is an independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed. 
-          url: https://search.marginalia.nu/
-        - title: Brutalist Websites
-          description: In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.
-          url: https://brutalistwebsites.com/
-        - title: The Big List of Personal Websites
-          description: It's a big list of personal websites
-          url: https://biglist.terraaeon.com/
-        - title: 1MB Club
-          description: 1MB Club is a growing collection of performance-focused web pages weighing less than 1 megabyte.          
-          url: https://1mb.club/
-        - title: The Useless Web
-          description: The Useless Web... because some websites, we just couldn't do without.
-          url: https://theuselessweb.com/
-        - title: districts on Neocities
-          description: your internet neighbours
-          url: https://districts.neocities.org/
-        - title: The Garden of Computational Delights
-          description: Beneath the utilitarian purpose of computation, computing is also a source of delight and wonder. 
-          url: https://arbesman.net/computationaldelights/
-        - title: Wiby
-          description: Search Engine for the Classic Web
-          url: https://wiby.me
-        - title: Sharkle
-          description: The site that takes you randomly to amazing stuff. StumbleUpon alternative to find cool things.
-          url: https://sharkle.com/
+  - title: Art
+    items:
+      - url: https://polyhaven.com/
+        title: Poly Haven
+        description: The Public 3D Asset Library
+        tags: ["art", "3d", "collection"]
+      - url: https://www.shadertoy.com/
+        title: Shadertoy
+        description: Build and Share your best shaders with the world and get Inspired
+        tags: ["art", "tech", "collection"]
+      - url: https://eycndy.co/
+        title: Eyecandy
+        description: Visual Technique Library
+        tags: ["art", "collection"]
+      - url: https://simonsarris.com/art-collections
+        title: Art Collections
+        description: High Quality Collections of Digitized Art and Archival Finds
+        tags: ["art", "collection"]
+      - url: https://randoma11y.com/
+        title: Randoma11y
+        description: Get random, accessible color combinations and train the robots by voting.
+        tags: ["design", "app"]
+      - url: https://www.mecabricks.com/
+        title: Mecabricks
+        description: Build & Render your 3D LEGO® models online
+        tags: ["art", "tech", "collection", "app"]
+      - url: https://www.pouët.net
+        title: pouët.net
+        description: your online demoscene resource
+        tags: ["art", "tech", "collection"]
+      - url: https://ieslibrary.com
+        title: ies library
+        description: Make better renders with real-world lighting
+        tags: ["art", "3d", "collection"]
+      - url: https://www.dwitter.net/
+        title: dwitter.net
+        description: Dwitter.net is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas. Give it a go!
+        tags: ["art", "tech", "collection"]
+      - url: https://thehtml.review/
+        title: the html review
+        description: the html review is an annual journal of literature made to exist on the web.
+        tags: ["design", "tech", "collection"]
+      - url: https://emojikitchen.dev/
+        title: Emoji Kitchen
+        description: Unique illustrations of combined emoji, cooked up in Google's Emoji Kitchen, and comprehensively available on the web
+        tags: ["art", "app", "collection", "fun"]
+      - url: https://www.cameronsworld.net/
+        title: Cameron's World
+        description: A love letter to the Internet of old
+        tags: ["art"]
+      - url: https://wwwtxt.org
+        title: WWWTXT
+        description: WWWTXT digs deep and resurrects the voices of digital pioneers as unedited, compelling, and insightful 140-character excerpts.
+        tags: ["art", "collection"]
+      - url: https://pixelandpoly.com/ior.html
+        title: IOR List
+        description: Index of Refraction values (IOR)
+        tags: ["3d", "collection"]
+      - url: https://suricrasia.online/
+        title: Suricrasia Online
+        description: Suricrasia Online is a Toronto-based ISP staffed entirely by anthropomorphic sharks in maid outfits.
+        tags: ["art", "tech"]
+      - url: https://www.csszengarden.com/
+        title: CSS Zen Garden
+        description: The Beauty of CSS Design
+        tags: ["design", "collection"]
+      - url: https://allrgb.com/
+        title: allRGB
+        description: The objective of allRGB is simple, to create images with one pixel for every RGB color (16,777,216) not one color missing, and not one color twice.
+        tags: ["tech", "art", "collection"]
+      - url: http://www.superbad.com/
+        title: Superbad
+        description: Welcome to my Home Page on the WWW.
+        tags: ["art"]
+      - url: https://chiptune.app/
+        title: Chip Player JS
+        description: Web-based music player for a variety of video game and chiptune music formats.
+        tags: ["music", "app", "collection"]
+      - url: https://noclip.website/
+        title: noclip.website
+        description: A digital museum of video game levels.
+        tags: ["tech", "art", "app", "collection"]
+      - url: https://physicallybased.info
+        title: Physically Based
+        description: A database of physically based values for CG artists
+        tags: ["3d", "collection"]
+      - url: https://coolors.co/
+        title: Coolors
+        description: The super fast color palettes generator
+        tags: ["design", "app"]
+      - url: https://bigboxcollection.com
+        title: Big Box Collection
+        description: Remember when video games game in big boxes?
+        tags: ["art", "collection"]
+      - url: https://zoomquilt.org/
+        title: The Zoomquilt
+        description: A collaborative infinitely zooming painting
+        tags: ["art"]
+      - url: https://same.energy/
+        title: Same Energy
+        description: Visual Search Engine
+        tags: ["art","app"]
+      - url: https://skins.webamp.org/
+        title: Winamp Skin Museum
+        description: Infinite scroll through 80k Winamp skins with interactive preview
+        tags: ["tech","art","collection"]
+      - url: http://www.effectgames.com/demos/canvascycle/
+        title: Canvas Cycle
+        description: See the original versions of Mark Ferrari's worlds in their full glory!
+        tags: ["tech","art"]
+      - url: https://ourworldofpixels.com/
+        title: World of Pixels
+        description: Our World of Pixels is an art-based sandbox game where players can draw on and explore a giant communal canvas
+        tags: ["art","app"]
+      - url: https://thirtydollar.website/
+        title: Don't You Lecture Me With Your Thirty Dollar Website
+        description: Meme Sound Sequencer
+        tags: ["music","app"]
+      - url: https://cardinal.kx.studio/
+        title: Cardinal
+        description: Virtual Modular Synthesizer
+        tags: ["music","app","tech"]
+      - url: https://inkarnate.com/
+        title: Inkarnate
+        description: Turn your ideas into incredible fantasy maps
+        tags: ["art","app"]
+      - url: https://www.anumberfromtheghost.com/
+        title: A Number From the Ghost
+        description: Virtual worlds for listening to music
+        tags: ["art","3d","experience"]
+      - url: https://nipponcolors.com
+        title: NIPPON COLORS
+        description: The Traditional Colors of Nippon (Japan).
+        tags: ["design"]
+      - url: https://we-b.site/
+        title: (we)bsite
+        description: (we)bsite is a living collection of internet dreams from people like you, inhabitants of the internet.
+        tags: ["art","collection"]
+      - url: https://www.myretrotvs.com/
+        title: MyRetroTVs
+        description: Channel-surf the past now
+        tags: ["video","app"]
+      - url: https://2bit.neocities.org/
+        title: 2Bit
+        description: A website about 2Bit stuff
+        tags: ["art","tech"]
+      - url: https://town.neocities.org/
+        title: the end of town
+        description: (scroll down)
+        tags: ["art"]
+      - url: https://rave.dj/
+        title: RaveDJ
+        description: Looking for a mix for the gym or a party? Want to create mashups of your favourite songs? Mix and mashup your favorite songs and playlists from YouTube and Spotify for free using the world's first artificial intelligence DJ.
+        tags: ["music","app"]
+      - url: https://asciiflow.com
+        title: ASCIIFlow
+        description: Infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.
+        tags: ["app"]
+      - url: https://everynoise.com/
+        title: Every Noise at Once
+        description: Every Noise at Once is an ongoing attempt at an algorithmically-generated, readability-adjusted scatter-plot of the musical genre-space, based on data tracked and analyzed for 6,274 genre-shaped distinctions by Spotify
+        tags: ["music","collection"]
+      - url: http://radio.garden
+        title: Radio Garden
+        description: Explore live radio by rotating the globe.
+        tags: ["music","app"]
+      - url: https://nanogems.demozoo.org/
+        title: Nano Gems
+        description: A curated selection of the best tiny intros from the demoscene
+        tags: ["music","tech"]
+      - url: https://cari.institute/
+        title: The Consumer Aesthetics Research Institute
+        description: CARI, or Consumer Aesthetics Research Institute, is an online community dedicated to developing a visual lexicon of consumer ephemera from the 1970s until now.
+        tags: ["art","collection","knowledge"]
+      - url: https://wavacity.com/
+        title: Wavacity
+        description: Wavacity is a port of the Audacity audio editor to the web browser.
+        tags: ["music","app"]
+      - url: https://www.photopea.com/
+        title: Photopea
+        description: Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
+        tags: ["art","app"]
+      - url: https://adelfaure.net/tools/liblab/
+        title: OSCII
+        description: OSCII is a web software for drawing and live-coding textmode visuals and sounds
+        tags: ["tech","art","app"]
+      - url: https://www.asciiart.eu/
+        title: ASCII Art Archive
+        description: A large collection of ASCII art drawings and other related ASCII art pictures.
+        tags: ["art","collection"]
+      - url: https://ertdfgcvb.xyz/
+        title: ertdfgcvb
+        description: Studio for design and code based in Lugano, Switzerland.
+        tags: ["tech","art"]
+      - url: https://www.acambridgediary.co.uk/
+        title: A Cambridge Diary
+        description: Changing the way you see Cambridge
+        tags: ["art","collection"]
+      - url: https://thedaftpunkhistorian.weebly.com/
+        title: The Daft Punk Historian
+        description: A hub of curated Daft Punk content, history, databases, and articles.
+        tags: ["art","knowledge"]
+      - url: https://origamisimulator.org/
+        title: Origami Simulator
+        description: This app allows you to simulate how any origami crease pattern will fold.
+        tags: ["tech","art","app"]
+  - title: Tech
+    items:
+      - url: https://tildeverse.org/
+        title: Tildeverse
+        description: we're a loose association of like-minded tilde communities.
+        tags: ["tech","hub"]
+      - url: https://sdf.org/
+        title: SDF Public Access UNIX System
+        description: a community platform for inspiring, facilitating and implementing new ideas
+        tags: ["tech"]
+      - url: https://100r.co
+        title: Hundred Rabbits
+        description: Hundred Rabbits is a small artist collective. Together, we explore the planned failability of modern technology at the bounds of the hyper-connected world
+        tags: ["tech","art"]
+      - url: https://archiveteam.org
+        title: Archive Team
+        description: History is our future, and we've been trashing our history
+        tags: ["tech","wiki"]
+      - url: https://the-eye.eu/
+        title: The Eye
+        description: The Eye is a website dedicated towards archiving and serving publicly available information.
+        tags: ["tech","collection"]
+      - url: https://easings.net/
+        title: Easing Functions Cheat Sheet
+        description: Easing functions specify the rate of change of a parameter over time.
+        tags: ["math","tech"]
+      - url: https://permacomputing.net/
+        title: permacomputing
+        description: Permacomputing is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture.
+      - url: https://fediverse.party/
+        title: Fediverse.party
+        description: Explore Federated Networks
+      - url: https://fedifinder.glitch.me/
+        title: Fedifinder
+        description: Join the Fediverse in 5 easy steps
+      - url: https://fedidb.org/
+        title: FediDB
+        description: Fediverse Network Statistics
+      - url: https://nitter.net
+        title: Nitter
+        description: Nitter is a free and open source alternative Twitter front-end focused on privacy and performance
+      - url: https://btdig.com
+        title: BTDigg
+        description: BTDigg is the BitTorrent DHT search engine.
+      - url: https://www.pcjs.org/
+        title: PCjs Machines
+        description: Home of the original IBM PC emulator for browsers
+      - url: https://copy.sh/v86/
+        title: v86
+        description: v86 is a x86 emulator for the browser.
+      - url: https://keyoxide.org/
+        title: KeyOxide
+        description: Verifying online identity with cryptography.
+      - url: https://vsk.lox9973.com/abstat/
+        title: AssetBundleStat
+        description: A WinDirStat-like online Unity asset bundle inspector
+      - url: https://amiaopensource.github.io/ffmprovisr
+        title: ffmprovisr
+        description: Making FFmpeg Easier
+      - url: https://gtfobins.github.io/
+        title: GTFOBins
+        description: GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+      - url: https://www.virustotal.com
+        title: VirusTotal
+        description: Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community
+      - url: https://www.shodan.io/
+        title: Shodan
+        description: Search Engine for the Internet of Everything
+      - url: https://gemini.circumlunar.space/
+        title: Project Gemini
+        description: Gemini is a new internet technology supporting an electronic library of interconnected text documents
+      - url: https://projecteuler.net/
+        title: Project Euler
+        description: Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+      - url: http://www.therestartpage.com/
+        title: The Restart Page
+        description: Free unlimited rebooting experience from vintage operating systems
+      - url: https://www.flightradar24.com
+        title: Flightradar24
+        description: Flightradar24 is the best live flight tracker that shows air traffic in real time. Best coverage and cool features!
+      - url: https://learnxinyminutes.com/
+        title: Learn X in Y minutes
+        description: Take a whirlwind tour of your next favorite language. Community-driven!
+      - url: https://phet.colorado.edu/
+        title: PhET Interactive Simulations
+        description: Interactive Simulations for Science and Math
+      - url: https://computernewb.com/collab-vm/
+        title: CollabVM
+        description: A website that lets you take turns controlling online virtual machines with complete strangers!
+      - url: https://crustywindo.ws
+        title: Crusty Windows Wiki
+        description: the wiki for the extensive Windows bootleg archive of Computernewb and CollabVM that anyone can edit.
+      - url: https://decomp.me/
+        title: decomp.me
+        description: Collaboratively decompile code in your browser.
+      - url: https://www.homebrewcpuring.org/
+        title: Homebrew Computers Website
+        description: The Homebrew Computers Website is open to any computer project featuring a home-built CPU.
+      - url: https://webvm.io/
+        title: WebVM
+        description: WebVM is a server-less virtual Linux environment running fully client-side in HTML5/WebAssembly
+      - url: https://8bitworkshop.com/
+        title: 8bitworkshop
+        description: Write 8-bit code in your browser.
+      - url: https://www.uiua.org/
+        title: Uiua
+        description: A programming language for point-free enjoyers
+      - url: https://simplifier.neocities.org/
+        title: Simplifier
+        description: Creating a stable foundation of technology that is reliable, understandable, and practical for an individual to build for themselves.
+      - url: https://2kki.app/
+        title: Yume 2kki Explorer
+        description: A tool for visualizing and exploring the content of Yume 2kki
+      - url: https://bbycroft.net/llm
+        title: LLM Visualization
+        description: A 3D animated visualization of an LLM with a walkthrough.
+      - url: https://latentdictionary.com/
+        title: Latent Dictionary
+        description: DistilBert embeddings of the Oxford 3000 word set + whatever you search for, reduced to 3 dimensions using PCA.
+      - url: https://www.quantamagazine.org/
+        title: QuantaMagazine
+        description: Illuminating mathematics, physics, biology and computer science research through public service journalism.
+      - url: https://proofwiki.org
+        title: ProofWiki
+        description: An online compendium of mathematical proofs
+      - url: https://wiki.archiveteam.org/
+        title: Archiveteam
+        description: Archive Team is a loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving our digital heritage.
+      - url: http://macintoshgarden.org/
+        title: Macintosh Garden
+        description: The Macintosh Garden is an abandonware archive, dedicated in particular to supporting the Macintosh computer platform.
+      - url: https://tria.ge/
+        title: Triage
+        description: Explore Triage's Malware Analysis Sandbox to dissect your malware samples. Access malware trends, and a customizable environment for in-depth analysis and classification.
+      - url: https://infinitemac.org/
+        title: Infinite Mac
+        description: Infinite Mac is a collection of classic Macintosh and NeXT system releases and software, all easily accessible from the comfort of a (modern) web browser.
+      - url: https://wiki.vg
+        title: wiki.vg
+        description: wiki.vg originally started as a place to store technical documentation on reverse engineering efforts for the popular Minecraft game. However, the wiki now accepts any kind of technical knowledge.
+      - url: https://dreampuf.github.io/GraphvizOnline
+        title: Graphviz Online
+        description: Graphviz Online
+      - url: https://dontkillmyapp.com/
+        title: Don't kill my app!
+        description: Hey Android vendors, don’t kill my app!
+  - title: VR
+    items:
+      - url: https://www.vrcw.net/
+        title: VRChatの世界
+        description: VRChat内で訪れることが出来るワールドをご紹介
+      - url: https://vrclist.com/
+        title: VRCList
+        description: VRChat World List
+      - url: https://vrclibrary.com
+        title: VRCLibrary
+        description: A wiki for VRChat creators to learn, share and collaborate.
+      - url: http://neos.love/
+        title: NeosLove
+        description: Welcome to the metaverse
+      - url: http://avatar-network.herokuapp.com
+        title: Avatar Network
+        description: Avatar Networkは、BOOTHの3Dモデル（アバターやアイテム）を、対応アイテムや対応アバターがあるか？
+      - url: https://vrcprefabs.com/
+        title: VRC Prefabs
+        description: VRC Prefabs is a VRChat community that has focus on helping and sharing with others.
+      - url: https://vrchatapi.github.io/
+        title: VRChat API Docs
+        description: Here you'll find Community-created documentation about the VRChat REST API, an OpenAPI specification, and generated SDK's in several languages.
+      - url: https://vrc.tl/
+        title: vvtimeline
+        description: Timeline of VRChat music club events
+      - url: http://kutemute.com/
+        title: Kuté Muté
+        description: Welcome to the Kuté Muté page!
+      - url: http://vrceve.com/
+        title: VRChatイベントカレンダー
+        description: VRChatで行われているイベント情報をまとめています。
+      - url: https://vr-lifemagazine.com/
+        title: バーチャルライフマガジン
+        description: VRChat、VR SNSのイベント情報や流行を特集するWEBマガジン。VRChatでの遊び方、Oculus Questユーザー向けのイベント情報。HTC VIVE、VALVE INDEX、VR体験サービスなど。
+      - url: https://metrics.vrchat.community
+        title: VRChat API Metrics
+        description: VRChat API Metrics
+  - title: Game
+    items:
+      - url: https://www.ebonyriddle.com/
+        title: E.B.O.N.Y
+        description: The Weirdest Riddle Game On The Internet
+      - url: https://neal.fun/
+        title: neal.fun
+        description: a tiny website by neal
+      - url: https://wasm4.org/
+        title: WASM4
+        description: Build (and play) retro games using WebAssembly for a fantasy console
+      - url: https://spacetraders.io/
+        title: SpaceTraders API
+        description: A unique multiplayer gamebuilt on a free Web API
+      - url: https://ynoproject.net/
+        title: Yume Nikki Online Project
+        description: Play Yume Nikki and Yume Nikki fangames in multiplayer with your friends, no account or downloads required.
+      - url: https://www.nationstates.net/
+        title: NationStates
+        description: NationStates is a nation simulation game.
+      - url: https://adarkroom.doublespeakgames.com/
+        title: A Dark Room
+        description: A Minimalist Text Adventure
+      - url: http://www.notpron.org/notpron/
+        title: NotPron
+        description: The hardest riddle available on the internet
+      - url: https://www.nandgame.com/
+        title: NandGame
+        description: An educational puzzle game. Solve a series of tasks where you build increasingly powerful components. Starts with the simplest logical components and ends up with a programmable computer.
+      - url: http://alexnisnevich.github.io/untrusted/
+        title: Untrusted
+        description: A user javascript adventure game
+      - url: https://candybox2.github.io/
+        title: Candy Box 2
+        description: You have 5 candies...
+      - url: https://unixgame.io/
+        title: The Unix Game
+        description: The Unix Game is a fun, low-barrier-to-entry programming contest where players solve coding challenges by constructing "pipelines" of UNIX text processing utilities to compute the solution.
+      - url: http://www.papg.com/
+        title: Pencil and Paper Games
+        description: Pencil and Paper Games is devoted to games you can play with nothing more than a pencil and a piece of paper.
+      - url: https://mkremins.github.io/epitaph/
+        title: Epitaph
+        description: Epitaph is a procedural narrative idlegame about existential risks and the death of civilizations.
+      - url: https://www.increpare.com/
+        title: increpare games
+        description: Makes small mostly free games and tools
+      - url: https://adam.math.hhu.de/
+        title: Lean Game Server
+        description: A repository of learning games for the proof assistant Lean (Lean 4) and its mathematical library mathlib
+  - title: Linguistics
+    items:
+      - url: https://djtguide.github.io/
+        title: (=^ᆺ^)ﾉ日本語
+        description: Japanese Learning Resources
+      - url: https://learnjapanese.moe/
+        title: TheMoeWay
+        description: Japanese Learning and Immersion Guides
+      - url: https://www3.nhk.or.jp/news/easy/
+        title: News Web Easy
+        description: やさしい日本語で書いたニュース
+      - url: https://omniglot.com/
+        title: Omniglot
+        description: The online encyclopedia of writing systems & languages
+      - url: https://tokipona.org/
+        title: <toki>toki+pona</toki>
+        description: Toki Pona is a human language I invented in 2001. It was my attempt to understand the meaning of life in 120 words.
+      - url: http://lipu-pi-ijo-pi-toki.pona.la/
+        title: <toki>lipu pi++ ijo pi+ toki+pona</toki>
+        description: <toki>lipu ni li jo e ijo pona</toki>
+      - url: https://linku.la/
+        title: <toki>lipu [_lipu_ijo_nimi_ku_utala]</toki>
+        description: interactive toki pona dictionary
+      - url: https://hanziyuan.net/
+        title: Chinese Etymology 字源
+        description: Search 100K+ ancient Chinese characters and etymology.
+      - url: https://www.languagereactor.com/
+        title: Language Reactor
+        description: Your language learning toolbox. Discover, understand, and learn from native materials, including Netflix and YouTube.
+      - url: https://baileysnyder.com/jconj/
+        title: Japanese Conjugation Practice
+        description: Learn how to conjugate Japanese verbs and adjectives! Includes present tense, past tense, te form, and adverbs.
+      - url: https://sona.pona.la
+        title: <toki>sona+pona</toki>
+        description: Welcome to sona pona, the wiki for the micro-language Toki Pona.
+      - url: https://theanglishtimes.com/
+        title: The Anglish Times
+        description: The latest world news written in Anglish, a kind of English without borrowed words.
+      - url: http://codh.rois.ac.jp/
+        title: ROIS-DS Center for Open Data in the Humanities
+        description: ROIS-DS Center for Open Data in the Humanities (CODH) is developing humanities research in the era of open science.
+      - url: https://lojban.org
+        title: Lojban
+        description: Lojban is a carefully constructed spoken language. It has been built for over 50 years by dozens of workers and hundreds of supporters.
+      - url: https://lojban.io/
+        title: lojban.io
+        description: A free and open-source platform for studying the artificial language Lojban.
+  - title: Personal
+    items:
+      - url: https://acko.net/
+        title: Acko.net
+        description: Hackery, Math & Design
+      - url: https://iquilezles.org/
+        title: Inigo Quilez
+        description: Tutorials and articles of Inigo Quilez on computer graphics, fractals, demoscene, shaders and more.
+      - url: https://alanresnick.info
+        title: Alan Resnick
+        description: alanresnickwebsite
+      - url: https://scarecrowkid.net
+        title: Scarecrowkid
+        description: Welcome to my sunflower field! We're at a simple farm off the beaten path of the Internet, filled with all the things I like and hope to grow.
+      - url: https://oimo.io/
+        title: Oimo.io
+        description: I make something. 何か作ってます。触って楽しいものが好き。
+      - url: https://gwern.net
+        title: Gwern.net
+        description: This Is The Website of Gwern Branwen.
+      - url: https://phi16.hatenablog.com/
+        title: Imaginantia
+        description: 思ったことを書きます
+      - url: https://c82.net
+        title: C82
+        description: Digital Art
+      - url: https://cadnomori.neocities.org
+        title: Cadnomori
+        description: This is a place of wonder and whimsy. Find the many rooms, environments, and secrets that fill this place, and maybe take home or leave a souvenir or two.
+      - url: https://geouniversal.neocities.org/
+        title: Geouniversal
+        description: everywhere is space
+      - url: https://maxbittker.github.io/
+        title: max-bittker
+        description: Artist building tools for play, creativity, & communication.
+      - url: https://dimden.dev/
+        title: dimden's hotel
+        description: Welcome to DIMDEN.DEV! This is my little website and blog.
+      - url: https://hotlinecafe.com/
+        title: Fionn's Hotline Cafe
+        description: You've arrived at Pavilion City's most famous cybercafe.
+      - url: http://bugman123.com/
+        title: bugman123.com
+        description: On this site, you will find some of my favorite hobbies and interests, especially science and art.
+      - url: https://sonnet.io/
+        title: Rafał Pastuszak
+        description: I'm a product developer, working at the intersection of technology, design & mental health.
+      - url: https://stucky.tech/
+        title: Dave Stucky
+        description: Sitzfleisch-induced life veteran, Spartan disposition, writer/author/essayist, public speaker, incessant dabbler, übergeeksch
+      - url: https://qntm.org/
+        title: Things Of Interest
+        description: Today in Things Of Interest...
+      - url: http://xxiivv.com/
+        title: XXIIVV
+        description: A ghost enters the Library.
+      - url: https://maria.town/
+        title: maria
+        description: hey! i'm maria, a web developer from the uk · i hope your day is going great and you enjoy browsing my little web nook!
+      - url: https://mun.la/
+        title: <toki>jan [_ken_e_ken_a_nasa]</toki>
+        description: Learn Toki Pona, because it's fun and free!
+      - url: https://ritualdust.com/
+        title: Ritual Dust
+        description: Write your own folklore
+      - url: https://www.louiezong.com
+        title: Louie Zong
+        description: illustrator, musician, animator, etc.
+      - url: https://www.copetti.org/
+        title: The Copetti Site
+        description: Technical writings for hungry readers
+      - url: https://jan-ne.github.io/
+        title: <toki>lipu pi++ jan [_nena_esun]</toki>
+        description: <toki>mi jan [_nena_esun]. ni li lipu mi pi+ toki+pona.</toki>
+  - title: Misc
+    items:
+      - url: https://www.wolframalpha.com/
+        title: Wolfram Alpha
+        description: Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology
+      - url: https://effectindex.com/
+        title: Effect Index
+        description: Effect Index, which is currently under construction, is a resource dedicated to establishing the field of formalised subjective effect documentation.
+      - url: https://archive.org/
+        title: Internet Archive
+        description: Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
+      - url: https://neocities.org
+        title: Neocities
+        description: Neocities is a social network of 605,400 web sites that are bringing back the lost individual creativity of the web
+      - url: https://shepherd.com/
+        title: Shepherd
+        description: Discover the best books
+      - url: http://libgen.is/
+        title: Library Genesis
+        description: Library Genesis is a file-sharing based shadow library website for scholarly journal articles, academic and general-interest books, images, comics, audiobooks, and magazines.
+      - url: https://www.sixdegreesofwikipedia.com/
+        title: Six Degrees Of Wikipedia
+        description: Six Degrees of Wikipedia traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any of the nearly six million pages on the world's largest free online encyclopedia.
+      - url: http://www.windows93.net/
+        title: Windows93
+        description: hug + hack = infinity
+      - url: https://apolloinrealtime.org/
+        title: Apollo in real time
+        description: A real-time journey through the Apollo missions
+      - url: https://icebergcharts.com/
+        title: IcebergCharts
+        description: Iceberg Charts are an information format in which things that are well known are put at the top and the truly obscure at the bottom.
+      - url: http://astronaut.io/
+        title: Astronaut
+        description: These videos come from YouTube. They were uploaded in the last week and have titles like DSC 1234 and IMG 4321. They have almost zero previous views.
+      - url: https://www.atlasobscura.com/
+        title: Atlas Obscura
+        description: The Definitive Guide to the World's Hidden Wonders
+      - url: https://www.worldbirthsanddeaths.com/
+        title: World's Births and Deaths
+        description: World Births and Deaths, Simulated in Real-Time
+      - url: https://z0r.de/
+        title: z0r.de
+        description: Flash loops collection
+      - url: https://minitokyo3d.com/
+        title: Mini Tokyo 3D
+        description: A real-time 3D digital map of Tokyo's public transport system. This data visualization was produced by Akihiko Kusanagi
+      - url: https://oeis.org/
+        title: The On-Line Encyclopedia of Integer Sequences
+        description: The On-Line Encyclopedia of Integer Sequences is an online database of integer sequences.
+      - url: http://textfiles.com/
+        title: TEXTFILES.COM
+        description: A glimpse into the history of writers and artists bound by the 128 characters that the American Standard Code for Information Interchange allowed them
+      - url: https://bugmenot.com/
+        title: BugMeNot
+        description: Access and share logins for websites that require you to register in order to view content.
+      - url: https://psychonautwiki.org/
+        title: PsychonautWiki
+        description: PsychonautWiki is a community-driven online encyclopedia that aims to document the emerging field of psychonautics in a comprehensive, scientifically-grounded manner.
+      - url: https://www.openstreetmap.org
+        title: OpenStreetMap
+        description: OpenStreetMap is a map of the world, created by people like you and free to use under an open licence.
+      - url: https://tcrf.net/
+        title: The Cutting Room Floor
+        description: The Cutting Room Floor is a site dedicated to unearthing and researching unused and cut content from video games.
+      - url: https://recursiverecipes.schollz.com/
+        title: Recursive Recipes
+        description: A recursive recipe is one where ingredients in the recipe can be replaced by another recipe. The more ingredients you replace, the more that the recipe is made truly from scratch.
+      - url: https://wiki.wetfish.net
+        title: Wetfish
+        description: The best internet on the internet that anyone can edit.
+      - url: https://periodictableoftools.com/
+        title: Periodic Table of Tools
+        description: A periodic table of tools
+      - url: https://ambiph.one/
+        title: ambiphone
+        description: Ambient music + sounds for work, study and relaxation
+      - url: https://waterwaymap.org
+        title: WaterwayMap
+        description: A unique, topological, view on rivers & waterways in OpenStreetMap, showing how they are connected. Find mistakes and make better maps.
+      - url: https://identify.plantnet.org/
+        title: Pl@ntNet identify
+        description: Pl@ntNet is a tool to help to identify plants with pictures.
+      - url: https://streetcat.wiki
+        title: StreetCatWiki
+        description: StreetCatWiki aims to document cats and other visitors of the Hello Street Cat (哈啰街猫) streams.
+      - url: https://meow.camera
+        title: meow.camera
+        description: explore and share chinese cat feeders
+      - url: http://thirty-seven.org/
+        title: 37 Heaven
+        description: 37 is an important number for lots of reasons. I collect "37 factoids".
+      - url: https://plato.stanford.edu
+        title: Stanford Encyclopedia of Philosophy
+        description: The Stanford Encyclopedia of Philosophy organizes scholars from around the world in philosophy and related disciplines to create and maintain an up-to-date reference work.
+      - url: https://biochemical-pathways.com
+        title: Roche Biochemical Pathways
+        description: The Biochemical Pathways Wall Charts have enjoyed worldwide popularity as a standard reference for over 50 years. Because we care about science and scientists, the charts can now be accessed as an interactive online service with additional features.
+      - url: https://calculusmadeeasy.org/
+        title: Calculus Made Easy
+        description: What one fool can do, another can.
+  - title: List
+    items:
+      - url: https://whitedesert.neocities.org/
+        title: Whitedesert
+        description: A collection of surrealism and horror
+      - url: https://whimsical.club/
+        title: The Whimsical Web
+        description: A curated list of sites with an extra bit of fun.
+      - url: https://terra.finzdani.net/
+        title: Terra
+        description: Cool sites, straight from earth
+      - url: https://moonjump.app/
+        title: Moonjump
+        description: Moonjump is a server that redirects you to a random page harvested from the arcane depths of the web.
+      - url: https://no-js.club/
+        title: The no-JS Club
+        description: Promenade for Javascript freed websites
+      - url: https://wiby.me
+        title: Wiby
+        description: Search Engine for the Classic Web
+      - url: https://personalsit.es/
+        title: PersonalSit.es
+        description: This site was built to share and revel in each others' personal sites
+      - url: https://search.marginalia.nu/
+        title: Marginalia Search
+        description: This is an independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware of in favor of the sort of sites you probably already knew existed.
+      - url: https://brutalistwebsites.com/
+        title: Brutalist Websites
+        description: In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.
+      - url: https://biglist.terraaeon.com/
+        title: The Big List of Personal Websites
+        description: It's a big list of personal websites
+      - url: https://1mb.club/
+        title: 1MB Club
+        description: 1MB Club is a growing collection of performance-focused web pages weighing less than 1 megabyte.
+      - url: https://theuselessweb.com/
+        title: The Useless Web
+        description: The Useless Web... because some websites, we just couldn't do without.
+      - url: https://districts.neocities.org/
+        title: districts on Neocities
+        description: your internet neighbours
+      - url: https://arbesman.net/computationaldelights/
+        title: The Garden of Computational Delights
+        description: Beneath the utilitarian purpose of computation, computing is also a source of delight and wonder.
+      - url: https://wiby.me
+        title: Wiby
+        description: Search Engine for the Classic Web
+      - url: https://sharkle.com/
+        title: Sharkle
+        description: The site that takes you randomly to amazing stuff. StumbleUpon alternative to find cool things.
