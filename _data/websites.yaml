@@ -351,6 +351,9 @@ categories:
       - url: https://dontkillmyapp.com/
         title: Don't kill my app!
         description: Hey Android vendors, don’t kill my app!
+      - url: https://graph.henryn.ca/
+        title: Map of the web
+        description: Network visualization of 50k blogs and links
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -389,6 +392,12 @@ categories:
       - url: https://metrics.vrchat.community
         title: VRChat API Metrics
         description: VRChat API Metrics
+      - url: https://vrc.school/
+        title: VRC School
+        description: Everything you need to know to make VRChat Avatar Systems
+      - url: https://lvra.gitlab.io/
+        title: Linux VR Adventures Wiki
+        description: A collection of links, useful resources and guides for the amazing world of VR on Linux.
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -560,6 +569,9 @@ categories:
       - url: https://jan-ne.github.io/
         title: <toki>lipu pi++ jan [_nena_esun]</toki>
         description: <toki>mi jan [_nena_esun]. ni li lipu mi pi+ toki+pona.</toki>
+      - url: https://www.beyondloom.com
+        title: Beyond Loom
+        description: I like tinkering with code, especially when it comes to obscure and beautiful new languages.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/

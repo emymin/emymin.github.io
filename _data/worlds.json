@@ -5806,5 +5806,85 @@
     "description": "A collaborative effort built for the Space Jam, depicting the potential possibilities of exploration and colonization on Venus. Experiences include a museum of Venus, an explorable blimp, and breathtaking views of the Venusian clouds.",
     "publication_date": "2024-04-05T13:51:10.938Z",
     "tags": ["exploration","exhibit"]
+  },
+  {
+    "id": "wrld_7afbeb10-7dc7-401a-8df0-b74c5cadca6e",
+    "name": "Porter Robinson - Cheerleader",
+    "author_name": "Dascorp",
+    "description": "I made this because I loved the sets from the MV. Use it however you like :) Everything made from scratch.",
+    "publication_date": "2024-04-27T06:46:13.172Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_e827c416-dac0-4229-9f0a-9b48fa0943e8",
+    "name": "耳をふさいで夜を走る",
+    "author_name": "浜名湖なこ",
+    "description": "振動を感じながらぼんやりと眠る",
+    "publication_date": "2024-04-28T14:31:47.062Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_68d77b2f-1606-4ad5-b696-15d801276135",
+    "name": "Oasis Apartment #420",
+    "author_name": "Flave",
+    "description": "Step into a virtual oasis of tranquility and relaxation at Oasis Apartment in VRChat! Immerse yourself in a serene environment where lush landscapes and soothing ambiance await. Whether you're seeking a peaceful getaway from the chaos of the real world or simply a place to unwind with friends, Oasis Apartment offers the perfect escape.",
+    "publication_date": "2024-04-30T01:48:28.561Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ffb0af53-b42a-4250-a7f4-1198bf5366b2",
+    "name": "VirtualFrogMuseum Keronmo",
+    "author_name": "mozukui",
+    "description": "VirtualFrogMuseum Keronmo introduces approximately 100 types of frogs from around the world! I hope you'll have a great time.",
+    "publication_date": "2024-05-02T14:09:29.005Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_1b394ae1-98b6-4417-ad10-8fcbcddb1f6f",
+    "name": "Roaming Savanna Safari",
+    "author_name": "`Squishy",
+    "description": "Wide open African landscape, complete with safari car and many species to find. Includes scavenger hunt and other surprises.",
+    "publication_date": "2020-02-27T22:27:24.379Z",
+    "tags": ["exploration","driving"]
+  },
+  {
+    "id": "wrld_151d125a-9842-4510-a2b3-603b690ea3e1",
+    "name": "Versailles Hall of Mirrors",
+    "author_name": "Morejo",
+    "description": "Digital reconstruction of the Versailles Hall of Mirrors",
+    "publication_date": "2024-05-03T05:45:23.386Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_10af394e-064d-430c-b0d5-84f7780f2881",
+    "name": "VoN: Fragmented Love & Silence",
+    "author_name": "Vonast",
+    "description": "[TRIGGER WARNING] - haunted by an emptiness in memory - @VonVRC on Twitter for more of my work.",
+    "publication_date": "2024-05-05T06:25:23.108Z",
+    "tags": ["experience","art"]
+  },
+  {
+    "id": "wrld_10fb84b4-9997-4850-ae31-7ad44a568338",
+    "name": "Marbles Test Public",
+    "author_name": "SBoys3",
+    "description": "Build and test you own marble tracks. This is still a work in progress but the core functionality is done.",
+    "publication_date": "2024-04-28T08:53:07.151Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_f0e4c7e2-7135-4a1b-9adb-cfa9c1973a5f",
+    "name": "にわぞのぼたにか作品展示室-Niwazono Botanica Artworks Display room-",
+    "author_name": "＝DonK＝",
+    "description": "消しゴムはんこ、消しゴム版画作家'にわぞのぼたにか'の作品の展示室です。 This is a display room for works of eraser stamps and eraser print artist 'Niwazono Botanica'.",
+    "publication_date": "2024-05-05T08:23:01.973Z",
+    "tags": ["exhibit","art"]
+  },
+  {
+    "id": "wrld_6230e62c-ae86-4bc5-b5db-32e9acb0c81e",
+    "name": "WaterBlobs",
+    "author_name": "MOREFOX",
+    "description": "WaterBlobs Room From Game - ADR1FT",
+    "publication_date": "2024-05-08T21:45:17.014Z",
+    "tags": ["art","tech"]
   }
 ]
