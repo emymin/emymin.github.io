@@ -205,6 +205,12 @@ categories:
         title: Origami Simulator
         description: This app allows you to simulate how any origami crease pattern will fold.
         tags: ["tech","art","app"]
+      - url: https://www.visuallanguagelab.com/
+        title: Visual Language Lab
+        description: The website of Neil Cohn and the Visual Language Lab
+      - url: https://www.irasutoya.com/
+        title: かわいいフリー素材集 いらすとや
+        description: いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -448,6 +454,15 @@ categories:
       - url: https://adam.math.hhu.de/
         title: Lean Game Server
         description: A repository of learning games for the proof assistant Lean (Lean 4) and its mathematical library mathlib
+      - url: https://lichess.org/
+        title: lichess.org
+        description: Free online chess server. Play chess in a clean interface. No registration, no ads, no plugin required. Play chess with the computer, friends or random opponents.
+      - url: https://chess.maxmcd.com/
+        title: Static Chess
+        description: Plain, brutalist, no bloat chess. Every page is only html and css. Every chess move is made by clicking a link
+      - url: https://libregamewiki.org
+        title: Libregamewiki
+        description: LibreGameWiki the free gaming encyclopedia for games developed as open source and using open media.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -495,6 +510,9 @@ categories:
       - url: https://lojban.io/
         title: lojban.io
         description: A free and open-source platform for studying the artificial language Lojban.
+      - url: https://www.earthspecies.org/
+        title: Earth Species Project
+        description: Earth Species Project is a non-profit dedicated to using artificial intelligence to decode non-human communication.
   - title: Personal
     items:
       - url: https://acko.net/
@@ -572,6 +590,9 @@ categories:
       - url: https://www.beyondloom.com
         title: Beyond Loom
         description: I like tinkering with code, especially when it comes to obscure and beautiful new languages.
+      - url: https://jzhao.xyz/
+        title: jzhao.xyz
+        description: Welcome! I’m Jacky. This is my little hypertext garden on the Internet — make yourself at home! 
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/

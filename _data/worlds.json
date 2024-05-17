@@ -5886,5 +5886,69 @@
     "description": "WaterBlobs Room From Game - ADR1FT",
     "publication_date": "2024-05-08T21:45:17.014Z",
     "tags": ["art","tech"]
+  },
+  {
+    "id": "wrld_03553b0c-ec67-416f-a9ca-70415e7b127d",
+    "name": "Lidgate Church",
+    "author_name": "Morejo",
+    "description": "Recreation of St. Mary church of Lidgate in England with medieval decorations.",
+    "publication_date": "2024-05-10T11:24:46.479Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_0f3184c3-e311-418f-accb-1c2d656f1fb5",
+    "name": "Rekat's Apartment. Хата у Реката",
+    "author_name": "Rekat_16",
+    "description": "Welcome to my apartment! Make yourself at home.",
+    "publication_date": "2021-03-14T02:06:34.903Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_dc671129-70cf-40a4-b0f4-356c561389b3",
+    "name": "Neuron",
+    "author_name": "Juice․․․",
+    "description": "A media visualizer world featuring VideoTex and AudioLink.",
+    "publication_date": "2024-05-13T02:39:03.890Z",
+    "tags": ["music","art"]
+  },
+  {
+    "id": "wrld_9f91b177-4956-41b3-b178-f03f36dcd5e6",
+    "name": "Sol Station",
+    "author_name": "Ethosaur",
+    "description": "A Space station orbiting... A sun! Ran by Slime people. New original world made by Ethosaur, including textures & models. Inspired by Outer Wilds. Music: R&C 3 OST - Obani Gemini, Zygan System",
+    "publication_date": "2022-08-14T21:30:25.140Z",
+    "tags": ["exploration","hangout"]
+  },
+  {
+    "id": "wrld_e73be773-c48e-4100-9c93-8e5c3a3d2fe0",
+    "name": "Moria",
+    "author_name": "Fewiix",
+    "description": "run around with light magical staffs",
+    "publication_date": "2024-05-14T11:38:57.552Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_e919c1f4-8399-43cc-8305-d890dc8e2e98",
+    "name": "GPT 2024",
+    "author_name": "lox9973",
+    "description": "This world runs a GPT-like chatbot on your GPU with shader & udon. The language model is Qwen1.5-0.5B-Chat, released by Alibaba Cloud in Feb 2024.",
+    "publication_date": "2024-05-15T07:29:49.187Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_603b0786-4501-42a2-b696-daf2bc3f1baa",
+    "name": "Boat Inn",
+    "author_name": "samemoto",
+    "description": "Boat Inn",
+    "publication_date": "2024-05-15T22:50:31.509Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_9e0b5d28-8130-45ec-82b7-4055eb9ea583",
+    "name": "Miku's Analog Horror Room",
+    "author_name": "MikuChanAnime",
+    "description": "Chill with your friends and enjoy some analog horror! World is still a work in progress. Back to working on it so expect a lot of updates including optimization and quest support.",
+    "publication_date": "2022-06-03T07:23:59.256Z",
+    "tags": ["hangout"]
   }
 ]
