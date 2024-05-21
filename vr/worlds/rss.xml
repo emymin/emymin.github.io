@@ -17,7 +17,7 @@
     <height>108</height>
   </image>
   <atom:link href="https://emymin.net/vr/worlds/rss.xml" rel="self" type="application/rss+xml" />
-  {% assign worlds = site.data.cool_worlds | reverse | slice: 0,15 %}
+  {% assign worlds = site.data.worlds | reverse | slice: 0,50 %}
   {% for world in worlds %}
   <item>
     <title>{{world.name | xml_escape }}</title>
