@@ -5950,5 +5950,93 @@
     "description": "Chill with your friends and enjoy some analog horror! World is still a work in progress. Back to working on it so expect a lot of updates including optimization and quest support.",
     "publication_date": "2022-06-03T07:23:59.256Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_5191ab98-0e08-457d-a4ae-6a86df62cb2b",
+    "name": "Immaculate Ark",
+    "author_name": "wata23",
+    "description": "滅亡を避けるための切り札は、ついぞ使われることはなく、穏やかにうたた寝しています。正しく使われる日を夢見て。'The ark to avoid doom has never been used, peacefully slumbering away, dreaming of the day it will be rightly employed...'",
+    "publication_date": "2024-05-16T08:36:52.751Z",
+    "tags": ["exhibit","art"]
+  },
+  {
+    "id": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
+    "name": "Hidden Bar",
+    "author_name": "willowart",
+    "description": "A cozy retreat where you can enjoy a relaxed atmosphere. 落ち着く雰囲気を楽しめる隠れたバー。Created by yanagi_the55th",
+    "publication_date": "2023-10-01T18:43:54.192Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_14750dd6-26a1-4edb-ae67-cac5bcd9ed6a",
+    "name": "Prison Escape",
+    "author_name": "Ostinyo",
+    "description": "Join the fight between Prisoners and Guards in this VR prison! Plot your escape with friends or keep the prisoners in line!",
+    "publication_date": "2022-03-12T07:00:31.178Z",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+    "name": "Blackout!",
+    "author_name": "Ostinyo",
+    "description": "Murderers are on the loose! When the lights go out, they'll make their move! Work together to put a stop to their killing spree!",
+    "publication_date": "2023-03-24T22:34:43.786Z",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_0ec97c4f-1e84-4a3a-9e3a-fa3075b6c56d",
+    "name": "Ghost - Police Office",
+    "author_name": "NoLife1942",
+    "description": "Looting, Shooting, Detective Game. Support max 24 players. It's a bit complicated system, so if any glitch happened, rejoining the world usually helps. Apology for any inconvenience.",
+    "publication_date": "2021-12-04T01:28:47.857Z",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_3c3ce33e-0b66-4bb6-a5a2-64d1fc37b875",
+    "name": "Urban Refuge",
+    "author_name": "zelfine",
+    "description": "Far away from the city, now Im finally in peace... Come chill with your friends in a cozy apartment far away from a city! Very pwetty cozy zones, video player with a lot of presets and YOUTUBE SEARCH! Night mode, games, collars etc! This world is available for purchase at zelfine.gumroad.com",
+    "publication_date": "2024-05-18T01:57:50.728Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_a3001243-41bb-4bd6-8ac8-76e4fa0472d7",
+    "name": "Baroque Mansion",
+    "author_name": "Okabintaro",
+    "description": "Port of a HDRP Asset. A bit unpolished and heavy but looks fancy. Enjoy!",
+    "publication_date": "2024-05-20T06:11:20.649Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_08696fd0-48d8-44e7-bc76-a8b228aff871",
+    "name": "Saint Peter's Basilica",
+    "author_name": "Morejo",
+    "description": "Digital recreation of the Basilica of Saint Peter",
+    "publication_date": "2024-05-17T23:57:44.795Z",
+    "tags": ["art","exploration","★"]
+  },
+  {
+    "id": "wrld_606aba82-47d2-4632-8b50-4afa7913ef55",
+    "name": "Super Kmart Center [Archive]",
+    "author_name": "KmartWorlds",
+    "description": "This is an archived version of the Super Kmart Center operated by VRChat Kmart. Archived by the former VRChat Kmart Development Team.",
+    "publication_date": "2024-05-18T03:33:48.968Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
+    "name": "ひなげし坂_HinageshiZaka",
+    "author_name": "Coquelicotz",
+    "description": "ひなげし坂は日本の島嶼部の田舎町をイメージして作られたワールドです。ゆっくりと夏をお過ごし下さい。HINAGESHI-ZAKA is a world imagined based on a rural town in the Japanese islands. Please enjoy your leisurely summer there.",
+    "publication_date": "2024-05-18T12:17:24.749Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_56c78e25-bd4a-4276-a2b7-4d5d99a2a8d1",
+    "name": "迄今 c:\\\\ome\\too\\far.gif",
+    "author_name": "Soza Santana",
+    "description": "叙述 INANIMATE",
+    "publication_date": "2024-05-17T06:02:26.814Z",
+    "tags": ["exploration"]
   }
 ]
