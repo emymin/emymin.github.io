@@ -404,6 +404,9 @@ categories:
       - url: https://lvra.gitlab.io/
         title: Linux VR Adventures Wiki
         description: A collection of links, useful resources and guides for the amazing world of VR on Linux.
+      - url: https://boothplorer.com/
+        title: BOOTHPLORER
+        description: A third-party BOOTH.pm item and avatar catalogue for VRChat.
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -592,7 +595,10 @@ categories:
         description: I like tinkering with code, especially when it comes to obscure and beautiful new languages.
       - url: https://jzhao.xyz/
         title: jzhao.xyz
-        description: Welcome! I’m Jacky. This is my little hypertext garden on the Internet — make yourself at home! 
+        description: Welcome! I’m Jacky. This is my little hypertext garden on the Internet — make yourself at home!
+      - url: http://slehar.com/wwwRel/index.html
+        title: Steven Lehar
+        description: I am an independent researcher with a novel theory of mind and brain, inspired by the observed properties of perception.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -694,6 +700,15 @@ categories:
       - url: https://calculusmadeeasy.org/
         title: Calculus Made Easy
         description: What one fool can do, another can.
+      - url: https://qri.org/
+        title: Qualia Research Institute
+        description: Founded in 2018, the Qualia Research Institute (QRI) is a 501(c)(3) non-profit dedicated to developing a mathematical formalization for subjective experience and its emotional valence.
+      - url: https://openworm.org/
+        title: OpenWorm
+        description: OpenWorm is an open source project dedicated to creating a virtual C. elegans nematode in a computer.
+      - url: https://www.lesswrong.com/
+        title: LessWrong
+        description: LessWrong is an online forum and community dedicated to improving human reasoning and decision-making.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

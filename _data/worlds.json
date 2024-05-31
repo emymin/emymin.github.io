@@ -6038,5 +6038,85 @@
     "description": "叙述 INANIMATE",
     "publication_date": "2024-05-17T06:02:26.814Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_32ea3f32-46f9-4c8f-ad67-c43945cab8fc",
+    "name": "虚拟数码博物馆 Virtual Digital Product Museum",
+    "author_name": "Con11",
+    "description": "《虚拟数码博物馆》是一个以消费类电子产品为主题的虚拟博物馆，目前已经开放游览中，正在 Beta 测试中，可能会有部分错误和问题，可以进群交流和反馈建议。 'Virtual Digital Product Museum' is a virtual museum with the theme of consumer electronics. It is currently open for tours and is in beta testing. There may be some errors and problems. You can join the QQ group to communicate and give feedback.",
+    "publication_date": "2024-05-19T14:39:15.395Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_12294236-b184-4d70-9f81-1de4798577c8",
+    "name": "Aesthetic Poolrooms",
+    "author_name": "Kadeko",
+    "description": "For upcoming episode of 'Backrooms: The Anime' by Metacosm Studios. For smaller, home world version, is called: 'Vaporwave Poolrooms'. There are many secrets to be uncovered..",
+    "publication_date": "2024-05-25T04:04:41.504Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
+    "name": "Gallery 2718702a",
+    "author_name": "suzuki_i",
+    "description": "常設展「額縁の庇護を逃れて」 企画展「Integral and Photogrammetry」",
+    "publication_date": "2024-05-24T17:30:45.254Z",
+    "tags": ["exhibit","tech"]
+  },
+  {
+    "id": "wrld_37abea33-f34c-4706-8e6b-2f69e414fc5d",
+    "name": "Ocarina of Time 3D",
+    "author_name": "GigiSpahz",
+    "description": "[This world is still in the making, not everything is here yet] A faithful recreation/port of the world of Ocarina of Time 3D, and a hangout place for Zelda fans with a major focus on interactivity.",
+    "publication_date": "2024-05-26T23:35:14.180Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_31fe1c8a-50e3-4073-aadc-2cf505f5542f",
+    "name": "York Minster",
+    "author_name": "Morejo",
+    "description": "Digital reconstruction of York Minster, with hypothetical original ceiling and decorations.",
+    "publication_date": "2024-05-28T19:59:12.141Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_a30d3f3d-efcf-4b72-b826-dd2092914573",
+    "name": "Walkabout Minigolf Tourist Trap",
+    "author_name": "meisjfudge",
+    "description": "Walkabout Minigolf Tourist Trap",
+    "publication_date": "2024-05-29T07:00:15.881Z",
+    "tags": ["sport"]
+  },
+  {
+    "id": "wrld_6214d7d8-d8f5-4270-bd39-9cdb35ef80d7",
+    "name": "StellaRoom",
+    "author_name": "Rsea_るしぃ",
+    "description": "AriakeStella Official HomeWorld!",
+    "publication_date": "2024-05-28T13:14:25.536Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_fe890f89-1d56-403b-ab47-08957374a74f",
+    "name": "Placid Plastic Duck World",
+    "author_name": "zSkull162",
+    "description": "A port of PPDS to VRChat! Sit around, collect ducks, and have fun! (Ducks, duck positions, and duck list are fully synced.)",
+    "publication_date": "2024-05-29T17:41:19.330Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_5deff489-432d-4f22-bd50-3085773faa16",
+    "name": "TOKYO MOOD by BEAMS",
+    "author_name": "BEAMS_STAFF_1",
+    "description": "セレクトショップBEAMSがお届けする、都会の片隅に息づく路地裏ワールド。 Find your place in the backstreets of Tokyo -- a world brought to you by BEAMS, Japan's fashion and lifestyle retailer.",
+    "publication_date": "2024-05-30T16:26:11.758Z",
+    "tags": ["exploration","exhibit"]
+  },
+  {
+    "id": "wrld_ceb47f55-79e5-445d-b411-218c255fa72c",
+    "name": "Brutalist McDonalds",
+    "author_name": "littlewhinging",
+    "description": "Brutalist McDonalds, ported from gmod: https://steamcommunity.com/sharedfiles/filedetails/?id=3254618986",
+    "publication_date": "2024-05-30T11:17:36.886Z",
+    "tags": ["art"]
   }
 ]
