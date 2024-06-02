@@ -5,7 +5,7 @@ from vrchatapi.api.worlds_api import WorldsApi
 import requests
 from PIL import Image
 from io import BytesIO
-import os
+import os,re
 
 images_path="./vr/worlds/images"
 user_agent="emymin.net/vr/worlds"
@@ -49,3 +49,13 @@ with vrchatapi.ApiClient() as api_client:
         print(data_json)
         if args.images:
             download_world_image(world_id,world.image_url)
+
+with open("./_data/worlds.json","r",encoding='utf8') as file:
+    worlds_list = json.load(file)
+worlds_list.extend(worlds_to_add)
+with open('./_data/worlds.json', 'w',encoding='utf8') as file:
+    s = json.dumps(worlds_list,indent=2,ensure_ascii=False)
+    # I just want the tags to be all on the same line with the same formatting I always use so REGEX TIME
+    pattern = re.compile(r'("tags": \[)([^\]]+?)(\])', re.DOTALL)
+    s = re.sub(pattern, lambda m: m.group(1) + ','.join(re.sub(r'\s+', '', tag) for tag in m.group(2).split(',')) + m.group(3), s)
+    file.write(s)
