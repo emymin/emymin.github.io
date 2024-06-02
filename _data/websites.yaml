@@ -211,6 +211,9 @@ categories:
       - url: https://www.irasutoya.com/
         title: かわいいフリー素材集 いらすとや
         description: いらすとやは季節のイベント・動物・子供などのかわいいイラストが沢山見つかるフリー素材サイトです。
+      - url: https://www.joyceproject.com/
+        title: The Joyce Project
+        description: The purpose of The Joyce Project is to present an online edition of James Joyce's Ulysses that comprehensively assists readers of this great modern novel, as they read.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -360,6 +363,21 @@ categories:
       - url: https://graph.henryn.ca/
         title: Map of the web
         description: Network visualization of 50k blogs and links
+      - url: https://openworm.org/
+        title: OpenWorm
+        description: OpenWorm is an open source project dedicated to creating a virtual C. elegans nematode in a computer.
+      - url: https://www.chessprogramming.org
+        title: Chessprogramming wiki
+        description: The Chess Programming Wiki is a repository of information about programming computers to play chess.
+      - url: https://esolangs.org/
+        title: Esolang, the esoteric programming languages wiki
+        description: This wiki is dedicated to the fostering and documentation of programming languages designed to be unique, difficult to program in, or just plain weird.
+      - url: https://raytracing.github.io/
+        title: Ray Tracing in One Weekend Series
+        description: Learn how to build a simple path tracer with indirect lighting in one weekend, and extend it with textures, volumes, rectangles, instances, lights, and more.
+      - url: https://solar.lowtechmagazine.com/
+        title: LOW←TECH MAGAZINE
+        description: This is a solar-powered website, which means it sometimes goes offline
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -466,6 +484,9 @@ categories:
       - url: https://libregamewiki.org
         title: Libregamewiki
         description: LibreGameWiki the free gaming encyclopedia for games developed as open source and using open media.
+      - url: https://archive.yumeboo.ru/
+        title: Yumebooru Archive
+        description: Yume Nikki Fangames Archive
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -516,6 +537,15 @@ categories:
       - url: https://www.earthspecies.org/
         title: Earth Species Project
         description: Earth Species Project is a non-profit dedicated to using artificial intelligence to decode non-human communication.
+      - url: https://neolatinlexicon.org/
+        title: The Morgan-Owens Neo-Latin Lexicon
+        description: The Neo-Latin Lexicon is the home of the largest repository Neo-Latin vocabulary culled from literary sources.
+      - url: https://ctext.org/
+        title: Chinese Text Project
+        description: The Chinese Text Project is an online open-access digital library that makes pre-modern Chinese texts available to readers and researchers all around the world.
+      - url: https://glottolog.org/
+        title: Glottolog 5.0
+        description: Comprehensive reference information for the world's languages, especially the lesser known languages. 
   - title: Personal
     items:
       - url: https://acko.net/
@@ -599,6 +629,12 @@ categories:
       - url: http://slehar.com/wwwRel/index.html
         title: Steven Lehar
         description: I am an independent researcher with a novel theory of mind and brain, inspired by the observed properties of perception.
+      - url: http://cidoku.net/
+        title: The Cidoku Network
+        description: Welcome to my lair on the World Wide Web, traveler.
+      - url: https://bellard.org/
+        title: Fabrice Bellard's Home Page
+        description: Fabrice Bellard is a French computer programmer known for writing FFmpeg, QEMU, and the Tiny C Compiler. He developed Bellard's formula for calculating single digits of pi.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -703,12 +739,15 @@ categories:
       - url: https://qri.org/
         title: Qualia Research Institute
         description: Founded in 2018, the Qualia Research Institute (QRI) is a 501(c)(3) non-profit dedicated to developing a mathematical formalization for subjective experience and its emotional valence.
-      - url: https://openworm.org/
-        title: OpenWorm
-        description: OpenWorm is an open source project dedicated to creating a virtual C. elegans nematode in a computer.
       - url: https://www.lesswrong.com/
         title: LessWrong
         description: LessWrong is an online forum and community dedicated to improving human reasoning and decision-making.
+      - url: https://www.oldmapsonline.org
+        title: Old Maps Online
+        description: Browse and view places with timeline, compare historical maps to see the evolution of a place
+      - url: https://www.givewell.org/
+        title: GiveWell
+        description: We search for the charities that save or improve lives the most per dollar.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
