@@ -378,6 +378,9 @@ categories:
       - url: https://solar.lowtechmagazine.com/
         title: LOW←TECH MAGAZINE
         description: This is a solar-powered website, which means it sometimes goes offline
+      - url: https://betawiki.net
+        title: BetaWiki
+        description: An open encyclopedia of software history
   - title: VR
     items:
       - url: https://www.vrcw.net/

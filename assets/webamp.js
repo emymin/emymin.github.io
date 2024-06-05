@@ -23,6 +23,7 @@ appendScript("https://unpkg.com/webamp").onload = () => {
                     { "url": "/assets/songs/HOME - Dream Head.ogg"},
                     { "url": "/assets/songs/Joshua Morse - Stickerbush Symphony.ogg"},
                     { "url": "/assets/songs/ReDoin.ogg"},
+                    { "url": "/assets/songs/Stan LePard - Windows 98 Velkommen.ogg"},
                     { "url": "/assets/songs/Kikiyama - このまま、どこまでも〜ほうき飛行〜.ogg"},
                     { "url": "/assets/songs/LazerHawk - Cool Breeze.ogg"},
                     { "url": "/assets/songs/Michael Wyckoff - Bone Theme (Boneworks OST).ogg"},
