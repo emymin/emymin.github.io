@@ -635,6 +635,9 @@ categories:
       - url: https://bellard.org/
         title: Fabrice Bellard's Home Page
         description: Fabrice Bellard is a French computer programmer known for writing FFmpeg, QEMU, and the Tiny C Compiler. He developed Bellard's formula for calculating single digits of pi.
+      - url: https://mararizer.net/
+        title: MaraRizer.NET
+        description: I am a small bnnyu that is into early 2000s Internet and its media such as music and games.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -748,6 +751,13 @@ categories:
       - url: https://www.givewell.org/
         title: GiveWell
         description: We search for the charities that save or improve lives the most per dollar.
+      - url: https://shademap.app/
+        title: ShadeMap
+        description: Every mountain, building and tree shadow in the world simulated for any date and time
+      - url: https://delve.a9.io/
+        title: delve
+        description: Go down rabbit holes
+
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
