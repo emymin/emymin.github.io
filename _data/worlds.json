@@ -3363,41 +3363,41 @@
     "id": "wrld_d8a747dc-854a-4712-b0e3-13bc3d9cf817",
     "name": "The Pact",
     "author_name": "hdorriker",
-    "description":"From One Source All Things Depend.",
-    "publication_date":"2021-08-25T18:06:42.597Z",
+    "description": "From One Source All Things Depend.",
+    "publication_date": "2021-08-25T18:06:42.597Z",
     "tags": ["exploration"]
   },
   {
     "id": "wrld_0a9769ea-9028-4701-8f48-69f4cabe64a8",
     "name": "Park late at night 4:30am 【深夜四時半、公園で",
-    "author_name":"satukisiryu",
-    "description":"深夜の街って徘徊したくなるよね",
-    "publication_date":"2023-08-02T20:53:59.499Z",
-    "tags":["hangout","exploration"]
+    "author_name": "satukisiryu",
+    "description": "深夜の街って徘徊したくなるよね",
+    "publication_date": "2023-08-02T20:53:59.499Z",
+    "tags": ["hangout","exploration"]
   },
   {
-    "id":"wrld_d0825e6d-78ca-4e72-b0a2-1bf5c019da41",
-    "name":"Senjougahara Room",
-    "author_name":"Dodokoce",
-    "description":"Senjougahara's House inspired by Bakemonogatari by Shaft.",
-    "publication_date":"2020-12-15T00:49:56.906Z",
-    "tags":["hangout","art"]
+    "id": "wrld_d0825e6d-78ca-4e72-b0a2-1bf5c019da41",
+    "name": "Senjougahara Room",
+    "author_name": "Dodokoce",
+    "description": "Senjougahara's House inspired by Bakemonogatari by Shaft.",
+    "publication_date": "2020-12-15T00:49:56.906Z",
+    "tags": ["hangout","art"]
   },
   {
-    "id":"wrld_83f73f36-f403-4925-8b5d-acde847bd30f",
-    "name":"MUNCH",
+    "id": "wrld_83f73f36-f403-4925-8b5d-acde847bd30f",
+    "name": "MUNCH",
     "author_name": "PK",
-    "description":"PK's set from Break #10, to start the show just make your way to the DJ booth and press play.",
-    "publication_date":"2023-06-27T00:30:57.671Z",
-    "tags":["experience","music","club"]
+    "description": "PK's set from Break #10, to start the show just make your way to the DJ booth and press play.",
+    "publication_date": "2023-06-27T00:30:57.671Z",
+    "tags": ["experience","music","club"]
   },
   {
     "id": "wrld_5e5511b0-9ef3-419a-bb5a-aa301089607e",
-    "name":"Aspirla",
-    "author_name":"knfoxl",
-    "description":"About the day's record and feelings.",
-    "publication_date":"2023-07-08T23:37:50.609Z",
-    "tags":["art","exploration","hub"]
+    "name": "Aspirla",
+    "author_name": "knfoxl",
+    "description": "About the day's record and feelings.",
+    "publication_date": "2023-07-08T23:37:50.609Z",
+    "tags": ["art","exploration","hub"]
   },
   {
     "id": "wrld_ddc2beca-f634-47dc-be37-c30dd1d73337",
@@ -3405,7 +3405,7 @@
     "author_name": "Anonine_",
     "description": "Rooms?",
     "publication_date": "2023-08-25T21:47:25.946Z",
-    "tags":["exploration"]
+    "tags": ["exploration"]
   },
   {
     "id": "wrld_127c0b92-9d13-4b19-b1e3-9012dcddaf87",
@@ -3427,7 +3427,7 @@
     "id": "wrld_68bb31aa-f123-4bc1-961d-d35c6304c81c",
     "name": "World Repository",
     "author_name": "Blue Cat",
-    "description":"An infinite corridor leading to everywhere. Portals to worlds that I think are neat! Too many to choose from? Check out the supplemental world 'World Repository [Daily Picks]' for a daily random selection of 10 worlds from the list!",
+    "description": "An infinite corridor leading to everywhere. Portals to worlds that I think are neat! Too many to choose from? Check out the supplemental world 'World Repository [Daily Picks]' for a daily random selection of 10 worlds from the list!",
     "publication_date": "2021-08-08T00:25:51.694Z",
     "tags": ["hub","exploration"]
   },
@@ -3890,7 +3890,7 @@
   {
     "id": "wrld_07bbd9a0-2d5a-42fe-9aed-0d2733644284",
     "name": "Abstractia",
-    "author_name" : "Chipboard",
+    "author_name": "Chipboard",
     "description": "An abstract world to explore with elements of liminal spaces and megalophobia.",
     "publication_date": "2023-09-19T06:01:26.613Z",
     "tags": ["art","exploration"]
@@ -4048,7 +4048,7 @@
     "tags": ["hangout"]
   },
   {
-    "id" : "wrld_12c27f81-972c-4c10-9cdd-5ef2caef8cfe",
+    "id": "wrld_12c27f81-972c-4c10-9cdd-5ef2caef8cfe",
     "name": "Lavender Loft",
     "author_name": "Tehl",
     "description": "Unwind in an apartment set within a rainy evening in London. Take in the views or watch videos, there's plenty to do with friends or just by yourself.",
@@ -4056,7 +4056,7 @@
     "tags": ["hangout"]
   },
   {
-    "id" : "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
+    "id": "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
     "name": "天気雨のワルツ-Sun shower's Waltz",
     "author_name": "HANI․",
     "description": "BGM: https://www.youtube.com/watch?v=u5b2mkbV_rQ&ab_channel=DUGGYMUSIC",
@@ -4064,7 +4064,7 @@
     "tags": ["art","hangout"]
   },
   {
-    "id" : "wrld_d2fc33c0-2c83-4d46-ac03-cf07af9899a6",
+    "id": "wrld_d2fc33c0-2c83-4d46-ac03-cf07af9899a6",
     "name": "Crates",
     "author_name": "littlewhinging",
     "description": "Its like tnt run / spleef but with crates!",
@@ -4072,7 +4072,7 @@
     "tags": ["pvp","parkour"]
   },
   {
-    "id" : "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
+    "id": "wrld_98422193-2ddd-4af4-bd97-ab5609a46785",
     "name": "BOMBERio",
     "author_name": "キャンディちゃん",
     "description": "Multiplayer PvP game - Shoot bombs at each other to defeat your opponents!",
@@ -4080,7 +4080,7 @@
     "tags": ["pvp"]
   },
   {
-    "id" : "wrld_ff13af7f-8153-4c6c-833a-fb10ac991703",
+    "id": "wrld_ff13af7f-8153-4c6c-833a-fb10ac991703",
     "name": "LIMINEX",
     "author_name": "GoldenTrashCan",
     "description": "This a a preview of some of the rooms in my upcoming liminal space VR game, Liminex. All room designs are by me, some props are used from PolyHaven under the CC0 license.",
@@ -4088,7 +4088,7 @@
     "tags": ["exploration","art"]
   },
   {
-    "id" : "wrld_ca8b0735-0fe4-4899-8286-ca5de1280a93",
+    "id": "wrld_ca8b0735-0fe4-4899-8286-ca5de1280a93",
     "name": "池核",
     "author_name": "发 条 橙",
     "description": "level 37 参考自backroom lost tap",
@@ -4096,7 +4096,7 @@
     "tags": ["exploration","art"]
   },
   {
-    "id" : "wrld_07e3eb56-335d-4b20-8e5a-607cd5a105ee",
+    "id": "wrld_07e3eb56-335d-4b20-8e5a-607cd5a105ee",
     "name": "local 58",
     "author_name": "lilscootscoot",
     "description": "based of off of the local 58 ARG",
@@ -4104,7 +4104,7 @@
     "tags": ["horror","experience"]
   },
   {
-    "id" : "wrld_7ff82a6a-be81-4e02-8dc5-4a4af815b1d1",
+    "id": "wrld_7ff82a6a-be81-4e02-8dc5-4a4af815b1d1",
     "name": "The Library Of Babel",
     "author_name": "mahu",
     "description": "This is the infinite, total library based on the short story by Jorge Luis Borges. You can seamlessly travel to the book containing any string of text using the librarian's compass. The universe (which others call the Library) is composed of an indefinite, perhaps an infinite number of hexagonal galleries. In this vast library there are no two identical books. Thus the library is total. It contains... everything.",
@@ -4112,7 +4112,7 @@
     "tags": ["exploration","tech","art","★"]
   },
   {
-    "id" : "wrld_c9ba88f9-c6a6-45df-9521-1dd2f037925b",
+    "id": "wrld_c9ba88f9-c6a6-45df-9521-1dd2f037925b",
     "name": "Backrooms, But chill",
     "author_name": "Tsundoku-",
     "description": "My version of a chill backrooms. Just a small hangout world including a video player and soggy carpet.",
@@ -4176,7 +4176,7 @@
     "tags": ["exploration"]
   },
   {
-    "id" : "wrld_03415963-883e-4510-9051-d142aeac65a5",
+    "id": "wrld_03415963-883e-4510-9051-d142aeac65a5",
     "name": "Aether's Maw|The Leviathans Trail | Spookality 2023",
     "author_name": "AltCentauri",
     "description": "Dive into the massive universe of the Aether Series, taking revenge against a terrifying beast in a whale hunt! 1 - 16 players | 1 - 2hr playtime | Inspired by Treasure Planet, Outer Wilds, Subnautica, and Sea of Thieves; gather your crew and prepare to explore a forgotten realm beyond the edge of the galaxy.",
@@ -6150,5 +6150,61 @@
     "description": "CFD simulation by LBM(D3Q19, 64x64x64)",
     "publication_date": "2020-03-23T12:46:51.018Z",
     "tags": ["tech"]
+  },
+  {
+    "id": "wrld_23221a8a-d16e-472e-9f65-d6f9fb827658",
+    "name": "Former Classroom - Sunset",
+    "author_name": "Silent",
+    "description": "A classroom with a working blackboard․ What quiet truths will be revealed under the evening sun？『Tokyo Mirage Sessions ＃FE』",
+    "publication_date": "2020-09-13T18:20:02.730Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_d2a4402c-f506-4bbf-ba6e-48f5c24a8148",
+    "name": "Life - Cinematic Experiance",
+    "author_name": "Qyr",
+    "description": "Life - Cinematic Experiance",
+    "publication_date": "2019-03-20T01:22:41.312Z",
+    "tags": ["experience"]
+  },
+  {
+    "id": "wrld_e9b85ea1-b07f-4296-bc1b-04f4d14f2868",
+    "name": "Reconnecting",
+    "author_name": "kleinba",
+    "description": "․ ․ ․",
+    "publication_date": "2024-04-29T10:08:09.315Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_1a712c23-9fd5-4bfb-b834-8a4a21009684",
+    "name": "Raindance Immersive Gallery",
+    "author_name": "Histarium",
+    "description": "For the ninth consecutive year‚ Raindance festival is celebrating independent XR creators‚ game developers‚ world builders‚ musicians‚ performers and filmmakers with the Raindance Immersive program․ Join us between 1st-30th June at our 2024 Raindance Immersive festival home in VRChat‚ and celebrate this years selection with usǃ BGM By˸ SynthiaSisters",
+    "publication_date": "2024-06-01T20:43:31.806Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_bfc702bc-f279-49c1-ae38-5ec876fdc958",
+    "name": "Analog Nights",
+    "author_name": "MikuChanAnime",
+    "description": "Come in‚ and enjoy some VHS tapesǃ Enjoy 15＋ different series with a total of 250＋ tapesǃ Maybe make a nice cup of coffee while you're at it․ Consider joining my group REGRET․1014 and joining the server for suggestionsǃ",
+    "publication_date": "2024-03-12T06:32:13.764Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ca3f2cb9-b0fa-4947-a56b-3adcda198e20",
+    "name": "Fallen Prayer‚ Engulfed Lives",
+    "author_name": "Averiff",
+    "description": "＂Nice breeze‚ lovely sea too‚ my favorite color․ A blue so clear you can peer into it's depths․＂ From Guilty Gear˸ Strive․",
+    "publication_date": "2024-06-01T04:40:28.993Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_302769e5-661a-4e38-9f13-bbf2f056e06c",
+    "name": "The Guarded Heart",
+    "author_name": "Tajasuka",
+    "description": "An experimental space‚ the Guarded Heart is a kinetic sculpture suspended within a spherical ocean․ It's a contemplative space to calm down or have personal conversations․ Mirrors are in the central dome․ Architectural modelling and design by myself․ Assets include Lux Water Shader‚ Poiyomi‚ VRCplayeronly mirror‚ UsharpVideoPlayer․ Update˸ Video Dome for PC side‚ Quest compatible -- music by Arooj Aftab - Udhero Na ft․ Anoushka Shankar‚ Debussy - Reverie - All owned by their respective record labels‚ The following music was used for this media project˸ Music˸ Relaxing Peaceful Presence by Liron Free download˸ https˸⁄⁄filmmusic․io⁄song⁄7724-relaxing-peaceful-presence License （CC BY 4․0）˸ https˸⁄⁄filmmusic․io⁄standard-license",
+    "publication_date": "2022-05-09T18:42:50.242Z",
+    "tags": ["art","exploration"]
   }
 ]
