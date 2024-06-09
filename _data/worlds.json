@@ -72,7 +72,7 @@
     "tags": ["hangout"]
   },
   {
-    "id": "wrld_1c5f5bc7-c4d8-4dbb-a09e-83d5b9aaebfb",
+    "id": "wrld_4edaea72-1a14-4f18-91aa-11d5248f0db5",
     "name": "Pop Escapeǃ",
     "author_name": "POP✩STEP",
     "description": "There's a new escape room in town‚ and you've booked their most popular room․ Will you make it to the end? 2-4 hours‚ 4 players max․",
@@ -4784,14 +4784,6 @@
     "tags": ["art"]
   },
   {
-    "id": "wrld_cfc94d63-c28f-4529-b483-f419f5ee8c44",
-    "name": "Hogwarts Great Hall",
-    "author_name": "~Robert",
-    "description": "Enjoy the ambience of Hogwarts, get sorted into your house, collect all the Famous Witch & Wizard Cards, gather around the fire with friends, or *explore the depths of Hogwarts and learn how to wield magic *WIP - Not all features are currently quest compatible.",
-    "publication_date": "2021-12-13T21:18:08.161Z",
-    "tags": ["hangout","exploration"]
-  },
-  {
     "id": "wrld_dfbd5d6a-b559-4dec-8693-3509b985cbd0",
     "name": "最後のクリスマス-Last Christmas",
     "author_name": "HANI․",
@@ -6206,5 +6198,29 @@
     "description": "An experimental space‚ the Guarded Heart is a kinetic sculpture suspended within a spherical ocean․ It's a contemplative space to calm down or have personal conversations․ Mirrors are in the central dome․ Architectural modelling and design by myself․ Assets include Lux Water Shader‚ Poiyomi‚ VRCplayeronly mirror‚ UsharpVideoPlayer․ Update˸ Video Dome for PC side‚ Quest compatible -- music by Arooj Aftab - Udhero Na ft․ Anoushka Shankar‚ Debussy - Reverie - All owned by their respective record labels‚ The following music was used for this media project˸ Music˸ Relaxing Peaceful Presence by Liron Free download˸ https˸⁄⁄filmmusic․io⁄song⁄7724-relaxing-peaceful-presence License （CC BY 4․0）˸ https˸⁄⁄filmmusic․io⁄standard-license",
     "publication_date": "2022-05-09T18:42:50.242Z",
     "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_cfc94d63-c28f-4529-b483-f419f5ee8c44",
+    "name": "VRC Hogwarts",
+    "author_name": "~Robert",
+    "description": "Enjoy the ambience of Hogwarts‚ get sorted into your house‚ collect all the Famous Witch ＆ Wizard Cards‚ gather around the fire with friends‚ study and relax in the library‚ or stargaze in the astronomy classroomǃ Not all features are currently quest compatible․ Join the Discord for updates - discord․gg⁄NAHnAcqFK6",
+    "publication_date": "2021-12-13T21:18:08.161Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_82739d2c-a496-44f8-95bf-fff746eed813",
+    "name": "After Fog",
+    "author_name": "オーゼンOzen",
+    "description": "by Ozen",
+    "publication_date": "2024-04-02T15:28:50.994Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_63e767c7-c0ca-4952-b4e6-013a77300769",
+    "name": "A Night To Remember - Titanic Survival Experience",
+    "author_name": "CabaBear",
+    "description": "Welcome aboard the luxurious R․M․S․ Titanicǃ It is April 14th‚ 1912‚ and you are all on your way to New York City to start a new life․ For those who know the tale of the Titanic‚ this story does not end well․ I hope you all enjoy this brand new experience․ The ship model used is from ROBLOX Titanic with modifications‚ and the sliding mechanic is borrowed from zSkull162ǃ Narration in world is done by OceanlinerDesigns on YouTubeǃ",
+    "publication_date": "2024-06-06T20:39:55.554Z",
+    "tags": ["experience","pve"]
   }
 ]

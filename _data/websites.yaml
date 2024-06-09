@@ -760,7 +760,12 @@ categories:
       - url: https://delve.a9.io/
         title: delve
         description: Go down rabbit holes
-
+      - url: http://integratedinformationtheory.org
+        title: Integrated Information Theory
+        description: Integrated information theory (IIT) is a theoretical framework for understanding consciousness developed by Dr. Giulio Tononi and collaborators at the Wisconsin Institute for Sleep and Consciousness at the University of Wisconsin–Madison.
+      - url: https://www.geocaching.com
+        title: Geocaching
+        description: Join the world's largest treasure hunt.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
