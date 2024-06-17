@@ -381,6 +381,12 @@ categories:
       - url: https://betawiki.net
         title: BetaWiki
         description: An open encyclopedia of software history
+      - url: https://community-place.neocities.org/
+        title: Community Place Repository
+        description: Community Place is a VRML product made by Sony Japan on 1995.
+      - url: http://sapacafe.sub.jp/
+        title: さぱりCafe
+        description: SONYの3Dチャット［さぱり］の総合情報サイトです。
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -766,6 +772,9 @@ categories:
       - url: https://www.geocaching.com
         title: Geocaching
         description: Join the world's largest treasure hunt.
+      - url: https://www.when2meet.com/
+        title: When2meet
+        description:  When2meet.com helps you find the best time for a group to meet.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
