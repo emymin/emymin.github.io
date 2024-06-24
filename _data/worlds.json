@@ -6270,5 +6270,53 @@
     "description": "洞窟の中にあるホテルです ビデオプレーヤー、ビリヤード、鍵付きのベッドルーム等があります",
     "publication_date": "2024-06-16T19:00:08.468Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_92f5cee0-8416-40ea-961f-3ee68ea691cf",
+    "name": "Pipeline˸ Commentary",
+    "author_name": "phi16",
+    "description": "This is a commentary （from meǃ） for my world ＂ǀ＞＂（Pipeline）‚ including an explanation of its simple rendering pipeline with a focus on the anti-aliasing feature․ Please turn on the commentary control․",
+    "publication_date": "2024-06-17T03:16:27.916Z",
+    "tags": ["tech","exhibit"]
+  },
+  {
+    "id": "wrld_05090148-5a13-44a4-ab06-b23169542b16",
+    "name": "Healing Pools",
+    "author_name": "theycallhimcake",
+    "description": "A place to rest and heal․",
+    "publication_date": "2024-06-16T23:40:33.073Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_ed1acb6a-fc2e-4d07-8ce7-86c36420fe47",
+    "name": "Anique Museum - serial experiments lain Weird Exhibition",
+    "author_name": "AniqueOfficial",
+    "description": "Anique Museum",
+    "publication_date": "2024-06-20T11:12:43.812Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_b0467d41-b5ca-4348-af61-162fa036252a",
+    "name": "Toki Pona Clubhouse ｜ tomo musi pi toki pona",
+    "author_name": "Puck -jan Iseja",
+    "description": "A toki pona themed world where users can hang out‚ play games‚ and learn the language together",
+    "publication_date": "2024-06-23T18:53:46.982Z",
+    "tags": ["hangout","exhibit"]
+  },
+  {
+    "id": "wrld_06133ecb-2506-4575-b993-37d122751be3",
+    "name": "TheFoxCliffHouse",
+    "author_name": "Mr FoxQC",
+    "description": "A large world with several rooms˸ a games room‚ a garage‚ and bedroom for sleeping on both sides with ASMR noise available in a menu․",
+    "publication_date": "2024-06-23T05:36:11.583Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ec2dd8a4-6875-46fb-9699-071cb0e8bdbd",
+    "name": "SUKU",
+    "author_name": "durk＠work",
+    "description": "A tropical world where Ghibli meets Caribbean․",
+    "publication_date": "2024-06-22T06:21:03.739Z",
+    "tags": ["art","exploration","★"]
   }
 ]
