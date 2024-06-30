@@ -387,6 +387,9 @@ categories:
       - url: http://sapacafe.sub.jp/
         title: さぱりCafe
         description: SONYの3Dチャット［さぱり］の総合情報サイトです。
+      - url: https://vx-underground.org/
+        title: Vx Underground
+        description: The largest collection of malware source code, samples, and papers on the internet.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -434,6 +437,9 @@ categories:
       - url: https://boothplorer.com/
         title: BOOTHPLORER
         description: A third-party BOOTH.pm item and avatar catalogue for VRChat.
+      - url: https://vronlinux.org/
+        title: VR On Linux
+        description: Documenting the status of VR/AR software and hardware
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -775,6 +781,13 @@ categories:
       - url: https://www.when2meet.com/
         title: When2meet
         description:  When2meet.com helps you find the best time for a group to meet.
+      - url: https://www.jstor.org/
+        title: JSTOR
+        description: JSTOR is a digital library of academic journals, books, and primary sources.
+      - url: https://romanrepublic.ac.uk/
+        title: Digital Prosopography of the Roman Republic
+        description: A comprehensive, searchable database of all known members of the upper strata Roman society, which brings together information about individual careers, office holdings, personal status, life dates and family relationships.
+
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

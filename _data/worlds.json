@@ -6318,5 +6318,53 @@
     "description": "A tropical world where Ghibli meets Caribbean․",
     "publication_date": "2024-06-22T06:21:03.739Z",
     "tags": ["art","exploration","★"]
+  },
+  {
+    "id": "wrld_d9548e7f-3522-4f08-9283-df131f38fa57",
+    "name": "Stick Benders",
+    "author_name": "Sacchan",
+    "description": "bounce around on bendy sticks",
+    "publication_date": "2024-06-26T00:59:29.139Z",
+    "tags": ["parkour"]
+  },
+  {
+    "id": "wrld_6135fbae-c3ac-4395-b5ab-1218f130dfbd",
+    "name": "The McMansion",
+    "author_name": "spookyghostboo",
+    "description": "The McMansion is a three story‚ 6 bedroom‚ 4 and a half bath lake house․ Based on the Mansions found in American Suburban neighborhoods․ This world has Mirrors‚ Video Players‚ Pickup objects‚ Post Processing․ This world has it allǃ",
+    "publication_date": "2024-06-20T23:55:57.792Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b76b1eb2-2346-4c61-9c8d-96b144f5c706",
+    "name": "VRC PIXELART EXHIBITION",
+    "author_name": "Kakulity_",
+    "description": "総勢64名のPixelArtistによる合同展示会場【 VRC PIXELART EXHIBITON 】のワールドです",
+    "publication_date": "2024-06-28T15:26:09.977Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_8da7affb-c366-4276-ba67-5a6f15e190d3",
+    "name": "MrDummy_NL World 60˸ VRChat Museum",
+    "author_name": "MrDummy_NL",
+    "description": "Finally made real museum for VRChat Community․ It covers a lot around VRChat history․ Made for 10 years anniversary․ Enjoy it․ ˸） （Need help to get more pictures and interesting objects - Japanese translation will follow later․） v1․4 Survey link added․",
+    "publication_date": "2024-04-22T08:26:04.978Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_1b393079-93ba-4370-9c51-fe26cfd090c5",
+    "name": "PaperVRC Prototype",
+    "author_name": "Genixy",
+    "description": "man i love paper mario",
+    "publication_date": "2024-06-28T23:30:20.386Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_9295e2ed-7b09-4a0a-ac6b-c48e54ca05a2",
+    "name": "VotV_Base",
+    "author_name": "creepycatsttv",
+    "description": "An Interactive Horror recreation of the base from Voices of the Void‚ a game by MrDrNose and Monique Santificer․ Features hidden playable Signal Drives‚ moving mannequins‚ TONS of props‚ and interactive furniture․ Comfy enough to chill with friends and find secrets‚ or creepy enough to play on your own․",
+    "publication_date": "2024-06-29T04:22:59.879Z",
+    "tags": ["exploration"]
   }
 ]
