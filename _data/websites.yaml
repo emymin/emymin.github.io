@@ -390,6 +390,15 @@ categories:
       - url: https://vx-underground.org/
         title: Vx Underground
         description: The largest collection of malware source code, samples, and papers on the internet.
+      - url: https://websim.ai/
+        title: websim
+        description: explore, create, and remix your hallucinated internet
+      - url: https://anvaka.github.io/pm
+        title: Code Galaxies Visualization
+        description: Code galaxies visualization allows you to explore huge graphs of software package managers (npm, go, ruby gems, composer, etc.)
+      - url: https://bbchallenge.org
+        title: The Busy Beaver Challenge
+        description: Collaborative research project focused on finding new busy beaver values.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -502,6 +511,9 @@ categories:
       - url: https://archive.yumeboo.ru/
         title: Yumebooru Archive
         description: Yume Nikki Fangames Archive
+      - url: https://sandboxels.r74n.com/
+        title: Sandboxels
+        description: Sandboxels is a free falling-sand simulator that can be played in your browser
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
