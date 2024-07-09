@@ -10,9 +10,12 @@ layout: page
     }
 </style>
 <div class="pagecontent-container">
-    <article class="pagecontent">
+    <article class="pagecontent" id="blogpost">
         <header style="text-align: center;">
             <h1 class="title">{{page.title}}</h1>
+            {% if page.hero %}
+            <img src="{{page.hero}}" style="max-width:750px;">
+            {% endif %} 
             <p class="description">{{page.description}}</p>
             <time datetime="{{page.date}}"><p>{{ page.date | date_to_string }}</p></time>
             <img src="/assets/svg/dividers/4.svg" style="width: 200px;" class="color-svg-drop-shadow">

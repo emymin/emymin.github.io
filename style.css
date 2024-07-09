@@ -90,6 +90,17 @@ a:hover{
     border-right: 1px solid #fff;
 }
 
+#blogpost a {
+    text-decoration:underline;
+    text-decoration-style: dotted;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .social-links {
     display: flex;
 }
@@ -123,7 +134,7 @@ a:hover{
 }
 
 .pagecontent {
-    width: 1000px;
+    width: 750px;
 }
 
 ::selection {

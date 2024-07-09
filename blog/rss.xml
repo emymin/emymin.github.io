@@ -1,0 +1,47 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+  <title>Emymin's blog</title>
+  <link>https://emymin.net/blog/</link>
+  <description>Emymin's Blog</description>
+  <category>Personal</category>
+  <image>
+    <url>https://emymin.net/assets/images/lily.png</url>
+    <title>Emymin's Blog</title>
+    <link>https://emymin.net/blog/</link>
+    <description>Emymin's Blog</description>
+    <width>144</width>
+    <height>108</height>
+  </image>
+  <atom:link href="https://emymin.net/blog/rss.xml" rel="self" type="application/rss+xml" />
+  {% assign posts = site.posts | slice: 0,15 %}
+  {% for post in posts %}
+  <item>
+    <title>{{post.title | xml_escape }}</title>
+    <description>
+    {% if post.hero %}
+    &lt;img src='{{site.url}}{{post.hero}}' alt='Hero Image'&gt;
+    {% endif %}
+    &lt;br&gt;
+    {{post.description | replace: "<","&amp;lt;" | xml_escape }}
+    &lt;br&gt;
+    {% assign assets_base = site.url | append: "/assets" %}
+    {% capture post_content %}
+      {{ post.content | xml_escape }}
+    {% endcapture %}
+    {{ post_content | replace: "/assets", assets_base }}
+    </description>
+    <link>{{post.url}}</link>
+    <dc:creator>emymin</dc:creator>
+    <guid isPermaLink="false">{{post.id}}</guid>
+    {% for tag in post.tags %}
+    <category>{{ tag | replace: "-"," " | capitalize }}</category>
+    {% endfor %}
+  </item>
+  {% endfor %}
+</channel>
+
+</rss> 

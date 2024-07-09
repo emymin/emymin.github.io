@@ -10,6 +10,7 @@ description: Emymin's Blog
 
 <div class="pagecontent-container">
   <div style="width:50%; max-width: 500px;">
+    <a href="rss.xml" style="padding: 10px;"><img class="color-svg" style="width: 45px;" src="/assets/svg/rss-button.svg"></a>
     <ul style="list-style: none; padding-left: 0;">
       {% for post in site.posts %}
       <li>
@@ -18,7 +19,7 @@ description: Emymin's Blog
           <p>{{ post.date | date_to_string }}</p>
         </div>
         <div style="width:70%">
-          {{ post.excerpt }}
+          {{ post.description }}
         </div>
       </li>
       {% endfor %}
