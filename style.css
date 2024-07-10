@@ -95,6 +95,11 @@ a:hover{
     text-decoration-style: dotted;
 }
 
+
+#blogpost th {
+    padding: 20px;
+}
+
 .centered {
   display: block;
   margin-left: auto;
