@@ -100,6 +100,10 @@ a:hover{
     padding: 20px;
 }
 
+#blogpost img {
+    max-width: 90%;
+}
+
 .centered {
   display: block;
   margin-left: auto;
@@ -135,11 +139,11 @@ a:hover{
 .pagecontent-container {
     display: flex;
     justify-content: center;
-    padding: 40px;
 }
 
 .pagecontent {
-    width: 750px;
+    max-width: 750px;
+    width: 90%;
 }
 
 ::selection {

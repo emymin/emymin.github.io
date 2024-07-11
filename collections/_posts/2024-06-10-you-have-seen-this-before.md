@@ -9,7 +9,7 @@ hero: "/assets/images/2024-06-10/hero.jpg"
 Recently I stumbled upon a video by Youtube animator [u m a m i](https://www.youtube.com/@abstractdaddy) titled ["What Do You See?"](https://www.youtube.com/watch?v=rGNmjx6S2v4)
 
 <div style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rGNmjx6S2v4?si=cBgYEm3xV9IInQcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rGNmjx6S2v4?si=cBgYEm3xV9IInQcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="max-width:560px;width:90%;"></iframe>
 </div>
 
 Anyone that has had their eyes checked by an optometrist at any point in their life might recognize what the video is referencing. During an eye examination, the doctor asks you to look into a strange machine and stare at a small picture. This picture often depicts some object, such as a balloon or a house, in the middle of an uncannily empty landscape. This is then often followed by a startling puff of air hitting your eye.
