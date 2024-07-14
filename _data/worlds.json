@@ -6446,5 +6446,77 @@
     "description": "Explore a huge brutalist waterpark",
     "publication_date": "2024-07-02T04:12:39.531Z",
     "tags": ["adventure","experience","art","★"]
+  },
+  {
+    "id": "wrld_d4c785be-3aec-4e21-8c74-5b5110119d09",
+    "name": "The Forte Hotel",
+    "author_name": "tiernan330",
+    "description": "Hotel from the game Shadows Of Doubt․ Contains 4 floors of rooms containing Tvs․ Rooftop Bar with Pool and Beer Pong",
+    "publication_date": "2024-07-06T15:07:31.286Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_191d265a-4637-4bb2-8f77-e6e399dce6ab",
+    "name": "The Cistern",
+    "author_name": "EksCelle",
+    "description": "",
+    "publication_date": "2024-07-08T19:00:32.690Z",
+    "tags": ["club"]
+  },
+  {
+    "id": "wrld_2b0b1a7b-00b5-489b-bd2b-7fa016e4c048",
+    "name": "stars",
+    "author_name": "apple_blossom",
+    "description": "stars prototypeǃ data from www․astronexus․com⁄hyg and https˸⁄⁄github․com⁄MarcvdSluys⁄ConstellationLines",
+    "publication_date": "2024-07-10T01:54:47.192Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_49e97e53-1fd8-404a-823d-4c1c3978412a",
+    "name": "Drum Hero v0․19․x",
+    "author_name": "Renamοn",
+    "description": "VRChat Drum Hero is an attempt to replicate the lovely experience of playing the plastic drums․",
+    "publication_date": "2023-06-21T02:55:39.685Z",
+    "tags": ["music"]
+  },
+  {
+    "id": "wrld_9a1ee254-40eb-462b-8b6b-db6b5f794feb",
+    "name": "Lag Tournament˸ Arena Shooter",
+    "author_name": "Dori Fey",
+    "description": "Arena shooter inspired by Unreal Tournament and Quake․ Use variety of weapons to challenge your friends on multiple maps․ Will you achieve victory or fall to the lag?",
+    "publication_date": "2024-07-10T15:12:22.431Z",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_a6fb2c72-011f-402a-accc-dd8e26ac5c3e",
+    "name": "Throw car batteries into the Arctic ocean ǃ",
+    "author_name": "accueil750",
+    "description": "The 3rd world on VRChat where you throw car batteries into the ocean‚ with my own style on it ˸3",
+    "publication_date": "2024-07-10T07:42:57.924Z",
+    "tags": ["experience"]
+  },
+  {
+    "id": "wrld_7ab9dec7-4901-47fa-8b51-b095217c21ea",
+    "name": "Study Finnish",
+    "author_name": "Lyttii",
+    "description": "Study Finnish and chill with your friends ˸）",
+    "publication_date": "2024-07-12T17:34:19.448Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_544e7879-d870-42a2-9c7a-99eb95a8e62f",
+    "name": "NeoWorlds",
+    "author_name": "Widget365",
+    "description": "VRChat like you've never seen it before",
+    "publication_date": "2024-07-13T18:25:29.624Z",
+    "tags": ["exploration","tech","hangout","★"]
+  },
+  {
+    "id": "wrld_07bbe05d-46de-467f-893d-66f5ec0f83b5",
+    "name": "USS Ascendant",
+    "author_name": "RemyTheFox",
+    "description": "Launched in 2368‚ the USS Ascendant is a Galaxy class starship under the command of Capt Remy Fox․ Features the main bridge‚ captains quarters‚ engineering and a large lounge",
+    "publication_date": "2024-07-13T04:27:55.151Z",
+    "tags": ["exploration","hangout"]
   }
 ]

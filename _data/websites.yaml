@@ -399,6 +399,12 @@ categories:
       - url: https://bbchallenge.org
         title: The Busy Beaver Challenge
         description: Collaborative research project focused on finding new busy beaver values.
+      - url: https://webvm.io/
+        title: WebVM
+        description: Server-less virtual machine, networking included, running browser-side in HTML5/WebAssembly. Code in any programming language inside this Linux terminal.
+      - url: https://projectsandcastle.org/
+        title: Project Sandcastle
+        description: IT'S ANDROID.  FOR THE IPHONE.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -665,6 +671,9 @@ categories:
       - url: https://mararizer.net/
         title: MaraRizer.NET
         description: I am a small bnnyu that is into early 2000s Internet and its media such as music and games.
+      - url: https://www.harukyu.de/
+        title: Harukyu
+        description: Oh... Hi~ It seems u found one of the spots where i fell asleep...Anyways~ Im Harukyu or short Haru Other Friends call me Pixel also.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
