@@ -579,6 +579,9 @@ categories:
       - url: https://glottolog.org/
         title: Glottolog 5.0
         description: Comprehensive reference information for the world's languages, especially the lesser known languages. 
+      - url: https://tatoeba.org
+        title: Tatoeba
+        description: Tatoeba is a collection of sentences and translations. 
   - title: Personal
     items:
       - url: https://acko.net/
@@ -674,6 +677,9 @@ categories:
       - url: https://www.harukyu.de/
         title: Harukyu
         description: Oh... Hi~ It seems u found one of the spots where i fell asleep...Anyways~ Im Harukyu or short Haru Other Friends call me Pixel also.
+      - url: https://nanoyaki.space/
+        title: Nanoyaki.space
+        description: Welcome to my beautiful personal website! It even has a blog, sorta!
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
