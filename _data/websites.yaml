@@ -214,6 +214,18 @@ categories:
       - url: https://www.joyceproject.com/
         title: The Joyce Project
         description: The purpose of The Joyce Project is to present an online edition of James Joyce's Ulysses that comprehensively assists readers of this great modern novel, as they read.
+      - url: https://brainmade.org/
+        title: The Brainmade Mark
+        description: When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you.
+      - url: http://holedigging.club/
+        title: 穴堀り部
+        description: tkmiz fan site
+      - url: https://64k-scene.github.io/
+        title: 64k scene
+        description: 64k scene is a website about so called 64k intros, a kind of size constrained digital art from the demoscene.
+      - url: https://www.yourworldoftext.com/
+        title: Your World of Text
+        description: Your World of Text is an infinite grid of text editable by any visitor. 
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -520,6 +532,12 @@ categories:
       - url: https://sandboxels.r74n.com/
         title: Sandboxels
         description: Sandboxels is a free falling-sand simulator that can be played in your browser
+      - url: https://enigmatics.org/
+        title: enigmatics
+        description: Puzzles, riddles and enigmas are words interchangeably used to refer to a type of web-based challenge dating back to 1999. The Internet has been used as a medium to create a familiar puzzle system using limited web tools.
+      - url: https://timeguessr.com/
+        title: TimeGuessr
+        description: TimeGuessr - the game that tests both your geography and history knowledge. Guess the right time and location of a historical photo.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -680,6 +698,9 @@ categories:
       - url: https://nanoyaki.space/
         title: Nanoyaki.space
         description: Welcome to my beautiful personal website! It even has a blog, sorta!
+      - url: https://www.ssp.sh/
+        title: Simon Späti
+        description: In this digital space, I’ve connected my Data Engineering Blog with my Second Brain—a repository of knowledge I’ve curated over the years.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -814,7 +835,12 @@ categories:
       - url: https://romanrepublic.ac.uk/
         title: Digital Prosopography of the Roman Republic
         description: A comprehensive, searchable database of all known members of the upper strata Roman society, which brings together information about individual careers, office holdings, personal status, life dates and family relationships.
-
+      - url: http://theintraclinic.com/
+        title: The Intra Clinic
+        description: Welcome to The Intra Clinic. The best place to learn about Markus "Notch" Persson and his creations.
+      - url: https://www.readthesequences.com/
+        title: Rationality From AI to Zombies
+        description: You hold in your hands a compilation of two years of daily blog posts.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
