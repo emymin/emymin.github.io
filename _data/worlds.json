@@ -6582,5 +6582,45 @@
     "description": "A creative sandbox world where you can build anything out of plastic bricks․",
     "publication_date": "2024-07-27T07:08:28.752Z",
     "tags": ["art","sandbox"]
+  },
+  {
+    "id": "wrld_5cd7e43b-bfac-4219-982c-5ca720af3918",
+    "name": "my house 3D scan lidar",
+    "author_name": "Hens",
+    "description": "my house",
+    "publication_date": "2024-08-08T10:11:35.242Z",
+    "tags": ["photogrammetry","exploration"]
+  },
+  {
+    "id": "wrld_d141fbfd-9640-4c8e-afb1-027685ea68dd",
+    "name": "What Is Virtual Art",
+    "author_name": "VMoVA",
+    "description": "This is a PREVIEW of a new exhibition by VMoVA․",
+    "publication_date": "2024-08-09T19:57:17.724Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_3a918e80-4045-455d-a230-5725e1d42044",
+    "name": "April Waters",
+    "author_name": "Sumeru",
+    "description": "descend on me‚ pristine waters of April․ enfold me‚ close my eyes․ rise me above this soil․ to whirl and fade with playful dust in the sky light․",
+    "publication_date": "2024-08-07T09:30:01.298Z",
+    "tags": ["puzzle","adventure"]
+  },
+  {
+    "id": "wrld_bb32812d-66d7-416d-aaa5-7cf5085e5eaf",
+    "name": "Theatrum Pompeii",
+    "author_name": "Caroline Alpes",
+    "description": "Le théâtre de Pompée est un théâtre romain situé au Champ de Mars‚ à Rome‚ dans l'actuel rione du Parione‚ construit par le consul Pompée‚ « un des grands conquérants de Rome »1 entre 61 et 55 av․ J․-C․ The Theatre of Pompey （Latin˸ Theatrum Pompeii‚ Italian˸ Teatro di Pompeo）‚ also known by other names‚ was a structure in Ancient Rome built during the latter part of the Roman Republican era by Pompey the Great․ Completed in 55 BC‚ it was the first permanent theatre to be built in Rome․ Its ruins are located at Largo di Torre Argentina․",
+    "publication_date": "2024-08-11T17:21:40.613Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_c80dfcec-c65d-4e17-93c5-5fd216eea0a7",
+    "name": "Golden Age City ［RP］",
+    "author_name": "Little Yui",
+    "description": "Desktop Users hit Tab‚ VR Users hit down and then up on your right controller to pull up DM Menu",
+    "publication_date": "2024-08-11T16:55:22.501Z",
+    "tags": ["exploration"]
   }
 ]

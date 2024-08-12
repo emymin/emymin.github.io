@@ -417,6 +417,9 @@ categories:
       - url: https://projectsandcastle.org/
         title: Project Sandcastle
         description: IT'S ANDROID.  FOR THE IPHONE.
+      - url: https://suckless.org/
+        title: suckless.org
+        description: software that sucks less
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -701,6 +704,9 @@ categories:
       - url: https://www.ssp.sh/
         title: Simon Späti
         description: In this digital space, I’ve connected my Data Engineering Blog with my Second Brain—a repository of knowledge I’ve curated over the years.
+      - url: https://maggieappleton.com/
+        title: Maggie Appleton
+        description: Maggie makes visual essays about programming, design, and anthropology.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -841,6 +847,15 @@ categories:
       - url: https://www.readthesequences.com/
         title: Rationality From AI to Zombies
         description: You hold in your hands a compilation of two years of daily blog posts.
+      - url: http://omniarchive.uk/
+        title: Omniarchive
+        description: Omniarchive is a community that focuses on preserving all official Minecraft content.
+      - url: https://liveuamap.com/
+        title: Liveuamap
+        description: Our innovative map-centric approach to organization of information will allow our viewers to quickly find the stories most relevant to them, and in geographies of their interest.
+      - url: https://www.feynmanlectures.caltech.edu/
+        title: The Feynman Lectures on Physics
+        description: Now, anyone with internet access and a web browser can enjoy reading a high quality up-to-date copy of Feynman's legendary lectures.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -891,3 +906,6 @@ categories:
       - url: https://sharkle.com/
         title: Sharkle
         description: The site that takes you randomly to amazing stuff. StumbleUpon alternative to find cool things.
+      - url: http://dabun-doumei.com/
+        title: 駄文同盟.com
+        description: 駄文同盟.comは『楽しい検索』をコンセプトにすえた全ての個人サイトのための総合検索エンジンです。
