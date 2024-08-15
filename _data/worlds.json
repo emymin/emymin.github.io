@@ -6622,5 +6622,29 @@
     "description": "Desktop Users hit Tab‚ VR Users hit down and then up on your right controller to pull up DM Menu",
     "publication_date": "2024-08-11T16:55:22.501Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_a729bf90-1220-423a-9630-7e60851e7475",
+    "name": "Rainy Daze",
+    "author_name": "Very Merri",
+    "description": "Rainy Daze is a cozy hangout world with highly customizable weather․ From a stunning mountain vista‚ to rolling stormclouds‚ there's an option to fit any mood․ Hide away in numerous blanket forts‚ or relax on an interactive bubble sofa as you browse YouTube with your friends to find the right video․ More updates to comeǃ",
+    "publication_date": "2024-08-10T01:35:34.962Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_8abba687-ebfd-4356-846d-d069976df375",
+    "name": "GeoLocator Remapped",
+    "author_name": "Maki Maki",
+    "description": "Let's explore the worldǃ Please ALLOW UNTRUSTED URLSǃ",
+    "publication_date": "2023-11-15T06:38:29.716Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+    "name": "Jetski Rush",
+    "author_name": "Quap",
+    "description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua",
+    "publication_date": "2024-08-02T20:59:06.545Z",
+    "tags": ["driving","pvp","★"]
   }
 ]

@@ -225,7 +225,10 @@ categories:
         description: 64k scene is a website about so called 64k intros, a kind of size constrained digital art from the demoscene.
       - url: https://www.yourworldoftext.com/
         title: Your World of Text
-        description: Your World of Text is an infinite grid of text editable by any visitor. 
+        description: Your World of Text is an infinite grid of text editable by any visitor.
+      - url: https://openverse.org/
+        title: Openverse
+        description: Explore more than 800 million creative works
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -541,6 +544,9 @@ categories:
       - url: https://timeguessr.com/
         title: TimeGuessr
         description: TimeGuessr - the game that tests both your geography and history knowledge. Guess the right time and location of a historical photo.
+      - url: https://mineinabyss.com/
+        title: Mine in Abyss
+        description: Mine in Abyss is a recreation of Made in Abyss in Minecraft. We currently run build and survival servers at build.mineinabyss.com and survive.mineinabyss.com respectively.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -707,6 +713,9 @@ categories:
       - url: https://maggieappleton.com/
         title: Maggie Appleton
         description: Maggie makes visual essays about programming, design, and anthropology.
+      - url: https://opguides.info/
+        title: Opinionated Guides
+        description: I enjoy programming guitars and playing computers 💾 I strum Dvorak, and type in chords 🤘
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -909,3 +918,9 @@ categories:
       - url: http://dabun-doumei.com/
         title: 駄文同盟.com
         description: 駄文同盟.comは『楽しい検索』をコンセプトにすえた全ての個人サイトのための総合検索エンジンです。
+      - url: https://wiki.thingsandstuff.org
+        title: Things and Stuff Wiki
+        description: An on-the-fly taxonomy containing a patchwork trail of topic outlines, descriptions, notes, stubs and breadcrumbs, with links to sites, systems, software, manuals, organisations, people, articles, guides, slides, papers, books, comments, videos, screencasts, webcasts, scratchpads and more.
+      - url: https://lieu.cblgh.org/
+        title: Merveilles Webring
+        description: Lieu is a neighbourhood search engine, a way for personal webrings to increase serendipitous connexions
