@@ -6646,5 +6646,37 @@
     "description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua",
     "publication_date": "2024-08-02T20:59:06.545Z",
     "tags": ["driving","pvp","★"]
+  },
+  {
+    "id": "wrld_f78763a2-812f-43b3-8c4b-589307855da7",
+    "name": "Spirits Garden",
+    "author_name": "ubu461",
+    "description": "A world about saving lost spirits․",
+    "publication_date": "2024-08-20T14:36:37.544Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_cd91ae81-dd7e-4d04-a88c-df8649f90421",
+    "name": "Athazagora",
+    "author_name": "Salena",
+    "description": "After the Madam's untimely departure‚ the Master is left drowning in sorrow and consumed by a sense of profound loss․ His once vibrant world turns dark and empty‚ his days marked by despair․ However‚ fate intervenes when he discovers a book in his beloved's library‚ its pages unfolding a tale eerily similar to his own․ Inspired by the story of a man who embarks on a cosmic journey to reunite with his lost love‚ the Master gains renewed resolve․ Guided by the stars and celestial alignments‚ he sets out on a quest‚ believing their reunion is written in between the stars‚ where their love has always existed‚ eternal and unbroken․",
+    "publication_date": "2024-07-18T07:33:47.124Z",
+    "tags": ["adventure"]
+  },
+  {
+    "id": "wrld_6a1d3936-c4dc-4719-bc75-ec07a8a05cfb",
+    "name": "MMD Fight Club",
+    "author_name": "~Menty~",
+    "description": "An MMD Fight club to fight your friends․ Choose from 25 different fight scenes․",
+    "publication_date": "2024-08-20T15:29:12.461Z",
+    "tags": ["experience"]
+  },
+  {
+    "id": "wrld_f83beac9-58b3-407b-b7d2-5ad1a5041042",
+    "name": "Acting Theater - English⁄Español⁄Deutsch",
+    "author_name": "Sear VR",
+    "description": "Act out plays - includes sets‚ props‚ soundboards‚ music‚ lighting controls‚ costumes and scripts with side-by-side translations for language learning",
+    "publication_date": "2024-08-20T00:22:21.457Z",
+    "tags": ["sandbox"]
   }
 ]

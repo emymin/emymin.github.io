@@ -423,6 +423,15 @@ categories:
       - url: https://suckless.org/
         title: suckless.org
         description: software that sucks less
+      - url: https://farside.link/
+        title: Farside
+        description: A smart redirecting gateway for various frontend services
+      - url: https://tilde.club/
+        title: tilde.club
+        description: tilde.club is not a social network it is one tiny totally standard unix computer that people respectfully use together in their shared quest to build awesome web pages 
+      - url: https://tilde.town/
+        title: tilde.town
+        description: we are a community of around 3000 users making art, socializing, and learning on a linux server.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -722,6 +731,9 @@ categories:
       - url: https://consc.net/
         title: David Chalmers
         description: I am interested in the philosophy of mind (especially consciousness) and the foundations of cognitive science, physics, and technology, as well as the philosophy of language, metaphysics and epistemology, and many other areas.
+      - url: http://elm-chan.org/
+        title: ELM by ChaN
+        description: This site is to share my projects with electronics enthusiasts in the world.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -930,3 +942,6 @@ categories:
       - url: https://lieu.cblgh.org/
         title: Merveilles Webring
         description: Lieu is a neighbourhood search engine, a way for personal webrings to increase serendipitous connexions
+      - url: https://tilde.club/~iolfree/tildelinks.html
+        title: Tildelinks
+        description: Below is my list of tildelinks.
