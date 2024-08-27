@@ -432,6 +432,15 @@ categories:
       - url: https://tilde.town/
         title: tilde.town
         description: we are a community of around 3000 users making art, socializing, and learning on a linux server.
+      - url: https://aem1k.com/
+        title: aem1k
+        description: Pure JavaScript Hacks and Creative Coding. Created by Martin Kleppe aka @aemkei.
+      - url: https://wiki.osdev.org
+        title: OSDev Wiki
+        description: Welcome to operating system development; the great frontier.
+      - url: https://bootstrappable.org/
+        title: Bootstrappable builds
+        description: Do you know how to make yoghurt? The first step is to add yoghurt to milk!
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -734,6 +743,12 @@ categories:
       - url: http://elm-chan.org/
         title: ELM by ChaN
         description: This site is to share my projects with electronics enthusiasts in the world.
+      - url: https://www.wellobserve.com/
+        title: WellObserve
+        description: I'm Yiming. WellObserve is a central place for my drawings, paintings, computer programs and other weird stuff.
+      - url: https://dataswamp.org/~john/
+        title: John D. Duncan III's website
+        description: concept engineering for the year 00
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -883,6 +898,9 @@ categories:
       - url: https://www.feynmanlectures.caltech.edu/
         title: The Feynman Lectures on Physics
         description: Now, anyone with internet access and a web browser can enjoy reading a high quality up-to-date copy of Feynman's legendary lectures.
+      - url: https://comfybox.floofey.dog/
+        title: comfy box
+        description: Welcome to comfy box. An internet community, dedicated to the Internet as a whole.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
