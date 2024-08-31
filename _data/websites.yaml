@@ -426,12 +426,6 @@ categories:
       - url: https://farside.link/
         title: Farside
         description: A smart redirecting gateway for various frontend services
-      - url: https://tilde.club/
-        title: tilde.club
-        description: tilde.club is not a social network it is one tiny totally standard unix computer that people respectfully use together in their shared quest to build awesome web pages 
-      - url: https://tilde.town/
-        title: tilde.town
-        description: we are a community of around 3000 users making art, socializing, and learning on a linux server.
       - url: https://aem1k.com/
         title: aem1k
         description: Pure JavaScript Hacks and Creative Coding. Created by Martin Kleppe aka @aemkei.
@@ -960,6 +954,15 @@ categories:
       - url: https://lieu.cblgh.org/
         title: Merveilles Webring
         description: Lieu is a neighbourhood search engine, a way for personal webrings to increase serendipitous connexions
+      - url: https://tilde.club/
+        title: tilde.club
+        description: tilde.club is not a social network it is one tiny totally standard unix computer that people respectfully use together in their shared quest to build awesome web pages 
+      - url: https://tilde.town/
+        title: tilde.town
+        description: we are a community of around 3000 users making art, socializing, and learning on a linux server.
       - url: https://tilde.club/~iolfree/tildelinks.html
         title: Tildelinks
         description: Below is my list of tildelinks.
+      - url: https://dataswamp.org/
+        title: dataswamp.org
+        description: OpenBSD based shell account system.

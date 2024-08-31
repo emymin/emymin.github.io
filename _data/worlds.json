@@ -6718,5 +6718,77 @@
     "description": "Words of ․․․․․ ˸ BGM tinted glass by uytrere",
     "publication_date": "2024-08-26T11:37:31.930Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_82d1274b-d21c-4785-a057-cea9548dd2c1",
+    "name": "Digital Ueno Zoo West",
+    "author_name": "デジタル上野の杜",
+    "description": "「デジタル上野の杜」は、文化・観光の拠点である上野公園を、リアルだけでなくオンラインでも体験、交流できるプラットフォームの実現を目指すプロジェクトです",
+    "publication_date": "2024-08-27T16:32:37.027Z",
+    "tags": ["photogrammetry","exploration"]
+  },
+  {
+    "id": "wrld_67c98ecd-a7c0-4be3-869b-88df28c0b803",
+    "name": "Digital Ueno Park",
+    "author_name": "デジタル上野の杜",
+    "description": "「デジタル上野の杜」は、文化・観光の拠点である上野公園を、リアルだけでなくオンラインでも体験、交流できるプラットフォームの実現を目指すプロジェクトです。令和3年度「東京都と大学との共同事業」として、東京都政策企画局の支援により、東京大学との共同で上野恩賜公園や施設群を3Dスキャンすることで実現しました。【プロデュース】東京藝術大学 金田充弘、秋田亮平 【ディレクション⁄点群データ編集】東京藝術大学 秋田亮平 【3Dスキャン⁄点群データ編集】株式会社構造計画研究所⁄クモノス コーポレーション株式会社【点群コンバーター⁄シェーダー開発】株式会社ホロラボ 於保俊【ワールド制作】株式会社ホロラボ 藤原龍 【ベースとした点群シェーダー】Kuwamai「PointCloudShader」 https˸⁄⁄github․com⁄Kuwamai⁄PointCloudShader⁄blob⁄main⁄LICENSE",
+    "publication_date": "2022-03-24T00:50:28.820Z",
+    "tags": ["photogrammetry","exploration"]
+  },
+  {
+    "id": "wrld_5f3d63a5-dab4-46ce-a8bd-049601dec254",
+    "name": "漣 -sazanami-",
+    "author_name": "作者不詳",
+    "description": "ワールド制作：浜名湖なこ／コンセプト・モデル・音楽：ツナ ＠yeah_tuna",
+    "publication_date": "2024-08-27T12:56:29.002Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_3024bcf5-d06a-4f11-bd96-64520ce0b911",
+    "name": "Venice Immersive 2024",
+    "author_name": "VeniceImmersive",
+    "description": "Welcome to Venice Immersive 2024‚ part of the 81st edition of the Venice International Film Festival․ This Worlds Gallery showcases the 23 VRChat worlds selected as part of this years festival taking place 28th August - 7th September in Venice Italy․ The Gallery is designed and built by deaconline‚ Manglebird‚ Liz Rosenthal‚ Michel Reilhac‚ with support from the MetaVerseCrew （MVC）",
+    "publication_date": "2024-08-28T01:00:13.050Z",
+    "tags": ["hub"]
+  },
+  {
+    "id": "wrld_9f982dd8-144f-44a7-9752-8416dcbe572b",
+    "name": "Like a canvas",
+    "author_name": "haruki_haru",
+    "description": "fake ?",
+    "publication_date": "2024-08-23T19:32:22.844Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_9233a25d-82fb-475e-af00-85ef4d0a287f",
+    "name": "Pale Sands",
+    "author_name": "etercnoC",
+    "description": "Concrete - Dunes․",
+    "publication_date": "2024-08-28T01:00:13.516Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_e9c38ee6-b095-4431-b9f4-e95429a18876",
+    "name": "STRANGEWAYS",
+    "author_name": "Wondering Chew",
+    "description": "Once in the void‚ a stone spoke 'How many things are there?' A leaf thought 'There can be as many things as you want there to be' Where will I find them? Blinked the eye",
+    "publication_date": "2024-08-28T01:00:13.300Z",
+    "tags": ["art","adventure"]
+  },
+  {
+    "id": "wrld_206c1f91-6a77-4b3a-a0af-10a4bbc4e7df",
+    "name": "Video Feedback",
+    "author_name": "vavassor",
+    "description": "Pointing a camera at its own video feed looks like this․ A visual toy․",
+    "publication_date": "2023-05-03T04:01:28.845Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_205fd200-bba8-4e96-a773-fef5fec2ac63",
+    "name": "Endless Residents Super Ultra Deluxe Edition",
+    "author_name": "Spencer Filson",
+    "description": "after a cloning experiment gone wrong‚ explore the whimsical world of the Endless Residents․ find little secrets and easter eggs‚ but watch outǃ the big hungry gobbly gook is out for your penniesǃ Please for the love of grock‚ do not let him steal your coinsǃǃǃ enjoy this new and epic reboot of The Endless Residents Super Ultra Delux Edition （now available for android and quest ˸）",
+    "publication_date": "2024-08-23T19:32:22.844Z",
+    "tags": ["exploration"]
   }
 ]
