@@ -6790,5 +6790,53 @@
     "description": "after a cloning experiment gone wrong‚ explore the whimsical world of the Endless Residents․ find little secrets and easter eggs‚ but watch outǃ the big hungry gobbly gook is out for your penniesǃ Please for the love of grock‚ do not let him steal your coinsǃǃǃ enjoy this new and epic reboot of The Endless Residents Super Ultra Delux Edition （now available for android and quest ˸）",
     "publication_date": "2024-08-23T19:32:22.844Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_bc80f7df-1d3f-4387-86f7-71104c0f60fe",
+    "name": "Journey Under The Sea",
+    "author_name": "LightyearAltspc",
+    "description": "Discover an undersea world that is all yours․ Swim with the Manta rays‚ sea turtles‚ fish‚ octopus‚ Jellyfish‚ and yes a shark․ Note˸ Although lighting is baked‚ it Can be taxing on lower end GPU's․",
+    "publication_date": "2024-08-31T15:44:29.763Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_91a35c65-3e14-4a01-85f3-8e34bb77ac2e",
+    "name": "Cradle of Grass",
+    "author_name": "Cron1102",
+    "description": "こんなところに住みたいな",
+    "publication_date": "2024-09-02T17:31:37.628Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_18d5f8e3-93a3-4ea9-bac1-f7ae5abace37",
+    "name": "Zero G playground",
+    "author_name": "accueil750",
+    "description": "MOTION SICKNESSǃ but fun ˸3 Made as a test for another world set in space‚ uses the Zero G System by Tokiwa",
+    "publication_date": "2024-09-02T05:02:05.645Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_d15dc829-a646-4c35-a629-01310a033720",
+    "name": "Vintage house",
+    "author_name": "Mr FoxQC",
+    "description": "",
+    "publication_date": "2024-09-02T07:32:07.201Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
+    "name": "Barrage TD",
+    "author_name": "Tricky_Hunter",
+    "description": "Tower Defense with team play and the ability to take control of the towers․ Become a miniature on the game board and fight the hoards alone with up to 9 friends․",
+    "publication_date": "2024-09-03T07:59:07.228Z",
+    "tags": ["strategy"]
+  },
+  {
+    "id": "wrld_099134be-0d7b-4d1b-8ae7-e91aeb354ad4",
+    "name": "Baroque Cathedral",
+    "author_name": "OPCherry",
+    "description": "17th century Baroque style Cathedral․ Location inspired from San Giorgio Maggiore in Venice‚ Italy․",
+    "publication_date": "2021-04-17T21:04:12.197Z",
+    "tags": ["art"]
   }
 ]

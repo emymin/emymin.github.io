@@ -435,6 +435,9 @@ categories:
       - url: https://bootstrappable.org/
         title: Bootstrappable builds
         description: Do you know how to make yoghurt? The first step is to add yoghurt to milk!
+      - url: https://dynamicland.org/
+        title: Dynamicland
+        description: incubating a humane dynamic medium
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -559,6 +562,12 @@ categories:
       - url: https://mineinabyss.com/
         title: Mine in Abyss
         description: Mine in Abyss is a recreation of Made in Abyss in Minecraft. We currently run build and survival servers at build.mineinabyss.com and survive.mineinabyss.com respectively.
+      - url: https://tetr.io/
+        title: TETR.IO
+        description: Play TETR.IO, the free-to-win online stacker game in the same genre as Tetris. Face off against the world in multiplayer, or claim a spot on the leaderboards!
+      - url: https://overthewire.org/
+        title: OverTheWire
+        description: The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -895,6 +904,9 @@ categories:
       - url: https://comfybox.floofey.dog/
         title: comfy box
         description: Welcome to comfy box. An internet community, dedicated to the Internet as a whole.
+      - url: https://exa.ai/search
+        title: Exa Search
+        description: Find exactly what you are looking for
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
