@@ -6838,5 +6838,61 @@
     "description": "17th century Baroque style Cathedral․ Location inspired from San Giorgio Maggiore in Venice‚ Italy․",
     "publication_date": "2021-04-17T21:04:12.197Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_73fe73a5-3819-475b-a75c-2504c2376b61",
+    "name": "VR Mystery School",
+    "author_name": "TarotReaderFrog",
+    "description": "The VR resource‚ activity venue and community for self development‚ spirituality‚ mysticism and all things related․ Join our Discord at https˸⁄⁄discord․gg⁄vrm and VRChat Group with code VRM․5695",
+    "publication_date": "2019-12-21T10:55:27.681Z",
+    "tags": ["exhibit","hub"]
+  },
+  {
+    "id": "wrld_80f81c83-3d77-42dd-97fc-ccbf307c6227",
+    "name": "Handpan under bridge",
+    "author_name": "ubu461",
+    "description": "Tweakable 9 note handpan ⁄ hangdrum․",
+    "publication_date": "2024-09-05T03:40:27.009Z",
+    "tags": ["music"]
+  },
+  {
+    "id": "wrld_c6b935f8-d49d-4996-a1ad-bbc111ddd973",
+    "name": "Fields of Sound",
+    "author_name": "L.E.G.O.S.",
+    "description": "Find cube․ Throw cube․ Hear sound․",
+    "publication_date": "2024-09-09T02:33:19.651Z",
+    "tags": ["sandbox"]
+  },
+  {
+    "id": "wrld_e21ad529-75f1-4032-a118-3ea469b3ae4d",
+    "name": "- Cozy Nest -",
+    "author_name": "Mogoon the fish",
+    "description": "Virtual Whale stuiod's 'Cozy Nest' demo world",
+    "publication_date": "2024-09-13T16:44:37.863Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_df06cbcb-6d4c-4190-8aac-74b78c576318",
+    "name": "花の屋（Flower Shop）",
+    "author_name": "Fallen_ice",
+    "description": "Minecraft風の花屋のワールドは、リラックスするのに最適で、花の香りを楽しめます。PC、Android、iOSプラットフォームに対応しています。⁄ The Flower Shop‚ Minecraft building made by me․ Enjoy itǃ V1․1․0",
+    "publication_date": "2024-09-14T18:55:54.526Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_dbd6c73c-fde9-419c-8046-d06234373cde",
+    "name": "The Zero Gym - Delta Station",
+    "author_name": "Whaddageek",
+    "description": "Climb and fling yourself around in the newest zero-gravity climbing space stationǃ Experience the nightclub Club Newton‚ Swim in the Hydrosphere Pool‚ or just explore the station's mix of gravity and zero-gravity zones",
+    "publication_date": "2024-09-14T21:32:45.949Z",
+    "tags": ["tech","parkour","exploration"]
+  },
+  {
+    "id": "wrld_514faf0c-7309-46f1-a585-497965860595",
+    "name": "To Seek The Sun",
+    "author_name": "Crazium",
+    "description": "A singleplayer 2D platformer made entirely in 96 hours as a submission to the GMTK Game Jamǃ This is a near 1˸1 port of the original gameǃ Explore the ruins of an abandoned dungeon to help a little slime guy seek the sunǃ",
+    "publication_date": "2024-09-14T05:02:08.408Z",
+    "tags": ["parkour"]
   }
 ]
