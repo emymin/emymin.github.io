@@ -6894,5 +6894,45 @@
     "description": "A singleplayer 2D platformer made entirely in 96 hours as a submission to the GMTK Game Jamǃ This is a near 1˸1 port of the original gameǃ Explore the ruins of an abandoned dungeon to help a little slime guy seek the sunǃ",
     "publication_date": "2024-09-14T05:02:08.408Z",
     "tags": ["parkour"]
+  },
+  {
+    "id": "wrld_95d99272-1530-4c0e-94a4-18c87671a359",
+    "name": "Grandma's Basement",
+    "author_name": "Mr FoxQC",
+    "description": "is just a Grandma's Basement with a cat",
+    "publication_date": "2024-05-09T05:57:40.052Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_ebf42046-1f15-44e9-a8fd-3dec5e51ee93",
+    "name": "Cold Embrace",
+    "author_name": "CalliePepper",
+    "description": "An Airship landed in a winter wonderland with something hidden nearby",
+    "publication_date": "2024-09-15T05:55:27.154Z",
+    "tags": ["exploration","art"]
+  },
+  {
+    "id": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e",
+    "name": "ぷらね邸 - PLANETEI",
+    "author_name": "jumius（ゆみうす）",
+    "description": "快適なリビングルームで、美しい星空とプラネタリウム投影機の機械美を心行くまでお楽しみください。 Relax in a cozy living room‚ where you can enjoy the beauty of the starry sky along with the intricate design of a planetarium projector․",
+    "publication_date": "2024-09-17T11:02:24.435Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_9953a896-7e4f-4646-ad45-5bcc3d6d884a",
+    "name": "Interior Worlds VR Sample",
+    "author_name": "Peculiar Sana",
+    "description": "A small atmospheric exploration map through 3 liminal levels from 'Interior Worlds'․ With easter eggs and a handful of interactable objectsǃ",
+    "publication_date": "2024-09-22T15:12:52.846Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_95c99a1d-ed65-4273-8aa4-90db38e908d5",
+    "name": "Night Café Anthurium",
+    "author_name": "mikinel",
+    "description": "Night Café Anthurium",
+    "publication_date": "2024-09-23T13:21:58.272Z",
+    "tags": ["hangout"]
   }
 ]

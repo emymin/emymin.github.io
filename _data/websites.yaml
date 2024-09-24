@@ -488,6 +488,9 @@ categories:
       - url: https://vronlinux.org/
         title: VR On Linux
         description: Documenting the status of VR/AR software and hardware
+      - url: https://ゴーストクラブ.コム/
+        title: ゴーストクラブ.コム
+        description: Just a whisper... I hear it in my ghost. ― The Official Website of GHOSTCLUB.
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -630,6 +633,9 @@ categories:
       - url: https://tatoeba.org
         title: Tatoeba
         description: Tatoeba is a collection of sentences and translations. 
+      - url: https://learnnatively.com/
+        title: Natively
+        description: We'll help you find native books, movies and TV shows at your level!
   - title: Personal
     items:
       - url: https://acko.net/
@@ -752,6 +758,15 @@ categories:
       - url: https://dataswamp.org/~john/
         title: John D. Duncan III's website
         description: concept engineering for the year 00
+      - url: https://joecarlsmith.com/
+        title: Joe Carlsmith
+        description: Much of my work is about trying to help us orient wisely towards humanity’s long-term future.
+      - url: https://josiekins.xyz/
+        title: Josie Kins
+        description: Psychedelic researcher with leading expertise in the formal documentation and classification of altered states of consciousness.
+      - url: https://www.pluralist.xyz/
+        title: Pluralist
+        description: One of the main subjects of my work is "Hyperspace”, a sort of mathemagical fantasyland beyond the limits of physical reality and even what can be imagined
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
