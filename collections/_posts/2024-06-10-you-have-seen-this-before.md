@@ -89,6 +89,14 @@ As an aside, it is oddly fitting for this image to have been taken in Monument V
 
 To date there is no definitive confirmation of the *exact* location of the original photograph. With the rise of the [professional Geoguessr](https://www.theverge.com/2021/12/21/22846869/geoguessr-competitive-esport-reddit-geowizard-google-street-view) scene however, it might not remain a mystery for much longer! If there is any update on the matter, I will make sure to include it.
 
+*Update*: as of the 28th of September 2024, youtuber [Jeffiot](https://www.youtube.com/@jeffiot) in his video [The Eye Test Image Mystery](https://www.youtube.com/watch?v=1D7I7fmZdOA) has identified the exact stretch of road used in this picture as being [Forrest Gump Point](https://www.google.com/maps/place/Forrest+Gump+Point/@37.1033023,-109.990713,823m/data=!3m2!1e3!4b1!4m6!3m5!1s0x873739d47a55ded7:0x43135fefc617f8d2!8m2!3d37.103298!4d-109.9881434!16s%2Fg%2F11krbr96cg?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D), located indeed along Route 163 in Monument Valley! This location is significant for being the spot in which [Forrest Gump](https://en.wikipedia.org/wiki/Forrest_Gump) [stopped running](https://youtu.be/187trX0mo1o?si=lPFHnlN7SNKizi27&t=305), after 3 years, 2 months, 14 days and 16 hours!
+
+![Forrest Gump Point](/assets/images/2024-06-10/forrestpoint.png){: .centered}
+
+The video also adds more new pieces of information:
+- It seems that the image might actually have been a composite of 3 separate images, based on analysis of the noise patterns: the balloon, the road, and the sky!
+- It is theorized, based on a [Reddit comment](https://www.reddit.com/r/HotAirBallooning/comments/190wwas/help_identifying_the_makebrandcolour_design_of_a/kh8ia22/), that the specific balloon being used in the image is [N4036Y](https://www.flickr.com/photos/191681946@N04/53422501137), an Aerostar/Raven model RX-7 manifactured in 1983. The location of this balloon being Colorado would make this extremely fitting and the similarity is indeed striking, however this contradicts ANNnewsCH's claim of it being an illustration, so more confirmation might be needed.
+
 The balloon chart is not the only image used by this company. In this [news entry](https://www.nidek.co.jp/news-event/news/entry-2020.html) on their website, a "flower chart" can also be seen, while for children there is a  [mention](https://www.nidek.co.jp/news-event/news/entry-2770.html) of a chart featuring the mascot [Kumamon](https://kumamon-land.jp/) sitting in a field. 
 
 ![Flower Chart](/assets/images/2024-06-10/flower_chart.jpg){: .centered}
