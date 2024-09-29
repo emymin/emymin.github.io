@@ -6934,5 +6934,53 @@
     "description": "Night Café Anthurium",
     "publication_date": "2024-09-23T13:21:58.272Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_0070e9c7-e484-41fb-be92-a09355ece9cf",
+    "name": "溺死の夢 - Dream of Drowning",
+    "author_name": "Manon〔麦茶〕",
+    "description": "天窓から降る雨がゆっくりと水かさを増し、穏やかに沈んでいく空間。睡眠やリラックスにどうぞ。約一時間で水位が最大になります。Rain gently falls through the skylight‚ gradually raising the water level as you peacefully sink․ Perfect for sleep and relaxation․ The water level reaches its maximum in about an hour․",
+    "publication_date": "2024-09-24T12:38:15.363Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_eaa7b453-cf36-4896-ad03-ad13f834d300",
+    "name": "Highway Surfing",
+    "author_name": "Sly Boots",
+    "description": "On a long trip‚ I would sometimes look out the window and imagine jumping between the cars on the highway․",
+    "publication_date": "2024-09-14T15:19:46.845Z",
+    "tags": ["parkour","★"]
+  },
+  {
+    "id": "wrld_d6266982-45a0-4fac-ba06-f79091a35d14",
+    "name": "Quietude Village",
+    "author_name": "windfenix",
+    "description": "Discover a European-inspired village with a quaint café‚ a cozy apartment‚ and balconies to chill in․ Find peace in the towns serene atmosphere‚ gently interrupted by the chimes of the clock tower and maybe․․․․ a train? If you like this world‚ consider suporting my work on Patreon patreon․com⁄WindFenix",
+    "publication_date": "2024-09-21T07:44:06.676Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_dc568c6a-0884-4468-944c-7b44d7edbf60",
+    "name": "Wormiemonastery",
+    "author_name": "Ponkke",
+    "description": "A Wormiesock sanctuary․",
+    "publication_date": "2024-09-25T05:10:46.756Z",
+    "tags": ["art","avatar"]
+  },
+  {
+    "id": "wrld_b8b5f36c-4c48-4d4f-9911-bf3df0f5c95b",
+    "name": "The Palace",
+    "author_name": "OPCherry",
+    "description": "Neoclassical palace",
+    "publication_date": "2024-09-26T04:31:54.917Z",
+    "tags": ["exploration","art"]
+  },
+  {
+    "id": "wrld_f6a7b03f-26e6-4568-8e9a-21c8e649cc3e",
+    "name": "Northern Lodge",
+    "author_name": "SenRa07",
+    "description": "Basic hangout world designed for small groups․",
+    "publication_date": "2024-09-28T20:05:01.350Z",
+    "tags": ["hangout"]
   }
 ]

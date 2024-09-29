@@ -438,6 +438,9 @@ categories:
       - url: https://dynamicland.org/
         title: Dynamicland
         description: incubating a humane dynamic medium
+      - url: https://indieweb.org/
+        title: IndieWeb
+        description: The IndieWeb is a people-focused alternative to the “corporate web”. 
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -922,6 +925,12 @@ categories:
       - url: https://exa.ai/search
         title: Exa Search
         description: Find exactly what you are looking for
+      - url: https://fed.brid.gy/
+        title: Bridgy Fed
+        description: Bridgy Fed connects web sites, the fediverse, and Bluesky.
+      - url: https://www.effectivealtruism.org/
+        title: Effective Altruism
+        description: Effective altruism is a research field and practical community that aims to find the best ways to help others, and put them into practice.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
