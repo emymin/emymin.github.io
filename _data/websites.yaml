@@ -440,7 +440,10 @@ categories:
         description: incubating a humane dynamic medium
       - url: https://indieweb.org/
         title: IndieWeb
-        description: The IndieWeb is a people-focused alternative to the “corporate web”. 
+        description: The IndieWeb is a people-focused alternative to the “corporate web”.
+      - url: https://flywire.ai/
+        title: FlyWire
+        description:  Whole-Brain Connectome of an adult female Drosophila. AI-segmented, expert-proofread neurons with millions of connections, crowdsourced labels, and neurotransmitters. 
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -770,6 +773,9 @@ categories:
       - url: https://www.pluralist.xyz/
         title: Pluralist
         description: One of the main subjects of my work is "Hyperspace”, a sort of mathemagical fantasyland beyond the limits of physical reality and even what can be imagined
+      - url: https://simonwillison.net/
+        title: Simon Willison’s Weblog
+        description: Simon Willison is the creator of Datasette, an open source tool for exploring and publishing data. He currently works full-time building open source tools for data journalism, built around Datasette and SQLite.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/

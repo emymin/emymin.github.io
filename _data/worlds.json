@@ -6982,5 +6982,53 @@
     "description": "Basic hangout world designed for small groups․",
     "publication_date": "2024-09-28T20:05:01.350Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_53125a74-a5c4-4e42-840e-373f390f844f",
+    "name": "漏水地区【盃市観光エリア１号】",
+    "author_name": "さかずき ないぎ",
+    "description": "ふしぎ地中大都市での走行を楽しもう！！ 2度すばやく移動で加速、椅子はジャンプ長押しで降りる アリーナ内にてiwaSync3及びAudioLink使用 使用アセットは通路内の中央",
+    "publication_date": "2024-10-01T08:03:32.941Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_9ed1ee13-df96-4ed7-ba94-748fb68a8334",
+    "name": "A Tiny Toybox",
+    "author_name": "Cap․",
+    "description": "＃A_Tiny_Toybox 積み木で遊べるワールドです。 A world for playing with building blocks․ ギミック協力：suzuki （＠suzuki_ith） 使用アセット： FukuroUdon ⁄ みみー（＠mimyquality） FlyingSystem ⁄ phi16（＠phi16_） メガネ向けガラスシェーダー ⁄ お休みさん（＠0yasum13）",
+    "publication_date": "2024-10-02T14:05:30.575Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_81217ec8-2a0e-4e0b-870c-ef2a8c218c14",
+    "name": "Luxury Condo",
+    "author_name": "Yunocat ༊∗·˚",
+    "description": "I'm dying",
+    "publication_date": "2024-10-03T19:36:20.347Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_90c22dca-715f-4c8f-96c7-a1644e5938ae",
+    "name": "［ Particle live ］ Radiance -Live_li_V_e edition-",
+    "author_name": "まいきゅあ-MayI-",
+    "description": "MusicName˸ From Glimmer to Radiance Audio˸ Visual˸ Nascence Cover˸ Luo Tianyi‚ Megurine Luka Music produced by sepiarecorders Particle Live Created by Σay［ ］CURE この現象では、長時間の暗闇、一瞬の発光、ちょっとした狂気的な演出が行われます。 また、楽曲は7分あります。 Cledits˸ rzVRMVTimelinePlayer ACTOR˸ DELTAFLAIR Mover˸ MayI",
+    "publication_date": "2024-10-03T16:42:33.112Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_17a7686a-b9be-4c59-9aaf-949347f94301",
+    "name": "Opration Raccon City VR",
+    "author_name": "JustYaz",
+    "description": "In the outskirts on September 29‚ relive the early hours of the arrival of Claire Redfield and Leon S․ Kennedy at the Mizoil gas station's convenient store․ This World is a semi Simulator of what happens with both protagonists in the ＂ plot＂ of the game ․",
+    "publication_date": "2024-09-29T04:24:39.413Z",
+    "tags": ["exploration","horror"]
+  },
+  {
+    "id": "wrld_5630b113-d790-40ad-b6f1-9f5898f80314",
+    "name": "Poolrooms Chillworld",
+    "author_name": "nekem_nyolc",
+    "description": "Poolrooms Chillworld",
+    "publication_date": "2024-10-03T06:04:09.039Z",
+    "tags": ["exploration"]
   }
 ]
