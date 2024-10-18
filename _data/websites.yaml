@@ -776,6 +776,9 @@ categories:
       - url: https://simonwillison.net/
         title: Simon Willison’s Weblog
         description: Simon Willison is the creator of Datasette, an open source tool for exploring and publishing data. He currently works full-time building open source tools for data journalism, built around Datasette and SQLite.
+      - url: https://daikonet.neocities.org/
+        title: DaikoNET
+        description: DAIKONET is my digital habitat where i roam around and do the stuff i like to do.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
