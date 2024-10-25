@@ -7094,5 +7094,53 @@
     "description": "I hope you have a good time while enjoying the dreamy space where the city and the forest are harmonized‚ and the photo exhibition in the tree at the end․ 都市と森が調和した夢幻的な空間、その端にある木の中の写真展を鑑賞しながら、素敵な時間をお過ごしください。 「LUCID DREAM」‚ 明晰夢。 World Created by Hani․ unidentified little gimmick presence․",
     "publication_date": "2024-10-08T13:16:40.952Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_14cd39ba-e03e-44ec-96e9-33ea10eb40e8",
+    "name": "OD Swimming Pool",
+    "author_name": "iyFale Edvifin",
+    "description": "Inspired by existing world‚ now you can swim in outdoor swimming pool filled with 25M x 12M interactive waterǃ とある既存ワールドに参考して作った触れる水入り室外プールワールドっす。ミラーを付けるとちょっと重くなるかもしれない。 10⁄24˸ if you see water effect keep coming from respawn point‚ it means the water splash effect is broken in that instance‚ which could happen when multiple people leave and join at the same time․",
+    "publication_date": "2024-10-19T14:40:35.521Z",
+    "tags": ["hangout","tech"]
+  },
+  {
+    "id": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
+    "name": "Trash Compactor",
+    "author_name": "Jordo",
+    "description": "A sequel to Meat Grinder ＆ Thermal Treatment․ Survive high-velocity props thrown by a fellow player on unstable platforms․ Models ＆ textures by Chim-Cham‚ voice cameo by Legends․",
+    "publication_date": "2024-10-15T17:57:28.385Z",
+    "tags": ["party-game","parkour"]
+  },
+  {
+    "id": "wrld_bef9eccb-677f-4431-8dd2-cfd0467105f6",
+    "name": "ThrillSeeker",
+    "author_name": "EchoLoveVR",
+    "description": "A Horror Experience that follows Rylee Grey‚ a struggling travel content creator who receives an intriguing tip from a former doctor at the notorious Silent Garden‚ an abandoned maximum-security prison․ Eager to revitalize her dwindling viewership‚ Rylee ventures into the eerie depths of the prison to film her exploration․ As the line between reality and fear blurs‚ Rylee must confront both the horrors of the prison and her own inner demons to find a way out․ Will she escape the physical and psychological traps that bind her‚ or will Silent Garden claim her as its next victim?",
+    "publication_date": "2024-10-11T05:53:08.588Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_bb3f79e5-3e39-4190-aecb-7237b264f6bb",
+    "name": "Anna",
+    "author_name": "Bombae",
+    "description": "Horror experience‚ 1-6 players‚ 20-30 minute playtime․ Something unnatural is here; it fills you with dread․ Will you endure the night alone with Anna?",
+    "publication_date": "2024-10-02T03:47:29.331Z",
+    "tags": ["horror","experience","★"]
+  },
+  {
+    "id": "wrld_c27c147d-e0a2-445c-843b-678bfe1b65be",
+    "name": "The Smile Room - Chapter 2 - Demo",
+    "author_name": "ItsCripsy",
+    "description": "This demo let's you experience the first 15 minutes of the upcoming VRChat horror experience ＂The Smile Room Chapter 2＂․ This demo takes place before the events of Chapter One․ You play as Anna Woodsen‚ a 6 year old girl that spend some time with her best friend Jessy Caskin in the Starlight Plaza Mall Arcade․ After hours of playing you both decide to leave but before that you need to go to the restroom․ Playtime - 15 Minutes․ This is just a demo․ Content might change in the final release․",
+    "publication_date": "2024-10-14T05:45:17.901Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_fd5c5c0b-17d3-44ce-a4ed-2b052b5e2710",
+    "name": "Backspace 2",
+    "author_name": "You are amazing",
+    "description": "This horror experience is recommended for ages 16 and up ＆ can be played without prior knowledge of the first part․ This world contains loud noises‚ jumpscares ＆ flickering lights （epilepsy warning）ǃ Audio output in English‚ Japanese and German․ Korean ＆ Chinese subtitles․ In this story-based game‚ you find yourself in a laboratory deep underground․ An artificial intelligence will help you escape․ Created for Spookality 2024․",
+    "publication_date": "2024-10-12T21:41:37.208Z",
+    "tags": ["horror","adventure"]
   }
 ]
