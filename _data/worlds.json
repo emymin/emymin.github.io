@@ -7142,5 +7142,45 @@
     "description": "This horror experience is recommended for ages 16 and up ＆ can be played without prior knowledge of the first part․ This world contains loud noises‚ jumpscares ＆ flickering lights （epilepsy warning）ǃ Audio output in English‚ Japanese and German․ Korean ＆ Chinese subtitles․ In this story-based game‚ you find yourself in a laboratory deep underground․ An artificial intelligence will help you escape․ Created for Spookality 2024․",
     "publication_date": "2024-10-12T21:41:37.208Z",
     "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_d61977b3-4f7a-4089-8261-f409ab9ccd8e",
+    "name": "The Aether",
+    "author_name": "Smokinbones",
+    "description": "The Aether Dimension from Minecraft brought into VRCǃ Still a work in progress so expect some issues such as the whale not being in sync․ ___Credits˸ Textures and Mobs˸ The Minecraft Aether Mod⁄ Simple AI˸ Centauri2442⁄ UdonPortals˸ aurycat⁄ Mochies Unity Shaders˸ MochiesCode⁄ TowelClouds˸ towelfunnelvrc",
+    "publication_date": "2024-10-24T20:07:53.077Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_81aeda71-780f-4fc9-8822-bbcf70d3ed66",
+    "name": "Sunrise",
+    "author_name": "zelfine",
+    "description": "Sunriseǃ A cabin in the mountains․․․ Chill with your friends in a cozy lodge in a valleyǃ Very pwetty cozy zones‚ a video player with a lot of presets and YOUTUBE SEARCHǃ Night mode‚ games‚ collars‚ super‚ SUPER pretty overview‚ with some small eventsǃ This world is available for purchase at zelfine․gumroad․com",
+    "publication_date": "2024-10-25T22:31:30.716Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ba8a8f93-a3fa-45fe-aa78-134e6176d4d4",
+    "name": "Minecraft Survival Games - Breeze Island",
+    "author_name": "markerss",
+    "description": "A recreation of the Minecraft Survival Gamesǃ A battle royale style minigame inspired by the Hunger Games series․ Find loot‚ craft items and be the last man standingǃ",
+    "publication_date": "2024-10-24T05:15:42.171Z",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_2e5bf441-86ad-4cef-8592-3b63b65b7bce",
+    "name": "GlimmerWood",
+    "author_name": "_Asylum",
+    "description": "A Whimsical little forest covered in bioluminescent fungi‚ trees‚ plants and waterǃ Venture through this magical land and find 5 of it's hidden mysteries ǃ",
+    "publication_date": "2024-10-26T10:54:41.303Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_2e6ca910-b9bd-4ad1-b221-66484a239022",
+    "name": "The Depths Within",
+    "author_name": "doommuffinz",
+    "description": "Venture into the deep depths of the sea․ What will you find? World Volume on for best experience‚ If in a group recommended to stay as a group through the whole thing",
+    "publication_date": "2024-10-21T09:26:09.597Z",
+    "tags": ["adventure"]
   }
 ]
