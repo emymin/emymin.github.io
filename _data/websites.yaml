@@ -444,6 +444,9 @@ categories:
       - url: https://flywire.ai/
         title: FlyWire
         description:  Whole-Brain Connectome of an adult female Drosophila. AI-segmented, expert-proofread neurons with millions of connections, crowdsourced labels, and neurotransmitters. 
+      - url: https://automat.org/
+        title: Automat
+        description: Automat is a FOSS software that allows anyone to control their computers by combining interactive blocks.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -642,6 +645,9 @@ categories:
       - url: https://learnnatively.com/
         title: Natively
         description: We'll help you find native books, movies and TV shows at your level!
+      - url: https://catalog.mokuro.moe/
+        title: Mokuro Catalog
+        description: Collection of Mokuro-converted Manga
   - title: Personal
     items:
       - url: https://acko.net/
@@ -940,6 +946,12 @@ categories:
       - url: https://www.effectivealtruism.org/
         title: Effective Altruism
         description: Effective altruism is a research field and practical community that aims to find the best ways to help others, and put them into practice.
+      - url: https://monkeytype.com/
+        title: Monkeytype
+        description: The most customizable typing test website with a minimal design and a ton of features.
+      - url: https://www.perplexity.ai/
+        title: Perplexity
+        description: Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
