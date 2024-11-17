@@ -229,6 +229,9 @@ categories:
       - url: https://openverse.org/
         title: Openverse
         description: Explore more than 800 million creative works
+      - url: https://www.peppercarrot.com/en/
+        title: Pepper&Carrot
+        description: A free(libre) and open-source webcomic supported directly by its patrons to change the comic book industry! 
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -447,6 +450,9 @@ categories:
       - url: https://automat.org/
         title: Automat
         description: Automat is a FOSS software that allows anyone to control their computers by combining interactive blocks.
+      - url: https://lmarena.ai/
+        title: Chatbot Arena
+        description: Chatbot Arena (lmarena.ai) is an open-source platform for evaluating AI through human preference, developed by researchers at UC Berkeley SkyLab and LMSYS.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -648,6 +654,12 @@ categories:
       - url: https://catalog.mokuro.moe/
         title: Mokuro Catalog
         description: Collection of Mokuro-converted Manga
+      - url: https://kuzuri.neocities.org/
+        title: 丈夫な屈狸
+        description: Useful Japanese knowledge and resources
+      - url: https://www.immersionkit.com/
+        title: Immersion Kit
+        description: We hand pick fun and engaging Japanese learning materials.
   - title: Personal
     items:
       - url: https://acko.net/
@@ -785,6 +797,9 @@ categories:
       - url: https://daikonet.neocities.org/
         title: DaikoNET
         description: DAIKONET is my digital habitat where i roam around and do the stuff i like to do.
+      - url: https://pilosophos.com/
+        title: Pilosophos' Circle
+        description:  Ideas half-baked to perfection 
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/

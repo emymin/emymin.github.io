@@ -7262,5 +7262,61 @@
     "description": "誰かとのんびり過ごすためのワールド。ちょっとした暇つぶしにもどうぞ。 Created by ˸ aki_lua87‚ らぃむ（dimebag29）‚ Hyakuashi‚ enfutu",
     "publication_date": "2024-11-06T13:13:17.977Z",
     "tags": ["puzzle","hangout"]
+  },
+  {
+    "id": "wrld_4bdd5a44-d2b4-49eb-8fd6-639cce6d8719",
+    "name": "Oddhaven Radio",
+    "author_name": "Jorror",
+    "description": "Veg out with 60＋ LIVE radio stations in this basement world․ See why VR killed the radio star․",
+    "publication_date": "2024-11-09T15:45:41.105Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_d1d2318c-5144-4902-a774-876f45c06804",
+    "name": "Price Guess",
+    "author_name": "Jar",
+    "description": "Guess the price of that stuffǃ Game for any number of playersǃ",
+    "publication_date": "2022-12-03T03:42:32.754Z",
+    "tags": ["party-game"]
+  },
+  {
+    "id": "wrld_df5143d7-c649-45cc-a093-5f99adb05312",
+    "name": "魔女の錬金工房（Witch's Alchemy Workshop）",
+    "author_name": "Fallen_ice",
+    "description": "これは私が作成したMinecraftの建築ワールドで、魔女の錬金工房です。ここでは、寝たり、ピアノを弾いたり、ゲームをしたり、いろいろな小物をいじったりできます。また、私をモデルにしたNPCも登場します。世界にはグローバルに同期した昼夜サイクルがあり、時間の流れをコントロールすることもできます。皆さんが楽しんでいただけることを願っています！ ⁄ This is a Minecraft building that I created‚ the witch's alchemy workshop․ You can sleep‚ play the piano‚ play games‚ and interact with various small objects inside․ There is also an NPC in it․ The world has a globally synchronized day-night cycle‚ and you can control the speed of time․ I hope everyone enjoys itǃ Ver․1․3․5",
+    "publication_date": "2024-11-09T15:17:31.685Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_c64ed5d4-00d9-4460-9f39-ccf579cfe9eb",
+    "name": "Cozy Ghost Hunt Simulator",
+    "author_name": "AlteredState",
+    "description": "An inside joke gone too far˸ niche ＆ probably not for you․ Not a game˸ an ode to 2000's TV ghost hunting shlock․ Press the front of the walkie to tune-in as two goofs mumble aimlessly upstairs ＆ soil their pants․ ATTN˸ Lots of assetsǃ 150＋ unique sounds programmed to occur dynamically over time‚ infinitely․ No game elements‚ just vibe w doofuses․ Mild jump scares․ （PS˸ I love u Jason‚ Grant‚ ＆ TAPS）",
+    "publication_date": "2024-11-09T06:24:30.819Z",
+    "tags": ["hangout","experience"]
+  },
+  {
+    "id": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+    "name": "ごまさば群島 - Gomasaba archipelago",
+    "author_name": "Yakisaba dayo",
+    "description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。",
+    "publication_date": "2024-11-12T15:04:48.955Z",
+    "tags": ["flying"]
+  },
+  {
+    "id": "wrld_b20ef46f-3382-482c-9249-cbc1212d2b52",
+    "name": "Wave Function Collapse",
+    "author_name": "_uk2_",
+    "description": "This world is created using a project by marian42 （https˸⁄⁄github․com⁄marian42⁄wavefunctioncollapse）‚ which procedurally generates cities using the Wave Function Collapse （WFC） algorithm․",
+    "publication_date": "2024-11-14T08:24:49.626Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_acd3690c-afba-470d-9bf8-a6884e099607",
+    "name": "Clovers Field",
+    "author_name": "Kireya",
+    "description": "Clover's Field",
+    "publication_date": "2024-11-16T03:49:05.528Z",
+    "tags": ["exploration"]
   }
 ]
