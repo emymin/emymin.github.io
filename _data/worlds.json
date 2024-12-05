@@ -7325,7 +7325,7 @@
     "author_name": "mamemoyasys",
     "description": "［OPEN BETA］ ［VR ONLY］ ［2vs2~6vs6］ VRChatで本格バレーボール！自動進行で試合ができるゲームワールドです。＃VRC_Volleyball Real Volleyball in VRChatǃ This is a game world where you can play matches with automated progression․ VRChat에서 본격적인 배구ǃ 자동으로 진행되는 경기 월드입니다․",
     "publication_date": "2024-11-02T17:11:16.560Z",
-    "tags": ["sport", "pvp", "★"]
+    "tags": ["sport","pvp","★"]
   },
   {
     "id": "wrld_c9ec0f76-2745-4ea2-8a0e-83691361f6cf",
@@ -7389,6 +7389,94 @@
     "author_name": "«Oly»",
     "description": "Oly's alcove between the mountains - CREDITS TO - RED_SIM's‚ Beautiful sky‚ Xiexe's XSGrass and Rantis' scripts and help",
     "publication_date": "2024-11-25T16:23:50.364Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_d4d009ed-06ea-4148-b1d1-fea5206c175f",
+    "name": "vent․",
+    "author_name": "Premium²",
+    "description": "Small vent world made in under 50 hours․ I call it Emo Brutalism and so should you․",
+    "publication_date": "2024-09-09T02:26:54.897Z",
+    "tags": ["adventure","art"]
+  },
+  {
+    "id": "wrld_72058461-d065-41c6-8a86-ce77800c23c9",
+    "name": "Redstone Simulator v1․3․0",
+    "author_name": "Kaoet",
+    "description": "Minecraft 红石模拟器。Simulated Minecraft redstone․",
+    "publication_date": "2024-11-25T05:55:22.927Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_0181d023-3eee-490e-8f84-8ed7efde2810",
+    "name": "Playstation 2 Startup",
+    "author_name": "Darksoma",
+    "description": "The boot screen from the Playstation 2‚ recreated to be a homeworld․",
+    "publication_date": "2024-11-27T03:33:06.840Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_b4fe6a92-0953-4a28-9155-cc5d014b454d",
+    "name": "BAR MANHATTAN",
+    "author_name": "same0609",
+    "description": "グラスのふちを回る全てのVRChatterのためのオーセンティックでモダンなBAR。Booth「same不動産開発」で販売中です A BAR for all VRChatters gathering around the glass․ Available now on Booth ＂same0609＂․",
+    "publication_date": "2024-11-27T16:26:40.473Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_4d9f047d-1a7a-45ec-8ba3-a50c348f93b7",
+    "name": "Bloks․",
+    "author_name": "AnxietyOpossum",
+    "description": "A lonely place in the void made from giant wooden blocks․",
+    "publication_date": "2024-11-28T13:39:19.867Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_2a2219b7-7243-471c-a1db-ca3256787b34",
+    "name": "Deckard-ORB",
+    "author_name": "_Komino",
+    "description": "This world was specifically created for a NYE VRChat skit by the SadleyItsBradley group․ Performance sucks․ sorry",
+    "publication_date": "2024-12-01T03:06:51.526Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_71f15cdb-dea8-4040-95bc-9c7904a0c3b6",
+    "name": "Suno Pi Toki Pona",
+    "author_name": "fuopyǃ",
+    "description": "［Archival Note］ After a few folks asking‚ I decided to make this map public․ This map was created as a collaboration between the ＂Ma Toki Pona VR＂ and ＂Projekto Babel＂ VRChat communities for the ＂Suno pi Toki Pona＂ event in August 2022․ Every year a 24 hour livestream is organized in the Toki Pona community to celebrate the language's creation․ This map represented the first time Toki Pona crossed into VR space for the eventǃ This map is a modification of ＂Toki Pona Clubhouse‚＂ created by jan Iseja․ Toki Pona Clubhouse is a map we would frequently use in the Ma Toki Pona VR community for hosting events․ ［Original Description］ Come watch the Suno Pi Toki Pona stream with us in VRChatǃ Toki Pona is a language with only ＂120 wordsǃ＂ Suno Pi Toki Pona is an annual celebration of Toki Pona's Birthdayǃ o kama ponaǃ",
+    "publication_date": "2024-12-01T00:27:10.208Z",
+    "tags": ["exhibit","hub"]
+  },
+  {
+    "id": "wrld_1d6adcaa-f469-4e46-856f-547eb46a799a",
+    "name": "Pillars",
+    "author_name": "Freewillpack76",
+    "description": "Concrete pillars standing on a vast stone landscape",
+    "publication_date": "2024-11-30T04:55:17.837Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_45801e39-517e-4cca-b915-ae720825d88c",
+    "name": "Moonlit Perch -月明かりの泊まり木-",
+    "author_name": "UdonNeko",
+    "description": "Chill treehouse",
+    "publication_date": "2024-12-01T07:16:03.549Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_1ec4d00b-9598-4297-af3d-11236659b67a",
+    "name": "Yamaha Motor - VR TRAIL",
+    "author_name": "Yamaha-Motor",
+    "description": "「VR TRAIL」は、静岡県周智郡森町のミリオンペタルバイクパークを再現したMTBのVRコースです。 走る楽しさを追求したスポーツ電動アシスト自転車シリーズ、「YPJ-MT Pro」「CROSSCORE RC」、や弊社のキャラクター「ニャイケン」にまたがり、本格的なトレール走行体験を楽しむことができます。",
+    "publication_date": "2024-12-03T00:00:50.366Z",
+    "tags": ["driving"]
+  },
+  {
+    "id": "wrld_ee5541a9-0788-43e1-a86d-bad30e218246",
+    "name": "開けない夜ーAn unilluminated night",
+    "author_name": "HANI․",
+    "description": "BGM˸HARARI-희망찬 미래를 위해서",
+    "publication_date": "2024-11-07T12:59:52.222Z",
     "tags": ["art"]
   }
 ]
