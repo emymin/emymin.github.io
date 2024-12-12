@@ -453,6 +453,12 @@ categories:
       - url: https://lmarena.ai/
         title: Chatbot Arena
         description: Chatbot Arena (lmarena.ai) is an open-source platform for evaluating AI through human preference, developed by researchers at UC Berkeley SkyLab and LMSYS.
+      - url: https://everyuuid.com/
+        title: Every UUID V4
+        description: A searchable list of every UUID v4 - scroll till you find a new favorite.
+      - url: https://atproto-browser.vercel.app/
+        title: ATProto Browser
+        description: Browse the atmosphere.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -799,7 +805,13 @@ categories:
         description: DAIKONET is my digital habitat where i roam around and do the stuff i like to do.
       - url: https://pilosophos.com/
         title: Pilosophos' Circle
-        description:  Ideas half-baked to perfection 
+        description: Ideas half-baked to perfection
+      - url: https://wattenberger.com/
+        title: Amelia Wattenberger
+        description: I create things on the web, explore novel interfaces, turn data into meaning, and empower devs with AI.
+      - url: https://alexanderweichart.de/
+        title: Alex' Garden
+        description: 👋 Welcome, traveler! § I’m Alex, this is my 🌳 Digital Garden. It is a place where I collect and create, process and present.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -967,6 +979,9 @@ categories:
       - url: https://www.perplexity.ai/
         title: Perplexity
         description: Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+      - url: https://www.darwinproject.ac.uk/
+        title: Darwin Correspondence Project
+        description: Read and search the full texts of more than 12,000 of Charles Darwin’s letters, and ﬁnd information on 3,000 more. Discover complete transcripts of all known letters Darwin wrote and received up to the year 1878.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -1038,3 +1053,6 @@ categories:
       - url: https://dataswamp.org/
         title: dataswamp.org
         description: OpenBSD based shell account system.
+      - url: https://nekoweb.org/
+        title: nekoweb
+        description: Nekoweb is a free static website hosting service, created in 2024 by a group of coders, programmers and artists, passionate for the old web and personal websites. 
