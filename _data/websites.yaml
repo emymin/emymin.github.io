@@ -982,6 +982,12 @@ categories:
       - url: https://www.darwinproject.ac.uk/
         title: Darwin Correspondence Project
         description: Read and search the full texts of more than 12,000 of Charles Darwin’s letters, and ﬁnd information on 3,000 more. Discover complete transcripts of all known letters Darwin wrote and received up to the year 1878.
+      - url: https://web.law.duke.edu/cspd/
+        title: Center for the Study of the Public Domain
+        description: The public domain is the realm of material—ideas, images, sounds, discoveries, facts, texts—that is unprotected by intellectual property rights and free for all to use or build upon.
+      - url: https://excalidraw.com/
+        title: Excalidraw
+        description: Virtual whiteboard for sketching hand-drawn diagrams
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
