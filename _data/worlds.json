@@ -7590,5 +7590,45 @@
     "description": "Freezes when hit by a snowball․ ∗Recovers when a friendly player touches․ ∗Win if the entire enemy team freezes․ ∗When time runs out‚ the team with the most survivor wins ∗∗∗Japanese∗∗∗ 2チーム対抗戦。最大16名参加可能 ∗雪玉を当てて相手を凍結 味方のタッチで復活 ∗敵チーム全員が凍結すれば勝利 ∗時間切れの際は生存人数で勝敗決定 ∗∗∗History∗∗∗ 2022․12․31 Publish to Community Labs みなさま良いお年をー！",
     "publication_date": "2022-12-30T22:10:21.048Z",
     "tags": ["pvp"]
+  },
+  {
+    "id": "wrld_7eed1dc4-2cc5-4389-8844-ddaa42eb5aaf",
+    "name": "aetherium void ［Echo of Ray］",
+    "author_name": "fujito88",
+    "description": "aetherium void ［Echo of Ray］",
+    "publication_date": "2024-12-21T01:15:13.254Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_f2218aba-e009-4ff3-b68a-d38fa4ce2ec2",
+    "name": "Snow Plaza Cafe",
+    "author_name": "FDzama Gnuk",
+    "description": "Hope you can enjoy Holiday Merry Christmas 2024",
+    "publication_date": "2024-12-19T06:10:21.592Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_1197e456-be55-46cc-8b94-e1dad2640e86",
+    "name": "Winter Dream",
+    "author_name": "Bia_Kawaii_Br",
+    "description": "A cozy winter Christmas Cabin near a lake with an aurora‚ A good place to rest with friends ＾o＾ YT search‚ many mirror‚ pens‚ games‚ coffee‚ chill‚ 30＋ language․․․",
+    "publication_date": "2024-12-21T01:22:16.491Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_533ed3ac-1a32-4dde-890c-1b3684523bab",
+    "name": "Typical Water Test",
+    "author_name": "iyFale Edvifin",
+    "description": "The water you would see in other worlds˸ non-interactive water․ That's what this world was when it was made for filming․ Now this world is modified so you can switch to interactive water and have a cold but warm little camp fire․",
+    "publication_date": "2024-12-20T11:31:09.986Z",
+    "tags": ["tech","hangout"]
+  },
+  {
+    "id": "wrld_5f941a4b-4c7e-402c-8c65-6810a0acf073",
+    "name": "UniClue at the Lodge",
+    "author_name": "Blue-kun",
+    "description": "A simple but fun co-operative word guessing game for 3-16 players set in a warm secluded snowy mountain lodge",
+    "publication_date": "2023-04-07T01:58:23.266Z",
+    "tags": ["party-game","hangout"]
   }
 ]

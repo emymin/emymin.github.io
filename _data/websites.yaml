@@ -459,6 +459,12 @@ categories:
       - url: https://atproto-browser.vercel.app/
         title: ATProto Browser
         description: Browse the atmosphere.
+      - url: https://twtxt.net/
+        title: twtxt.net
+        description: twtxt.net is a Yarn.social Pod; a Self-Hosted, Twitter™-like Decentralised micro-Blogging platform.
+      - url: https://iss-mimic.github.io/Mimic/
+        title: ISS Mimic
+        description: Webpage which displays ALL of the public ISS telemetry
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -988,6 +994,9 @@ categories:
       - url: https://excalidraw.com/
         title: Excalidraw
         description: Virtual whiteboard for sketching hand-drawn diagrams
+      - url: https://anvaka.github.io/city-roads/
+        title: city roads
+        description: This website renders every single road within a city
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -1062,3 +1071,6 @@ categories:
       - url: https://nekoweb.org/
         title: nekoweb
         description: Nekoweb is a free static website hosting service, created in 2024 by a group of coders, programmers and artists, passionate for the old web and personal websites. 
+      - url: http://portal.mozz.us/
+        title: SmolNet Portal
+        description: This website is a free, public service for exploring alternate internet protocols.
