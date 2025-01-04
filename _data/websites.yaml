@@ -818,6 +818,9 @@ categories:
       - url: https://alexanderweichart.de/
         title: Alex' Garden
         description: 👋 Welcome, traveler! § I’m Alex, this is my 🌳 Digital Garden. It is a place where I collect and create, process and present.
+      - url: https://turtlep.github.io/
+        title: Serena's Blog 
+        description: Thoughts, stories, and ideas. 
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -997,6 +1000,9 @@ categories:
       - url: https://anvaka.github.io/city-roads/
         title: city roads
         description: This website renders every single road within a city
+      - url: https://strobe.cool/
+        title: Strobe Illusion
+        description: You are about to hallucinate.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

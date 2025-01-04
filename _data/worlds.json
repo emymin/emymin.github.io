@@ -7630,5 +7630,85 @@
     "description": "A simple but fun co-operative word guessing game for 3-16 players set in a warm secluded snowy mountain lodge",
     "publication_date": "2023-04-07T01:58:23.266Z",
     "tags": ["party-game","hangout"]
+  },
+  {
+    "id": "wrld_533ed3ac-1a32-4dde-890c-1b3684523bab",
+    "name": "Typical Water Test",
+    "author_name": "iyFale Edvifin",
+    "description": "The water you would see in other worlds˸ non-interactive water․ That's what this world was when it was made for filming․ Now this world is modified so you can switch to interactive water and have a cold but warm little camp fire․",
+    "publication_date": "2024-12-20T11:31:09.986Z",
+    "tags": ["tech","hangout"]
+  },
+  {
+    "id": "wrld_a231971b-3c5c-4a15-b620-0ab27625266a",
+    "name": "Dracula's Castle",
+    "author_name": "Taaaaanner",
+    "description": "A faithful fan-recreation of Dracula's Castle from Netflix's Castlevania․ Almost entirely built from scratch and optimized for VRChatǃ",
+    "publication_date": "2024-12-29T03:16:18.749Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_fa29bf75-5bb5-4ee9-8068-3d04d41cda6e",
+    "name": "Istoria",
+    "author_name": "Fins",
+    "description": "A Christmas-themed world made in two weeks for a private community event by Fins‚ now published with limited functionality․ There will be no update or upkeep to this world․ Everything is synced․ The door can only open by master‚ open a new instance if you can't open the door․ Late joiner partially supported․ _____________ このクリスマステーマのワールドは、Finsがプライベートコミュニティイベントのために2週間で作成したものです。現在、限定的な機能で公開されています。このワールドにアップデートや保守はありません。すべてが同期されています。ドアはマスターのみが開けることができます。ドアが開けられない場合は、新しいインスタンスを作成してください。途中参加は部分的にサポートされています。",
+    "publication_date": "2024-12-29T19:49:35.260Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_38646e89-6117-48a9-aab9-aea64c1cd629",
+    "name": "Transience",
+    "author_name": "Tajasuka",
+    "description": "Somehow‚ visitors to this strange landscape are safe from the cosmic radiation from the black hole in the sky․ Large open space with many cozy areas‚ quest compatible‚ hand menu‚ audiolink‚ billyards and truth or dare‚ optimized․",
+    "publication_date": "2024-12-29T23:26:09.071Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_26fe8b7e-0a3c-4126-a027-b763fd56c404",
+    "name": "Kotatsmuri-こたつむり-",
+    "author_name": "MOFUx2Wing",
+    "description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。1⁄4HandMenuを追加しました",
+    "publication_date": "2024-12-31T17:20:17.957Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_3968c2a8-2901-48f5-a45c-2f2ff3e7f376",
+    "name": "Airship - Sky Cafe",
+    "author_name": "biyora",
+    "description": "飛行船のワールドです",
+    "publication_date": "2025-01-02T11:49:49.559Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_622ae2a6-d673-4c81-a93b-78d69c8e5881",
+    "name": "Harmony Haven",
+    "author_name": "Francois33800",
+    "description": "This is a place of prayer‚ spirituality‚ and connection․ Here‚ everyone is welcome‚ regardless of their beliefs or background․",
+    "publication_date": "2024-12-25T08:00:12.534Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_a0347715-6291-4b0f-a3bc-32bb2bd1a1ac",
+    "name": "Steam Punk Apartment M size",
+    "author_name": "Ucchiey",
+    "description": "スチームパンクのアパートメント。ガラス張りの床から歯車が見えるのが特徴的なお部屋 BOOTH販売用サンプルワールドです。A steampunk apartment․ A distinctive room with gears visible through the glass floor․ This is a sample world for sale at BOOTH․",
+    "publication_date": "2025-01-01T22:56:40.373Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_89522880-b6ca-468e-9c60-a9404e5c35a2",
+    "name": "Bluesky",
+    "author_name": "pandagraphics",
+    "description": "届かない空",
+    "publication_date": "2025-01-01T14:07:52.496Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_0de77598-a303-40d8-9dde-0ae184dac1b3",
+    "name": "Crescendo II - New Years Eve 2024",
+    "author_name": "Dr_Nope",
+    "description": "Crescendo II - New Years Eve 2024",
+    "publication_date": "2024-12-31T19:23:24.049Z",
+    "tags": ["club","exploration"]
   }
 ]
