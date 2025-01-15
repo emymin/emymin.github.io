@@ -176,3 +176,10 @@ a:hover{
 ::-webkit-scrollbar-thumb:window-inactive {
     background: var(--fg-color); 
 }
+
+.emoji-size {
+    font-size: 1em;
+    vertical-align: middle;
+    width: 1em;
+    height: 1em;
+}
