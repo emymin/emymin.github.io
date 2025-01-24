@@ -465,6 +465,12 @@ categories:
       - url: https://iss-mimic.github.io/Mimic/
         title: ISS Mimic
         description: Webpage which displays ALL of the public ISS telemetry
+      - url: https://optozorax.github.io/portal/
+        title: Portal Explorer
+        description: In Portal Explorer you can view how interesting portals are constructed, and visually explore their properties by moving and rotating them.
+      - url: https://hydra.ojack.xyz
+        title: hydra
+        description: Hydra is live code-able video synth and coding environment that runs directly in the browser.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1006,6 +1012,15 @@ categories:
       - url: https://strobe.cool/
         title: Strobe Illusion
         description: You are about to hallucinate.
+      - url: https://www.lightpollutionmap.info
+        title: Light pollution map
+        description: Interactive world light pollution map.
+      - url: https://darksky.org/
+        title: DarkSky International
+        description: DarkSky International restores the nighttime environment and protects communities from the harmful effects of light pollution through outreach, advocacy, and conservation.
+      - url: https://www.guedelon.fr/en/
+        title: Guédelon
+        description: In the heart of France, in northern Burgundy, a team of forty master-builders has taken on the extraordinary challenge of building a castle using the technology and materials of the Middle Ages.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -1083,3 +1098,6 @@ categories:
       - url: http://portal.mozz.us/
         title: SmolNet Portal
         description: This website is a free, public service for exploring alternate internet protocols.
+      - url: https://wotaku.wiki/
+        title: Wotaku
+        description: Wotaku, the one-stop-shop for all your otaku interests.

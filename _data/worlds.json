@@ -7774,5 +7774,77 @@
     "description": "This is a flight sim world over the Seto Inland Sea․ You can freely move around in the cabin․ We provide you a space where you can relax while you travel․ 瀬戸内海をめぐるフライトシムワールドです。ワールドが動く方式を採用しているので、自由に機内で動き回ることができます。「移動しながらゆっくりできる」そんな空間を提供いたします。 2024年度卒業制作",
     "publication_date": "2025-01-14T15:50:20.432Z",
     "tags": ["flying","hangout"]
+  },
+  {
+    "id": "wrld_6d00c236-a1a8-4c0c-b162-69f7dd1e6c56",
+    "name": "Intro ［Half-Life˸ Alyx］",
+    "author_name": "DarkBlade909",
+    "description": "The intro of Half-Life˸ Alyx․ Map design by Valve․ Thanks to Titan for extracting the map files․",
+    "publication_date": "2022-08-31T13:50:47.345Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_6a79455b-4985-4eb5-93bd-71a138dce0a9",
+    "name": "Cave House ⁄ ほらあなハウス",
+    "author_name": "きい-vvv",
+    "description": "ほどよく狭くて、ほどよく暗い。A comfortable‚ small‚ dark space․ VideoPlayer⁄Pen⁄Drink⁄Sweets⁄Bed⁄NightMode⁄PartyRoom․ PC⁄Quest⁄Android․",
+    "publication_date": "2025-01-17T16:50:17.316Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_7f27436d-a7a2-4124-a98a-dbe2ce2a342b",
+    "name": "Gravity",
+    "author_name": "Shiro K",
+    "description": "Space flight simulator ⁄ space adventure - play in the Mira star system inside a 32'000km large map․ Four spacecrafts⁄fighters are available to reach other planets․ Early Access - two chapters are currently playable․ Feedback on discord․gg⁄uMbn6EhaSN or join ko-fi․com⁄shiro_k if you want to support me․",
+    "publication_date": "2025-01-17T04:02:46.723Z",
+    "tags": ["flying","adventure","exploration"]
+  },
+  {
+    "id": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
+    "name": "THE Swimming Pool",
+    "author_name": "iyFale Edvifin",
+    "description": "If you are tired of looking at flat static water‚ THE Swimming Pool brings you interactive 3d water to swim‚ make splash and wave․ Also included changing room‚ public shower‚ video player‚ pen‚ Billiards‚ and Beer Pong․ Inspired by existing world․ 1⁄20 Update˸ The issue of player's view being instant camera's view should be gone now․ However late-joiner photo sync is disabled․ Increased capacity․",
+    "publication_date": "2024-04-16T06:12:20.992Z",
+    "tags": ["hangout","tech"]
+  },
+  {
+    "id": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
+    "name": "メゾン荘 201号室",
+    "author_name": "ARUSON_EF",
+    "description": "Mirror ⁄ Video ⁄ QVPen ⁄ AudioLink ⁄ AudioReverbFilter",
+    "publication_date": "2023-05-03T17:27:36.256Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_11ed7958-8c24-465a-b935-01cadb5bcf05",
+    "name": "BOOTH Avatar Cafe",
+    "author_name": "pixiv Inc․",
+    "description": "Cafe空間で、BOOTH上で頒布されている約1000体のアバターの中から、お気に入りのアバターを検索したり、試着できるまったりワールドです。 At this cafe you can browse and try on about 1000 avatars available on BOOTH‚ while enjoying a cozy atmosphere․ You can inquire about BOOTH Cafe at˸ https˸⁄⁄booth․pm⁄support",
+    "publication_date": "2023-07-31T21:13:19.338Z",
+    "tags": ["hangout","exhibit"]
+  },
+  {
+    "id": "wrld_93fbc503-bc5b-4bc3-a4f7-7d289dc82740",
+    "name": "Break the Glass ǃ",
+    "author_name": "Cattus",
+    "description": "A world where you can break the glass․ Prefab link˸ cattus․booth․pm⁄items⁄6496098",
+    "publication_date": "2025-01-22T03:57:22.109Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_c5753f81-336d-42c8-9559-d7a0cbd1e8e6",
+    "name": "ScalableOffice",
+    "author_name": "KounosukeVRC",
+    "description": "ScalableOffice",
+    "publication_date": "2025-01-22T00:10:15.334Z",
+    "tags": ["tech","hangout"]
+  },
+  {
+    "id": "wrld_7cb5ff54-8d57-4cef-a9e3-0a51fda1a39a",
+    "name": "SkipFloor",
+    "author_name": "TAGOb6c",
+    "description": "I heard that this kind of structure is called a ＂SkipFloor＂ shirankedo",
+    "publication_date": "2025-01-22T02:12:32.998Z",
+    "tags": ["hangout"]
   }
 ]
