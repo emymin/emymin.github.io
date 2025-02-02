@@ -7846,5 +7846,69 @@
     "description": "I heard that this kind of structure is called a ＂SkipFloor＂ shirankedo",
     "publication_date": "2025-01-22T02:12:32.998Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ae6682d9-46a4-4255-8233-65f4fdbe70db",
+    "name": "Neon Territory",
+    "author_name": "Ende",
+    "description": "写真撮影などにご利用下さい。 Neon World",
+    "publication_date": "2025-01-24T13:11:14.724Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_cb7cc24e-cbed-4f9f-aca2-342253bec812",
+    "name": "Lazy Sunday",
+    "author_name": "Mochie",
+    "description": "patreon․com⁄mochieshaders",
+    "publication_date": "2025-01-26T06:48:29.501Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_bd0881f5-11fa-48c1-8142-2a5ec4b1f11f",
+    "name": "Mori ［night］",
+    "author_name": "rokumori_",
+    "description": "vizvid",
+    "publication_date": "2025-01-25T11:29:45.993Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_24a34029-c509-4df1-8ee9-6d57a06af1db",
+    "name": "VERHACK",
+    "author_name": "MakenCat",
+    "description": "Verhack - there are many platforms‚ try to solve all the puzzles and get the prize? Or maybe not․ You can visit us if you are bored or want to talk to us․ Especially if you're human․",
+    "publication_date": "2022-08-03T18:10:24.916Z",
+    "tags": ["puzzle","avatar"]
+  },
+  {
+    "id": "wrld_d5ea3aeb-31b4-4662-a990-37d65ab0c418",
+    "name": "Liindy's Weapon Facility",
+    "author_name": "Liindy",
+    "description": "Avatar World Map Created by Foolski",
+    "publication_date": "2024-11-09T02:14:11.470Z",
+    "tags": ["art","avatar"]
+  },
+  {
+    "id": "wrld_3f8575b7-13c3-4b97-8461-2077101ad9d3",
+    "name": "Furality Umbra˸ Crevice Village",
+    "author_name": "Furality",
+    "description": "Furality Umbra˸ Crevice Village",
+    "publication_date": "2025-01-28T18:42:52.536Z",
+    "tags": ["exploration","art"]
+  },
+  {
+    "id": "wrld_d2aad3fe-5d0f-45fc-9778-68c497dc5a5f",
+    "name": "Ritual （v․1․2）",
+    "author_name": "DrMorro",
+    "description": "Multiplayer is available and testing․ If you notice bugs‚ incorrect teleports or disappearing locations‚ please let me know․",
+    "publication_date": "2025-01-27T22:53:46.775Z",
+    "tags": ["exploration","adventure","★"]
+  },
+  {
+    "id": "wrld_445ab14c-8588-4294-a641-34019b2632ca",
+    "name": "Bagel Bakery",
+    "author_name": "spookyghostboo",
+    "description": "Bagelsǃ Get your Bagelsǃ We have plain bagels․ Thats pretty much it‚ plain bagels․ But we also have Cola Cola‚ Proritos‚ and coffee․ Also MIRRORSǃ WE HAVE MIRRORSǃ GET YOUR MIRRORS․",
+    "publication_date": "2025-01-31T23:01:31.363Z",
+    "tags": ["hangout"]
   }
 ]
