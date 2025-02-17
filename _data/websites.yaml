@@ -471,6 +471,9 @@ categories:
       - url: https://hydra.ojack.xyz
         title: hydra
         description: Hydra is live code-able video synth and coding environment that runs directly in the browser.
+      - url: https://whatsin.space/
+        title: What's In Space
+        description: What's in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL.
   - title: VR
     items:
       - url: https://www.vrcw.net/

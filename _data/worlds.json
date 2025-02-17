@@ -7966,5 +7966,53 @@
     "description": "穏やかな黄昏を迎えた世界で、静かな時をすごしましょう",
     "publication_date": "2025-02-08T13:03:45.133Z",
     "tags": ["exploration","hangout"]
+  },
+  {
+    "id": "wrld_e9b7ab9e-2d1f-4e43-ac55-3b45ad44b3f5",
+    "name": "Pixelwave",
+    "author_name": "WispyWoo",
+    "description": "PixelWave is a liminal retro themed worldǃ It was made for a 24 world jam I did on streamǃ Enjoy（?） the liminal vibe‚ and explore as you get turn around‚ and confused․",
+    "publication_date": "2024-11-24T07:47:14.483Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_da03424e-7c59-42d8-925f-dae3181d77f9",
+    "name": "Millennium_千年科学学院",
+    "author_name": "元气克星花阳",
+    "description": "碧蓝档案里的千禧学院有两个教室，开始你们的拳击表演吧",
+    "publication_date": "2025-02-15T20:20:10.504Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_d2a71cb5-61f3-4a32-acad-217371bcfe06",
+    "name": "Villa Nocturna ⁄ 夜光の邸宅",
+    "author_name": "TakeTake-たけたけ-",
+    "description": "夜空にオーロラが輝く2階建ての邸宅です。 1階には動画プレイヤーのあるメインルームとバーカウンター、2階には寝室があります。 ホーム用に各種ギミックを揃えています。 --- Qvpen、imagePad、YamaPlayer（ミニプレイヤー、ベッド用プレイヤーあり）、ミラー、VRChatイベントカレンダー、Joinログ、Join通知、スリープモード（明るさ調整）、アラーム、ベッドコライダー、FlipCameraなど ------------- Two-story villa with the aurora shining in the night sky․ The first floor has a main room with a video player and a bar counter․ The second floor has a bedroom․ --- Qvpen‚ imagePad‚ Video Player‚ Mirror‚ VRChatEventCalendar‚ Join Log‚ Join Notification‚ SleepMode（Brightness Adjustment）‚ Alarm‚ Bed collider‚ FlipCamera ---update 2025⁄02⁄17 ver․1․0․4 バーカウンターの椅子をSwivelChair2に更新",
+    "publication_date": "2025-02-15T14:45:18.737Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_0340e2e5-e83e-49af-b7e8-942ebe45c7fb",
+    "name": "RadDolls Pier Café",
+    "author_name": "MAOO",
+    "description": "Where Dolls Await",
+    "publication_date": "2025-02-15T14:41:17.891Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_65b8db18-4c32-4240-857d-4c3c97e38678",
+    "name": "Hanami Heights 花見の街",
+    "author_name": "Reth Sogen",
+    "description": "Version 1․0 - Come to the city‚ dream in the streets․ Thank you to all my friendsǃ",
+    "publication_date": "2025-02-14T03:59:21.381Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_d6715b97-5a3b-49bf-86f7-f123124f0aaf",
+    "name": "Cozy Woods",
+    "author_name": "Bia_Kawaii_Br",
+    "description": "A world to relax‚ Beautiful stream with a waterfall at night to chill or to party with an Option to activate a music area for the DJ",
+    "publication_date": "2025-02-15T02:13:27.206Z",
+    "tags": ["hangout"]
   }
 ]
