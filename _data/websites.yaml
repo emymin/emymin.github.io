@@ -474,6 +474,12 @@ categories:
       - url: https://whatsin.space/
         title: What's In Space
         description: What's in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL.
+      - url: https://european-alternatives.eu/
+        title: European Alternatives
+        description:  We help you find European alternatives for digital service and products, like cloud services and SaaS products. 
+      - url: https://www.goeuropean.org/
+        title: Go European
+        description: A community-driven directory bringing you personal recommendations from across Europe
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -833,6 +839,21 @@ categories:
       - url: https://turtlep.github.io/
         title: Serena's Blog 
         description: Thoughts, stories, and ideas. 
+      - url: https://supermemo.guru
+        title: SuperMemo Guru
+        description: I came up with the ideas of repetition spacing (later renamed to spaced repetition), incremental reading, and neural creativity.
+      - url: https://abstractxan.xyz
+        title: abstractxan
+        description: Hello, I'm abstractxan and this website is my digital garden. I curate ideas and resources about technology, business, art and my activity logs.
+      - url: https://ruivieira.dev/
+        title: Rui Vieira
+        description: I’m a senior software engineer at Red Hat working on machine learning, specifically explainable AI and distributed applications.
+      - url: https://vit.baisa.cz/
+        title: Vít Baisa
+        description: My name is Vít Baisa. It’s pronounced /vi:t bajza/.
+      - url: https://drsakuu.github.io/
+        title: DrSakuu's Knowledge Center
+        description: This is where I share my knowledge on pretty much everything. Open the sidebar to see all the chapters.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/

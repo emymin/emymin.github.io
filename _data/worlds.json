@@ -8118,5 +8118,61 @@
     "description": "La Fille Mellow Cafe",
     "publication_date": "2025-03-05T12:01:07.449Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_bab73395-9ec3-4ade-b0a8-8dfab7588756",
+    "name": "Hanami Heights（Midnight Edition）花見の街（真夜中）",
+    "author_name": "Reth Sogen",
+    "description": "Dream in the streets‚ stay for the night․ Version 1․0",
+    "publication_date": "2025-03-07T07:46:42.193Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_84f03063-6013-43f6-a827-995a512a617e",
+    "name": "春空の休息地 -BloomingSky Rest-",
+    "author_name": "Leiria_vrc",
+    "description": "はるだーǃ さくらだーǃ ねこだーǃ",
+    "publication_date": "2025-03-08T12:41:00.493Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_b5fd0980-5d36-49c3-8ec2-2c13024b85e8",
+    "name": "77077 Arcade ＆ Bar",
+    "author_name": "OtaKing77077",
+    "description": "An arcade‚ circa 1994․ 300MB download - may be laggyǃ Feedback ＆ photos appreciated （via Twitter˸ ＠OtaKing77077 ）ǃ １９９０年代のアーケード。あなたの青春を甦れ！ まぁ、洋式アーケードを模倣しているから、上記青春とは異なる場合がありますけど․․․",
+    "publication_date": "2021-06-29T04:23:46.910Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_c4069ce3-06db-4723-ac01-18437ab3f050",
+    "name": "W h e a t 2․0",
+    "author_name": "Duvee",
+    "description": "The world is pretty bare at the moment‚ any ideas let me knowǃǃ My discord is ＂Duvee＂",
+    "publication_date": "2025-03-11T15:13:10.057Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_0c3c0636-00db-4e81-87a4-ff0bac24856c",
+    "name": "Esoterica",
+    "author_name": "jasper ｡",
+    "description": "≻≻ System˸ ∗∗ Esoterica ∗∗ ≺≺",
+    "publication_date": "2025-03-11T21:03:04.946Z",
+    "tags": ["art","★"]
+  },
+  {
+    "id": "wrld_10676a86-f3b2-45be-9b06-baff03d8c330",
+    "name": "Rave Train",
+    "author_name": "Lavryou",
+    "description": "Rave? On a train? Enjoy a endless train ride where the music controls the trains speedǃ",
+    "publication_date": "2025-03-11T05:27:57.848Z",
+    "tags": ["club"]
+  },
+  {
+    "id": "wrld_ee4bb140-e889-4e54-b9d6-75a8dc62e09e",
+    "name": "Interlude",
+    "author_name": "jasper ｡",
+    "description": "Chillout world with record player and 60＋ records to choose fromǃ My first world please enjoyǃ Will try and update vinyl list regularly․ Play some tunes‚ grab a drink‚ relax and vibe․",
+    "publication_date": "2024-02-02T17:53:28.965Z",
+    "tags": ["hangout"]
   }
 ]
