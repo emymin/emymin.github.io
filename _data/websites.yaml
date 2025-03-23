@@ -480,6 +480,15 @@ categories:
       - url: https://www.goeuropean.org/
         title: Go European
         description: A community-driven directory bringing you personal recommendations from across Europe
+      - url: https://wiki.c2.com
+        title: WikiWikiWeb
+        description: This site's primary focus is PeopleProjectsAndPatterns in SoftwareDevelopment. This website is the first ever "wiki", where content can be edited by any person.
+      - url: https://osintframework.com/
+        title: OSINT Framework
+        description: OSINT framework focused on gathering information from free tools or resources.
+      - url: https://meshmap.net/
+        title: MeshMap
+        description: A nearly live map of Meshtastic nodes seen by the official Meshtastic MQTT server
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -533,6 +542,9 @@ categories:
       - url: https://ゴーストクラブ.コム/
         title: ゴーストクラブ.コム
         description: Just a whisper... I hear it in my ghost. ― The Official Website of GHOSTCLUB.
+      - url: https://echos.fm/
+        title: ECHOS.FM
+        description: The following is an abridged report on the experimental project known as 'dieselworks'.
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -690,6 +702,9 @@ categories:
       - url: https://wkdonc.github.io/conjugation/drill.html
         title: Don's Japanese Conjugation Drill
         description: Japanese Conjugation Practice
+      - url: https://ithkuil.net/
+        title: A Grammar of New Ithkuil
+        description: This website presents the grammar of New Ithkuil, a design for a constructed human-usable language.
   - title: Personal
     items:
       - url: https://acko.net/
@@ -854,6 +869,9 @@ categories:
       - url: https://drsakuu.github.io/
         title: DrSakuu's Knowledge Center
         description: This is where I share my knowledge on pretty much everything. Open the sidebar to see all the chapters.
+      - url: https://unsigned.io/
+        title: unsigned.io
+        description: Come on in now, come out of the rain.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
