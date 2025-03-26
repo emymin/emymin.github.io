@@ -1,75 +1,205 @@
 <style>
-    .modal {
-  display: none;
-  position: fixed;
-  z-index: 10;
-  padding-top: 100px;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: rgba(0,0,0,0.9);
-}
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 80%;
-}
-.modal-content, #caption {  
-  -webkit-animation-name: zoom;
-  -webkit-animation-duration: 0.6s;
-  animation-name: zoom;
-  animation-duration: 0.6s;
-}
-@-webkit-keyframes zoom {
-  from {-webkit-transform:scale(0)} 
-  to {-webkit-transform:scale(1)}
-}
-@keyframes zoom {
-  from {transform:scale(0)} 
-  to {transform:scale(1)}
-}
-.close {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
-}
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
-}
-@media only screen and (max-width: 700px){
-  .modal-content {
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 10;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
     width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0,0,0,0.9);
   }
-}
-</style>
-
-<div id="modal" class="modal">
+  .animate {
+    animation: zoom 0.6s ease;
+  }
+  @keyframes zoom {
+    from { transform: scale(0); }
+    to { transform: scale(1); }
+  }
+  .modal-content {
+    margin: auto;
+    display: block;
+    max-width: 80%;
+    max-height: 80vh;
+    width: auto;
+    height: auto;
+    transition: transform 0.1s ease-out;
+    cursor: grab;
+    touch-action: none;
+  }
+  .modal-content:active {
+    cursor: grabbing;
+  }
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  .close:hover,
+  .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  @media only screen and (max-width: 700px){
+    .modal-content {
+      max-width: 100%;
+    }
+  }
+  </style>
+  
+  <div id="modal" class="modal">
     <span class="close">&times;</span>
     <img class="modal-content" id="modal-image">
-</div>
-
-<script>
+  </div>
+  
+  <script>
     var modal = document.getElementById("modal");
     var modalImg = document.getElementById("modal-image");
-    
-    function openImageModal(imageUrl){
+  
+    // Variables for zoom and pan
+    var currentScale = 1;
+    var currentTranslate = {x: 0, y: 0};
+  
+    // Variables for mouse drag
+    var isDragging = false, startX, startY;
+  
+    // Variables for touch pinch/drag
+    var initialDistance = null;
+    var initialMidpoint = null;
+    var isTouchDragging = false;
+    var lastTouchPosition = null;
+  
+    // Update the image transform combining scale and translation
+    function updateTransform() {
+      modalImg.style.transform = "scale(" + currentScale + ") translate(" + currentTranslate.x + "px, " + currentTranslate.y + "px)";
+      modalImg.style.transformOrigin = "center center";
+    }
+  
+    // Utility functions for touch events
+    function getDistance(touch1, touch2) {
+      var dx = touch2.clientX - touch1.clientX;
+      var dy = touch2.clientY - touch1.clientY;
+      return Math.sqrt(dx * dx + dy * dy);
+    }
+    function getMidpoint(touch1, touch2) {
+      return {
+        x: (touch1.clientX + touch2.clientX) / 2,
+        y: (touch1.clientY + touch2.clientY) / 2
+      };
+    }
+  
+    // Open the modal, reset transforms and add the animation class
+    function openImageModal(imageUrl) {
       modal.style.display = "block";
       modalImg.src = imageUrl;
+      currentScale = 1;
+      currentTranslate = {x: 0, y: 0};
+      modalImg.style.transform = "";
+      modalImg.classList.add("animate");
+      setTimeout(function(){
+        modalImg.classList.remove("animate");
+        updateTransform();
+      }, 600);
+      document.body.style.overflow = "hidden";
     }
-    
-    var span = document.getElementsByClassName("close")[0];
-    
-    span.onclick = modal.onclick = function() { 
+  
+    // Close modal and restore background scrolling
+    function closeModal(){
       modal.style.display = "none";
+      document.body.style.overflow = "";
     }
-    
-</script>
+  
+    var closeBtn = document.getElementsByClassName("close")[0];
+    closeBtn.onclick = closeModal;
+    modal.onclick = function(e) {
+      if(e.target === modal){
+        closeModal();
+      }
+    };
+  
+    // Zoom with the mouse wheel using exponential scaling
+    modalImg.addEventListener("wheel", function(e){
+      e.preventDefault();
+      // Increase scale by 10% when scrolling up, decrease by 10% when scrolling down.
+      var factor = e.deltaY < 0 ? 1.1 : 0.9;
+      // Multiply current scale by factor and clamp between 0.5 and 5 (allows closer zoom)
+      currentScale = Math.min(Math.max(0.5, currentScale * factor), 5);
+      updateTransform();
+    });
+  
+    // Mouse drag for panning
+    modalImg.addEventListener("mousedown", function(e){
+      e.preventDefault();
+      isDragging = true;
+      startX = e.clientX;
+      startY = e.clientY;
+    });
+    window.addEventListener("mousemove", function(e){
+      if(!isDragging) return;
+      e.preventDefault();
+      var dx = e.clientX - startX;
+      var dy = e.clientY - startY;
+      startX = e.clientX;
+      startY = e.clientY;
+      currentTranslate.x += dx / currentScale;
+      currentTranslate.y += dy / currentScale;
+      updateTransform();
+    });
+    window.addEventListener("mouseup", function(){
+      isDragging = false;
+    });
+  
+    // Touch events for pinch-to-zoom and panning
+    modalImg.addEventListener("touchstart", function(e) {
+      if(e.touches.length === 2) {
+        initialDistance = getDistance(e.touches[0], e.touches[1]);
+        initialMidpoint = getMidpoint(e.touches[0], e.touches[1]);
+      } else if(e.touches.length === 1) {
+        isTouchDragging = true;
+        lastTouchPosition = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+      }
+    });
+  
+    modalImg.addEventListener("touchmove", function(e) {
+      e.preventDefault();
+      if(e.touches.length === 2 && initialDistance) {
+        var newDistance = getDistance(e.touches[0], e.touches[1]);
+        var scaleFactor = newDistance / initialDistance;
+        currentScale = Math.min(Math.max(0.5, currentScale * scaleFactor), 5);
+        var newMidpoint = getMidpoint(e.touches[0], e.touches[1]);
+        var dx = newMidpoint.x - initialMidpoint.x;
+        var dy = newMidpoint.y - initialMidpoint.y;
+        currentTranslate.x += dx / currentScale;
+        currentTranslate.y += dy / currentScale;
+        initialDistance = newDistance;
+        initialMidpoint = newMidpoint;
+        updateTransform();
+      } else if(e.touches.length === 1 && isTouchDragging) {
+        var touch = e.touches[0];
+        var dx = touch.clientX - lastTouchPosition.x;
+        var dy = touch.clientY - lastTouchPosition.y;
+        lastTouchPosition = { x: touch.clientX, y: touch.clientY };
+        currentTranslate.x += dx / currentScale;
+        currentTranslate.y += dy / currentScale;
+        updateTransform();
+      }
+    });
+  
+    modalImg.addEventListener("touchend", function(e) {
+      if(e.touches.length < 2) {
+        initialDistance = null;
+        initialMidpoint = null;
+      }
+      if(e.touches.length === 0) {
+        isTouchDragging = false;
+      }
+    });
+  </script>
+  
