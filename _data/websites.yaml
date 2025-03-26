@@ -480,6 +480,9 @@ categories:
       - url: https://meshmap.net/
         title: MeshMap
         description: A nearly live map of Meshtastic nodes seen by the official Meshtastic MQTT server
+      - url: https://esoteric.codes/
+        title: Esoteric.Codes
+        description: Esoteric.Codes covers self-expression in the text of code.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1045,6 +1048,9 @@ categories:
       - url: https://world.openfoodfacts.org/
         title: Open Food Facts
         description: Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
+      - url: https://goblin.tools/
+        title: GoblinTools
+        description: goblin.tools is a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
