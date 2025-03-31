@@ -8262,5 +8262,53 @@
     "description": "Made by ReddPanda and naeris․",
     "publication_date": "2025-03-22T03:11:28.102Z",
     "tags": ["hangout","adventure"]
+  },
+  {
+    "id": "wrld_8961e217-9084-457c-87cc-9c6d34247c4c",
+    "name": "Chordfloats",
+    "author_name": "AYANO_TFT",
+    "description": "Touchable Alife system based on Particle Life․ The sound shader includes ambisonics-like spatial processing․ Particle Lifeをベースにした触れる人工生命があります。サウンドシェーダーでAmbisonicsのような立体音響の処理をリアルタイムに行っており、パーティクルの集まっている方から音が聞こえます。",
+    "publication_date": "2025-03-26T15:13:39.590Z",
+    "tags": ["tech","art","★"]
+  },
+  {
+    "id": "wrld_cb52298a-319f-4365-bbc6-907d4ac3c6c0",
+    "name": "Soul Cistern （Puzzle Hub）",
+    "author_name": "TrueAquaPsych",
+    "description": "The Soul Cistern is a mysterious hub world housing all of TrueAquaPsych's Puzzle worlds․ There are many secrets to uncover and puzzles to solve․",
+    "publication_date": "2025-03-09T04:15:00.869Z",
+    "tags": ["hub","puzzle"]
+  },
+  {
+    "id": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8",
+    "name": "Scale Journey",
+    "author_name": "S_ASAGIRI",
+    "description": "素粒子から宇宙まで、スケールを旅するワールドです。 Created by S_Asagiri",
+    "publication_date": "2025-03-27T13:57:45.834Z",
+    "tags": ["tech","experience","★"]
+  },
+  {
+    "id": "wrld_20ccfc4b-7c87-46be-a573-6152f920ac27",
+    "name": "AKASHI_NIGHT",
+    "author_name": "S_ASAGIRI",
+    "description": "橋のモデル：明石海峡大橋 Created by S_ASAGIRI",
+    "publication_date": "2020-05-27T10:11:52.128Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_db3bd9a2-83a9-4fb9-be8e-43f50f486b77",
+    "name": "Sanctuary （Observer˸ System Redux）",
+    "author_name": "ControVR",
+    "description": "The church called Sanctuary‚ ported from Observer˸ System Redux․ A game that most of you probably haven't heard of․ You should play it․ Very good game․",
+    "publication_date": "2025-03-29T16:37:49.194Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_1a8f3ce5-411a-4ea6-9934-1dd46a1b0ea1",
+    "name": "RadDolls Pier Café -Night-",
+    "author_name": "MAOO",
+    "description": "Where the doll sleeps",
+    "publication_date": "2025-03-29T15:35:53.031Z",
+    "tags": ["hangout"]
   }
 ]
