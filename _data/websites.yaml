@@ -232,6 +232,9 @@ categories:
       - url: https://www.peppercarrot.com/en/
         title: Pepper&Carrot
         description: A free(libre) and open-source webcomic supported directly by its patrons to change the comic book industry! 
+      - url: https://librearts.org/
+        title: Libre Arts
+        description: Welcome to Libre Arts. This is an online blog for creative professionals using free/libre applications for digital painting, graphic and web design, desktop publishing, photography, architecture, and mechanical engineering.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -483,6 +486,9 @@ categories:
       - url: https://esoteric.codes/
         title: Esoteric.Codes
         description: Esoteric.Codes covers self-expression in the text of code.
+      - url: https://linuxdaw.org/
+        title: Linux DAW
+        description: There are many websites out there on audio software for Linux, each with it's own look and focus. However, most of them have quite alot to be desired, which is what we try fix here.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -619,6 +625,9 @@ categories:
       - url: https://overthewire.org/
         title: OverTheWire
         description: The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+      - url: https://slowroads.io/
+        title: Slow Roads
+        description: Endless driving zen
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -863,6 +872,12 @@ categories:
       - url: https://unsigned.io/
         title: unsigned.io
         description: Come on in now, come out of the rain.
+      - url: https://turretlabs.io/
+        title: TurretLabs
+        description: This website is my little personal project that I started back in 2015.
+      - url: https://dmitry.gr/
+        title: Dmitry.GR
+        description: Creating order out of chaos, or reverse (as needed).
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1051,6 +1066,12 @@ categories:
       - url: https://goblin.tools/
         title: GoblinTools
         description: goblin.tools is a collection of small, simple, single-task tools, mostly designed to help neurodivergent people with tasks they find overwhelming or difficult.
+      - url: https://tv.garden/
+        title: tv.garden
+        description: Our goal is to make discovering and watching global channels as easy and enjoyable as possible.
+      - url: https://asteriskmag.com/
+        title: Asterisk
+        description: Asterisk is a quarterly journal of clear writing and clear thinking about things that matter.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -1131,3 +1152,6 @@ categories:
       - url: https://wotaku.wiki/
         title: Wotaku
         description: Wotaku, the one-stop-shop for all your otaku interests.
+      - url: https://hotlinewebring.club/
+        title: Hotline Webring
+        description: We here at Hotline Webring traveled to the wayside, picked up The Concept of a Webring, dusted it off, and launched it to frankly astonishing acclaim.
