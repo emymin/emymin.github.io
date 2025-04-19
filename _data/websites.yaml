@@ -235,6 +235,9 @@ categories:
       - url: https://librearts.org/
         title: Libre Arts
         description: Welcome to Libre Arts. This is an online blog for creative professionals using free/libre applications for digital painting, graphic and web design, desktop publishing, photography, architecture, and mechanical engineering.
+      - url: https://textmode.art/
+        title: textmode.art
+        description: textmode.art is a work-in-progress textmode art creation tool that transforms your media into customizable text-based representations.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -878,6 +881,9 @@ categories:
       - url: https://dmitry.gr/
         title: Dmitry.GR
         description: Creating order out of chaos, or reverse (as needed).
+      - url: https://blairjohnsonpoetry.com/
+        title: Blair Johnson
+        description: Blair Johnson is a poet, teacher, and researcher.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1155,3 +1161,6 @@ categories:
       - url: https://hotlinewebring.club/
         title: Hotline Webring
         description: We here at Hotline Webring traveled to the wayside, picked up The Concept of a Webring, dusted it off, and launched it to frankly astonishing acclaim.
+      - url: https://hypertext.tv/
+        title: Hypertext TV
+        description: Daily programming for the handmade web. Airing now.

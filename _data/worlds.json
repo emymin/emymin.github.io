@@ -8374,5 +8374,69 @@
     "description": "Delphi's 2025 Space Jam Entry․ In the year 2222‚ the Bee-Sustainable Company has propelled humanity beyond fossil fuels with their breakthrough in beeswax-based rocket fuel․ Players board Hive-7‚ an orbital spacecraft and thriving Earth-like ecosystem home to over 100‚000 genetically optimized bee colonies․ As you explore the lush hydroponics gardens‚ youll tour Hive-7s key facilities‚ learn about bee biology‚ and discover how a renewable ecosystem is fueling the future of space travel․ Our concept is inspired by real-world research into beeswax as a sustainable rocket fuel․",
     "publication_date": "2025-04-07T00:23:42.157Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+    "name": "VRC 新宿駅 Shinjuku Station",
+    "author_name": "Artistoid",
+    "description": "［ X -≻ ＃VRSJK ］ VRC新宿ワールドへようこそ！ VRChatで最も有名な路上ライブ専用ワールドを目指しています。 音楽が好きな方は、ぜひお気軽にご参加ください！ VRC신주쿠 월드입니다․ VRChat에서 가장 유명한 버스킹 월드를 목표로 하고있습니다․ 음악을 좋아하신다면 자유롭게 들어오세요 ǃ Welcome to the VRC Shinjuku Worldǃ We aim to become the most famous busking world in VRChat․ If you love music‚ feel free to join usǃ",
+    "publication_date": "2025-04-04T09:38:19.224Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_34fbf1ba-85a1-4b48-9f85-23678209bf68",
+    "name": "Kooshma's Cabaret （South of Midnight）",
+    "author_name": "ControVR",
+    "description": "Kooshma's Cabaret is about to startǃ Please‚ take your seats․․․ Port from South of Midnight․",
+    "publication_date": "2025-04-12T20:53:10.979Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_8d3b76d6-f406-47cc-9b5b-70066b246db9",
+    "name": "Roux's Caravan ［South of Midnight］",
+    "author_name": "DarkBlade909",
+    "description": "Hm․ Bigger on the inside․ From South of Midnight",
+    "publication_date": "2025-04-12T14:11:29.129Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_4c657dee-8604-425b-a21a-e27c05079717",
+    "name": "TUBE VR - The Club District",
+    "author_name": "Hadean",
+    "description": "Cross-platform live music events‚ hangout areas‚ games ＆ cinema in a London city setting․ Official TUBE VR events monthly‚ regular community events․ Movies ＆ TV‚ YouTube search‚ pool ＆ snooker‚ axe throwing‚ beer pong‚ photo booth‚ Audiolink‚ Realtime GI video ＆ more․",
+    "publication_date": "2023-10-20T17:56:19.307Z",
+    "tags": ["club","hangout"]
+  },
+  {
+    "id": "wrld_081568d8-3f1b-493b-bf0c-ecfe81400ae2",
+    "name": "Naroom ［Luminous Akihabara］",
+    "author_name": "Lura_",
+    "description": "Naroom Luminous Akihabara なるがみさん（＠nalgami）の依頼で制作したLuminousHotel系列のワールドです。 実写撮影による秋葉原の夜景をお楽しみください。",
+    "publication_date": "2025-01-26T12:13:30.088Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_aaba5f07-645b-47be-b55f-b6c551591bbd",
+    "name": "Quiet Breath",
+    "author_name": "Apathy",
+    "description": "House on the hills and a small village below‚ showing slow life in the evening",
+    "publication_date": "2025-04-12T16:13:24.082Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_f6d02908-194a-4af9-bdb1-a2710c498ae0",
+    "name": "7⁄4",
+    "author_name": "にゃらんてす",
+    "description": "7⁄4",
+    "publication_date": "2025-04-16T13:47:50.975Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
+    "name": "SoundLab",
+    "author_name": "らすた（Rasta）",
+    "description": "音響システムWavePathSystemとその他技術検証ワールドです。音の位置や反響をよりリアルに再現し、聞く位置や環境によって音が変化します。",
+    "publication_date": "2025-04-18T15:59:00.985Z",
+    "tags": ["tech"]
   }
 ]
