@@ -492,6 +492,9 @@ categories:
       - url: https://linuxdaw.org/
         title: Linux DAW
         description: There are many websites out there on audio software for Linux, each with it's own look and focus. However, most of them have quite alot to be desired, which is what we try fix here.
+      - url: https://www.privacyguides.org
+        title: Privacy Guides
+        description: Privacy Guides is the most popular, trustworthy, non-profit website that provides information about protecting your personal data security and privacy.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -548,6 +551,9 @@ categories:
       - url: https://echos.fm/
         title: ECHOS.FM
         description: The following is an abridged report on the experimental project known as 'dieselworks'.
+      - url: https://www.vrcvm.com/
+        title: VRC Vending Machine Project
+        description: A collection of vending machine screenshots from VRChat worlds, inspired by The Video Game Soda Machine Project.
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -884,6 +890,15 @@ categories:
       - url: https://blairjohnsonpoetry.com/
         title: Blair Johnson
         description: Blair Johnson is a poet, teacher, and researcher.
+      - url: https://tansanrao.com/
+        title: Tanuj Ravi Rao
+        description: Personal website and blog
+      - url: https://mm4rk3t.xyz
+        title: mm4rk3t
+        description: Non nisi nocturno spectari tempore pollunt Astra; Mathematicos nox vigilata facit.
+      - url: https://osk.sh/
+        title: osk
+        description: I'm osk (/ɔsk/), a developer of mostly web experiences specializing in UI/UX.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1078,6 +1093,9 @@ categories:
       - url: https://asteriskmag.com/
         title: Asterisk
         description: Asterisk is a quarterly journal of clear writing and clear thinking about things that matter.
+      - url: https://www.rtings.com/
+        title: RTINGS.com
+        description: Find the best products for your needs, based on our reviews, ratings and recommendations.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

@@ -8438,5 +8438,45 @@
     "description": "音響システムWavePathSystemとその他技術検証ワールドです。音の位置や反響をよりリアルに再現し、聞く位置や環境によって音が変化します。",
     "publication_date": "2025-04-18T15:59:00.985Z",
     "tags": ["tech"]
+  },
+  {
+    "id": "wrld_d6e15d02-691d-4e17-a2b6-5f8667c8e127",
+    "name": "SUBSTRUCTURE 17",
+    "author_name": "K4ichi",
+    "description": "Gray sky and lifeless concrete․ The light lingers‚ but the warmth is gone․ Welcome to SB17",
+    "publication_date": "2025-04-20T03:06:45.694Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_d329459b-413e-4905-8f8b-d57da8118aba",
+    "name": "Furdu Gods and Monsters",
+    "author_name": "PammeMatth",
+    "description": "Furdu Gods and Monsters",
+    "publication_date": "2025-04-18T03:29:07.260Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_ad17313d-b4e6-4e04-ae24-e89342c176b3",
+    "name": "StarTrail",
+    "author_name": "SiroTori",
+    "description": "Remember to look up at the stars and not down at your feet․ Try to make sense of what you see and wonder about what makes the universe exist․",
+    "publication_date": "2025-04-19T00:19:29.073Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_4a511aab-de5b-4956-8bef-75496c9d3742",
+    "name": "RBS Tokyo004",
+    "author_name": "はるる早苗",
+    "description": "4⁄25発売予定",
+    "publication_date": "2025-04-21T12:40:20.043Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_a5c9f5c1-7f9c-417a-9342-8f15c8702be1",
+    "name": "Thad Home of Cuddles",
+    "author_name": "Thad Gyther",
+    "description": "A super comfy home with unique privacy system‚ match making‚ dynamic pillows ＆ pools‚ games‚ and moreǃ",
+    "publication_date": "2025-02-08T07:04:14.286Z",
+    "tags": ["hangout"]
   }
 ]
