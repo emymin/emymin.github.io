@@ -238,6 +238,9 @@ categories:
       - url: https://textmode.art/
         title: textmode.art
         description: textmode.art is a work-in-progress textmode art creation tool that transforms your media into customizable text-based representations.
+      - url: https://icones.js.org/
+        title: Icônes
+        description: Icon Explorer with instant searching
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -495,6 +498,9 @@ categories:
       - url: https://www.privacyguides.org
         title: Privacy Guides
         description: Privacy Guides is the most popular, trustworthy, non-profit website that provides information about protecting your personal data security and privacy.
+      - url: https://linuxphoneapps.org/
+        title: LinuxPhoneApps.org
+        description: LinuxPhoneApps.org is an App Directory that lists apps for Linux Phones like the PinePhone or Librem 5, that run Linux distributions which do not have a proper (de)centralized app store yet.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -899,6 +905,9 @@ categories:
       - url: https://osk.sh/
         title: osk
         description: I'm osk (/ɔsk/), a developer of mostly web experiences specializing in UI/UX.
+      - url: https://eieio.games/
+        title: eieio.games
+        description: I'm Nolen. I make and write for the web because the internet can still be fun
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
