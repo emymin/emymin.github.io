@@ -241,6 +241,9 @@ categories:
       - url: https://icones.js.org/
         title: Icônes
         description: Icon Explorer with instant searching
+      - url: https://tixy.land/
+        title: (t,i,x,y)
+        description: A minimalist coding environment. Control 16x16 points with a single JavaScript function.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -501,6 +504,9 @@ categories:
       - url: https://linuxphoneapps.org/
         title: LinuxPhoneApps.org
         description: LinuxPhoneApps.org is an App Directory that lists apps for Linux Phones like the PinePhone or Librem 5, that run Linux distributions which do not have a proper (de)centralized app store yet.
+      - url: https://www.sensorwatch.net/
+        title: Sensor Watch
+        description: Sensor Watch is a board replacement for the classic Casio F‑91W wristwatch.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1105,6 +1111,9 @@ categories:
       - url: https://www.rtings.com/
         title: RTINGS.com
         description: Find the best products for your needs, based on our reviews, ratings and recommendations.
+      - url: https://micronations.wiki/
+        title: MicroWiki
+        description: MicroWiki is the largest online encyclopædia about micronations, small and often rather eccentric nations that are unrecognised by the wider international community.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

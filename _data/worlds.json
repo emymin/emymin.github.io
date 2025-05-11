@@ -8510,5 +8510,45 @@
     "description": "Warning˸ Since this is a beta version of the map‚ its recommended to play only in an invite⁄invite＋ instance to avoid synchronization issues․ ［25⁄04⁄11］ UPD˸ Small fix",
     "publication_date": "2025-04-08T19:40:19.286Z",
     "tags": ["sandbox","driving"]
+  },
+  {
+    "id": "wrld_da64f96d-7b06-422e-a6bc-ffc937fee620",
+    "name": "ごろにゃんハウス",
+    "author_name": "三色団子。",
+    "description": "Catsǃ Fluffy beds await youcome relaxǃ",
+    "publication_date": "2025-05-03T14:13:49.251Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2932de23-ef6e-4d36-bc7d-97910b88e11d",
+    "name": "Invasion",
+    "author_name": "MitisSnow",
+    "description": "Unknown Invasion （ver0․2）",
+    "publication_date": "2025-04-10T02:10:40.817Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_cbd7de12-c62d-42d4-a473-b176187ea835",
+    "name": "（Not） Victorian Pool",
+    "author_name": "iyFale Edvifin",
+    "description": "It does filled with interactive water for you to make splash though․ （Volumetric Light is disabled by default due to heavy processing․ You can turn it on if you want․）",
+    "publication_date": "2025-05-04T21:43:18.688Z",
+    "tags": ["hangout","tech"]
+  },
+  {
+    "id": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+    "name": "Tiny Life Room",
+    "author_name": "Arfox",
+    "description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
+    "publication_date": "2025-05-06T04:47:12.842Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2f7affb4-65dd-4182-955f-e1dd3a3c05dc",
+    "name": "Sunset Falls",
+    "author_name": "VishiSwaz",
+    "description": "Rest in a warm‚ cozy home with plenty of areas for relaxation and sleep․ Hangout and play games with your friends while being surrounded by nature with many waterfalls and a beautiful sunset․",
+    "publication_date": "2025-05-03T09:36:13.055Z",
+    "tags": ["hangout"]
   }
 ]
