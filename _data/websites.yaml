@@ -926,6 +926,18 @@ categories:
       - url: https://roxyradclyffe.neocities.org/
         title: Roxy Radclyffe
         description: i do art in various forms, typically involving sound & strange visuals. music, cover art, film, webseries, anything in between.
+      - url: https://geokash.com/
+        title: GEOKASH
+        description: This site is a personal archive of software, hardware, thoughts, and things, created to share with anyone curious enough to click around.
+      - url: https://www.denizcemonduygu.com/
+        title: Deniz Cem Önduygu
+        description: Deniz Cem Önduygu likes to understand things and to make them more understandable.
+      - url: https://logangraves.com/
+        title: Logan Graves
+        description: I'm a technical philosopher. I'm in school at Stanford studying symbolic systems and mathematics or something.
+      - url: https://andymatuschak.org/
+        title: Andy Matuschak
+        description: I'm an applied researcher, focused on creating user interfaces that expand what people can think and do.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1126,6 +1138,15 @@ categories:
       - url: https://micronations.wiki/
         title: MicroWiki
         description: MicroWiki is the largest online encyclopædia about micronations, small and often rather eccentric nations that are unrecognised by the wider international community.
+      - url: https://histography.io/
+        title: Historygraphy
+        description: Welcome to Historygraphy, where every dot is a historic event from Wikipedia
+      - url: https://www.openhistoricalmap.org/
+        title: OpenHistoricalMap
+        description: OpenHistoricalMap is an ambitious, community-led project to map changes to natural and human geography throughout the world… throughout the ages.
+      - url: https://galaxy.opensyllabus.org/
+        title: Open Syllabus Galaxy
+        description: This plot shows the most frequently assigned texts in the Open Syllabus corpus
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

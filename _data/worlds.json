@@ -8550,5 +8550,93 @@
     "description": "Rest in a warm‚ cozy home with plenty of areas for relaxation and sleep․ Hangout and play games with your friends while being surrounded by nature with many waterfalls and a beautiful sunset․",
     "publication_date": "2025-05-03T09:36:13.055Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_5017c31a-8259-4c6d-ae47-bd852e07a820",
+    "name": "AD＃0731",
+    "author_name": "Armadawn",
+    "description": "巨大ディスプレイ付きの大ステージホール、カフェ、ショップ、休憩スペースを備えた、大型コンクリート構造のワールドですǃ Armadawn 3D Showcase world․ A large concrete structure with a main stage hall‚ café‚ shop‚ and resting quarters․ ＂ADHOTEL＂",
+    "publication_date": "2025-05-12T15:58:09.936Z",
+    "tags": ["exhibit","hangout"]
+  },
+  {
+    "id": "wrld_253be946-b58a-49a5-9774-5901b7fd3447",
+    "name": "Petal Two - Art Gallery",
+    "author_name": "Beige'",
+    "description": "A daisy‚ a person‚ a grassfield‚ a collection of arts․",
+    "publication_date": "2025-04-26T16:44:26.081Z",
+    "tags": ["exhibit","art"]
+  },
+  {
+    "id": "wrld_42287232-c9fc-4e43-83db-a165f092e9e6",
+    "name": "Snell's Pool",
+    "author_name": "flurrux",
+    "description": "A pool world featuring an experimental water shader‚ built specifically for Quest․ Experience real refraction on your mobile headsetǃ Also check out the diving tower with its 3 to 10 meter platforms․",
+    "publication_date": "2025-05-13T17:52:11.393Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_a29a4e29-c971-4bef-b654-1d33f9e59acb",
+    "name": "Viewfinder Artist Hub",
+    "author_name": "Ikeiwa",
+    "description": "The first hub from the game Viewfinder․",
+    "publication_date": "2025-05-13T01:41:43.989Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_32bb9e76-cab9-4372-a296-f5b3d15c6457",
+    "name": "4wayShaft",
+    "author_name": "Amese",
+    "description": "I love Spherical Linkage （巨大な球面リンク機構の中に入れるワールドです）",
+    "publication_date": "2025-05-14T05:35:58.998Z",
+    "tags": ["tech","art"]
+  },
+  {
+    "id": "wrld_eaa15880-e198-40d5-a7d2-41dfa3146d8f",
+    "name": "完成しなかったものたち展",
+    "author_name": "Coquelicotz",
+    "description": "完成しなかったワールドの思い出や学びを展示しています。毎時5～15分の10分間だけ入場可能です。（入場済のユーザがいればいつでも入場可能です）",
+    "publication_date": "2025-02-15T05:22:11.821Z",
+    "tags": ["exploration","hub"]
+  },
+  {
+    "id": "wrld_6691eec5-9969-4190-b715-a1e905497bf4",
+    "name": "Rooftop Bar",
+    "author_name": "どんぐりちゃん",
+    "description": "BOOTHで販売しているVRChat向けワールド「Rooftop Bar」サンプルワールドです。This is a sample world ＂Rooftop Bar＂ for VRChat sold on BOOTH․",
+    "publication_date": "2025-02-26T17:25:41.781Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_340530b1-1068-4d17-88c1-a6dbffdb7382",
+    "name": "Pavilion Garage by MoscowMule",
+    "author_name": "MoscowMule",
+    "description": "MoscowMuleの愛車歴の中で、印象強く思い出に残っている6台をピックアップして展示したワールドになります。 This world features a curated exhibition of six of the most impressive and memorable cars from MoscowMule's personal vehicle history․",
+    "publication_date": "2025-05-16T00:54:41.702Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_902ffdef-67ac-45c6-b849-de8197e8fe5d",
+    "name": "Offline Plaza",
+    "author_name": "eberstark",
+    "description": "world creators˸ Theslythief ＆ eberstark Join group for events˸ OFLN․5880",
+    "publication_date": "2025-04-24T00:45:04.478Z",
+    "tags": ["club","hangout"]
+  },
+  {
+    "id": "wrld_5c28ebc0-a6d5-4cb9-ada2-fe8c21dac483",
+    "name": "VINYL VOYAGER",
+    "author_name": "_Asylum",
+    "description": "A Retro-Futuristic spaceship straight from the 1950's -- Enjoy a HQ map with all the ambience of the Mid-Century Era․․ Sexy Robot Maids‚ Games‚ T․V‚ Props‚ Pens‚ Food＆Drink‚ Hookahs‚ Cigs‚ Customizable Settings ＆ MOREǃ ǃ ǃ Optimized for parties and eventsǃ -- High Quality Lighting ＆ PBR Materials great for pictures tooǃ",
+    "publication_date": "2025-02-22T12:37:37.949Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_f56876fa-a04c-44cd-94ef-00919e4dd822",
+    "name": "La Mer",
+    "author_name": "De Pelos",
+    "description": "",
+    "publication_date": "2025-05-17T15:20:31.562Z",
+    "tags": ["art"]
   }
 ]
