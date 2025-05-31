@@ -8638,5 +8638,93 @@
     "description": "",
     "publication_date": "2025-05-17T15:20:31.562Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_342eedcb-ea9f-4e00-9d69-19a26af97841",
+    "name": "峠夜景-touge",
+    "author_name": "_ごま_",
+    "description": "ルーフに寝ころび夜景を眺めながら雑談、睡眠でもどうですか？睡眠に必要なギミック、寝ながら見れるVideoPlayer。 問題がありましたらDMください。",
+    "publication_date": "2025-02-23T22:28:31.796Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_f4d1640e-4308-4c2d-9307-5c27e45c1c81",
+    "name": "Speed Puzzler",
+    "author_name": "PlayerBush001",
+    "description": "A （slightly） competitive world‚ where players compete to see who can place the most pieces to get first placeǃ Designed to streamline the process of completing jigsaw puzzles‚ with features only possible in the virtual world; with comfort snapping so there's no need to break your neck‚ leaning over a board just to place a pieceǃ Huge thanks to Drawasaurus for their custom puzzle shader‚ that helps makes each piece unique in shapeǃ ＾＾",
+    "publication_date": "2025-05-17T14:46:33.391Z",
+    "tags": ["puzzle","pvp"]
+  },
+  {
+    "id": "wrld_dfec6a13-ea21-4529-be27-4047e6912f57",
+    "name": "Hazy Glow",
+    "author_name": "Maru~",
+    "description": "Small cozy world set deep in a quiet forest at night‚ surrounded by trees and a calm hazy atmosphere․ Features a warm indoor space perfect for relaxing or hanging out․ Includes YouTube Search‚ chess‚ reversi‚ ASMR ambient sounds‚ player pose system‚ and many interactable items․ Full of customization settings and optimized for both PC and Android․ Ideal for late-night relaxation‚ winding down‚ or falling asleep in a quiet space with a small group․ Supports VRC Light Volumes by RED_SIMǃ",
+    "publication_date": "2025-05-22T16:49:41.447Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_e8201274-33ef-407d-9603-2bc8d2ac55ac",
+    "name": "Clustered Particle Lights",
+    "author_name": "z3y",
+    "description": "128 Clustered Particle Lights github․com⁄z3y⁄ClusteredBIRP Now with Volumetricsǃ",
+    "publication_date": "2025-05-26T09:25:47.595Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_3d8a9315-cc23-42a0-9e4e-c37fb0389681",
+    "name": "POP POP CRANE",
+    "author_name": "코코미찌",
+    "description": "POP POP CRANE sample world ˸ https˸⁄⁄surin․booth․pm⁄items⁄6954755 v1․1․0 Update˸ pressing the Q key allows you to Grab in PC environment․",
+    "publication_date": "2025-05-25T13:39:39.211Z",
+    "tags": ["pve"]
+  },
+  {
+    "id": "wrld_86d60c30-8830-40c3-bc95-cca747939f50",
+    "name": "Test_20250526",
+    "author_name": "クロイヌヨウヘイ",
+    "description": "For My Friend‚Kyoka․",
+    "publication_date": "2025-05-27T11:36:50.307Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_9a4568e3-c8e2-4903-a091-f7b4153be05f",
+    "name": "fluorescent",
+    "author_name": "uro-",
+    "description": "",
+    "publication_date": "2025-05-27T00:56:18.812Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_8d7d7a84-5eea-4d85-a256-8d9cdb431ad6",
+    "name": "Furry Casita",
+    "author_name": "Furality",
+    "description": "¡Holaǃ Furality welcomes you to the Furry Casita‚ a cozy Andalusian-style house on a tranquil Spanish island under the night sky․ Built with Furality's latest advancements in optimization‚ this world is perfect for a relaxing evening with your friends or group․ Host gatherings in the inviting courtyard‚ enjoy themed private rooms‚ play games‚ or watch videos together․ Lovingly crafted for the VR furry community‚ the Furry Casita brings a touch of España to your night in VRChat․",
+    "publication_date": "2025-05-22T22:51:07.384Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_32034ac6-422f-4f89-9456-c1b98e4cce2d",
+    "name": "SAFEHOUSE 9",
+    "author_name": "9Ninety",
+    "description": "nw venue",
+    "publication_date": "2025-02-23T03:37:18.376Z",
+    "tags": ["club"]
+  },
+  {
+    "id": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+    "name": "実写合成ミュージアム-RealPhotoFusionMuseum",
+    "author_name": "K1UCH1",
+    "description": "現実の写真の中に入れるワールドです。写真は随時追加予定。It's a world that puts you in the picture of reality․",
+    "publication_date": "2025-05-24T14:50:09.347Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_702c0fdb-3c73-4beb-9138-d875e207b0f8",
+    "name": "No End House",
+    "author_name": "RyuukaVR",
+    "description": "A short horror experience ［25-40 minutes］ A strange new attraction has appeared in town the No-End House․ They say no one has ever seen the last room",
+    "publication_date": "2025-02-22T01:46:12.448Z",
+    "tags": ["horror","adventure"]
   }
 ]

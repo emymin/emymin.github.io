@@ -250,6 +250,9 @@ categories:
       - url: https://glitchgallery.org/
         title: The Glitch Gallery
         description: This is a museum of accidental art, an enthusiastic embrace of mistakes, a celebration of emergent beauty.
+      - url: https://mercury.sexy/
+        title: MERCURY
+        description: we are a demogroup.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -513,6 +516,12 @@ categories:
       - url: https://www.sensorwatch.net/
         title: Sensor Watch
         description: Sensor Watch is a board replacement for the classic Casio F‑91W wristwatch.
+      - url: https://www.inkandswitch.com/
+        title: Ink & Switch 
+        description: An independent research lab exploring the future of tools for thought.
+      - url: https://goodinternetmagazine.com/
+        title: Good Internet
+        description: Good Internet is a volunteer-run, not-for-profit print and digital biannual magazine for personal website owners and those interested in using the internet as a means of self-expression, art, and recreation.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -655,6 +664,9 @@ categories:
       - url: https://slowroads.io/
         title: Slow Roads
         description: Endless driving zen
+      - url: https://eaglercraft.com/
+        title: Eaglercraft
+        description: You can play Minecraft on PC/Mac/Browser. It can be played in the browser with Eaglercraft, an AOT compiled voxel game inspired from Minecraft designed to run on Javascript. It uses TeaVM and LAX1DUDE's OpenGL emulator to run a Java virtual machine fully compatible with browsers.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -938,6 +950,9 @@ categories:
       - url: https://andymatuschak.org/
         title: Andy Matuschak
         description: I'm an applied researcher, focused on creating user interfaces that expand what people can think and do.
+      - url: https://taylor.town/
+        title: taylor.town
+        description: I write about learning, time, design, software, ideas, and humor.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1147,6 +1162,12 @@ categories:
       - url: https://galaxy.opensyllabus.org/
         title: Open Syllabus Galaxy
         description: This plot shows the most frequently assigned texts in the Open Syllabus corpus
+      - url: https://owlsintowels.org/
+        title: Owls in Towels
+        description: Wildlife rehabilitators often wrap owls in fabric so they can be weighed, treated, and fed. If not, the owls get in a flap. The result? Loads of pictures of owlsintowels
+      - url: https://www.metabunk.org/
+        title: Metabunk
+        description: Metabunk.org is dedicated to the art and pastime of honest, polite, scientific investigating of unusual claims.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
