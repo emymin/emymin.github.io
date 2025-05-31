@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UnityPackage Extractor</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; }
+    #drop-zone { border: 2px dashed #aaa; padding: 2rem; text-align: center; color: #555; }
+    #file-list { margin-top: 1rem; }
+    ul.tree { list-style-type: none; padding-left: 1em; }
+    ul.tree li::before { content: '📁 '; }
+    ul.tree li.file::before { content: '📄 '; }
+    button { margin-top: 1rem; padding: 0.5rem 1rem; }
+  </style>
+</head>
+<body>
+  <h1>UnityPackage Extractor</h1>
+  <div id="drop-zone">Drag &amp; drop a <code>.unitypackage</code> file here</div>
+  <div id="file-list"></div>
+  <button id="download-all" style="display:none;">Download All as ZIP</button>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.0/jszip.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+
+  <script type="module">
+    import untar from 'https://cdn.skypack.dev/js-untar';
+
+    const dropZone = document.getElementById('drop-zone');
+    const fileList = document.getElementById('file-list');
+    const downloadAllBtn = document.getElementById('download-all');
+    let extractedFiles = [];
+
+    dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.style.borderColor = '#444'; });
+    dropZone.addEventListener('dragleave', () => { dropZone.style.borderColor = '#aaa'; });
+    dropZone.addEventListener('drop', e => {
+      e.preventDefault();
+      dropZone.style.borderColor = '#aaa';
+      const file = e.dataTransfer.files[0];
+      if (!file.name.endsWith('.unitypackage')) {
+        alert('Please drop a .unitypackage file.');
+        return;
+      }
+      extractUnityPackage(file);
+    });
+
+    async function extractUnityPackage(file) {
+      fileList.innerHTML = 'Extracting...';
+      const arrayBuffer = await file.arrayBuffer();
+      const decompressed = pako.inflate(new Uint8Array(arrayBuffer)).buffer;
+
+      let entries;
+      try {
+        entries = await untar(decompressed);
+      } catch (err) {
+        console.error(err);
+        alert('Extraction failed');
+        fileList.innerHTML = '';
+        return;
+      }
+
+      fileList.innerHTML = '';
+      extractedFiles = [];
+
+      const pathMap = {};
+      entries.forEach(entry => {
+        const [id, leaf] = entry.name.split('/');
+        if (!pathMap[id]) pathMap[id] = {};
+        pathMap[id][leaf] = entry;
+      });
+
+      const tree = {};
+
+      Object.values(pathMap).forEach(group => {
+        if (group.pathname && group.asset) {
+          const path = new TextDecoder().decode(group.pathname.buffer).trim();
+          const blob = group.asset.blob || new Blob([group.asset.buffer]);
+          extractedFiles.push({ path, blob });
+
+          const parts = path.split('/');
+          let current = tree;
+          for (let i = 0; i < parts.length; i++) {
+            const part = parts[i];
+            current[part] = current[part] || (i === parts.length - 1 ? { __file__: { path, blob } } : {});
+            current = current[part];
+          }
+        }
+      });
+
+      if (!extractedFiles.length) {
+        fileList.textContent = 'No valid assets found.';
+        downloadAllBtn.style.display = 'none';
+        return;
+      }
+
+      fileList.appendChild(renderTree(tree));
+      downloadAllBtn.style.display = 'inline-block';
+    }
+
+    function renderTree(node) {
+      const ul = document.createElement('ul');
+      ul.classList.add('tree');
+      for (const key in node) {
+        const li = document.createElement('li');
+        if (node[key].__file__) {
+          li.classList.add('file');
+          const a = document.createElement('a');
+          a.href = URL.createObjectURL(node[key].__file__.blob);
+          a.download = node[key].__file__.path;
+          a.textContent = key;
+          li.appendChild(a);
+        } else {
+          li.textContent = key;
+          li.appendChild(renderTree(node[key]));
+        }
+        ul.appendChild(li);
+      }
+      return ul;
+    }
+
+    downloadAllBtn.addEventListener('click', async () => {
+      const zip = new JSZip();
+      extractedFiles.forEach(f => zip.file(f.path, f.blob));
+      const content = await zip.generateAsync({ type: 'blob' });
+      saveAs(content, 'extracted_unitypackage.zip');
+    });
+  </script>
+
+</body>
+</html>
