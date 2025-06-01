@@ -6,6 +6,7 @@
   <title>UnityPackage Extractor</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 2rem; }
+    h1 { text-align: center;}
     #drop-zone { border: 2px dashed #aaa; padding: 2rem; text-align: center; color: #555; }
     #file-list { margin-top: 1rem; }
     ul.tree { list-style-type: none; padding-left: 1em; }
@@ -107,7 +108,7 @@
           li.classList.add('file');
           const a = document.createElement('a');
           a.href = URL.createObjectURL(node[key].__file__.blob);
-          a.download = node[key].__file__.path;
+          a.download = key;
           a.textContent = key;
           li.appendChild(a);
         } else {
