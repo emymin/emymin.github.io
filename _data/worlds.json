@@ -8726,5 +8726,77 @@
     "description": "A short horror experience ［25-40 minutes］ A strange new attraction has appeared in town the No-End House․ They say no one has ever seen the last room",
     "publication_date": "2025-02-22T01:46:12.448Z",
     "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_b68dbb8a-4508-4f8e-8419-da4dd3856abb",
+    "name": "Raytrace Dreams",
+    "author_name": "kaniboco",
+    "description": "kaniboco's Avatar WORLD （early access）",
+    "publication_date": "2025-05-31T03:31:35.214Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_d10a1385-eaf3-4d34-b5de-4b758fed626d",
+    "name": "InfiniteCraft",
+    "author_name": "Lonely Sakura",
+    "description": "Combine two words to craft a new oneǃ Discover new words‚ no one has found beforeǃ Powered by AI․",
+    "publication_date": "2025-05-30T23:53:57.246Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_1a1991c3-7dac-418a-8655-e33e6231e176",
+    "name": "Perihelion",
+    "author_name": "Fangs",
+    "description": "A futuristic art deco restaurant with a grand city view‚ Fins's party venues for their birthday and New Year celebrations․ Originally for private use‚ now public with limited functionality․ Light Volume enabled‚ You can turn off the NPC at the mirror toggle․",
+    "publication_date": "2025-06-01T04:24:59.296Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_4f2e8589-99cb-4df5-8d20-d81a551256c1",
+    "name": "Hue Flux",
+    "author_name": "rakurai5",
+    "description": "BGM ˸ 夜半の春⁄uytrere This world supports lighting using VRC Light Volumes by RED_SIM․",
+    "publication_date": "2025-05-31T14:52:20.970Z",
+    "tags": ["tech","art"]
+  },
+  {
+    "id": "wrld_668e8d21-79a0-4ee5-a2cf-3b5f371a92bf",
+    "name": "Light Aquarium",
+    "author_name": "phi16",
+    "description": "Fluid simulation room ⁄ Shoutout to VRC Light Volumesǃ",
+    "publication_date": "2025-06-02T19:07:42.862Z",
+    "tags": ["tech","art"]
+  },
+  {
+    "id": "wrld_3f55a5ff-5fb5-4d81-8ae6-7a25b042ffb1",
+    "name": "The Quiet She Left Behind",
+    "author_name": "FlowersRite花之祭P",
+    "description": "After a long hush and slow restoration‚ the gates are open once more․ ∗This world contains sudden flashing animations․ （V1․07）Powered by CyanTrigger․",
+    "publication_date": "2025-05-31T23:41:15.511Z",
+    "tags": ["exploration","adventure"]
+  },
+  {
+    "id": "wrld_7f0a9b5a-5a2f-4beb-bd26-2809a7bac8f9",
+    "name": "Ancient Cathedral",
+    "author_name": "Okabintaro",
+    "description": "An ancient cathedral with lots of flickering candles․ Uses clustered forward shading （CBIRP） from z3y․ The world is a bit unfinished but I can't get myself to optimize and finish it anytime soon․ WARNING˸ Contains a bright light as part of an animation․",
+    "publication_date": "2025-06-02T02:07:02.752Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_fe6c3170-55a3-4323-a373-4805932a7c2b",
+    "name": "＂ОАЗИС＂",
+    "author_name": "Я не местный",
+    "description": "Сменщик обещал утром приехать․․․ А оно здесь бывает?",
+    "publication_date": "2025-06-03T18:29:36.563Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_c2c0a30b-51d8-46d1-a62f-d17b0ca28911",
+    "name": "Cosmos",
+    "author_name": "suzuki_i",
+    "description": "Cosmos",
+    "publication_date": "2025-06-02T15:29:05.463Z",
+    "tags": ["tech","sandbox"]
   }
 ]
