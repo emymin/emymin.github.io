@@ -6592,14 +6592,6 @@
     "tags": ["photogrammetry","exploration"]
   },
   {
-    "id": "wrld_d141fbfd-9640-4c8e-afb1-027685ea68dd",
-    "name": "What Is Virtual Art",
-    "author_name": "VMoVA",
-    "description": "This is a PREVIEW of a new exhibition by VMoVA․",
-    "publication_date": "2024-08-09T19:57:17.724Z",
-    "tags": ["art","exhibit"]
-  },
-  {
     "id": "wrld_3a918e80-4045-455d-a230-5725e1d42044",
     "name": "April Waters",
     "author_name": "Sumeru",
@@ -8798,5 +8790,45 @@
     "description": "Cosmos",
     "publication_date": "2025-06-02T15:29:05.463Z",
     "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_0d046ff7-cc29-47e0-be5b-c8973806afe6",
+    "name": "Liminal - Room Tours",
+    "author_name": "~Zoid~",
+    "description": "Explore a large enclosed liminal space that doesn't seem to ever endǃ Relax to the deep droning sounds of the emptiness that you can never escape~",
+    "publication_date": "2021-09-10T16:32:02.570Z",
+    "tags": ["exploration","horror"]
+  },
+  {
+    "id": "wrld_6c0f92cb-6525-4009-bdbe-44004d64f260",
+    "name": "Vampire's Den",
+    "author_name": "Silent",
+    "description": "An elaborate ballroom planetarium connects to a strange‚ red pool․ Is that․․․ blood? It looks so inviting․․․ ＃ This is a recreation of an area from Bloodmasque‚ a lost iOS game․ ＃ Feedback‚ suggestions? Send them to me on my social accountsǃ",
+    "publication_date": "2025-06-07T15:25:56.164Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_d141fbfd-9640-4c8e-afb1-027685ea68dd",
+    "name": "What Is Virtual Art - Volume 1",
+    "author_name": "VMoVA",
+    "description": "Welcome to our group exhibition【What Is Virtual Art - Volume 1】‚ available in English and Chinese․ 丨 250606",
+    "publication_date": "2024-08-09T19:57:17.724Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+    "name": "Navy Blue",
+    "author_name": "とみー⁄Tommy",
+    "description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
+    "publication_date": "2025-06-08T12:05:27.971Z",
+    "tags": ["pvp","★"]
+  },
+  {
+    "id": "wrld_be17580d-d307-4eb6-98b8-871e346c5868",
+    "name": "The Avatarcade",
+    "author_name": "DarkBlade909",
+    "description": "An 80s inspired arcade full of avatars․ Originally built off of Dogtown from CS2",
+    "publication_date": "2025-06-09T14:13:45.632Z",
+    "tags": ["art","avatar"]
   }
 ]

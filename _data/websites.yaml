@@ -528,6 +528,9 @@ categories:
       - url: https://goodinternetmagazine.com/
         title: Good Internet
         description: Good Internet is a volunteer-run, not-for-profit print and digital biannual magazine for personal website owners and those interested in using the internet as a means of self-expression, art, and recreation.
+      - url: https://www.historicaltechtree.com/
+        title: Historical Tech Tree
+        description: The historical tech tree is a project by Étienne Fortier-Dubois to visualize the entire history of technologies, inventions, and (some) discoveries, from prehistory to today.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -962,6 +965,15 @@ categories:
       - url: https://lectronice.com/
         title: lectronice
         description: I design video games for a living.
+      - url: https://melankorin.net
+        title: melankorin.net
+        description: Ramblings of an eternally sleep-deprived loser.
+      - url: https://22yk01.neocities.org/
+        title: cable world
+        description: This place is home to my diary, hobbies, reviews and various kinds of paraphernalia
+      - url: https://sixey.es/
+        title: SIX_EYES
+        description: Welcome to here website. Step inside! There is no danger, no danger at all. Anyway yeah, would you help me appreciate the consequences of my experiments...? 
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1177,6 +1189,9 @@ categories:
       - url: https://www.metabunk.org/
         title: Metabunk
         description: Metabunk.org is dedicated to the art and pastime of honest, polite, scientific investigating of unusual claims.
+      - url: https://causegraph.github.io/causalaxies
+        title: CauseGraph
+        description: CauseGraph visualizes relationships between things over time, such as art, science, philosophy, technology...
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
