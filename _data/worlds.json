@@ -4315,7 +4315,7 @@
     "id": "wrld_55d2d7c5-de48-4a6d-9828-41428ea97876",
     "name": "みんなでPlanarity UdonPlanarity",
     "author_name": "aruma256",
-    "description": "Simple multiplayer puzzle game. 点を動かし、交差を解消せよ / Move nodes to untangle! / 原作は John Tantalo 氏による Planarity です。 / The original game is Planarity by John Tantalo. / このワールドは、同氏が MIT License で公開している raphael.planarity を元に改変(U#移植、マルチプレイ化、異なる問題生成アルゴリズムの適用など)したスクリプトを含みます。",
+    "description": "Simple multiplayer puzzle game. 点を動かし、交差を解消せよ / Move nodes to untangle! / 原作は John Tantalo 氏による Planarity です。 / The original game is Planarity by John Tantalo.",
     "publication_date": "2023-11-05T05:49:31.235Z",
     "tags": ["puzzle"]
   },
@@ -5579,7 +5579,7 @@
     "id": "wrld_86931150-5d44-472c-9621-063760a74e62",
     "name": "MergeAvatarGame",
     "author_name": "Hyakuashi",
-    "description": "撮影した同じアバター画像をくっつけて大きくする遊びです ゲーム自体はローカルです 枠を選択し「Cheese!!」で撮影。 上書きされたくない枠はロックアイコンを有効化してください。 「All Images」のチェックを入れると一度の撮影ですべての枠を上書きできます。 全ての枠が埋まったら「Start」でゲームを遊べます。 撮影は被写体が連続であるように撮ってください。 The game itself is local. Select a frame and shoot with 'Cheese!!'. Activate the lock icon for frames you do not want to be overwritten. If 'All Images' is checked, you can overwrite all frames in one shot. When all the frames are filled, click 'Start' to play the game. Please take pictures so that the subjects are in sequence.",
+    "description": "撮影した同じアバター画像をくっつけて大きくする遊びです ",
     "publication_date": "2023-11-04T15:28:01.503Z",
     "tags": ["tech","strategy"]
   },
@@ -6035,7 +6035,7 @@
     "id": "wrld_32ea3f32-46f9-4c8f-ad67-c43945cab8fc",
     "name": "虚拟数码博物馆 Virtual Digital Product Museum",
     "author_name": "Con11",
-    "description": "《虚拟数码博物馆》是一个以消费类电子产品为主题的虚拟博物馆，目前已经开放游览中，正在 Beta 测试中，可能会有部分错误和问题，可以进群交流和反馈建议。 'Virtual Digital Product Museum' is a virtual museum with the theme of consumer electronics. It is currently open for tours and is in beta testing. There may be some errors and problems. You can join the QQ group to communicate and give feedback.",
+    "description": "'Virtual Digital Product Museum' is a virtual museum with the theme of consumer electronics. It is currently open for tours and is in beta testing. There may be some errors and problems. You can join the QQ group to communicate and give feedback.",
     "publication_date": "2024-05-19T14:39:15.395Z",
     "tags": ["exhibit"]
   },
@@ -8075,7 +8075,7 @@
     "id": "wrld_7f7d9740-e81c-48e4-86f9-d7690ea5e6ae",
     "name": "Vacuum Cleaning Simulator",
     "author_name": "琴うみ【ことうみ】",
-    "description": "埃と落ち葉を全部集めると何かが現れる！それとクリアタイムを写真にとってXに＃VacuumCleaningVRC と呟こう！サポートなしでクリアの場合ワールドにお名前と記録を展示します！ 同期の問題で、本気で全部集めるときは一人でやることをおすすめします。リセットありますが同期ずれなどが起こる可能性があるので新しいインスタンスをおすすめします。 Collect all the dust and fallen leaves‚ and something special will appearǃ Take a picture of it and time‚ and tweet with the hashtag ＃VacuumCleaningVRC on Xǃ If you were able to complete without support‚ your name and record will be displayed in the worldǃ Also‚ due to synchronization issues‚ we recommend being in a private instance by yourself when you're seriously trying to collect everything․ There is a reset button available‚ but since synchronization issues may occur‚ we recommend creating a new instance instead․",
+    "description": "埃と落ち葉を全部集めると何かが現れる！",
     "publication_date": "2025-02-28T14:56:05.625Z",
     "tags": ["tech","sandbox","coop"]
   },
@@ -8371,7 +8371,7 @@
     "id": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
     "name": "VRC 新宿駅 Shinjuku Station",
     "author_name": "Artistoid",
-    "description": "［ X -≻ ＃VRSJK ］ VRC新宿ワールドへようこそ！ VRChatで最も有名な路上ライブ専用ワールドを目指しています。 音楽が好きな方は、ぜひお気軽にご参加ください！ VRC신주쿠 월드입니다․ VRChat에서 가장 유명한 버스킹 월드를 목표로 하고있습니다․ 음악을 좋아하신다면 자유롭게 들어오세요 ǃ Welcome to the VRC Shinjuku Worldǃ We aim to become the most famous busking world in VRChat․ If you love music‚ feel free to join usǃ",
+    "description": "［ X -≻ ＃VRSJK ］ VRC新宿ワールドへようこそ！ VRChatで最も有名な路上ライブ専用ワールドを目指しています。",
     "publication_date": "2025-04-04T09:38:19.224Z",
     "tags": ["art"]
   },
@@ -8830,5 +8830,85 @@
     "description": "An 80s inspired arcade full of avatars․ Originally built off of Dogtown from CS2",
     "publication_date": "2025-06-09T14:13:45.632Z",
     "tags": ["art","avatar"]
+  },
+  {
+    "id": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
+    "name": "Seclusion",
+    "author_name": "Rixiz",
+    "description": "A small concrete room․ ｜ VizVid ⁄ QvPen ⁄ FlipCamera ⁄ RBS SleepKit 2 ⁄ VRCLightVolumes",
+    "publication_date": "2025-06-07T05:07:02.858Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_18964b8f-76f9-4233-ab48-ae5aaa65360b",
+    "name": "Small Private Jet Remastered",
+    "author_name": "Twi_Ecli",
+    "description": "A small private jet for you to relax during a business trip․ Fully interactive automatic pilot‚ real time instruments․ Interactive flight entertainment and moreǃ The remastered version of my first ever VRChat world‚ Small Private Jetǃ",
+    "publication_date": "2025-06-11T12:30:06.692Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2c1d433b-7f32-4147-b917-ef336816aad4",
+    "name": "路地裏学園2",
+    "author_name": "DARANDY",
+    "description": "路地裏学園2 Rojiura gakuen 2 ≻ 5年前に制作を断念した、未完成のワールドです。 ≻ 開発は停止しており、現在は「room00」のみ入室できます。",
+    "publication_date": "2025-06-10T10:06:38.097Z",
+    "tags": ["exploration","hangout"]
+  },
+  {
+    "id": "wrld_89112876-1c0d-429b-8901-6003ceac8404",
+    "name": "群青コントレイル ~Blue Contrail ''Gunjo''~",
+    "author_name": "puri_san",
+    "description": "日本のどこかにある高台の洋館で、移りゆく雨模様と遠くの街の灯りを眺めながら、心ほどけるひとときをお過ごしください。 ｜ Hillside Manor - A Japanese Rainy Evening Retreat ｜ Hashtag ˸ ＃Gunjo3D",
+    "publication_date": "2025-04-25T10:45:40.491Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_dd7b4190-ad62-49c5-a9f5-921d25d9f6a4",
+    "name": "Sunlightnap",
+    "author_name": "milk_purin",
+    "description": "YamaPlayer⁄Qvpen⁄VRC Hand Menu⁄VRCLightVolumes",
+    "publication_date": "2025-06-11T20:05:22.884Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_a94fe344-90c9-4284-bbcd-35defdd3b2f1",
+    "name": "Sequencer - Make Music with Friendsǃ",
+    "author_name": "otterpop_uwu",
+    "description": "Make music with your friends in this music sequencer worldǃ The music is synced between everyone‚ so have fun and make some BANGERS․ bsky ＠otterpop․io",
+    "publication_date": "2025-06-11T20:20:57.488Z",
+    "tags": ["music","sandbox"]
+  },
+  {
+    "id": "wrld_f350fbb5-eff4-4ef1-a761-c3cb819bcfe8",
+    "name": "Nimbus",
+    "author_name": "Mitrah",
+    "description": "A floating sanctuary above the clouds wher you can explore floating islands and ethereal structures suspended above the clouds․ Nimbus invites wanderers‚ photographers‚ and chill-seekers alike to discover a peaceful realm built for quiet moments‚ social hangs‚ and scenic exploration․ Catch golden hour while hopping between islands‚ or simply vibe to the ambient soundscape high above the world below․ Built for VR and desktop alike‚ Nimbus is optimized for immersion‚ reflection‚ and connection․",
+    "publication_date": "2025-06-10T18:29:35.123Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_8e0c918e-b8bb-4718-bec2-b7f7aece0fc2",
+    "name": "Stalker",
+    "author_name": "BLG18",
+    "description": "1․2 Version",
+    "publication_date": "2025-06-08T15:13:25.634Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_23db0675-221e-4584-8d0c-fefddbee09cb",
+    "name": "COLOR THEORY",
+    "author_name": "_Asylum",
+    "description": "A Small Abstract Lighting scene that showcases volumetrics‚ lighting ＆ color theory for a weird brain tickle․ This world has a subconscious un-locker for inspiration․․ Will update this with more rooms and scenes for testing in future․ This world supports VRC Light Volumes․ Use avatar shaders with VRC Light Volumes support for an enhanced visual experience․ VRC Light Volumes by RED_SIM GitHub˸ https˸⁄⁄githubcom⁄REDSIM⁄VRCLightVolumes⁄",
+    "publication_date": "2025-06-15T04:57:15.517Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_d6e55ea7-5fdc-42ac-93cd-f285fc22cd04",
+    "name": "Tsumuri Kart",
+    "author_name": "ゲコつむり",
+    "description": "アイテムを駆使して1位を目指せ！ Let's play Tsumuri Kart！",
+    "publication_date": "2023-03-09T15:28:04.437Z",
+    "tags": ["driving","pvp"]
   }
 ]
