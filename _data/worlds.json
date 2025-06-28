@@ -8821,7 +8821,7 @@
     "author_name": "とみー⁄Tommy",
     "description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
     "publication_date": "2025-06-08T12:05:27.971Z",
-    "tags": ["pvp","★"]
+    "tags": ["pvp"]
   },
   {
     "id": "wrld_be17580d-d307-4eb6-98b8-871e346c5868",
@@ -8910,5 +8910,69 @@
     "description": "アイテムを駆使して1位を目指せ！ Let's play Tsumuri Kart！",
     "publication_date": "2023-03-09T15:28:04.437Z",
     "tags": ["driving","pvp"]
+  },
+  {
+    "id": "wrld_c5586ae4-0a47-470f-989e-5f6e2bb1ad18",
+    "name": "Room 312 （Silent Hill 2 Remake）",
+    "author_name": "ControVR",
+    "description": "Are you taping again? C'mon․․․ VRCLightVolumes Supported",
+    "publication_date": "2025-06-16T17:36:26.080Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_30d48bbd-03bf-44eb-99e1-2e93d7315f3f",
+    "name": "Cozy Forest",
+    "author_name": "гоѕеfаll",
+    "description": "A Chill world in the middle of the Forest ˸3",
+    "publication_date": "2025-03-24T22:21:23.101Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_c2f0e718-0a2d-41e8-bdd2-3dafa0dbbcb0",
+    "name": "ABYSSAL",
+    "author_name": "AlteredState",
+    "description": "∗∗Some issues for late-joiners∗∗Crank World Volume ＆ Don't Limit Particlesǃ Both a chill-out zone and a cozy horror map on a seabed drilling rig site․ Two buttons to useǃ Find the ladder․ No jump scares‚ creatures do not chase․ Vibe out to the horrors of the deep sea․ Tunes by Gravekeepr․ Light Probes could use some work‚ I'll tweak‚ this is a WIP․",
+    "publication_date": "2025-06-15T12:48:46.006Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
+    "name": "Just Airship",
+    "author_name": "と び う お（Tobiuo）",
+    "description": "飛行船を操縦することのできるワールドです。ゆったり飛べる飛行船で空の旅をお楽しみください。",
+    "publication_date": "2025-06-21T12:23:58.746Z",
+    "tags": ["flying","exploration","★"]
+  },
+  {
+    "id": "wrld_90a06e9c-e9e5-43a7-84c2-61ca0b4d51a1",
+    "name": "Kohada Stadium",
+    "author_name": "kohadachan",
+    "description": "This is a world where anyone can experience the feeling of being the star of a large-scale music festivalǃ",
+    "publication_date": "2025-03-06T19:20:16.369Z",
+    "tags": ["club","music","sandbox"]
+  },
+  {
+    "id": "wrld_7855b6de-fb32-4f35-adc4-30e745502d2c",
+    "name": "Cathedral of Mercury",
+    "author_name": "Onlooker Alice",
+    "description": "Cathedral of Mercury from Wuthering Waves in Rinascita‚ Raguuna․ Conversion and lighting by Onlooker Alice （me）․ Assets provided by ＠Urek_Mazino （Twitter） （Gladius_Tyrfing on Discord）․ Original by KuroGames․ Lighting in the world may not exactly reflect as in-game․ World lighting is customized by my own only․ Do not judge․",
+    "publication_date": "2025-06-25T03:45:22.967Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_8a4a128d-32df-4a45-8ac6-cd34486aa5d3",
+    "name": "夜行性の生き物 - Wanderers",
+    "author_name": "浜名湖なこ",
+    "description": "頭上で暗い雲 というか真夜中だから真っ暗",
+    "publication_date": "2025-06-26T13:55:39.061Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_0185e17f-648c-4b1b-87ab-57d8333855a3",
+    "name": "Night Class ~교실의 밤~",
+    "author_name": "yoi_･ิᴗ･ิ",
+    "description": "집으로 돌아가지 않고 빗소리가 들리는 교실에서 친구들과 잠을 자볼까요? How about falling asleep with your friends in a rainy classroom‚ instead of going home? 家に帰らずに、雨音が聞こえる教室で友だちと一緒に眠ってみない？",
+    "publication_date": "2025-06-27T06:28:05.174Z",
+    "tags": ["hangout"]
   }
 ]

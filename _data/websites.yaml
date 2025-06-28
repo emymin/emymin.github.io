@@ -676,6 +676,12 @@ categories:
       - url: https://eaglercraft.com/
         title: Eaglercraft
         description: You can play Minecraft on PC/Mac/Browser. It can be played in the browser with Eaglercraft, an AOT compiled voxel game inspired from Minecraft designed to run on Javascript. It uses TeaVM and LAX1DUDE's OpenGL emulator to run a Java virtual machine fully compatible with browsers.
+      - url: https://www.timdle.com/
+        title: Timdle
+        description: Challenge yourself with Timdle, the daily timeline game where you arrange historical events in chronological order.
+      - url: https://www.ardacraft.me/
+        title: Ardacraft
+        description: ArdaCraft is building the largest and most detailed recreation of J.R.R. Tolkien's Middle-earth ever made.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1192,6 +1198,12 @@ categories:
       - url: https://causegraph.github.io/causalaxies
         title: CauseGraph
         description: CauseGraph visualizes relationships between things over time, such as art, science, philosophy, technology...
+      - url: https://ncatlab.org
+        title: nLab
+        description: This is a wiki for collaborative work on Mathematics, Physics, and Philosophy — especially (but far from exclusively) from the higher structures point of view
+      - url: https://thick-coins.net/
+        title: Thnickels
+        description: Nickels are too thin we need a much heftier coin. That is why I am making thicker coins in my new minting facility.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
