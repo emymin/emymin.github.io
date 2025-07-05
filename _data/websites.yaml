@@ -531,6 +531,9 @@ categories:
       - url: https://www.historicaltechtree.com/
         title: Historical Tech Tree
         description: The historical tech tree is a project by Étienne Fortier-Dubois to visualize the entire history of technologies, inventions, and (some) discoveries, from prehistory to today.
+      - url: https://letsdecentralize.org/
+        title: Let's Decentralize
+        description: This is a website dedicated to methods of decentralized publishing on the web.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -682,6 +685,15 @@ categories:
       - url: https://www.ardacraft.me/
         title: Ardacraft
         description: ArdaCraft is building the largest and most detailed recreation of J.R.R. Tolkien's Middle-earth ever made.
+      - url: https://travle.earth/
+        title: travle
+        description: Name countries to travel from the Start Country to the End Country. Try to get there in the fewest guesses!
+      - url: https://openguessr.com/
+        title: OpenGuessr
+        description: Free GeoGuessr alternative with unlimited playtime and multiplayer. Play GeoGuessr free of charge and learn geography by guessing the location!
+      - url: https://openfront.io/
+        title: OpenFront
+        description: OpenFront.io is a real time strategy game with simple controls
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
