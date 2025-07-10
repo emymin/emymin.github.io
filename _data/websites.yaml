@@ -685,6 +685,9 @@ categories:
       - url: https://www.ardacraft.me/
         title: Ardacraft
         description: ArdaCraft is building the largest and most detailed recreation of J.R.R. Tolkien's Middle-earth ever made.
+      - url: https://t2tmud.org/
+        title: the two towers
+        description: The Two Towers MUD is a free Multiplayer Online Roleplaying Game set entirely within Tolkien's world of Middle-earth, at the time of 'Lord of the Rings'.
       - url: https://travle.earth/
         title: travle
         description: Name countries to travel from the Start Country to the End Country. Try to get there in the fewest guesses!
@@ -992,6 +995,12 @@ categories:
       - url: https://sixey.es/
         title: SIX_EYES
         description: Welcome to here website. Step inside! There is no danger, no danger at all. Anyway yeah, would you help me appreciate the consequences of my experiments...? 
+      - url: https://muffinman.io/
+        title: Muffin Man
+        description: Hello, I'm Stanko, a software engineer in Amsterdam, making digital products and generative art.
+      - url: https://cinni.net/
+        title: cinni's dream home
+        description: meowdy. i created this site in 2018 because i missed the old net with sites like the quilting bee and yume studio.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1216,6 +1225,9 @@ categories:
       - url: https://thick-coins.net/
         title: Thnickels
         description: Nickels are too thin we need a much heftier coin. That is why I am making thicker coins in my new minting facility.
+      - url: https://mynoise.net/
+        title: myNoise
+        description: Discover a world of immersive and customizable soundscapes that can enhance focus, relaxation, and sleep.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
