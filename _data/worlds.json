@@ -5496,14 +5496,6 @@
     "tags": ["exhibit"]
   },
   {
-    "id": "wrld_a96c95fb-34c8-46d0-af6f-e0ca891e47f6",
-    "name": "Polyrhythm",
-    "author_name": "SkyeSage",
-    "description": "patreon.com/SkyeSageCreations | EPILEPSY WARNING | i made this overnight lol",
-    "publication_date": "2024-03-20T07:50:16.380Z",
-    "tags": ["music","experience"]
-  },
-  {
     "id": "wrld_3b8a6e7c-793c-4cd4-866a-07b6e4c26dc3",
     "name": "Peirene Fountain + SilVR 3.1",
     "author_name": "Blake447",
@@ -9078,5 +9070,93 @@
     "description": "1․0 Version",
     "publication_date": "2025-06-30T15:13:15.473Z",
     "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_b375abeb-330b-4934-9c28-9d2f60d7a173",
+    "name": "kaizokomplex III",
+    "author_name": "kaizomario1234",
+    "description": "",
+    "publication_date": "2024-12-29T07:25:37.325Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_ffc0f4fa-f815-49df-a14b-633bc5c41446",
+    "name": "MAYBE?",
+    "author_name": "TheZiver",
+    "description": "fun vaporwave themed world‚ often used by the FISH ＜＞＜ COMMUNITY for events․",
+    "publication_date": "2025-03-23T08:39:27.102Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b5e47924-b481-460d-a07f-d7bd90360da7",
+    "name": "CI Art Studio",
+    "author_name": "Wys_teria",
+    "description": "Creative Impression's personal Art Studioǃ There are many canvases to use‚ along with an oil paint canvasǃ",
+    "publication_date": "2025-07-11T23:31:40.043Z",
+    "tags": ["hangout","art","sandbox"]
+  },
+  {
+    "id": "wrld_14eac0f8-d69d-4e69-932c-530353d1d8e6",
+    "name": "ceramic shelter",
+    "author_name": "ᴄᴇʀᴀᴍɪᴄ",
+    "description": "遥か遠く 新しい目覚め ｜ Original created by Coquelicotz․",
+    "publication_date": "2025-07-13T00:51:38.517Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ba6e987e-4ee0-4687-90a7-a17750d035bd",
+    "name": "The Wasp Room",
+    "author_name": "Cyrista",
+    "description": "WARNINGǃǃǃ FLASHING LIGHTSǃǃǃ A room full of wasps․ Now with an avatarǃǃǃǃ",
+    "publication_date": "2025-07-11T22:30:01.876Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_5b9c79d7-3e2c-47af-a7cc-2ae79206f7fe",
+    "name": "喵子立大功0v0",
+    "author_name": "齊 iii",
+    "description": "Homeward you come․ 你是那归乡的远风",
+    "publication_date": "2025-07-06T14:22:55.706Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_a37e2f9c-fabb-44ff-a3bd-16bccd51c924",
+    "name": "Elysia",
+    "author_name": "Eliteiment",
+    "description": "Exclusive access to the new map in The Third Ascension of Elite's RNG Land․",
+    "publication_date": "2025-07-15T05:25:45.976Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
+    "name": "波打ち際と",
+    "author_name": "nemu90kWw․",
+    "description": "遠浅海岸の長い砕波帯に打ち付ける荒波を再現した特殊な海シェーダー「nmSeashore」を使用したワールドです。浮き輪を使って海の上でぷかぷかできます",
+    "publication_date": "2025-07-18T16:22:32.509Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_277f56ff-c9da-4bb6-9514-7c620cc1e00c",
+    "name": "西つつじヶ丘児童遊園 ⁄ Nishi-Tsutsujigaoka Children's Playground",
+    "author_name": "ぽぶ茶_pob",
+    "description": "東京都調布市にある西つつじヶ丘児童遊園の 3D Gaussian Splattingです。 撮影日：2025⁄07⁄19 This is a 3D Gaussian Splatting of Nishi-Tsutsujigaoka Children's Playground in Chofu‚ Tokyo‚ Japan․ Date taken˸ 2025⁄07⁄19",
+    "publication_date": "2025-07-20T12:58:49.378Z",
+    "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_c8470313-b94b-4e4f-8db6-f4a5adb4cb3e",
+    "name": "Outside",
+    "author_name": "Studio Imago",
+    "description": "Do you have a ticket?",
+    "publication_date": "2025-07-19T14:05:26.307Z",
+    "tags": ["adventure","hangout","★"]
+  },
+  {
+    "id": "wrld_36117d86-d759-4b9c-962e-eb25c8caebdf",
+    "name": "Sunset Bay",
+    "author_name": "~Sam",
+    "description": "A modern home with many cozy spots․ Complete with mirrors‚ video player‚ pens‚ coffee and gamesǃ Uses VRC Light Volumes․",
+    "publication_date": "2025-07-19T01:39:40.077Z",
+    "tags": ["hangout"]
   }
 ]

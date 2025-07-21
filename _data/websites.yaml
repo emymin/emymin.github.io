@@ -259,6 +259,18 @@ categories:
       - url: https://frutigeraeroarchive.org/
         title: Frutiger Aero Archive
         description: A website dedicated to archiving everything Frutiger Aero, but not only that, it is a love letter to the 2000s and a place for people who grew up during those years to relive nostalgic memories that they had through flash games, music, videos, and other media.
+      - url: https://lainzine.org/
+        title: Lainzine
+        description: the Lainzine is a free, not-for-profit zine created (largely) by / for fans of the late-90s anime Serial Experiments Lain and the many relevant communities, websites, and dusty art-projects it has inspired over the last decades.
+      - url: https://www.ubu.com/
+        title: UbuWeb
+        description: UbuWeb is a pirate shadow library consisting of hundreds of thousands of freely downloadable avant-garde artifacts.
+      - url: https://solarpunk.cool/
+        title: Solarpunk.Cool
+        description: The premiere website for cool solarpunks
+      - url: https://xixxii.neocities.org/
+        title: xixxii
+        description: a cyber free pile. a digital knickknack shelf. a web scrapbook. an ever-expanding repository of Stuff with no overarching theme besides xo's personal amusement.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -534,6 +546,12 @@ categories:
       - url: https://letsdecentralize.org/
         title: Let's Decentralize
         description: This is a website dedicated to methods of decentralized publishing on the web.
+      - url: https://libre.space/
+        title: Libre Space Foundation
+        description: Our Vision is an Open and Accessible Outer Space for all. We believe that space should be claimed the libre (open source) way.
+      - url: https://solarprotocol.net/
+        title: Solar Protocol
+        description: This website is hosted across a network of solar powered servers and is sent to you from whichever server is in the most sunshine. 
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -697,6 +715,9 @@ categories:
       - url: https://openfront.io/
         title: OpenFront
         description: OpenFront.io is a real time strategy game with simple controls
+      - url: https://tacticfront.io/
+        title: TacticFront
+        description: Browser Based RTS Game
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1001,6 +1022,12 @@ categories:
       - url: https://cinni.net/
         title: cinni's dream home
         description: meowdy. i created this site in 2018 because i missed the old net with sites like the quilting bee and yume studio.
+      - url: https://iwillneverbehappy.neocities.org
+        title: iwillneverbehappy
+        description: I am a computer science and math undergraduate student from Korea, currently studying in the United States.
+      - url: https://karlsims.com/
+        title: Karl Sims
+        description: Karl Sims is a digital media artist and visual effects software developer.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1228,6 +1255,12 @@ categories:
       - url: https://mynoise.net/
         title: myNoise
         description: Discover a world of immersive and customizable soundscapes that can enhance focus, relaxation, and sleep.
+      - url: https://tjukanovt.github.io/notable-people
+        title: Notable People
+        description: Using data from Morgane Laouenan et al., the map is showing birthplaces of the most "notable people" around the world.
+      - url: https://bearblog.dev
+        title: Bear Blog
+        description: A privacy-first, no-nonsense, super-fast blogging platform
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
