@@ -9158,5 +9158,85 @@
     "description": "A modern home with many cozy spots․ Complete with mirrors‚ video player‚ pens‚ coffee and gamesǃ Uses VRC Light Volumes․",
     "publication_date": "2025-07-19T01:39:40.077Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_91c74bc6-0ead-420a-9f11-15ce32a3c57e",
+    "name": "The Old Town of Lijiang - Night（丽江古城·夜）",
+    "author_name": "Fallen_ice",
+    "description": "The old town from Lijiang‚ China․ Exported from the EpicWork team's 2013 Minecraft map․ Thank them for bringing their workǃ Here is the night version․ ⁄ 中国的丽江古镇，来自 EpicWork 团队于2013年创作的 Minecraft 地图。非常感谢他们带来的作品！此为夜间版本。",
+    "publication_date": "2025-07-22T08:23:06.821Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_7ebc8181-0a9b-46bf-9b75-aea9ca289aad",
+    "name": "Baldwin Mansion （The Last of Us Part II）",
+    "author_name": "SBee",
+    "description": "Baldwin Mansion from The Last of Us Part II‚ includes a video player․ Assets from Naughty Dog․",
+    "publication_date": "2025-07-17T09:55:20.174Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_c59bfc2e-e3fa-4368-ae01-8d054529affa",
+    "name": "スープ温泉 Soup Onsen",
+    "author_name": "アナゴ（shrimpfrog）",
+    "description": "クルたん行きつけの温泉。ひたひたになろう！ ⁄クルトン入り瓶をUseするとクルトンのアバター「クルたん」のAvatar Pedestalが表示されます。⁄スポーン地点付近にあるオレンジのスイッチを押すと水泳システムのコントロールパネルが表示されます。 ⁄コンソメの湯（白皿）左奥の壁にあるオレンジのスイッチを押すと動画プレイヤーの表示を変更（最小、巨大化、非表示 の順）できます。 ⁄コンソメの湯（白皿）右奥にあるペッパーミルをUseするとコンソメの湯（白皿）の中央に黒コショウを振りかけることができます（上限あり）。黒コショウは3分間残留します。",
+    "publication_date": "2023-02-26T17:52:01.635Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_45d430c0-2a0c-4d7b-b848-bd950fda5e5f",
+    "name": "- 川北東橋 ⁄ Kawakita-higashi Bridge - 3DGS",
+    "author_name": "DEKA_KEIJI777V",
+    "description": "このワールドはテスト用です。【場所˸徳島市 川北東橋・撮影日˸2023年5月2日・Splat数˸300万・撮影枚数˸約780枚】当時撮影データをフォトグラメトリに使用する予定だったものを試しに3D Gaussian Splattingに使用してみました。ノイズが多いですが楽しんでいただけたら嬉しいです。",
+    "publication_date": "2025-07-23T09:32:13.916Z",
+    "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_91216c98-a1db-4be6-8ebf-05088b335825",
+    "name": "Gaussian Splat Mega Gallery",
+    "author_name": "misha_m",
+    "description": "Huge gallery of high quaility gaussian splats https˸⁄⁄github․com⁄MichaelMoroz⁄VRChatGaussianSplatting",
+    "publication_date": "2025-07-24T13:59:36.064Z",
+    "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_2556cfdb-3266-46fc-992d-5587867cd5a8",
+    "name": "青色微炭酸-blue soda-",
+    "author_name": "ごめんちゅぉ",
+    "description": "どこまでも広がる青い空、心安らぐ音色を奏でる碧い海。水着で過ごすチルワールドです。クリームソーダ片手に写真撮りたい。 imagepad‚QVペン、動画プレイヤー、睡眠システム導入。 どこでも寝れるようにタブレットで操作できます。The endless blue sky and the azure sea with its soothing sounds․ It's a chill world where you can spend time in your swimsuit․ I want to take a photo with a cream soda in hand․ Imagepad‚ QV pen‚ video player‚ and sleep system are installed․ You can operate it with a tablet so you can sleep anywhere․",
+    "publication_date": "2025-07-25T13:49:49.456Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_6c6dae9a-b166-49fd-9410-737fc8c1c3fe",
+    "name": "Paradisa",
+    "author_name": "Fins",
+    "description": "A slice of District Roboto‚ Paradisa is a safe haven for cats located outside of Complex 7․ Refreshing waves‚ surfing board‚ kites‚ far from the dark and lurking danger of the invaders․ Update 7⁄28 ˸ fixed a number of bugs ⁄ extra and missing colliders ⁄ added",
+    "publication_date": "2025-07-25T19:25:08.122Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_ec609b47-2b6b-4644-b8af-9e44eefa923d",
+    "name": "Cozy Nest",
+    "author_name": "justper",
+    "description": "Cozy Nest․ Chill and hang out in this cozy placeǃ Vizvid TV‚ Bed room‚ Cozy area․ This world supports VRC Light Volumes․",
+    "publication_date": "2025-07-22T23:12:37.871Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b92b44e1-bd57-4100-9d49-c6eaee90c7de",
+    "name": "Glimmer Glade",
+    "author_name": "Mei ʚɞ",
+    "description": "A cozy glade and a fairy cottage in an enchanted forest with youtube search․",
+    "publication_date": "2025-07-26T02:09:43.170Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_36c8c2af-1b98-4395-8c0d-69d2348c5b9a",
+    "name": "巨大数展 - Exhibition of Large Numbers -",
+    "author_name": "toh_csecb",
+    "description": "ただただ大きい数について考える。 そんなロマン溢れる巨大数の世界をあなたも覗いてみませんか？ Quest‚ Mobile は検証環境がないため、見た目が崩れている可能性があります。",
+    "publication_date": "2025-07-28T14:39:20.370Z",
+    "tags": ["exhibit"]
   }
 ]

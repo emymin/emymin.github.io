@@ -271,6 +271,9 @@ categories:
       - url: https://xixxii.neocities.org/
         title: xixxii
         description: a cyber free pile. a digital knickknack shelf. a web scrapbook. an ever-expanding repository of Stuff with no overarching theme besides xo's personal amusement.
+      - url: https://16colo.rs/
+        title: 16colo.rs
+        description: 16colo.rs is an archive of ANSI and ASCII art. Preserving artpacks released through the BBS underground artscene since the early 1990s until the present.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -552,6 +555,9 @@ categories:
       - url: https://solarprotocol.net/
         title: Solar Protocol
         description: This website is hosted across a network of solar powered servers and is sent to you from whichever server is in the most sunshine. 
+      - url: https://open-slum.org/
+        title: SLUM
+        description: The Shadow Library Uptime Monitor (SLUM) is a US-based server that tracks the real-time availability of the most popular shadow libraries.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -718,6 +724,9 @@ categories:
       - url: https://tacticfront.io/
         title: TacticFront
         description: Browser Based RTS Game
+      - url: https://taisei-project.org/
+        title: Taisei Project
+        description: Taisei (泰西, lit. Occident) is a free and open-source fangame of the Tōhō series, written in C using SDL2 and OpenGL. 
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1028,6 +1037,9 @@ categories:
       - url: https://karlsims.com/
         title: Karl Sims
         description: Karl Sims is a digital media artist and visual effects software developer.
+      - url: https://pault.ag/
+        title: Paul Tagliamonte
+        description: I have successfully programmed a computer at least once.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1261,6 +1273,15 @@ categories:
       - url: https://bearblog.dev
         title: Bear Blog
         description: A privacy-first, no-nonsense, super-fast blogging platform
+      - url: https://www.gbif.org/
+        title: GBIF
+        description: Global Biodiversity Information Facility. Free and Open Access to Biodiversity Data.
+      - url: https://liberapay.com/
+        title: Liberapay
+        description: Liberapay is a way to donate money recurrently to people whose work you appreciate.
+      - url: https://cryptome.org/
+        title: Cryptomec
+        description: Cryptome welcomes documents for publication that are prohibited by governments worldwide
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
