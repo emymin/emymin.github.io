@@ -274,6 +274,9 @@ categories:
       - url: https://16colo.rs/
         title: 16colo.rs
         description: 16colo.rs is an archive of ANSI and ASCII art. Preserving artpacks released through the BBS underground artscene since the early 1990s until the present.
+      - url: https://wplace.live/
+        title: Wplace
+        description: Wplace is a collaborative, real-time pixel canvas layered over the world map, where anyone can paint and create art together.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -558,6 +561,9 @@ categories:
       - url: https://open-slum.org/
         title: SLUM
         description: The Shadow Library Uptime Monitor (SLUM) is a US-based server that tracks the real-time availability of the most popular shadow libraries.
+      - url: https://gnuworldorder.info/
+        title: GNU World Order
+        description: GNU World Order is an internet audio show about GNU, Linux, UNIX, and other technical and geeky topics. I release this show in open source audio formats. 
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -727,6 +733,9 @@ categories:
       - url: https://taisei-project.org/
         title: Taisei Project
         description: Taisei (泰西, lit. Occident) is a free and open-source fangame of the Tōhō series, written in C using SDL2 and OpenGL. 
+      - url: https://mk48.io/
+        title: mk48.io
+        description: Mk48.io is a multiplayer naval combat game.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1040,6 +1049,18 @@ categories:
       - url: https://pault.ag/
         title: Paul Tagliamonte
         description: I have successfully programmed a computer at least once.
+      - url: https://qalle.neocities.org/
+        title: Qalle’s home page!
+        description: My hobbies are math, computers, electronics, games and (spoken) languages.
+      - url: https://april.nekoweb.org/
+        title: April's Meowtastic Website!
+        description: My hobbies mostly relates to programming/building computers and photography.
+      - url: https://twey.io/
+        title: twey.io
+        description: I like syntax, semantics, programming languages, natural languages, formal verification, and other things
+      - url: https://scyy.fi/
+        title: Sarabet Chang Yuye
+        description: I turned thirty at some point and accreted a bunch of blog posts. time to put them somewhere
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1368,3 +1389,6 @@ categories:
       - url: https://hypertext.tv/
         title: Hypertext TV
         description: Daily programming for the handmade web. Airing now.
+      - url: https://url.town/
+        title: url.town
+        description: url.town is a web directory curated by the omg.lol community.

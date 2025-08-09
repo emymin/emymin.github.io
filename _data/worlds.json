@@ -9238,5 +9238,61 @@
     "description": "ただただ大きい数について考える。 そんなロマン溢れる巨大数の世界をあなたも覗いてみませんか？ Quest‚ Mobile は検証環境がないため、見た目が崩れている可能性があります。",
     "publication_date": "2025-07-28T14:39:20.370Z",
     "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_3d24ea3a-c9c8-46c3-b1bc-08fea840bfe3",
+    "name": "ばぁちゃん家",
+    "author_name": "_ごま_",
+    "description": "田舎の夏夜をイメージしたワールド。虫の音を聴きながらゆったり過ごしてみませんか？ 基本的なギミックはあります、睡眠にも適しています。 8⁄4花火が使えないことの修正。星のちらつきを修正。和室の明るさを調整。",
+    "publication_date": "2025-07-29T19:03:42.721Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b6ecbe6b-c823-4ac1-af68-cbc02f6fe929",
+    "name": "快適領域⁄Comfort area_VRCLightVolumes",
+    "author_name": "電人コムソー",
+    "description": "AssetCredit VRCLightVolumes by REDSIM VizVid By Explosive Theorem Lab․ ビームライトシェーダー ⁄ BeamLightShader by noriben Filamented Standard for Unity by Starlit Wanderings Container By RoomieTale HomeWorld Competition by OKAMURA",
+    "publication_date": "2025-08-02T09:25:27.132Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_163ea60b-50da-42f0-92a1-ba1137722178",
+    "name": "Hellebore ヘレボー",
+    "author_name": "Artsy Glitch",
+    "description": "Hellebore is a type of flower․ Video Player YouTube Search Lots of toggles Working Jetskis ⁄ Boats Quest compatible Good music ;）",
+    "publication_date": "2025-08-02T04:15:38.631Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_a15406fa-dcf4-49ee-aec9-dc8ae3c2d8cd",
+    "name": "10円玉のしあわせ",
+    "author_name": "さくらめさん",
+    "description": "10円玉握りしめて、 思い出の味をもう一度。 懐かしの駄菓子屋ワールドです。 ⁄ ＂Clutching a 10-yen coin‚ relive the taste of childhood memories․ Welcome to a nostalgic Japanese candy shop'Dagashi-ya'ǃ＂ Dagashi are cheap‚ colorful Japanese snacks once sold in tiny corner shops for kids․ Step into this retro world and experience the charm of old-school sweets․",
+    "publication_date": "2025-08-02T12:30:20.745Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_23a19e15-ac1e-4fe4-894c-e547f7d7c1aa",
+    "name": "来訪 - The Visit",
+    "author_name": "浜名湖なこ",
+    "description": "夜明けまで耐えれば、きっとどこかへ行ってくれるはずだから",
+    "publication_date": "2025-07-31T15:07:33.139Z",
+    "tags": ["horror","experience"]
+  },
+  {
+    "id": "wrld_07e3a779-0717-4530-9d00-4ec7ddebcabb",
+    "name": "Hiroshima Genbaku Dome",
+    "author_name": "龍 lilea",
+    "description": "Hiroshima Atomic Bomb Dome․ Photogrammetiry and 3DGS （3D Gaussian Splatting） ⁄ 明日、2025年8月6日で広島の被爆から80年ですね。これを機に｢原爆ドームVR｣を制作、ワールド公開しました。",
+    "publication_date": "2025-08-05T15:29:13.015Z",
+    "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_41eee024-34ec-43cf-a2f8-2bc16e2896d0",
+    "name": "Dream Ocean",
+    "author_name": "Shinyflvres",
+    "description": "Welcome to Dream Ocean․ Your dreamy‚ cozy home world by the seaǃ Enjoy endless relaxing music and experience the perfect blend of high FPS and a beautiful‚ immersive atmosphere․ Discover a small‚ cozy house where you can watch YouTube videos‚ cuddle up‚ and enjoy time with your loved ones․ Parts of the house are using assets by Dreamy Lake․",
+    "publication_date": "2025-08-05T10:20:06.580Z",
+    "tags": ["hangout"]
   }
 ]
