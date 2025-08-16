@@ -816,6 +816,9 @@ categories:
       - url: https://ithkuil.net/
         title: A Grammar of New Ithkuil
         description: This website presents the grammar of New Ithkuil, a design for a constructed human-usable language.
+      - url: https://massif.la/
+        title: Massif
+        description: Massif is a free, open-source project to collect, curate, and index content for foreign language learners
   - title: Personal
     items:
       - url: https://acko.net/
@@ -1061,6 +1064,9 @@ categories:
       - url: https://scyy.fi/
         title: Sarabet Chang Yuye
         description: I turned thirty at some point and accreted a bunch of blog posts. time to put them somewhere
+      - url: https://aethermug.com
+        title: Aether Mug
+        description: This blog is not about science, philosophy, philosophers, languages, Japan, paintings, sea or air navigation, literature, picture frames, or boxes, although you may be forgiven if at first you believed it is all of these things.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1303,6 +1309,9 @@ categories:
       - url: https://cryptome.org/
         title: Cryptomec
         description: Cryptome welcomes documents for publication that are prohibited by governments worldwide
+      - url: https://onemillionscreenshots.com/
+        title: One Million Screenshots
+        description: Zoom into the web's top homepages
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
