@@ -277,6 +277,9 @@ categories:
       - url: https://wplace.live/
         title: Wplace
         description: Wplace is a collaborative, real-time pixel canvas layered over the world map, where anyone can paint and create art together.
+      - url: https://www.sum.si/
+        title: ŠUM
+        description: Šum is a Ljubljana-based journal focusing on contemporary art and theory-fiction, established in 2013 by a self-organized group of artists and theorists.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -564,6 +567,9 @@ categories:
       - url: https://gnuworldorder.info/
         title: GNU World Order
         description: GNU World Order is an internet audio show about GNU, Linux, UNIX, and other technical and geeky topics. I release this show in open source audio formats. 
+      - url: https://byte.tsundoku.io/
+        title: Byte - a visual archive
+        description: This zoomable map shows every page of every issue of BYTE starting from the front cover of the first issue (top left) to the last page of final edition (bottom right).
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1067,6 +1073,15 @@ categories:
       - url: https://aethermug.com
         title: Aether Mug
         description: This blog is not about science, philosophy, philosophers, languages, Japan, paintings, sea or air navigation, literature, picture frames, or boxes, although you may be forgiven if at first you believed it is all of these things.
+      - url: https://voidcruiser.nl/
+        title: The Voidcruiser 
+        description: If you’re a sane person, you might be wondering why I made this site.
+      - url: https://sizeof.cat/
+        title: sizeof(cat)
+        description: I write about retro computing, music, various programming languages, personal projects and general stuff that crosses my mind.
+      - url: https://hermitage.utsob.me/
+        title: Hermitage
+        description: With such noise and bustle around us, one cannot help but build a hermitage in one's mind for contemplation and peace.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/

@@ -9326,5 +9326,109 @@
     "description": "A small puzzle world about an alchemist losing his mind․",
     "publication_date": "2025-08-16T01:12:58.080Z",
     "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_3d425f09-a92f-48c1-b68a-12269ebadc28",
+    "name": "The Painted Chapter",
+    "author_name": "Moavi",
+    "description": "A cozy storybook world where pages turn into places․ Relax by the fire‚ stroll to the beach‚ or find the hidden forest․ Read any book‚ paint‚ play games‚ or enjoy music‚ tea‚ and sweet treats․",
+    "publication_date": "2025-07-17T06:14:25.680Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_9936b6ff-e523-4066-9e40-a333320ff5d3",
+    "name": "New Generation ⁄ 新世代",
+    "author_name": "_Harim",
+    "description": "Anyway‚ time passes and generations change․ ［ Special thanks to 'HANI․'",
+    "publication_date": "2025-08-14T17:14:06.232Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_0ab57861-abb2-4802-8783-4ae089ea268b",
+    "name": "Spatialography",
+    "author_name": "VoxelKei",
+    "description": "Spatialography is a coined term that links Spatial （denoting space） with -graphy （denoting modes of depiction）․ Technologies such as photogrammetry and Gaussian splatting have brought new means to record and reconstruct real-world places․ Just as photography and film evolved from mere documentation into expressive media‚ so too will media that handle space develop techniques that go beyond simple recording․ This world exhibits a series of prototype works created with questions in mind˸ how can these techniques be used as modes of expression? which methods are suited to the format of space? is it possible to make works that seem to speak through space? Spatialography is not a single work title; rather‚ it is a term we use to denote the ongoing practice and inquiry of transforming recorded space into expressive form․",
+    "publication_date": "2025-08-18T17:19:18.722Z",
+    "tags": ["exhibit","photogrammetry"]
+  },
+  {
+    "id": "wrld_7d9c601f-495d-433d-b117-6546b52462c4",
+    "name": "Cozy Island",
+    "author_name": "jojos38",
+    "description": "A peaceful flying island above the sea‚ featuring a comfy house with a pool‚ a video player‚ pens‚ and relaxing hangout vibes․ This map is still being worked on‚ apologies for potential bugsǃ V1․3",
+    "publication_date": "2025-08-18T18:56:01.568Z",
+    "tags": ["hangout","★"]
+  },
+  {
+    "id": "wrld_89b2f9b8-0600-4b5d-a32a-771d8134af31",
+    "name": "The Shaft",
+    "author_name": "ミーさん",
+    "description": "乗り物に乗っている限り縦方向無限ループ。 As long as you are on the vehicle‚ it will loop vertically infinitely․",
+    "publication_date": "2025-08-19T15:10:20.997Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_c5995bda-10ae-4098-af72-90be902e7ae9",
+    "name": "4DGaussianSplatting?",
+    "author_name": "めし【Meshi】",
+    "description": "https˸⁄⁄github․com⁄hustvl⁄4DGaussianshttps˸⁄⁄github․com⁄albertpumarola⁄D-NeRF https˸⁄⁄github․com⁄facebookresearch⁄Neural_3D_Videohttps˸⁄⁄github․com⁄MichaelMoroz⁄VRChatGaussianSplatting",
+    "publication_date": "2025-08-21T03:44:47.653Z",
+    "tags": ["tech","photogrammetry"]
+  },
+  {
+    "id": "wrld_f96f9d27-fb3b-4f68-b9d5-94b4d431aab2",
+    "name": "Sunset Bash",
+    "author_name": "Rum Ham",
+    "description": "Sunset Bashǃ A beach house party⁄hangout map with some drinking games and chill spots․ Credit˸ spookyghostboo for a lot of the used assets in this worldǃ Included in the map˸ audiolink‚ beer pong‚ pool‚ chess‚ and a Brendan Fraser Cutoutǃ Come have a drink at this house party and stay a whileǃ",
+    "publication_date": "2025-08-23T07:27:20.567Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_361933f9-3fe5-4e2d-82ce-492a3a5206a6",
+    "name": "010-The Last Stop-",
+    "author_name": "Charlie2538",
+    "description": "Countless spirits of light float in the dark night․ ＂Dream of Tokoyo no Mori＂ The moment you step inside‚ the boundary between reality and fantasy becomes blurred․ The whispering of the plants and trees‚ and the ruined torii gates awaken lost memories․ When you get lost in this forest‚ you will discover your true self․ The answer lies hidden in the silence․",
+    "publication_date": "2025-08-25T18:18:33.901Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_001cd042-67f9-4953-b3e3-cb71054d0bca",
+    "name": "無限大 - 鬼滅の刃 - Kimetsu No Yaiba",
+    "author_name": "themizu",
+    "description": "The Infinity Castle",
+    "publication_date": "2025-08-26T00:21:20.797Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_2ac4be44-b3ee-421c-b41f-c5d2cb129278",
+    "name": "To Dust˸ Terrain Physics Sandbox",
+    "author_name": "Torvid",
+    "description": "splish splash",
+    "publication_date": "2025-08-26T15:48:07.396Z",
+    "tags": ["tech","★"]
+  },
+  {
+    "id": "wrld_27153d8c-cd95-4207-afca-8ed02239fdd0",
+    "name": "Forest of Eternity",
+    "author_name": "chu-ri",
+    "description": "I'm desperate for it․ May this forest last forever Made by 민소담_ HANI․ Chu-ri",
+    "publication_date": "2025-05-19T17:28:24.649Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_5bb75ec9-1a19-4d93-b3d2-8e963f72d56a",
+    "name": "Seclusion․002",
+    "author_name": "Hinori_0",
+    "description": "Seclusion․002",
+    "publication_date": "2025-08-26T14:34:20.259Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_cbe65a8b-84eb-4564-a102-6b0844028ad5",
+    "name": "Speed Draw",
+    "author_name": "pimpekBK",
+    "description": "Speed Draw is a fun game where you and your friends draw and vote on each others art․ to see whos the best artist․",
+    "publication_date": "2025-08-25T06:02:37.961Z",
+    "tags": ["art","party-game"]
   }
 ]
