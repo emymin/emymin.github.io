@@ -9405,7 +9405,7 @@
     "author_name": "Torvid",
     "description": "splish splash",
     "publication_date": "2025-08-26T15:48:07.396Z",
-    "tags": ["tech","★"]
+    "tags": ["tech","sandbox","★"]
   },
   {
     "id": "wrld_27153d8c-cd95-4207-afca-8ed02239fdd0",
@@ -9430,5 +9430,37 @@
     "description": "Speed Draw is a fun game where you and your friends draw and vote on each others art․ to see whos the best artist․",
     "publication_date": "2025-08-25T06:02:37.961Z",
     "tags": ["art","party-game"]
+  },
+  {
+    "id": "wrld_371ac143-2d2e-43ba-93be-d29effba1fac",
+    "name": "Roman Dream Pool",
+    "author_name": "Peachy_Fried",
+    "description": "A small pool world meant to emulate that liminal‚ backrooms‚ and dead mall feeling‚ but a bit more cozy․",
+    "publication_date": "2025-08-28T08:56:03.112Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_9b2e37c7-f726-4171-ae12-155e95e0d369",
+    "name": "MIRAGE by TOKYO WAIYOZ",
+    "author_name": "Yan-K",
+    "description": "Originally premiered at VFes 2025‚ re-edited for Venice Immersive․ ｜ Director˸ ROKUMORI_ ＠Mori_vrc ｜ Music˸ 3R2 ＠3R2 ｜ Technical˸ Artist Yan-K ＠YanKMW",
+    "publication_date": "2025-08-28T01:47:06.876Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_faaf2532-6236-45b9-b5d8-a159961e1100",
+    "name": "somunium",
+    "author_name": "somuniaofficial",
+    "description": "インターネットのどこかで歌う少女「somunia」に関する情報を収めた空間。 ＂somunium＂ is a space created to preserve information about somunia․ Whether you know her or not‚ you can enjoy a peaceful moment within a beautiful architectural space․",
+    "publication_date": "2025-08-31T15:31:16.269Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_1f522eeb-a6c4-45af-96c3-6c647fdf82e9",
+    "name": "【VRMV】Pavlovian Love",
+    "author_name": "Coco_Mo",
+    "description": "15作目",
+    "publication_date": "2025-09-01T16:58:08.555Z",
+    "tags": ["music","experience"]
   }
 ]

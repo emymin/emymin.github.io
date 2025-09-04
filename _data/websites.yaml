@@ -570,6 +570,9 @@ categories:
       - url: https://byte.tsundoku.io/
         title: Byte - a visual archive
         description: This zoomable map shows every page of every issue of BYTE starting from the front cover of the first issue (top left) to the last page of final edition (bottom right).
+      - url: https://searchengine.party/
+        title: Search Engine Party
+        description: Compare popular search engines across security and privacy related data points.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1082,6 +1085,12 @@ categories:
       - url: https://hermitage.utsob.me/
         title: Hermitage
         description: With such noise and bustle around us, one cannot help but build a hermitage in one's mind for contemplation and peace.
+      - url: https://www.jonashietala.se/
+        title: Jonas Hietala
+        description: Hi! I'm Jonas Hietala, a writer, developer and wannabe code monkey. 
+      - url: https://t3x.org/
+        title: t3x.org
+        description: I am glad you are here! You might very well be the only one today! 
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
