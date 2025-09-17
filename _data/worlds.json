@@ -9462,5 +9462,53 @@
     "description": "15作目",
     "publication_date": "2025-09-01T16:58:08.555Z",
     "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_e831f47b-414e-43f3-9a9c-b9e02694da62",
+    "name": "風が遺した願いごと",
+    "author_name": "enoki_noko",
+    "description": "忘れたはずの空が見えて",
+    "publication_date": "2025-07-05T10:30:34.651Z",
+    "tags": ["exploration","★"]
+  },
+  {
+    "id": "wrld_c7f764d7-72d8-497d-9e89-c389d1d47e01",
+    "name": "CS2 ar_baggage",
+    "author_name": "Meowcat285",
+    "description": "WIP port of ar_baggage from CS2․ Lighting still needs work and don't get me started on materials․ Build 3 update˸ Materials coloring and some other fixes",
+    "publication_date": "2025-09-07T12:45:09.221Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_10ffd05e-2023-4fe8-a4b4-70c27b00e489",
+    "name": "Tokogrammetry Museum",
+    "author_name": "Tokoyoshi",
+    "description": "フォトグラメトリと3DGSをぎっしり詰め込んだ巨大ミュージアム！ 圧倒的ボリュームに大満足間違いなし！ Photogrammetry ＆ 3DGS Museum․",
+    "publication_date": "2025-09-05T10:48:33.573Z",
+    "tags": ["photogrammetry","exhibit","★"]
+  },
+  {
+    "id": "wrld_6403865f-7db3-49e6-971f-0a027087be28",
+    "name": "Gain a Point （2＋ Players Game）",
+    "author_name": "Secret Eros",
+    "description": "A game where you try to gain a point‚ but you don't know the rule on how to get points․",
+    "publication_date": "2021-09-12T17:40:32.362Z",
+    "tags": ["party-game"]
+  },
+  {
+    "id": "wrld_9a3f1282-937b-4409-bbd0-6292b5667906",
+    "name": "The Orthodox Church of St Constantine",
+    "author_name": "Mr Stirfry",
+    "description": "Hello and welcome to my orthodox church worldǃ here you will see my design of an orthodox church I made for my Orthodox brothers and sisters in VRC․ I hope you enjoy your visit and favorite the world if you like itǃ god blessǃ",
+    "publication_date": "2025-09-07T23:56:51.721Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_a2d2ab94-c846-48a0-bb6a-c89da7a4b59b",
+    "name": "Flight Week - Hangar",
+    "author_name": "TeamNegentropic",
+    "description": "AROSE VR Ground Crew Training Walkaround and Maintenance",
+    "publication_date": "2025-09-12T19:00:40.846Z",
+    "tags": ["experience","exhibit"]
   }
 ]
