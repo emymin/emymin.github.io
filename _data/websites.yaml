@@ -280,6 +280,15 @@ categories:
       - url: https://www.sum.si/
         title: ŠUM
         description: Šum is a Ljubljana-based journal focusing on contemporary art and theory-fiction, established in 2013 by a self-organized group of artists and theorists.
+      - url: https://pcmusic.info/
+        title: PC Music
+        description: London-based Record Label
+      - url: https://thaer.no
+        title: thær
+        description: The Æther, a realm beyond our own
+      - url: https://stylestage.dev/
+        title: Style Stage
+        description: A modern CSS showcase styled by community contributions
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -745,6 +754,12 @@ categories:
       - url: https://mk48.io/
         title: mk48.io
         description: Mk48.io is a multiplayer naval combat game.
+      - url: https://fairychess.app/
+        title: Fairy Chess
+        description: Fairy Chess Game
+      - url: https://messenger.abeto.co/
+        title: Messenger
+        description: It's a small planet, but someone's gotta make the deliveries.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1091,6 +1106,9 @@ categories:
       - url: https://t3x.org/
         title: t3x.org
         description: I am glad you are here! You might very well be the only one today! 
+      - url: https://simone.computer
+        title: Simone's Computer
+        description: Simone Marzulli's personal website, feel free to click your favourite buttons!
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1336,6 +1354,12 @@ categories:
       - url: https://onemillionscreenshots.com/
         title: One Million Screenshots
         description: Zoom into the web's top homepages
+      - url: https://sacred-texts.com/
+        title: Internet Sacred Text Archive
+        description: Explore the world's largest free archive of religious, spiritual, and esoteric texts.
+      - url: https://www.catalogueoflife.org/
+        title: The Catalogue of Life
+        description: The most complete authoritative list of the world's species
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

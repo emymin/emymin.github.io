@@ -9510,5 +9510,53 @@
     "description": "AROSE VR Ground Crew Training Walkaround and Maintenance",
     "publication_date": "2025-09-12T19:00:40.846Z",
     "tags": ["experience","exhibit"]
+  },
+  {
+    "id": "wrld_ab2c1526-c1b1-419d-b138-be32591e799f",
+    "name": "VRC PIXELART EXHIBITION 2․0",
+    "author_name": "Kakulity_",
+    "description": "114名のPixelArtist達によるPixelartの合同展示会場です。",
+    "publication_date": "2025-09-13T15:52:58.578Z",
+    "tags": ["exhibit","art"]
+  },
+  {
+    "id": "wrld_68cd9caa-a1a1-4519-a638-fdc6f71ae2fa",
+    "name": "The Story Thus Far",
+    "author_name": "CoverVR_001",
+    "description": "The definition of a nostalgia trip․ Lets take a trip to worlds of the past 5 years‚ redefined in a brand new wayǃ",
+    "publication_date": "2025-09-19T18:42:12.995Z",
+    "tags": ["exploration","art"]
+  },
+  {
+    "id": "wrld_9be1cada-92ec-4e81-a90b-a9f389b94935",
+    "name": "Rooftop Container",
+    "author_name": "もこじる",
+    "description": "少し遅めの朝、澄み渡る空を少しでも近い場所にて眺めつつ一休み。 ⁄ Low latency VideoPlayer⁄ Mirror ⁄ Pen ⁄ CoffeeSet ⁄ Drinks ⁄ SideDish ⁄ ImageViewer ⁄ SleepSystem ⁄",
+    "publication_date": "2025-09-23T18:22:16.024Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b7f70654-00c4-4b22-a9d5-b819949ce91e",
+    "name": "Touhou Danmaku Show Showcase ~ Lake of Blood v1․05",
+    "author_name": "Niriu",
+    "description": "In this world you can view all the new touhou styled danmaku shows Ayana made （please note‚ only the master can toggle the danmaku shows‚ also‚ late joiners will not be able to see the currently playing danmaku show）",
+    "publication_date": "2025-09-26T20:18:41.705Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_05d7266f-7313-48ba-99a5-7adde28c9923",
+    "name": "VHS Video Player",
+    "author_name": "EGirlRᴇᴘᴇʟʟᴇɴᴛ",
+    "description": "A 70s ⁄ 80s World that uses a custom VHS Filter shader that works on Video Playersǃ",
+    "publication_date": "2025-09-26T10:00:16.705Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_a5a668dc-6147-4b23-8619-2ed6979f9928",
+    "name": "Moonlit Lodge",
+    "author_name": "Bia_Kawaii_Br",
+    "description": "A lake lodge to relax or party at nightǃ ~Fishing‚ Swimming‚ Games‚ YT Search‚ Pens‚ Chill areas‚ 32 Languages‚ Vip⁄Master settings and Option to activate a Adjustable DJ stage․",
+    "publication_date": "2025-09-27T00:58:37.175Z",
+    "tags": ["hangout"]
   }
 ]
