@@ -289,6 +289,12 @@ categories:
       - url: https://stylestage.dev/
         title: Style Stage
         description: A modern CSS showcase styled by community contributions
+      - url: https://ambigr.am/
+        title: Ambigr.am
+        description: We are a passionate group of artists, enthusiasts, and learners dedicated to the magical world of ambigrams!
+      - url: https://superspl.at/
+        title: SuperSplat
+        description: Edit, publish, share and browse 3D Gaussian Splats with the open source SuperSplat platform.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -582,6 +588,12 @@ categories:
       - url: https://searchengine.party/
         title: Search Engine Party
         description: Compare popular search engines across security and privacy related data points.
+      - url: https://cheat.sh/
+        title: cheat.sh
+        description: The only cheat sheet you need
+      - url: https://diskprices.com/
+        title: Disk Prices
+        description: Comparison of all hard drives and SSDs on Amazon, sorted by price per TB
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1109,6 +1121,21 @@ categories:
       - url: https://simone.computer
         title: Simone's Computer
         description: Simone Marzulli's personal website, feel free to click your favourite buttons!
+      - url: https://sandyuraz.com/
+        title: Sandy's Website
+        description: This place exists between dream and reality, mind and matter.
+      - url: https://ryan.freumh.org/
+        title: Ryan Gibb 
+        description: Hi, I’m Ryan, a PhD student in the University of Cambridge Computer Lab. Welcome to my website, take a look around.
+      - url: https://fi-le.net/
+        title: fi-le.net
+        description: Welcome to fi-le.net, a collection of software and writing.
+      - url: https://gavide.dev/
+        title: Gavide's Blog
+        description: Hi, my name is Davide, I am a self-taught backend developer and a CS student.
+      - url: https://www.gregegan.net/
+        title: Greg Egan's Home Page
+        description: I am a science fiction writer and computer programmer.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1360,6 +1387,9 @@ categories:
       - url: https://www.catalogueoflife.org/
         title: The Catalogue of Life
         description: The most complete authoritative list of the world's species
+      - url: https://sciurls.com/
+        title: SciURLs
+        description: Read science news from the most popular science websites in one place.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
