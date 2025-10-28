@@ -295,6 +295,9 @@ categories:
       - url: https://superspl.at/
         title: SuperSplat
         description: Edit, publish, share and browse 3D Gaussian Splats with the open source SuperSplat platform.
+      - url: https://ifdb.org/
+        title: The Interactive Fiction Database
+        description: IFDB is a game catalog and recommendation engine for Interactive Fiction, also known as Text Adventures.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -594,6 +597,21 @@ categories:
       - url: https://diskprices.com/
         title: Disk Prices
         description: Comparison of all hard drives and SSDs on Amazon, sorted by price per TB
+      - url: https://mkaandorp.github.io/hdd-of-babel/
+        title: HDD of Babel
+        description: Welcome to the HDD of Babel, which stores all data that ever was, is, or will be!
+      - url: https://antikythera.org/
+        title: Antikythera
+        description: Antikythera is a research and development institute focused on understanding the evolution of planetary intelligence and envisioning its scaling through computational systems. 
+      - url: https://tmpout.sh/
+        title: tmp.0ut
+        description: ELF Research Group
+      - url: https://phrack.org/
+        title: Phrack
+        description: Phrack is both a technical journal and a cultural document. Like all zines, it represents a snapshot of the scene at the time
+      - url: https://pagedout.institute/
+        title: Paged Out!
+        description: Paged Out! is a free experimental (one article == one page) technical magazine about programming (especially programming tricks!), hacking, security hacking, retro computers, modern computers, electronics, demoscene, and other similar topics.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -653,6 +671,9 @@ categories:
       - url: https://www.vrcvm.com/
         title: VRC Vending Machine Project
         description: A collection of vending machine screenshots from VRChat worlds, inspired by The Video Game Soda Machine Project.
+      - url: https://sia-vr.com/
+        title: シアVR
+        description: 沢山のワールドを巡りしたい人向けのVRChatワールド紹介サイトです！
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -1136,6 +1157,9 @@ categories:
       - url: https://www.gregegan.net/
         title: Greg Egan's Home Page
         description: I am a science fiction writer and computer programmer.
+      - url: https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com
+        title: マリウス
+        description: According to Google reCAPTCHA, Hcaptcha and Cloudflare Turnstile, I’m a robot
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1390,6 +1414,9 @@ categories:
       - url: https://sciurls.com/
         title: SciURLs
         description: Read science news from the most popular science websites in one place.
+      - url: https://phiresky.github.io/isbn-visualization
+        title: ISBN Visualization
+        description: The total ISBN13-Space only has two billion slots. Here is my interactive visualization of that space
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
