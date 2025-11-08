@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Soup</title>
+  <style>
+    html,body {
+      background-color: black;
+      margin: 0;
+      height: 100%;
+    }
+
+    #out {
+      width: 100vw;
+      height: 100vh;
+      box-sizing: border-box;
+      border: 2px solid #333;
+      color: white;
+      font-family: monospace;
+      font-size: smaller;
+      white-space: pre;
+      overflow: auto;
+      padding: 10px;
+    }
+
+    .green{
+      color:green;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="out"></div>
+
+  <script>
+    var outElem = document.getElementById('out');
+    var Module = {
+      print: function (text) {
+        const lineLength = 300;
+        const lines = text.match(new RegExp(`.{1,${lineLength}}`, 'g')) || [];
+        outElem.textContent = lines.join("\n");
+      },
+      printErr: function (text) {
+        outElem.textContent += "[ERR] " + text + "\n";
+        outElem.scrollTop = outElem.scrollHeight;
+      }
+    };
+  </script>
+  <script src="soup.js"></script>
+</body>
+
+</html>
