@@ -612,6 +612,15 @@ categories:
       - url: https://pagedout.institute/
         title: Paged Out!
         description: Paged Out! is a free experimental (one article == one page) technical magazine about programming (especially programming tricks!), hacking, security hacking, retro computers, modern computers, electronics, demoscene, and other similar topics.
+      - url: https://radiant.computer/
+        title: Radiant Computer
+        description: Radiant's purpose is to explore what personal computing could be when designed from first principles.
+      - url: https://fossphones.com/
+        title: fossphones
+        description: your number one source for linux phone news
+      - url: https://alterslash.org/
+        title: Alterslash
+        description: Alterslash picks up to the best 5 comments from each of the day’s Slashdot stories, and presents them on a single page for easy reading.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1160,6 +1169,9 @@ categories:
       - url: https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com
         title: マリウス
         description: According to Google reCAPTCHA, Hcaptcha and Cloudflare Turnstile, I’m a robot
+      - url: https://vereis.com/
+        title: Vereis.com
+        description: I have a long history of working on distributed systems using Erlang and Elixir.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1417,6 +1429,9 @@ categories:
       - url: https://phiresky.github.io/isbn-visualization
         title: ISBN Visualization
         description: The total ISBN13-Space only has two billion slots. Here is my interactive visualization of that space
+      - url: https://wholeearth.info/
+        title: Whole Earth Index
+        description: Here lies a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1968 and 2002.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -1509,3 +1524,21 @@ categories:
       - url: https://a-website-is-a-room.net/
         title: A Website Is A Room
         description: These spaces that particularly stood out to me all had some quality of slowness, quiet, and/or gathering.
+      - url: https://searchmysite.net/
+        title: Search My Site
+        description: The searchmysite.net search engine is a boutique search for personal websites (also known as the 'indieweb' or 'small web' or 'digital gardens').
+      - url: https://theforest.link/
+        title: The Forest
+        description: The internet used to feel wild.
+      - url: https://blogroll.org/
+        title: Ye Olde Blogroll
+        description: You are viewing a humanly curated list of 1040 fine personal & independent blogs and sites that are updated regularly.
+      - url: https://peelopaalu.neocities.org/
+        title: Peelopaalu
+        description: Peelopaalu is an unsorted link collection that consists of random websites that I find interesting in some way.
+      - url: https://bukmark.club/
+        title: BUKMARK.CLUB
+        description: The BUKMARK.CLUB is a collection of websites from across the Internet.
+      - url: https://gossipsweb.net/
+        title: Gossip's Web
+        description: the directory of handmade webpages
