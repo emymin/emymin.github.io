@@ -9726,5 +9726,93 @@
     "description": "ジンベイザメやマンタが泳ぐ海中のホームワールドです。ミニバーやベッドルームなどが併設されており、フレンドとのChill",
     "publication_date": "2025-11-07T13:40:04.451Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_402fe576-0d07-48b4-ab85-5a843402c053",
+    "name": "６月３１日",
+    "author_name": "Jumu（じゅむ）",
+    "description": "かがみ【鏡・鑑・鑒】 ˸ 物の姿や形を映し見る道具",
+    "publication_date": "2025-11-09T12:13:01.481Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_0aed64fa-b806-4278-aed5-0e34ce3ca2f1",
+    "name": "BLUMEA․․․",
+    "author_name": "TontonDemon",
+    "description": "Come observe a supernova ready to explode at the Hexalab Industries outpostǃ （EPILEPSY WARNING）",
+    "publication_date": "2025-11-10T01:12:35.039Z",
+    "tags": ["experience"]
+  },
+  {
+    "id": "wrld_3e49e7c3-da21-4239-bbfa-949363feabb8",
+    "name": "Realtime Space Elevator",
+    "author_name": "S_ASAGIRI",
+    "description": "実時間に合わせて動く軌道エレベータです。ゆったりお過ごしください。 ワールドをいったん離れても、次に新しいインスタンスを立てた時は前回最後にいた場所から始まります。 Created by S_ASAGIRI",
+    "publication_date": "2025-11-13T12:53:09.333Z",
+    "tags": ["hangout","experience"]
+  },
+  {
+    "id": "wrld_27afd917-e63d-4142-9c93-6e42292141c1",
+    "name": "Fractal Castle",
+    "author_name": "Sly Boots",
+    "description": "The fake tech demo from the fake leaked trailer for the fake Nintendo On VR console from 2005 （as originally envisioned by Pablo Belmonte‚ aka Psycho3ler）",
+    "publication_date": "2025-11-17T04:15:41.359Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_def569ae-557a-4044-aadf-5293c771f6a8",
+    "name": "VRCub生存二服主城",
+    "author_name": "油光栗子狐",
+    "description": "技术指导：IIFly_AwayII 地图施工：Lingsum",
+    "publication_date": "2025-11-17T11:00:19.702Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_e57aeb35-b904-4f10-9281-b6d3fd218c69",
+    "name": "Frame",
+    "author_name": "Studio Imago",
+    "description": "",
+    "publication_date": "2025-11-22T19:13:35.535Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_3d2d87b4-dad7-4bac-b276-5a54531f8420",
+    "name": "Cozy Christmas",
+    "author_name": "Mei ʚɞ",
+    "description": "A cozy christmas cabin on top of a mountain on a cold night in a snowy forest․",
+    "publication_date": "2025-11-22T00:35:09.012Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_7b02fc2f-0fd2-41ac-aebe-cfde323e7cac",
+    "name": "Brassveil Express",
+    "author_name": "Yonemaru",
+    "description": "This world is themed around a single car of the massive train Brassveil Express‚ which runs endlessly along an infinite track․ It includes various features‚ such as asset switching and fixed-camera viewpoints‚ making it suitable for work‚ casual conversations‚ and gatherings․You can also follow the preserved records of the Echo Finch Operation scattered throughout the world․ ⁄ ⁄ Someone once set a clock for someone else․ Isn't it nice to imagine a story like that? ⁄ ⁄",
+    "publication_date": "2025-11-22T15:34:50.639Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_6b522b9c-215d-4d65-8073-9654ad546864",
+    "name": "Loft Nine",
+    "author_name": "˖Vera˖",
+    "description": "Loft 9 is a cozy modern apartment overlooking a glowing city night․ Chill and sleep under soft lights‚ ambient music‚ gentle rain and the quiet hum of life below․ - Youtube Search‚ Media Player‚ Pens ⁄ QVPen‚ Darkmode and moreǃ - VRC Light Volumes․",
+    "publication_date": "2025-11-07T14:10:54.005Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2e999ffe-0565-4169-9445-a76345ea0a3a",
+    "name": "Undestined - yosumi （Music Experience World）",
+    "author_name": "MIGIRI Inc",
+    "description": "クリエイティブスタジオMIGIRIとバーチャルシンガーyosumiのコラボレーションによる自主制作の体験型音楽ワールドです。 ワールド音量80％以上を推奨。Recommended˸ World Volume 80％ or higher",
+    "publication_date": "2025-11-13T13:24:10.905Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_408009d9-b175-47a3-a4ae-b21bb1998e2f",
+    "name": "かける！こわせる！QvPenのおうち",
+    "author_name": "Forox_JP",
+    "description": "全部がQvPenでできたおうちです！もいだり、書いたり、遊んだりできます！［11․22 コライダー削除ボタンを追加しました］［11․23 いくつかのオブジェクトと世界一大きなペンと消しゴムを追加しました］［11․24 V睡したい方向けの要素を追加しました！］",
+    "publication_date": "2025-11-23T16:26:18.050Z",
+    "tags": ["hangout"]
   }
 ]

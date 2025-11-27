@@ -621,6 +621,9 @@ categories:
       - url: https://alterslash.org/
         title: Alterslash
         description: Alterslash picks up to the best 5 comments from each of the day’s Slashdot stories, and presents them on a single page for easy reading.
+      - url: https://www.commandlinefu.com
+        title: commandlinefu.com
+        description: commandlinefu.com is the place to record those command-line gems that you return to again and again.
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1172,6 +1175,9 @@ categories:
       - url: https://vereis.com/
         title: Vereis.com
         description: I have a long history of working on distributed systems using Erlang and Elixir.
+      - url: https://badd10de.dev/
+        title: Bad Diode
+        description: I’m a musician and programmer that enjoys sharing my knowledge, creating music toys and working on esoteric tools and programming languages.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1432,6 +1438,9 @@ categories:
       - url: https://wholeearth.info/
         title: Whole Earth Index
         description: Here lies a nearly-complete archive of Whole Earth publications, a series of journals and magazines descended from the Whole Earth Catalog, published by Stewart Brand and the POINT Foundation between 1968 and 2002.
+      - url: https://neugierde.github.io/cantors-attic/
+        title: Cantor's Attic
+        description: Climb into Cantor’s Attic, where you will find infinities large and small.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
