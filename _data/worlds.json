@@ -9814,5 +9814,69 @@
     "description": "全部がQvPenでできたおうちです！もいだり、書いたり、遊んだりできます！［11․22 コライダー削除ボタンを追加しました］［11․23 いくつかのオブジェクトと世界一大きなペンと消しゴムを追加しました］［11․24 V睡したい方向けの要素を追加しました！］",
     "publication_date": "2025-11-23T16:26:18.050Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_aca20efe-419a-466f-9245-4b382fc2385f",
+    "name": "White Room",
+    "author_name": "Nagatoro Koyori",
+    "description": "This is a chill world recreating the White Room from the film 2001˸ A Space Odyssey․ 映画『2001年宇宙の旅』に登場するホワイトルームを再現したチルワールドです。",
+    "publication_date": "2025-12-04T16:38:36.964Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_69056a35-87a0-4355-995b-b38fd2d8dcf7",
+    "name": "SPECULA",
+    "author_name": "Studio Imago",
+    "description": "",
+    "publication_date": "2025-12-04T16:08:57.898Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_5a2bf507-10f9-48f7-ac4a-41e86f247d16",
+    "name": "Q_room",
+    "author_name": "qchan949",
+    "description": "大人の癒し空間ROOM系ワールドです",
+    "publication_date": "2020-10-14T02:40:08.141Z",
+    "tags": ["horror","adventure"]
+  },
+  {
+    "id": "wrld_73924737-be09-42bb-8195-5a55012b34d5",
+    "name": "Snowfall Cabin",
+    "author_name": "˖Vera˖",
+    "description": "Snowfall Cabin is a cozy christmas cabin hangout in a snowy winter world with an outdoor ice skating lake․ Relax‚ chill‚ and vibe or sleep with friends․ - Youtube Search‚ Ice Skating‚ Media Player‚ Pens ⁄ QVPen‚ Darkmode and moreǃ - VRC Light Volumes -",
+    "publication_date": "2025-12-05T09:13:25.187Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_7c2e4f35-f164-4a33-adba-469a782a36bf",
+    "name": "Ashen Fairytale",
+    "author_name": "honeyjinsang",
+    "description": "Echoes of a long-forgotten folktale‚ faded and dim‚ suffused with a lifeless glow․ Created with love by babybonito‚ Kelseu‚ and honeyjinsang․",
+    "publication_date": "2024-09-12T16:26:21.473Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_ca0496ae-81d1-4b97-bcfd-00b12962edec",
+    "name": "Night on the Polar Express",
+    "author_name": "Smokinbones",
+    "description": "Ride on the Polar Express through the arctic on a peaceful Christmas night ˸3 This world was a passion project I've been working on for about a year‚ I learned a lot about world making from working on this to hopefully make better worlds in the futureǃ This is my first time making a quest compatable world so hopefully no issues arise from that",
+    "publication_date": "2025-12-06T00:11:12.316Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b79fb4fa-db72-4bbf-8ba6-ccca863c0f01",
+    "name": "NOTHING",
+    "author_name": "별 보기",
+    "description": "Surrounded by EVERYTHING‚ yet accompanied by NOTHING․",
+    "publication_date": "2025-12-05T14:51:48.757Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_2ffbd761-a9cc-4736-8b9a-2ae356482dab",
+    "name": "Suga Jinja",
+    "author_name": "龍 lilea",
+    "description": "聖地巡礼VR！「君の名は。」のあの場所を3DGSで再現しました。一旦仮公開。後日環境音の追加等ブラッシュアップ予定です。I've recreated that location from ＂Your Name․＂ in 3DGSǃ Further refinements‚ including the addition of ambient sounds‚ are planned for a later date․",
+    "publication_date": "2025-12-11T08:01:44.480Z",
+    "tags": ["photogrammetry"]
   }
 ]
