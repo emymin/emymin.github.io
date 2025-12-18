@@ -9878,5 +9878,45 @@
     "description": "聖地巡礼VR！「君の名は。」のあの場所を3DGSで再現しました。一旦仮公開。後日環境音の追加等ブラッシュアップ予定です。I've recreated that location from ＂Your Name․＂ in 3DGSǃ Further refinements‚ including the addition of ambient sounds‚ are planned for a later date․",
     "publication_date": "2025-12-11T08:01:44.480Z",
     "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_4177de5a-99da-4b28-b0b5-d7212c3c07de",
+    "name": "はんだ付け安全教育ワールド「NiceHANDAǃǃ」 -Soldering Simulator-",
+    "author_name": "エンジンかずみ",
+    "description": "-Soldering Simulator- VRではんだ付けを練習できるワールド、「NiceHANDAǃǃ」です。",
+    "publication_date": "2025-12-12T12:20:37.313Z",
+    "tags": ["sandbox"]
+  },
+  {
+    "id": "wrld_793f88dd-227b-4f1b-aea7-f4342c5bb66d",
+    "name": "Liminal Hotel",
+    "author_name": "Kireya",
+    "description": "Liminal Hotel is an adventure world‚ explore multiple rooms‚ get to the core of the hotel and uncover the secrets of this place․",
+    "publication_date": "2025-12-12T01:02:18.347Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_6fd1d57b-c299-4900-84e1-c7ac9da0fa6d",
+    "name": "impermanence",
+    "author_name": "Anonine",
+    "description": "A dark snowy night with only a single functioning light",
+    "publication_date": "2025-12-14T11:27:37.300Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_f8f0f184-eb27-468d-97bb-e7f33720809a",
+    "name": "cnsky ［beta］",
+    "author_name": "cnlohr",
+    "description": "Testing world for ＂cnsky＂ - aggregated star and satellite data with realtime tracking․ NOTE˸ Earth is not correctly rendered․ So the time-of-day is incorrect․",
+    "publication_date": "2025-12-14T07:46:44.188Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_39eba373-ab66-4225-b8e2-d1a6b8d3b056",
+    "name": "久印良品本店",
+    "author_name": "Moou",
+    "description": "第５回 久アバター集会",
+    "publication_date": "2025-08-23T14:42:05.409Z",
+    "tags": ["exhibit"]
   }
 ]
