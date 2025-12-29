@@ -686,6 +686,9 @@ categories:
       - url: https://sia-vr.com/
         title: シアVR
         description: 沢山のワールドを巡りしたい人向けのVRChatワールド紹介サイトです！
+      - url: https://last-observatory.neocities.org/
+        title: THE LAST OBSERVATORY
+        description: VRChat上に点在するワールド群および関連する観測データを収集・アーカイブするためのシステムです。
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -1441,6 +1444,9 @@ categories:
       - url: https://neugierde.github.io/cantors-attic/
         title: Cantor's Attic
         description: Climb into Cantor’s Attic, where you will find infinities large and small.
+      - url: https://textarea.my
+        title: Textarea
+        description: A minimalist text editor that lives entirely in your browser and stores everything in the URL hash.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -1551,3 +1557,9 @@ categories:
       - url: https://gossipsweb.net/
         title: Gossip's Web
         description: the directory of handmade webpages
+      - url: https://delightful.coding.social/
+        title: Delightful Lists
+        description: To make freedom more discoverable again.
+      - url: https://screenshots.nry.me/
+        title: One million (small web) screenshots
+        description: One Million Screenshots, but for the indie web
