@@ -1447,6 +1447,9 @@ categories:
       - url: https://textarea.my
         title: Textarea
         description: A minimalist text editor that lives entirely in your browser and stores everything in the URL hash.
+      - url: https://tildes.net/
+        title: Tildes
+        description: Tildes is a non-profit community site with no advertising or investors. It respects its users and their privacy, and prioritizes high-quality content and discussions.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

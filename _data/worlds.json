@@ -8525,7 +8525,7 @@
     "author_name": "Arfox",
     "description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
     "publication_date": "2025-05-06T04:47:12.842Z",
-    "tags": ["hangout"]
+    "tags": ["hangout","★"]
   },
   {
     "id": "wrld_2f7affb4-65dd-4182-955f-e1dd3a3c05dc",
@@ -9974,5 +9974,93 @@
     "description": "アバター改変を楽しく、身近に。 総合的な衣装展示ワールド-ENCLO- 定期的に衣装のアップデートが行われます。 展示状況や依頼はXまたはDiscordよりお願い致します。 12⁄26 更新（振袖多めです）",
     "publication_date": "2025-10-30T15:08:10.391Z",
     "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_4c81605a-f48f-4bd4-a210-0cd77ca8abc4",
+    "name": "Tiny Life Room ［night］",
+    "author_name": "Arfox",
+    "description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。コーヒー片手に夜風に吹かれながらゆっくりと進む時間をお楽しみください。",
+    "publication_date": "2025-12-30T11:07:28.308Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_df596eec-e84b-4e06-ac11-53f2d3d9b0d7",
+    "name": "capital city Karl-Balar",
+    "author_name": "ケト中佐＜Keto_LC＞",
+    "description": "Karl-Balar Imperial City˸ Around the Parliament Park This is the first world created by the circle ＂The 6th Steel Division‚＂ bringing their unique worldview to life․ While still a work in progress‚ this world is designed with a focus on visuals‚ built around the concept of an ＂advanced steampunk＂ aesthetic‚ reflecting the creator's imagination․ Note˸ Avatars from the same worldview are also on display and available for purchase․",
+    "publication_date": "2025-01-13T10:53:25.530Z",
+    "tags": ["exploration","★"]
+  },
+  {
+    "id": "wrld_603b7ec6-9514-4fe8-beb5-dbdf97bc9ba2",
+    "name": "Coffee＆Cigarettes -どこかで見た街- winter magic",
+    "author_name": "縛（ふぅ_FU）",
+    "description": "喫煙所とカフェと並木道のあるどこか懐かしい街並みに、冬が訪れました。詳しい機能紹介はこちらhttps˸⁄⁄www․fanbox․cc⁄＠kontohboh⁄posts⁄9688615",
+    "publication_date": "2025-12-07T11:51:06.361Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_51ecc9d8-3944-4f9a-9723-7da0acd0fd25",
+    "name": "LUMINARIUM",
+    "author_name": "mikinel",
+    "description": "＂Where words fail‚ music speaks＂",
+    "publication_date": "2025-12-30T16:50:32.310Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_83423a77-3f49-4687-8de1-ab57f259bf40",
+    "name": "Fractured Winter",
+    "author_name": "Lavryou",
+    "description": "A silent forest of snow under a strange fractured sky․ Explore‚ reflect‚ and step into the elevator to transform the world around you․",
+    "publication_date": "2025-12-31T10:27:33.748Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_ddc945c1-aae9-412f-8915-f621651f5852",
+    "name": "Way to you ⁄ 君へ至る道",
+    "author_name": "_Harim",
+    "description": "The way I take to see you is so beautifully breathtaking․ 君に会いに行く道が、なんて美しいんだろう",
+    "publication_date": "2026-01-01T10:12:12.013Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_9b2183b2-c8b0-4aa2-bb69-b0d78f1ac4f0",
+    "name": "Dust",
+    "author_name": "Studio Imago",
+    "description": "When I was very young‚ I used to play hideandseek with a boy in the basement beneath the old annex of my family home․ His name has long since faded‚ and even his face drifts away like dust in a sunbeam․ Sometimes I wonder if he was ever really there or if he was only a gentle memory that chose to stay with me․",
+    "publication_date": "2025-12-31T19:44:12.932Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_76678288-40f1-462a-b9cf-8b492214a1bd",
+    "name": "ケモミ高校バレー部 -部室-",
+    "author_name": "みんま_",
+    "description": "ケモミ高校バレー部 -部室-",
+    "publication_date": "2026-01-03T18:51:27.314Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_c1cfa017-dd9d-4012-b012-0f5a51a85460",
+    "name": "The Ghost Room",
+    "author_name": "Social Anxiety?",
+    "description": "They are invisible‚ but they are not silent․ In this abandoned space‚ markers dance on their own‚ driven by unseen hands with a lot to say․ These spirits are restless‚ creative‚ and strangely competitive․ They scrawl messages from your favorite movies‚ draw chaotic art‚ and challenge each other to games on the walls․ Is it code‚ or is it consciousness? Watch the ink and decide for yourself․",
+    "publication_date": "2026-01-06T02:35:51.227Z",
+    "tags": ["art","experience"]
+  },
+  {
+    "id": "wrld_f95f84c7-ac3a-48d7-96a6-c92e370b1b3a",
+    "name": "Паляниця UA",
+    "author_name": "Project Freedom",
+    "description": "Welcome backǃ",
+    "publication_date": "2026-01-03T20:08:58.299Z",
+    "tags": ["hub","hangout"]
+  },
+  {
+    "id": "wrld_458a905c-c56a-4153-b8e1-20394bc8517b",
+    "name": "End of the Line",
+    "author_name": "V1X3L",
+    "description": "The bus driver woke you up․ ＂End of the line‚＂ he says․ How long were you asleep‚ to have ended up in a place like this? Even though there are barely any signs of life‚ you can't help but feel like something is waiting for you․ Climb‚ drop‚ and explore․ But can you ever go back home? Supports VRC Light Volumes",
+    "publication_date": "2026-01-07T20:50:06.355Z",
+    "tags": ["art"]
   }
 ]
