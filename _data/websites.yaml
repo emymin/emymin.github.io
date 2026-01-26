@@ -624,6 +624,9 @@ categories:
       - url: https://www.commandlinefu.com
         title: commandlinefu.com
         description: commandlinefu.com is the place to record those command-line gems that you return to again and again.
+      - url: https://pdsls.dev/
+        title: PDSls
+        description: Browse the public data on atproto
   - title: VR
     items:
       - url: https://www.vrcw.net/

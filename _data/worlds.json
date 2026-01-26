@@ -10062,5 +10062,101 @@
     "description": "The bus driver woke you up․ ＂End of the line‚＂ he says․ How long were you asleep‚ to have ended up in a place like this? Even though there are barely any signs of life‚ you can't help but feel like something is waiting for you․ Climb‚ drop‚ and explore․ But can you ever go back home? Supports VRC Light Volumes",
     "publication_date": "2026-01-07T20:50:06.355Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_2e596e9c-5371-4bb5-8c77-68b919404e89",
+    "name": "Rooftop Sunroom",
+    "author_name": "yusumaru",
+    "description": "屋上にあるサンルームです",
+    "publication_date": "2025-07-05T07:56:32.523Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2f580adc-02f5-47ce-be5a-2567d86eb834",
+    "name": "Windows XP - Bliss",
+    "author_name": "RED_SIM",
+    "description": "Windows XP - Bliss ｜ Grass Field ｜ A demo world of my not yet released grass system․",
+    "publication_date": "2026-01-14T03:50:58.370Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_2779233c-cd86-45eb-8862-43cdaf43673b",
+    "name": "Kano's Cafe",
+    "author_name": "kanoda",
+    "description": "バーチャルカフェ『喫茶カノ』本日より営業開始！",
+    "publication_date": "2026-01-10T17:35:12.069Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_4ea391d5-be04-4be1-a9d2-a75b04744ed3",
+    "name": "Last AWOO",
+    "author_name": "Flarica",
+    "description": "AWOOǃ",
+    "publication_date": "2022-12-30T03:33:58.835Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_1c0d1975-d3a9-4c12-8187-6f0df3e2b41f",
+    "name": "Leftover Happiness ⁄ 残された幸せ",
+    "author_name": "_Harim",
+    "description": "I want to live a life that gently leaves happiness in someone's heart․ 私も誰かの心にそっと幸せを残せる人生を生きたい",
+    "publication_date": "2026-01-15T09:47:35.847Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_84cbab64-18c9-488e-96d9-7e8056d3f049",
+    "name": "Terem",
+    "author_name": "Mikarza",
+    "description": "Terem",
+    "publication_date": "2026-01-10T09:18:10.320Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_02f9b2de-f61d-4e7c-9b39-7f86ea436f72",
+    "name": "Thad Mandelbox",
+    "author_name": "Thad Gyther",
+    "description": "＃ThadMandelbox - Explore fascinating 3D fractals in realtime․",
+    "publication_date": "2022-07-05T07:48:20.297Z",
+    "tags": ["tech","exploration"]
+  },
+  {
+    "id": "wrld_fa3dcecb-f855-405f-96c0-6ed08f1de05d",
+    "name": "To the one I cherish the most",
+    "author_name": "P H 0 B 0 S",
+    "description": "This world was requested by ph0b0s․ （made by _Harim）",
+    "publication_date": "2026-01-20T15:30:10.229Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_afd4cb69-9a90-4461-8826-49e0ee1f3d76",
+    "name": "Data Center",
+    "author_name": "ちずる．",
+    "description": "データセンターでV睡してフレンドを怖がらせましょう！ ＃EscapeFromDataCenter",
+    "publication_date": "2026-01-17T01:59:47.419Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_d47fdad5-d307-439a-8cb7-380c52f8478f",
+    "name": "VirtualFrogTerrarium_StudioKeronchi",
+    "author_name": "mozukui",
+    "description": "3Dバーチャル空間で、カエルと過ごす穏やかなひとときを 『Virtual Frog Terarrium』のご提案です。- A peaceful moment with a frog in a 3D virtual world․ I would like to introduce my new experience‚ Virtual Frog Terrarium․",
+    "publication_date": "2026-01-23T17:53:15.657Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_ab6bb871-1115-482e-bf5c-efca1a16fc31",
+    "name": "-麗らか- ⁄ URARAKA",
+    "author_name": "さくらめさん",
+    "description": "中央に桜を据えた、半地下の和モダン風チルワールドです。 A semi-underground chill world in a Japanese-modern style‚ centered around a cherry blossom tree․",
+    "publication_date": "2026-01-25T15:56:17.905Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_004647fa-4810-4543-909c-50e03e385a7f",
+    "name": "Over Beach",
+    "author_name": "Nashikami",
+    "description": "Welcome to this captivating tropical bay‚ where breathtaking beaches await․ We hope you'll relax and fully immerse yourself in its beautiful ambiance․",
+    "publication_date": "2026-01-24T13:23:32.916Z",
+    "tags": ["hangout"]
   }
 ]
