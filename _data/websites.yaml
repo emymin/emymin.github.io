@@ -636,6 +636,12 @@ categories:
       - url: https://kisscommunity.org/
         title: KISS Linux Community
         description: KISS Linux is an independent Linux(R) distribution with a focus on simplicity and the concept of less is more.
+      - url: https://patchies.app/
+        title: Patchies
+        description: Patchies is a patcher for things that runs on the web. Patch together audio, visual and computational objects e.g. P5, Hydra, Strudel, ChucK, Orca, Tone.js, GLSL, etc.
+      - url: https://gpvm.org/
+        title: Graphics Programming Virtual Meetup
+        description:  Welcome, Computer Graphics lovers! We are a virtual meetup dedicated to graphics programming. 
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -820,6 +826,9 @@ categories:
       - url: https://messenger.abeto.co/
         title: Messenger
         description: It's a small planet, but someone's gotta make the deliveries.
+      - url: https://gamedate.org/
+        title: GameDate
+        description: Find and join gaming sessions for dead games, niche mods, and retro netplay, or schedule your own. No account needed.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1468,6 +1477,15 @@ categories:
       - url: https://collections.leventhalmap.org/
         title: Norman B. Leventhal Map & Education Center
         description: Discover the digital collections of the Leventhal Map & Education Center and partners
+      - url: https://sporecast.com/
+        title: Sporecast
+        description: Discover mushrooms growing near you. See local species, past spots, habitat maps and growth forecasts.
+      - url: https://publicdomainrecipes.com/
+        title: Public Domain Recipes
+        description: The fast-loading recipe site with cooking only and no ads.
+      - url: https://searchwhole.earth/
+        title: The (Searchable) Whole Earth
+        description: A searchable archive of the Whole Earth Catalog.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
