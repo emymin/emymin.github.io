@@ -707,6 +707,9 @@ categories:
       - url: https://last-observatory.neocities.org/
         title: THE LAST OBSERVATORY
         description: VRChat上に点在するワールド群および関連する観測データを収集・アーカイブするためのシステムです。
+      - url: https://vrcatalogue.com/
+        title: VRCatalogue
+        description: Blazingly fast search engine for Booth.pm avatar assets
   - title: Game
     items:
       - url: https://www.ebonyriddle.com/
@@ -912,6 +915,9 @@ categories:
       - url: https://massif.la/
         title: Massif
         description: Massif is a free, open-source project to collect, curate, and index content for foreign language learners
+      - url: https://pona.la/
+        title: pona.la
+        description: A domain for Toki Pona projects.
   - title: Personal
     items:
       - url: https://acko.net/

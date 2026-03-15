@@ -10261,7 +10261,7 @@
     "author_name": "Trevady",
     "description": "Enter Lost Atrium‚ a brutalist architecture pool․ Towering concrete pillars rise around a reflective pool‚ their surfaces softened by creeping vines and the gentle glow of ambient light․ A waterfall cascades down jagged rocks‚ its sound echoing through the vast‚ empty halls‚ filling the liminal space with a sense of quiet solitude․ Featuring video player‚ Pool Tables‚ Pens‚ and space to hang with friends․",
     "publication_date": "2026-02-22T01:43:16.973Z",
-    "tags": ["art", "hangout"]
+    "tags": ["art","hangout"]
   },
   {
     "id": "wrld_35d0c0a9-60f9-4e67-8b12-8039339ede82",
@@ -10310,5 +10310,109 @@
     "description": "AETHER",
     "publication_date": "2026-02-28T15:51:18.855Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_5a0ae0b2-151c-4a70-a0ca-59c1ee5cc341",
+    "name": "Open Classroom",
+    "author_name": "StefanieInVR",
+    "description": "A small learning space for Blender‚ Unity‚ and creative discovery․ Join a lesson‚ follow along‚ or simply explore at your own pace‚ in good light․ A cosy place to learn and grow together․",
+    "publication_date": "2026-03-02T13:54:32.529Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_52f59184-0dbc-408d-b4e3-25c8b376471f",
+    "name": "The Gloam Cathedral",
+    "author_name": "p_makki",
+    "description": "A Gothic-style cathedral world modeled almost entirely from scratch‚ with only a few assets used․ In addition to its distinctive altar‚ massive pipe organ‚ and confessional booths‚ a door at the rear leads to a small private room a quiet space prepared for peaceful relaxation․ 一部アセットを除き、ゼロからモデリングしたゴシック様式の大聖堂ワールドです。 特徴的な祭壇や巨大なパイプオルガン、懺悔室に加え、奥には小さな個室へと続く扉があり、静かに安らげる空間もご用意いたしました。",
+    "publication_date": "2026-03-04T11:56:00.415Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_f3afe6f8-b0c5-4f4c-aa66-8ff2b840d4af",
+    "name": "The Ring System",
+    "author_name": "nemu90kWw․",
+    "description": "6万以上の小惑星も超軽量に動かす特殊なシェーダー「nmAsteroidBelt」で作った環を眺めるテストワールド兼チルワールドです。土星風のリング以外にも色々な動きや見た目を試すことができます A shader test world with over 60‚000 moving asteroids",
+    "publication_date": "2026-03-08T06:25:50.744Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_d004b625-3d9e-4702-9e45-1cd285346898",
+    "name": "Paint Pot Spot （Liminal Chill Cozy Dream Cloud Garden Fly Rainbow Adventure Arabian Draw Art Backrooms Zipline RGB SFW）",
+    "author_name": "༆єαя§ ༗f Ɣєηυ§",
+    "description": "Quest Optimized Liminal Art Chill Draw Paint Sleep Pot Bottle Star Moon Sun Warm Zipline Space Garden Mermaid Fairy Sensory Cloud Dreamcore Window Adventure Arabian Tower Sculpture Relax Comfy Trippy Cozy Storm Hide Seek Climb Find Explore Rainbow Flower Color Box Rubber Duck Bird Mirror Beanbag Couch Tree River Sky Water Rain Crystal Gem Jewel RGB Video Player YouTube Search Brain Heart Forest Dino Raptor Create Friend Social Group Meet Cake Gift Fly Flight Fast Rest Backrooms Apartment Hotel Hidden Wind Treasure Particle Shader Orb Sphere Globe Fortress Surreal Box SFW あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㄲㄸㅃㅆㅉㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢÑÁÉÍÓÚÜáéíóúüñ¿¡ Gore",
+    "publication_date": "2026-03-07T07:13:22.537Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_c7f9f2a7-66af-44f9-b4a5-c7f05eef49a2",
+    "name": "Madana 2․0˸ Haven",
+    "author_name": "Tajasuka",
+    "description": "Madana 2․0˸ Haven is a nature sanctuary on a faraway moon․ Explore the many areas and shelters in this coastal coral forest‚ gaze up at the gas giant and space elevator‚ or just get lost in thought‚ this is what this place is for․",
+    "publication_date": "2026-03-08T12:08:29.831Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b3b2a1ea-7177-4218-a889-991e7b7be57e",
+    "name": "badminton",
+    "author_name": "Shiwen",
+    "description": "Test_badminton Please play with players with similar ping․",
+    "publication_date": "2026-03-08T17:43:31.510Z",
+    "tags": ["sport","pvp"]
+  },
+  {
+    "id": "wrld_871a6e7d-1b92-482a-a675-0d47460cb44e",
+    "name": "the sphere",
+    "author_name": "The Fluff",
+    "description": "Welcome to the sphere‚ the premier world for ChamberVR․ This world is inspired by one of Las Vegas' most iconic and recent attractions˸ The Sphere by Sphere Entertainment․ Serving as a cutting-edge music and entertainment arena‚ The Sphere adds to the lively energy of the internationally renowned Las Vegas Strip․",
+    "publication_date": "2026-03-01T13:05:48.613Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_16f2515e-0dda-4741-a646-ab77bec9a277",
+    "name": "Cozy Comfort",
+    "author_name": "~Sam",
+    "description": "A warm upstairs apartment in the rainy night with pens‚ video player‚ Youtube search‚ coffee‚ mirrors‚ comfy spots and moreǃ Uses VRC Light Volumes․",
+    "publication_date": "2026-03-07T01:25:14.691Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ffbd7b8b-67b6-4a30-862d-d8a3b6c63e94",
+    "name": "Frutiger Mall （Alpha）",
+    "author_name": "-KoriCat-",
+    "description": "ENG˸ A new personal project in development that seeks to create a Frutiger aero beauty shopping center․ ESP˸ Un nuevo proyecto personal en desarrollo que busca crear un centro comercial de estetica Frutiger aero․",
+    "publication_date": "2026-03-07T04:31:24.061Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_bfefdff4-d29e-4f58-bd54-b403be166c99",
+    "name": "生活の染みつき 夜",
+    "author_name": "Yu2uwo_ゆずを",
+    "description": "別名キリンジの曲を聴くためのワールド",
+    "publication_date": "2026-03-09T07:25:53.318Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_aa25519f-fb0e-49b6-a627-cb377f2b381f",
+    "name": "Suburbs",
+    "author_name": "Oishii_",
+    "description": "This is my first map‚ and it will be updated frequently as I continue improving itǃ Suburbs is a roleplay map featuring five houses‚ each with full interiors to explore․ The neighborhood is designed for casual hangouts and roleplaying with friends․ Currently‚ all doors are open and non-interactable‚ but interactive doors that can open and close will be added in a future update․ More features and improvements are coming soonǃ",
+    "publication_date": "2026-03-11T21:11:32.127Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_5ac1eb74-1888-4552-9aab-6f2b6f19ac8e",
+    "name": "Half empty",
+    "author_name": "yuri_ts",
+    "description": "風をつかまえたんだ",
+    "publication_date": "2026-03-12T12:47:47.609Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_93060a63-d8d5-417a-b072-65b4ca980861",
+    "name": "Watchtower House",
+    "author_name": "Tajasuka",
+    "description": "Updates˸ Collision toggle on couches‚ amphitheatre remodel‚ small lookout platforms on garden-side‚ new lotus pavilion․ ⁄⁄ The Watchtower House˸ A large residence built around the skeleton of an old mass-driver tower․ This house sits in the bay of an extraplanet ocean city․ Swimming pools‚ video players‚ gardens‚ day and night switch․ Modelled city‚ buildings and cars from scratch in Blender‚ painted city atlas in Substance Painter․ Music˸ Relaxing Peaceful Presence by Liron․ download at filmmusic․io",
+    "publication_date": "2022-02-10T09:21:33.183Z",
+    "tags": ["hangout"]
   }
 ]
