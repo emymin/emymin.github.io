@@ -298,6 +298,9 @@ categories:
       - url: https://ifdb.org/
         title: The Interactive Fiction Database
         description: IFDB is a game catalog and recommendation engine for Interactive Fiction, also known as Text Adventures.
+      - url: https://pdimagearchive.org/
+        title: Public Domain Image Archive
+        description: Explore our hand-picked collection of 10,987 out-of-copyright works, free for all to browse, download, and reuse. This is a living database with new images added every week.
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -642,6 +645,12 @@ categories:
       - url: https://gpvm.org/
         title: Graphics Programming Virtual Meetup
         description:  Welcome, Computer Graphics lovers! We are a virtual meetup dedicated to graphics programming. 
+      - url: https://consumerrights.wiki
+        title:  Consumer Rights Wiki
+        description: The community-built wiki documenting anti-ownership, anti-consumer practices ranging from right-to-repair restrictions, planned obsolescence, subscription traps, and digital rights issues.
+      - url: https://malshare.com/
+        title: MalShare
+        description:  The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. 
   - title: VR
     items:
       - url: https://www.vrcw.net/
@@ -1208,6 +1217,12 @@ categories:
       - url: https://badd10de.dev/
         title: Bad Diode
         description: I’m a musician and programmer that enjoys sharing my knowledge, creating music toys and working on esoteric tools and programming languages.
+      - url: https://satyrs.eu/
+        title: The Satyrs’ Forest
+        description:  Chære, weary traveller, and welcome to The Satyrs’ Forest! I’m Xanthe, and i’m the steward of these ancient woods. Enjoy your stay, and try not to get lost out there… 
+      - url: https://xavierhm.com/
+        title: Xavier H.M.
+        description: I’m an artist, writer, blogger, novice webdev, mediocre photographer, and aspiring novelist—which is to say, I’m always working on something! I like keeping busy and staying creative.
   - title: Misc
     items:
       - url: https://www.wolframalpha.com/
@@ -1492,6 +1507,9 @@ categories:
       - url: https://searchwhole.earth/
         title: The (Searchable) Whole Earth
         description: A searchable archive of the Whole Earth Catalog.
+      - url: https://wikigacha.com
+        title: Wikipedia Gacha
+        description: Collect Wikipedia articles as trading cards in your browser.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

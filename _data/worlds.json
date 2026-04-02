@@ -9371,7 +9371,7 @@
     "id": "wrld_c5995bda-10ae-4098-af72-90be902e7ae9",
     "name": "4DGaussianSplatting?",
     "author_name": "めし【Meshi】",
-    "description": "https˸⁄⁄github․com⁄hustvl⁄4DGaussianshttps˸⁄⁄github․com⁄albertpumarola⁄D-NeRF https˸⁄⁄github․com⁄facebookresearch⁄Neural_3D_Videohttps˸⁄⁄github․com⁄MichaelMoroz⁄VRChatGaussianSplatting",
+    "description": "https˸⁄⁄github․com⁄hustvl⁄4DGaussians https˸⁄⁄github․com⁄albertpumarola⁄D-NeRF https˸⁄⁄github․com⁄facebookresearch⁄Neural_3D_Video https˸⁄⁄github․com⁄MichaelMoroz⁄VRChatGaussianSplatting",
     "publication_date": "2025-08-21T03:44:47.653Z",
     "tags": ["tech","photogrammetry"]
   },
@@ -10414,5 +10414,117 @@
     "description": "Updates˸ Collision toggle on couches‚ amphitheatre remodel‚ small lookout platforms on garden-side‚ new lotus pavilion․ ⁄⁄ The Watchtower House˸ A large residence built around the skeleton of an old mass-driver tower․ This house sits in the bay of an extraplanet ocean city․ Swimming pools‚ video players‚ gardens‚ day and night switch․ Modelled city‚ buildings and cars from scratch in Blender‚ painted city atlas in Substance Painter․ Music˸ Relaxing Peaceful Presence by Liron․ download at filmmusic․io",
     "publication_date": "2022-02-10T09:21:33.183Z",
     "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_7ef4dacd-85aa-4c90-9983-4ace39a99d37",
+    "name": "Noctiluca",
+    "author_name": "Shinnno",
+    "description": "眠れない夜の目的地。バス停から砂浜の向こうにテレポートできます。 ⁄ Somewhere I ended up on a sleepless night․ You can teleport from the bus stop to the one across the beach․",
+    "publication_date": "2026-03-15T14:38:17.028Z",
+    "tags": ["hangout", "exploration"]
+  },
+  {
+    "id": "wrld_2f086d55-3cc7-4e1e-a016-6e7d6f6c6239",
+    "name": "Caught in the Rain Near an Old Monument",
+    "author_name": "Keef dd7a",
+    "description": "On your travels a storm rolls in․ With no other structure for miles‚ you take refuge․ Time to wait it out․․․",
+    "publication_date": "2026-03-14T20:39:59.043Z",
+    "tags": ["hangout","art","★"]
+  },
+  {
+    "id": "wrld_67969fb8-fb2d-40a1-b2a4-596e18c9ca51",
+    "name": "FROM ARTIST VIRTUAL GALLERY",
+    "author_name": "tamsco274",
+    "description": "アートマーケットプレイス「FROM ARTIST」が主催する、次世代アーティスト応援プロジェクト「U-25 EXHIBITION」のバーチャル会場です。",
+    "publication_date": "2026-03-15T09:26:18.958Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_4d223ef5-f089-42d2-a799-7c56e003eded",
+    "name": "Gallery of Perspectives",
+    "author_name": "IgbarVonSquid",
+    "description": "［Playtime˸ 1 hour］ By IgbarVonSquid‚ aurycat‚ and KitKat․ Music by xCirrex",
+    "publication_date": "2026-03-16T20:00:58.178Z",
+    "tags": ["puzzle","adventure"]
+  },
+  {
+    "id": "wrld_5993198d-e869-414b-bf97-deb424bff63c",
+    "name": "Daybreak ⁄ 黎明",
+    "author_name": "_Harim",
+    "description": "深まった闇は光を呑み込めず、かえってその光をいっそう鮮やかに浮かび上がらせる。The deepening darkness cannot swallow the light; rather‚ it only makes it shine more clearly․",
+    "publication_date": "2026-03-19T11:37:38.606Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_07b90153-9dda-429f-8f50-1ee65de2b610",
+    "name": "CALX",
+    "author_name": "Plantotzco",
+    "description": "CALX",
+    "publication_date": "2026-03-20T14:30:24.378Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_297f348e-fcc6-4337-9d19-9eaa357e7e72",
+    "name": "Million Sky Highland",
+    "author_name": "jumius（ゆみうす）",
+    "description": "1․25 million stars from the Gaia star catalog fill the sky‚ with the Milky Way rendered as countless faint stars․ Enjoy beautiful magnified views through realistic telescopes․ （You can also zoom in with the standard camera․） ［Star Data˸ Gaia DR3 （ESA⁄Gaia⁄DPAC）］",
+    "publication_date": "2026-03-21T11:44:09.110Z",
+    "tags": ["sandbox"]
+  },
+  {
+    "id": "wrld_fb916ea0-5f21-43b8-a758-f459cda9d997",
+    "name": "Frutiger Hills ǃ",
+    "author_name": "Bloomin'",
+    "description": "A Frutiger Aero inspired world ǃ Video player‚ vehicles （off by default）‚ Trivia game and spots to chill and admire the future we were promised․",
+    "publication_date": "2026-03-23T09:12:28.979Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_33c3147e-227c-4501-ae32-277113edb118",
+    "name": "Drive Night City",
+    "author_name": "FuffyFerret",
+    "description": "pursuit force city",
+    "publication_date": "2026-03-26T12:20:08.103Z",
+    "tags": ["driving","exploration"]
+  },
+  {
+    "id": "wrld_9e284122-c442-48d5-b093-bb3b838c3567",
+    "name": "Swan 【ホームワールド・スワン】",
+    "author_name": "クロイヌヨウヘイ",
+    "description": "Swan 【ホームワールド・スワン】",
+    "publication_date": "2026-03-26T11:40:03.625Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_38d8b6ad-958c-47a1-b707-94c30d7d0cfb",
+    "name": "Memphis Group House",
+    "author_name": "Octuplex",
+    "description": "Something I threw together over 3 days as a style experiment․ Made from scratch‚ inspired by the art and architectural style of the Memphis Group",
+    "publication_date": "2026-03-27T04:15:26.771Z",
+    "tags": ["art","hangout","★"]
+  },
+  {
+    "id": "wrld_f711fc0d-0b60-4478-9654-428c85bd0a98",
+    "name": "Bougainvillea∗",
+    "author_name": "mitsuha888",
+    "description": "Player⁄QVpen⁄Flipcamera⁄Quest",
+    "publication_date": "2026-03-22T18:18:36.790Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_a7a95a00-6352-4a3e-8ea5-c71604e997f6",
+    "name": "SOO Manga Night ［PNRS］",
+    "author_name": "LucyLuuu",
+    "description": "Filming Location for Project Autumn",
+    "publication_date": "2026-03-29T10:41:44.104Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_50758d05-330c-4ba8-b8f7-891e3c6ca856",
+    "name": "CHEERLEADER - Porter Robinson",
+    "author_name": "Vonast",
+    "description": "This world is based entirely on the set of Porter Robinson's CHEERLEADERǃ - Most made from scratchǃ - Cat image credit to Dascorp ＾＾ - I hope you all enjoyǃ",
+    "publication_date": "2026-03-29T18:01:11.507Z",
+    "tags": ["art","hangout"]
   }
 ]
