@@ -301,6 +301,9 @@ categories:
       - url: https://pdimagearchive.org/
         title: Public Domain Image Archive
         description: Explore our hand-picked collection of 10,987 out-of-copyright works, free for all to browse, download, and reuse. This is a living database with new images added every week.
+      - url: https://esoterical.org
+        title: The Esoterical Web
+        description: THE WORLD IS SOFT BUT LIFE IS STAINING THE SATIN !!!
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -841,6 +844,9 @@ categories:
       - url: https://gamedate.org/
         title: GameDate
         description: Find and join gaming sessions for dead games, niche mods, and retro netplay, or schedule your own. No account needed.
+      - url: https://linxicon.com
+        title: Linxicon
+        description: Your goal is to connect two random words by creating a chain of new words that bridge the gap in their meanings.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1510,6 +1516,15 @@ categories:
       - url: https://wikigacha.com
         title: Wikipedia Gacha
         description: Collect Wikipedia articles as trading cards in your browser.
+      - url: https://www.typelit.io/
+        title: TypeLit.io
+        description: Test your typing online by practicing on your favorite literature.
+      - url: https://isopod.site/
+        title: Isopod Site
+        description: Isopod Site was created for the layman, isopod enthusiast as well as isopod taxonomists and behaviorists.
+      - url: https://grimgrains.com
+        title: GrimGrains
+        description: We started Grimgrains to learn how to cook. This blog helps track our habits as we adapt to the locally-available produce.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/

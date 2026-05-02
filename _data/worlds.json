@@ -10421,7 +10421,7 @@
     "author_name": "Shinnno",
     "description": "眠れない夜の目的地。バス停から砂浜の向こうにテレポートできます。 ⁄ Somewhere I ended up on a sleepless night․ You can teleport from the bus stop to the one across the beach․",
     "publication_date": "2026-03-15T14:38:17.028Z",
-    "tags": ["hangout", "exploration"]
+    "tags": ["hangout","exploration"]
   },
   {
     "id": "wrld_2f086d55-3cc7-4e1e-a016-6e7d6f6c6239",
@@ -10525,6 +10525,126 @@
     "author_name": "Vonast",
     "description": "This world is based entirely on the set of Porter Robinson's CHEERLEADERǃ - Most made from scratchǃ - Cat image credit to Dascorp ＾＾ - I hope you all enjoyǃ",
     "publication_date": "2026-03-29T18:01:11.507Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_adf69fe0-8ee7-4513-8664-ff920ce33d8a",
+    "name": "Grand View -Surface to Orbit-",
+    "author_name": "katsuobusi24",
+    "description": "- From Earth surface‚ sky‚ orbit‚ and Moon - Experience the grand view of human and humanitys creations․ - 地表、空、軌道、そして月から - 人類と人類が作り出したものが見る壮大な景色を体験しよう。 （Space Jam 2026 submission world and awarded Special Mention․ Space Jam 2026応募作品、Special Mention賞を受賞しました。）",
+    "publication_date": "2026-04-02T15:51:43.485Z",
+    "tags": ["experience"]
+  },
+  {
+    "id": "wrld_261a4ff0-1a46-4a86-9bd5-ec2160f1c689",
+    "name": "A Taste of Versailles",
+    "author_name": "OPCherry",
+    "description": "Fixed hole in floor․․ Recreation of several rooms from Versailles․ This begun as a challenge and evolved into a compilation of beauty․ Included assets˸ Chapel at Versailles‚ The Hall of Mirrors‚ Chapel of Versailles Narthex 1st and 2nd floor‚ Fantasy Room（Video Player",
+    "publication_date": "2026-04-02T11:43:39.521Z",
+    "tags": ["art","exploration","★"]
+  },
+  {
+    "id": "wrld_93b57f2f-097e-4d36-a285-81a433c15084",
+    "name": "Shibuya Street「Day」",
+    "author_name": "Kerorong66",
+    "description": "LARGE FILE SIZE WARNINGǃ （1․1GB） ⁄ just large realistic shibuya world․ ⁄ RTX2070 or higher is recommended․",
+    "publication_date": "2026-04-01T18:30:57.605Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_9aafec94-6592-450e-b5e8-21e441546835",
+    "name": "Dissociation",
+    "author_name": "otto233",
+    "description": "Beneath the night sky‚ my monologue remains unheardknown only to me․",
+    "publication_date": "2026-04-13T17:36:37.490Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_32f3788f-c68c-4dd0-aa0b-83157745e2fb",
+    "name": "Street Walker",
+    "author_name": "Dori Fey",
+    "description": "Walk trough the streets of the world․ Enjoy street panoramas together with your friends․ Includes coordinate search to navigate to any place on the map that has panoramas in just a few clicks․",
+    "publication_date": "2026-04-16T06:35:47.132Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_b0f6f1a4-b691-40fe-9dda-86e43297abdc",
+    "name": "Frutiger Meeting Room",
+    "author_name": "ぐーぜん",
+    "description": "Frutiger Aero（フルティガー・エアロ、別名：Web 2․0 Gloss）は、2004年から2013年頃までコンピュータのGUI等の様々な分野で流行したデザイントレンドに名付けられたレトロニムであり、インターネット美学の一種である。（Wikipediaより）",
+    "publication_date": "2026-04-19T06:28:57.098Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ed1cdb65-0d6e-412b-9116-e14c0696e6d7",
+    "name": "Tau Ceti-E",
+    "author_name": "EGirlRᴇᴘᴇʟʟᴇɴᴛ",
+    "description": "Welcome to Tau Ceti-E from Project Hail Maryǃ",
+    "publication_date": "2026-04-21T09:11:54.875Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_71a98a1a-2d43-420c-b7a6-c53f26dc4bbc",
+    "name": "ロフトハイツ 102号室",
+    "author_name": "ARUSON_EF",
+    "description": "Mirror ⁄ Video ⁄ QVPen ⁄ AudioLink ⁄ LightVolumes",
+    "publication_date": "2026-04-22T23:09:18.965Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_e6767a73-e066-4e39-a43b-c4fc97ea8d67",
+    "name": "The Black Shore - 黒の岸辺",
+    "author_name": "˖Vera˖",
+    "description": "The Black Shore - 黒の岸辺 - A relaxing black sand beach world inspired by Iceland․ Explore a long scenic coastline‚ open grass fields‚ and a calm ocean atmosphere․ Chill‚ sleep‚ relax‚ hangout‚ and take photos⁄photography with friends․ - Youtube Search‚ Media Player‚ Pens ⁄ QVPen‚ Darkmode and moreǃ - VRC Light Volumes -",
+    "publication_date": "2026-04-24T06:54:04.527Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_4d9d7537-437d-4ac9-88ac-9042950e28aa",
+    "name": "Luminous Oasis",
+    "author_name": "Lura_",
+    "description": "Luminous Oasis へようこそ。快適な時間をお楽しみください。 ワールドアセットは近日中にBOOTHで販売を予定しています。",
+    "publication_date": "2026-04-26T09:01:35.505Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_ae160ea2-a9ad-4a87-be2c-9ebee49b4f7b",
+    "name": "Dawn Beyond․․․",
+    "author_name": "TontonDemon",
+    "description": "A world that is both soothing and deeply realistic‚ designed to immerse you in the absolute tranquility of nature․ Step aboard a boat and let yourself be carried away to a secluded island‚ completely unknown and untouched by civilization․ A timeless place where nature reigns supreme and where the mind can finally escape the hustle and bustle of the world․ ｜ Picture Thumbnail by RedPandaVRC",
+    "publication_date": "2026-04-25T22:41:01.519Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_577c4af3-1de7-40f4-88ad-7bf10ab3a1ee",
+    "name": "TITANIC˸ Beyond Reality - Sinking Experience",
+    "author_name": "CabaBear",
+    "description": "v1․3 ｜ Welcome aboard the RMS Titanicǃ Take a journey back in time and experience the glory of the legendary ship herself‚ and the fateful night that sealed her fate in history․",
+    "publication_date": "2026-04-10T21:23:52.353Z",
+    "tags": ["experience","exploration"]
+  },
+  {
+    "id": "wrld_afc35c27-ed48-4be2-9643-345d7bf59b9a",
+    "name": "RIPPLE 2 （Exhibition）",
+    "author_name": "osirasekita",
+    "description": "RIPPLE 2 （Exhibition） このワールドでは、クラブスペース「RIPPLE 2」の常設展示をご覧いただけます。展示は中庭と奥のホールの2か所で行われています。奥のエリアで展示が再生されない場合は、消火栓にある「Resync」ボタンを押してください。",
+    "publication_date": "2026-04-26T22:29:43.014Z",
+    "tags": ["art","exhibit"]
+  },
+  {
+    "id": "wrld_ff8d5a44-b9a4-47bc-a8e8-ba8958c0dd41",
+    "name": "Grace ⁄ 恵み",
+    "author_name": "_Harim",
+    "description": "そして最後に残るのは、ただ一つ。 ただ、あなたという恵み。 In the end‚ only one thing remains˸ simply‚ the grace that is you",
+    "publication_date": "2026-04-30T09:10:12.357Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_f320bd05-d688-4cae-ad86-cd917eabfa32",
+    "name": "Mirage Letter",
+    "author_name": "puri_san",
+    "description": "丘の上の一軒家と、花と水面の光に包まれた小さな宮殿。そこには、もうひとりのわたしの気配がある。 Hashtag˸ ＃MirageLetter",
+    "publication_date": "2026-05-01T14:40:23.022Z",
     "tags": ["art","hangout"]
   }
 ]
