@@ -304,6 +304,12 @@ categories:
       - url: https://esoterical.org
         title: The Esoterical Web
         description: THE WORLD IS SOFT BUT LIFE IS STAINING THE SATIN !!!
+      - url: https://aidn.jp/
+        title: AIDN
+        description: 作詞・作曲・デザイン・イラスト・モデリング・プログラミング・映像制作など全般を行っております。
+      - url: https://poly.booru.nl/
+        title: polybooru
+        description: Polybius Booru, the history-oriented booru for tagging, categorizing, and describing historical artifacts and artworks
   - title: Tech
     items:
       - url: https://tildeverse.org/
@@ -847,6 +853,9 @@ categories:
       - url: https://linxicon.com
         title: Linxicon
         description: Your goal is to connect two random words by creating a chain of new words that bridge the gap in their meanings.
+      - url: https://anthropeum.com/
+        title: Anthropeum
+        description: Each day, ten objects. Guess where and when each was made. Then see how you ranked against everyone else who played today.
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1525,6 +1534,18 @@ categories:
       - url: https://grimgrains.com
         title: GrimGrains
         description: We started Grimgrains to learn how to cook. This blog helps track our habits as we adapt to the locally-available produce.
+      - url: https://www.jihankiatlas.com
+        title: Jihanki Atlas
+        description: Curated guide to Tokyo's most unusual vending machines. Pokémon stands, wagyu beef, fresh-pressed juice, dashi soup, bug snacks, capsule toys. Mapped with photos and field notes.
+      - url: https://www.feed-the.cat/
+        title: Feed The Cat
+        description: Watch live cat streams and feed cats remotely. A cozy place to watch cats eat.
+      - url: https://mapcomplete.org/
+        title: MapComplete
+        description: Maps about various topics which you can contribute to 
+      - url: https://www.horg.com/
+        title: Holotypic Occlupanid Research Group
+        description: This site contains several years of research in the classification of occlupanids. These small objects are everywhere, dotting supermarket aisles and sidewalks with an impressive array of form and color.
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
@@ -1641,3 +1662,6 @@ categories:
       - url: https://screenshots.nry.me/
         title: One million (small web) screenshots
         description: One Million Screenshots, but for the indie web
+      - url: https://theindex.fyi/
+        title: The Indie Web Index Directory
+        description: A maintained, canonical meta-index of indie web and small web index sites.

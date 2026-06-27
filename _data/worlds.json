@@ -10862,5 +10862,53 @@
     "description": "this map is a huge pain and only small edit",
     "publication_date": "2026-05-30T18:34:29.650Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_bf7ec577-6b45-4aa2-839d-376b8a366c21",
+    "name": "5я Улица［OPEN BETA］",
+    "author_name": "-ARCA",
+    "description": "",
+    "publication_date": "2026-06-04T21:01:18.489Z",
+    "tags": ["hangout","exploration"]
+  },
+  {
+    "id": "wrld_b1e54710-9d21-4e0b-ae72-f348514e8a3a",
+    "name": "Garry's Mall",
+    "author_name": "HeyItsSnoop",
+    "description": "We're back‚ and the deals just can't get any betterǃ Original map by JellyKinder‚ and other FacePunch mappers․ This world contains Light Volumes․",
+    "publication_date": "2026-06-09T05:57:55.630Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_e556b391-4aa3-4516-8f95-d36c6278c0f6",
+    "name": "Far Future Propulsion˸ Museum of Nuclear Starflight",
+    "author_name": "KTurret",
+    "description": "BETA TEST 한국어 KR‚ English EN‚日本語 JP Support․ Explore the future of space exploration with 1˸1 scale models of theoretical and experimental nuclear fission and fusion engines․ Special Thanks for projectrho",
+    "publication_date": "2026-06-12T07:54:59.126Z",
+    "tags": ["tech","exhibit"]
+  },
+  {
+    "id": "wrld_60cd057c-4ca9-43c0-a1dd-93ef24c95dc8",
+    "name": "COLONNADE",
+    "author_name": "Plantotzco",
+    "description": "",
+    "publication_date": "2026-06-19T13:12:11.098Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_0d847ad8-5d97-4f30-9f2f-54439caa01fc",
+    "name": "illuminant",
+    "author_name": "vavassor",
+    "description": "Cave grotto",
+    "publication_date": "2026-06-22T12:51:39.934Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_cb43c149-c9cb-4b9a-b228-ac8833cb69ff",
+    "name": "Project Lost Worlds",
+    "author_name": "Fins",
+    "description": "PLEASE PRE-LOAD THE WORLDǃ Part One - Journey to Erios - Step aboard the UNISA ASTORIA and travel across the stars to Erios‚ one of the distant twin moons far from Earth․ Journey to Erios serves as an introduction to the Lost Worlds universe‚ setting the stage for your encounter with life beyond our solar system․ The first installment of a two-part cinematic experience․ Runtime˸ 1 Hour English ⁄ Japanese Support まず、ワールドをプリロードしてください！ パート1 エリオスへの旅 UNISA ASTORIAに乗り込み、星々の彼方へ。目指すは地球から遠く離れた双子衛星のひとつ、エリオス。 本作『エリオスへの旅』は、Lost Worldsユニバースへとあなたを導く第一歩となる物語。太陽系を越えた先にある生命との出会いへ向けた旅の幕開けを描きます。 2部構成でお届けするシネマティック体験、その第一章。 所要時間：約1時間 対応言語：英語／日本語",
+    "publication_date": "2026-06-26T18:47:56.818Z",
+    "tags": ["adventure"]
   }
 ]
