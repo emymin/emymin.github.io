@@ -3,8 +3,8 @@
 source "https://rubygems.org"
 
 # gem "rails"
-# gem "jekyll", "~> 4.3"
-gem "github-pages", "~> 232"
+gem "jekyll", "~> 4.4"
+gem "jekyll-sitemap"
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem "webrick" 
 
