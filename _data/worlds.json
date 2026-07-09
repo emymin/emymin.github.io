@@ -10923,7 +10923,7 @@
     "id": "wrld_6f43e228-6c02-4da7-9afd-227d3256bdd5",
     "name": "4D Mental Rotation Test",
     "author_name": "はちがよ",
-    "description": "頭の中で図形を回転させ、一致するかどうかを判断する心理学課題「メンタルローテーションテスト」に着想を得たワールドです。表示される2つの図形が （4次元の） 回転によって重なり合う同じ形なのか、回転では一致しない鏡像なのかを答えてください。This is a world inspired by the classic Mental Rotation Test‚ a psychological task in which you mentally rotate objects to judge whether they match․ Decide whether the two displayed shapes can be matched by a rotation in 4D space‚ or whether they are non-matching mirror images․",
+    "description": "頭の中で図形を回転させ、一致するかどうかを判断する心理学課題「メンタルローテーションテスト」に着想を得たワールドです。表示される2つの図形が （4次元の） 回転によって重なり合う同じ形なのか、回転では一致しない鏡像なのかを答えてください。",
     "publication_date": "2026-07-02T13:25:24.399Z",
     "tags": ["puzzle"]
   },
@@ -10979,7 +10979,7 @@
     "id": "wrld_02b99a48-ff5c-41a7-a8f1-1a472d2259ea",
     "name": "新・深夜の京都散歩 ⁄ New Kyoto Midnight Walk",
     "author_name": "takayan660（たかやん",
-    "description": "深夜に京都・三年坂（産寧坂）で撮影したデータをもとに、以前公開した「深夜の京都散歩」を3DGSで新たにリメイクしました。 約1年3か月の技術の進歩と、画像ノイズ軽減にPureRAWを使用したことで、より現実の京都の見た目に近い仕上がりになりました！ This world is a 3DGS remake of my previous Kyoto Midnight Walk‚ based on data captured late at night at Sannenzaka （Sanneizaka）‚ Kyoto․ Thanks to about 1 year and 3 months of technical progress‚ along with PureRAW for image noise reduction‚ it now has a look closer to the real Kyoto․",
+    "description": "深夜に京都・三年坂（産寧坂）で撮影したデータをもとに、以前公開した「深夜の京都散歩」を3DGSで新たにリメイクしました。 約1年3か月の技術の進歩と、画像ノイズ軽減にPureRAWを使用したことで、より現実の京都の見た目に近い仕上がりになりました！",
     "publication_date": "2026-07-05T09:02:31.255Z",
     "tags": ["photogrammetry"]
   },
