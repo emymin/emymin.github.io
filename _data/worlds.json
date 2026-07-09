@@ -10910,5 +10910,101 @@
     "description": "PLEASE PRE-LOAD THE WORLDǃ Part One - Journey to Erios - Step aboard the UNISA ASTORIA and travel across the stars to Erios‚ one of the distant twin moons far from Earth․ Journey to Erios serves as an introduction to the Lost Worlds universe‚ setting the stage for your encounter with life beyond our solar system․ The first installment of a two-part cinematic experience․ Runtime˸ 1 Hour English ⁄ Japanese Support まず、ワールドをプリロードしてください！ パート1 エリオスへの旅 UNISA ASTORIAに乗り込み、星々の彼方へ。目指すは地球から遠く離れた双子衛星のひとつ、エリオス。 本作『エリオスへの旅』は、Lost Worldsユニバースへとあなたを導く第一歩となる物語。太陽系を越えた先にある生命との出会いへ向けた旅の幕開けを描きます。 2部構成でお届けするシネマティック体験、その第一章。 所要時間：約1時間 対応言語：英語／日本語",
     "publication_date": "2026-06-26T18:47:56.818Z",
     "tags": ["adventure"]
+  },
+  {
+    "id": "wrld_21d6afad-8b22-4b4c-bde0-78991413b525",
+    "name": "Endless Suburbia",
+    "author_name": "Onioncod",
+    "description": "A Backrooms-inspired scenic world for exploration and photography․ No entities‚ no monsters‚ and no horror chase elements․ Relax‚ explore‚ take photos‚ and enjoy the liminal atmosphere․",
+    "publication_date": "2026-06-23T14:31:54.142Z",
+    "tags": ["exploration","hangout"]
+  },
+  {
+    "id": "wrld_6f43e228-6c02-4da7-9afd-227d3256bdd5",
+    "name": "4D Mental Rotation Test",
+    "author_name": "はちがよ",
+    "description": "頭の中で図形を回転させ、一致するかどうかを判断する心理学課題「メンタルローテーションテスト」に着想を得たワールドです。表示される2つの図形が （4次元の） 回転によって重なり合う同じ形なのか、回転では一致しない鏡像なのかを答えてください。This is a world inspired by the classic Mental Rotation Test‚ a psychological task in which you mentally rotate objects to judge whether they match․ Decide whether the two displayed shapes can be matched by a rotation in 4D space‚ or whether they are non-matching mirror images․",
+    "publication_date": "2026-07-02T13:25:24.399Z",
+    "tags": ["puzzle"]
+  },
+  {
+    "id": "wrld_122b6042-c089-425f-aad0-fcf4e0ce3008",
+    "name": "Brutalist Sewers",
+    "author_name": "EGirlRᴇᴘᴇʟʟᴇɴᴛ",
+    "description": "The upper classes have pushed people out of the city․ Now you live in a camp located in an abandoned sewage system like many others․ Based on ＂Urbanized＂ by Nick Stath․",
+    "publication_date": "2026-06-28T13:42:39.604Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_fab25276-98ce-4320-84ca-1362cfb64abf",
+    "name": "雲 - The Cloud We Chase ｜ ไกลแค่ไหนฝันของเรา․",
+    "author_name": "Apathy",
+    "description": "Under the roof where we dream․",
+    "publication_date": "2026-07-01T13:32:01.921Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_f556aece-89ae-4e57-8d4b-a93fdc148fb4",
+    "name": "été - UNDERSALON․",
+    "author_name": "moné（もね）",
+    "description": "やわらかな灯りが街を照らす、初夏の夜の小さな街並みです。日が落ちて街が光と賑わいに包まれる中、いつもより少しだけお洒落をして、お酒を片手に優しい夜をお過ごしください。 VRC Light Volumes対応",
+    "publication_date": "2026-07-03T12:34:05.784Z",
+    "tags": ["art","hangout"]
+  },
+  {
+    "id": "wrld_d29a7d3a-7574-4b66-b720-2b5907982f50",
+    "name": "Pedicta",
+    "author_name": "Studio Imago",
+    "description": "＂何かを求めて＂",
+    "publication_date": "2026-07-03T17:14:05.672Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_04f3546e-b632-48e0-a2b3-4cc63e55ead0",
+    "name": "蛍火 Firefly",
+    "author_name": "Sawacrab",
+    "description": "気まぐれに。蛍と雨。 On a whim with fireflies and rain․",
+    "publication_date": "2026-07-03T11:01:02.822Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_56e41eee-e840-4724-ab4c-337704826d30",
+    "name": "ATLAS Detector at Cern",
+    "author_name": "Georgeus",
+    "description": "ATLAS Detector made by Georgian Technical University in collaboration with CERN",
+    "publication_date": "2026-07-04T22:40:21.517Z",
+    "tags": ["tech","exhibit"]
+  },
+  {
+    "id": "wrld_02b99a48-ff5c-41a7-a8f1-1a472d2259ea",
+    "name": "新・深夜の京都散歩 ⁄ New Kyoto Midnight Walk",
+    "author_name": "takayan660（たかやん",
+    "description": "深夜に京都・三年坂（産寧坂）で撮影したデータをもとに、以前公開した「深夜の京都散歩」を3DGSで新たにリメイクしました。 約1年3か月の技術の進歩と、画像ノイズ軽減にPureRAWを使用したことで、より現実の京都の見た目に近い仕上がりになりました！ This world is a 3DGS remake of my previous Kyoto Midnight Walk‚ based on data captured late at night at Sannenzaka （Sanneizaka）‚ Kyoto․ Thanks to about 1 year and 3 months of technical progress‚ along with PureRAW for image noise reduction‚ it now has a look closer to the real Kyoto․",
+    "publication_date": "2026-07-05T09:02:31.255Z",
+    "tags": ["photogrammetry"]
+  },
+  {
+    "id": "wrld_538132f8-9d45-4e18-81d1-f13e5e4dd577",
+    "name": "Junk Drawer",
+    "author_name": "vavassor",
+    "description": "Future world betas and past world archive․ Tech and shader demos including 3D video art‚ player clones‚ and interactive waterǃ",
+    "publication_date": "2026-07-06T04:39:04.534Z",
+    "tags": ["hub","tech"]
+  },
+  {
+    "id": "wrld_d3762ace-78ec-4c48-8378-1711fe0645ed",
+    "name": "PRINTING PLAYGROUND",
+    "author_name": "Printing Museum",
+    "description": "印刷の仕組みを間近で学び、バーチャルならではの印刷体験が楽しめるワールドです。 ここで出会う「発見」や「なるほど」が、印刷をもっと面白く、もっとクリエイティブに感じさせてくれるでしょう。 This is a world where you can explore the mechanics of printing up close and enjoy a unique virtual printing experience․ The discoveries and ahaǃ moments you encounter here will make printing feel more engaging and more creative than ever․",
+    "publication_date": "2026-04-17T14:10:04.727Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_c5874aa1-5ba9-4251-abda-98996f2feb5b",
+    "name": "The Mall‚ Union Plaza （Routine）",
+    "author_name": "ControVR",
+    "description": "The Mall level from Routine․ This map was commissioned․",
+    "publication_date": "2026-01-25T20:04:00.209Z",
+    "tags": ["exploration"]
   }
 ]
