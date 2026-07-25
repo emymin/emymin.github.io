@@ -11006,5 +11006,117 @@
     "description": "The Mall level from Routine․ This map was commissioned․",
     "publication_date": "2026-01-25T20:04:00.209Z",
     "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_5b27617a-89d3-475f-b35e-7e2fb36325f6",
+    "name": "Lenia Room",
+    "author_name": "_Renard",
+    "description": "Leniaシミュレーションを見ることが出来る部屋 Room to view Lenia simulation",
+    "publication_date": "2023-01-02T13:45:21.735Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_3a2a5eea-2910-43fc-9d1f-974f802e95c2",
+    "name": "ねじれの位置 - twist",
+    "author_name": "浜名湖なこ",
+    "description": "ねじれ‚ ひねり‚ より‚ ゆがみ‚ もつれ",
+    "publication_date": "2026-07-09T03:59:30.264Z",
+    "tags": ["tech","art"]
+  },
+  {
+    "id": "wrld_392f1a49-5d88-472a-b041-27bfa6876c0a",
+    "name": "The Perfect Chateau",
+    "author_name": "OPCherry",
+    "description": "Visit the famous palace comissioned by King Ludwig I of Bavaria․ Schloss Linderhof has been created from scratch with inspiration taken from the real palace․ I am aware of issues on pico headsets․ Fix will take approximately until August to be fixed",
+    "publication_date": "2026-07-11T01:28:13.813Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_535a27b2-a9a5-4766-873b-988031d16381",
+    "name": "Mabushi Island",
+    "author_name": "なの太 nanota",
+    "description": "間伏島は架空の離島です。カフェ、灯台、ビーチ、民宿など様々なスポットでゆったりとお過ごしください。気が向いたら更新予定です。 iOS⁄Androidは結構重いですごめんなさい！Welcome to Mabushi Island‚ a fictional Japanese island․ Enjoy a peaceful stay as you explore the café‚ lighthouse‚ beach‚ B＆B‚ and more․",
+    "publication_date": "2026-07-13T04:38:36.778Z",
+    "tags": ["exploration","hangout"]
+  },
+  {
+    "id": "wrld_3ec9238c-85ff-4bcb-a00c-1da5a6e35b2b",
+    "name": "70's pool test world",
+    "author_name": "Moon yt",
+    "description": "this world is a test for a upcoming project im doing",
+    "publication_date": "2024-04-19T19:42:13.688Z",
+    "tags": ["art","exploration"]
+  },
+  {
+    "id": "wrld_36ee176b-cddc-404c-ac82-45a122507a9e",
+    "name": "Minecraft VRChat Edition v1․6․3［Beta］",
+    "author_name": "BarricadeBandit",
+    "description": "A fan creation of Minecraft in VRChatǃ Full survival with friends in VR or on desktop˸ explore generated worlds with biomes‚ caves and ores‚ mine and build‚ craft with tables‚ furnaces‚ chests and beds‚ farm‚ fight zombies‚ skeletons and creepers‚ and survive the night․ Bows‚ buckets‚ armor‚ hunger‚ day＼night cycle‚ and multiple worlds per instance․ Your inventory and progress save between visits․ Report bugs in the Discord at discord․gg ⁄ gWXa5WJBCU‚ more comingǃ NOT AN OFFICIAL MINECRAFT PRODUCT․ NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT․",
+    "publication_date": "2026-07-12T12:38:11.075Z",
+    "tags": ["tech","sandbox"]
+  },
+  {
+    "id": "wrld_c25869e0-1a38-4c7c-88a4-09ee31bc084a",
+    "name": "NUCLEAR FISHING",
+    "author_name": "accueil750",
+    "description": "Thank Ronuki for the idea․ Turn off ＂forced camera near distance＂ if you have render distance issues （in graphics settings）․ I know this isnt physically accurate‚ I just made it to look cool․ Real nuclear detonations are orders of magnitude larger‚ I cannot fit them in a unity scene and have no graphics issues‚ so they are smaller than real life․ Real nuclear bombs are terrifying․",
+    "publication_date": "2026-07-15T22:35:23.716Z",
+    "tags": ["art","experience"]
+  },
+  {
+    "id": "wrld_4837b182-4e8e-47f5-8f56-9ee88f2d9da5",
+    "name": "Cave Aquarium",
+    "author_name": "Ucchiey",
+    "description": "BOOTHショップ『kai 9』と『NewRarity』のコラボサンプルワールドになります。 洞窟の中の水族館をイメージした巨大水槽の展示ワールドになります。 This is a collaboration sample world created by the BOOTH shops kai 9 and NewRarity․ It is an exhibition world featuring a giant aquarium inspired by an aquarium built inside a cave․",
+    "publication_date": "2026-07-17T17:29:38.219Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_43669dd1-efb0-4418-8279-f28a825dd311",
+    "name": "Navis House",
+    "author_name": "아침밥이",
+    "description": "보트가 라틴어로 Navis래요",
+    "publication_date": "2026-07-19T22:13:55.668Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_362befbb-f431-4c46-a4c5-5d631c7420eb",
+    "name": "NUCLEUS II",
+    "author_name": "MyroP",
+    "description": "Part II ˸ You finished exploring the brutalist waterpark‚ now it's time to go home․․․",
+    "publication_date": "2026-07-12T04:21:48.531Z",
+    "tags": ["adventure","art"]
+  },
+  {
+    "id": "wrld_b0402852-d164-421c-a4b9-4e7cb46149c3",
+    "name": "Liminal VHS Home",
+    "author_name": "EGirlRᴇᴘᴇʟʟᴇɴᴛ",
+    "description": "Time to relax in your dated home to watch some old VHS tapesǃ However‚ something seems off․․․",
+    "publication_date": "2026-07-22T06:32:40.838Z",
+    "tags": ["hangout","art"]
+  },
+  {
+    "id": "wrld_a0b7f37a-fad3-4078-9ae0-0c0d5c5113b1",
+    "name": "oldest Dream",
+    "author_name": "phsse",
+    "description": "Avoid extended stays within red illuminated areas․（bad for your eyes）",
+    "publication_date": "2026-07-22T23:38:03.562Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_bca650a7-337c-4d9a-a1ae-1df730be053a",
+    "name": "day by day",
+    "author_name": "＊るう＊",
+    "description": "ロフト付きの明るいアパートメントを作りました。カウンターの椅子はジャンプorスペースで降りられます。ちいさな遊び要素もあるので、楽しく使っていただけたら嬉しいです。暗くなるので一応睡眠も可です。QvPen‚RBS SleepKit 2‚YamaPlayer‚ImagePad‚VRC EventCalendar‚VLM‚防音室‚VRCLightVolumes",
+    "publication_date": "2025-12-11T16:52:15.301Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_5c6496f7-cd9b-4153-b490-c0bc7a06dba6",
+    "name": "MaunaKea Observatories",
+    "author_name": "S_ASAGIRI",
+    "description": "ハワイ・マウナケア山頂付近の天文台群を再現したワールドです。 世界屈指の大望遠鏡が立ち並ぶ世界をお楽しみください。 Created by S_Asagiri",
+    "publication_date": "2026-07-23T16:40:33.538Z",
+    "tags": ["exploration","exhibit"]
   }
 ]

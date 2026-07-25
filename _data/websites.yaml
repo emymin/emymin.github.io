@@ -856,6 +856,9 @@ categories:
       - url: https://anthropeum.com/
         title: Anthropeum
         description: Each day, ten objects. Guess where and when each was made. Then see how you ranked against everyone else who played today.
+      - url: https://hl2.slqnt.dev/
+        title: web hl2
+        description: Play Half-Life 2 in the browser
   - title: Linguistics
     items:
       - url: https://djtguide.github.io/
@@ -1546,6 +1549,12 @@ categories:
       - url: https://www.horg.com/
         title: Holotypic Occlupanid Research Group
         description: This site contains several years of research in the classification of occlupanids. These small objects are everywhere, dotting supermarket aisles and sidewalks with an impressive array of form and color.
+      - url: https://app.everything.diena.co/
+        title: Diena - The timeline of everything
+        description: Explore the timeline of everything, from the Big Bang to the present day, and beyond. Discover the history of the universe, life on Earth, and human civilization in a new and interactive way.
+      - url: https://theilemail.de/wikipage/
+        title: Wiki Page Rank Map
+        description: Map with associated Wikipedia entries
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
