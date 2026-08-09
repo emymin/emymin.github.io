@@ -11118,5 +11118,109 @@
     "description": "ハワイ・マウナケア山頂付近の天文台群を再現したワールドです。 世界屈指の大望遠鏡が立ち並ぶ世界をお楽しみください。 Created by S_Asagiri",
     "publication_date": "2026-07-23T16:40:33.538Z",
     "tags": ["exploration","exhibit"]
+  },
+  {
+    "id": "wrld_db6b9fa4-6afb-41e3-8f06-f512fd2676ce",
+    "name": "Wistful",
+    "author_name": "Lilly the cat",
+    "description": "A moment painted golden by memories․․․ Small pastel colored house on a flower meadow with some secrets to find․ VIP area has a small lake with a cabin․ Features˸ Screen‚ pens‚ reversi‚ youtube search‚ coffee making set‚ conversation cube to get to know your friends better․ 思い出が黄金色に彩るひととき。花畑に佇むパステルカラーの小さな家には、発見すべき秘密がいくつか隠されています。VIPエリアには、小さな湖と小屋があります。主な設備：スクリーン、ペン、リバーシ、YouTube検索、コーヒーセット、友達との距離を縮める「会話キューブ」。",
+    "publication_date": "2026-07-28T11:26:00.517Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_0ca8495e-4502-422a-9438-fb8eb1b8f209",
+    "name": "真夏街道 - Midsummer Road",
+    "author_name": "柏木あんこ＠Anko",
+    "description": "夏休みの遠出。冷房が効いた車に揺られていると、トンネルとトンネルの間に見えた一瞬の光景に「夏」を感じた。初めて訪れた地方の、もう二度と通らないかもしれない町の風景。そんな一瞬を切り取りました。（神社前、掲示板裏にセミの声ON⁄OFFスイッチあります）",
+    "publication_date": "2026-07-23T19:18:52.055Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_2ed6f083-2c2f-4ca2-b135-3bd805b8cf2d",
+    "name": "Opus․",
+    "author_name": "_you5248",
+    "description": "VRC Light VolumesのAreaLV検証ワールドです。水面シェーダーの泡分布計算をそのままクッキー生成に流用し、夜光虫の発光と同一パターンの光をアバターに投影しています。あるのは光る波打ち際だけ。足元の光を見に来てください。⁄ A test world for AreaLV in VRC Light Volumes․ The light cookie is generated with the exact same foam-distribution math as the water shader‚ so the bioluminescent glow hits avatars in the very pattern you see on the waves․ There's nothing here but a glowing shoreline come watch the light at your feet․",
+    "publication_date": "2026-07-26T14:29:17.803Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_e16362eb-22ac-4d20-84f8-341bbca75471",
+    "name": "Super Mario VRC 1․05",
+    "author_name": "PR Curve c63f",
+    "description": "A test world for Super Mario gameplay․ Please visit Super Mario ＆ Duck Hunt for the complete experience",
+    "publication_date": "2026-07-25T22:58:15.887Z",
+    "tags": ["tech","parkour"]
+  },
+  {
+    "id": "wrld_ca3748a6-df7f-42cc-ba26-e9a07347d70f",
+    "name": "Queen Bella's Mexican Beach Hideaway",
+    "author_name": "Cain`",
+    "description": "Queen Bella's Mexican Beach Hideaway․ Interior decorating by Queen Bella․ Preserved from AltspaceVR․",
+    "publication_date": "2023-02-09T21:02:57.285Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_5696411e-433c-44d5-ada3-7f1010e5ca8b",
+    "name": "Local AI Chat with Gemma3 1B GPT",
+    "author_name": "椰子梨梨花",
+    "description": "A local GPT World․powered by ShaderGPT https˸⁄⁄gitlab․com⁄lox9973⁄ShaderGPT․ Gemma 3 1B was the most impressive small model for me in 2025‚ and it was released before the real agent era‚ also before massive CoT and RLHF training‚ so it's more suitable for chatting‚ even though its parameter count is very small․ Due to our quantization method‚ the model's intelligence seems to have degraded‚ but it adds more unpredictability and fun to the conversation․",
+    "publication_date": "2026-07-31T01:39:00.877Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_8330d1ff-5f2e-4050-a9da-5531c429dbf3",
+    "name": "Hypercube Painter",
+    "author_name": "はちがよ",
+    "description": "Projection and net of a hypercube․ Elements on the net are reflected in the projection․",
+    "publication_date": "2026-07-31T07:49:06.845Z",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_a394d29b-47da-4807-b8c3-e745fb85941f",
+    "name": "Space 1999 - Facilities",
+    "author_name": "Nova_66",
+    "description": "Space 1999 is a classic science-fiction television show produced by Gerry and Sylvia Anderson in the mid 1970s․ This world reproduces the on screen sets as they were constructed for the Solarium‚ Computer Room‚ and Nuclear Generating Area․",
+    "publication_date": "2026-06-30T20:01:19.953Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_15c9e77c-cdee-406b-a1f7-6878c4ca6921",
+    "name": "BEAT CUBE",
+    "author_name": "PIKACHU w",
+    "description": "A rhythm-driven interactive world․ Tap the walls to the beat‚ enjoy the music‚ and relax in the lounge․ 一个跟随节奏互动的音乐世界。踩准节拍触碰墙面，享受音乐，也可以在休息室放松․ リズムに合わせて遊ぶインタラクティブな音楽ワールド。壁をタップして、音楽やラウンジを楽しもう。 리듬에 맞춰 즐기는 인터랙티브 음악 월드입니다․ 벽을 터치하며 음악을 즐기고 라운지에서 쉬어 가세요․",
+    "publication_date": "2026-08-01T08:31:57.453Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_122054d3-be9a-47a6-9a9a-b2dbbbf1ca46",
+    "name": "Wag That Tail",
+    "author_name": "Bobby9000",
+    "description": "A world for wagging tail․ Includes NPCs and dance pads with custom animations․",
+    "publication_date": "2026-08-01T18:47:42.687Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_7d840cb4-dc41-4b35-be38-c5be96c9b15c",
+    "name": "Just 歯車＆蒸気エンジン⁄Just Gear ＆ SteamEngine",
+    "author_name": "琴うみ【ことうみ】",
+    "description": "歯車や機構、蒸気エンジンを実際に動かして観察してみよう！ 地下でV睡して巨大歯車を一周させよう！（自動保存） 歯車が一周したら写真に撮って ＃JustGear タグで投稿しよう！",
+    "publication_date": "2026-08-08T18:18:41.526Z",
+    "tags": ["exhibit"]
+  },
+  {
+    "id": "wrld_f3c9b880-80f4-41fa-a436-c3678e4c4aeb",
+    "name": "Fluids and Light",
+    "author_name": "fotfla",
+    "description": "Fluids Simulation and Light Volume",
+    "publication_date": "none",
+    "tags": ["tech"]
+  },
+  {
+    "id": "wrld_a09b6736-40fb-4a72-832b-ab872a952497",
+    "name": "STILL ALONE",
+    "author_name": "ROCKsolidJP",
+    "description": "COMPLEX․․․ The higher I climbed‚ the deeper I fell‚ until the pain became too much to bear․ Yet I couldnt go back‚ nor could I move forward․ So I chose to remain where I was‚ embracing the shadow of a nobody․",
+    "publication_date": "2026-08-09T20:50:18.609Z",
+    "tags": ["art"]
   }
 ]
