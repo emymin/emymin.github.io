@@ -1555,6 +1555,9 @@ categories:
       - url: https://theilemail.de/wikipage/
         title: Wiki Page Rank Map
         description: Map with associated Wikipedia entries
+      - url: https://philpapers.org/
+        title: PhilPapers
+        description: PhilPapers is a comprehensive index and bibliography of philosophy maintained by the community of philosophers. 
   - title: List
     items:
       - url: https://whitedesert.neocities.org/
