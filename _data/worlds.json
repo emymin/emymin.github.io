@@ -11422,5 +11422,125 @@
     "description": "․․ ․-․․ --- ․․․- ․ -․-- --- ․․-",
     "publication_date": "2026-09-22T05:41:21.872Z",
     "tags": ["art"]
+  },
+  {
+    "id": "wrld_8f4f085d-7152-447f-ac98-6a45377f286b",
+    "name": "Suborbital Express",
+    "author_name": "Niko∗",
+    "description": "Take a fully automated suborbital flight into spaceǃ",
+    "publication_date": "2026-09-14T02:15:12.908Z",
+    "tags": ["experience","flying"]
+  },
+  {
+    "id": "wrld_a45a6a54-afee-4e59-a31c-cf68b40b3bc1",
+    "name": "CLOUDREST",
+    "author_name": "ウィル＿Willgrim",
+    "description": "雲の中の休息地＼Resting place in the clouds",
+    "publication_date": "2026-09-27T12:16:36.796Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_60576c51-a84e-4fdc-9893-25e8b16805f3",
+    "name": "A Graveyard for Giants",
+    "author_name": "MilkDotes",
+    "description": "A liminal space where the giants of old slumber․ Lost to eternity in the space between spaces․ How did you get here‚ traveler?",
+    "publication_date": "2026-10-03T10:37:20.343Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_7e368afa-2a80-4dc3-a29b-db1a8e8b5dc9",
+    "name": "Abstract Algebra ｜ 抽象代数",
+    "author_name": "过桥米线",
+    "description": "这是一个关于群论的可交互的数学博物馆。纯粹兴趣使然 我不是数学专业出身的，内容可能会有误或不严谨的地方，或者有什么奇奇怪怪的BUG，欢迎联系我指出，感谢！ This is an interactive mathematics museum about group theory․",
+    "publication_date": "2026-10-05T14:12:24.445Z",
+    "tags": ["tech","exhibit"]
+  },
+  {
+    "id": "wrld_212cec1e-3670-49f2-940f-930fb5253b51",
+    "name": "【PARTICLE LIVE】Meadow of Glasslight",
+    "author_name": "keisy",
+    "description": "3分程のパーティクルライブです。演者として撮影できるモードあり。（楽曲には生成AIを使用しています） A roughly three-minute particle live performance․ There is also a mode that allows you to film from the performer's perspective․ （Generative AI is used in the music․）",
+    "publication_date": "2026-09-28T15:17:36.648Z",
+    "tags": ["music","experience"]
+  },
+  {
+    "id": "wrld_0b8b0863-59f6-4bb5-a342-c1119156cc82",
+    "name": "エクが運転してくれるチルワ ⁄ Cozy Cruise with Eku",
+    "author_name": "がんだる",
+    "description": "エクちゃんが初秋のドライブコースを運転してくれます。キャンピングカーで景色を眺めてくつろぎましょう。20分の周回コースです。酔いやすい方は，ローカルで景色を固定できます。 Equipment˸ Video Player‚ QvPen‚ Mirror‚ Bed‚ BGM",
+    "publication_date": "2026-10-07T13:39:55.713Z",
+    "tags": ["hangout","driving"]
+  },
+  {
+    "id": "wrld_4cbd0aca-cad9-4102-be8a-9aea8eb890b7",
+    "name": "ShaderEmu",
+    "author_name": "misha_m",
+    "description": "A whole computer running in a pixel shader on your own graphics card˸ a 256-core RISC-V machine that boots real Linux to a desktop․ Play Doom‚ Quake‚ Red Alert‚ Command ＆ Conquer and a NES; browse the web‚ play music and video; write‚ build and debug C in its IDE․ Sit in a holodeck and a game's 3D world is round you․ Every visitor runs a machine of their own‚ and can show its screen to the others on a classroom computer․ Note˸ this is usually VERY slow depending on your GPU․ Open source˸ github․com⁄MichaelMoroz⁄ShaderEmu",
+    "publication_date": "2026-10-08T03:41:14.545Z",
+    "tags": ["tech","★"]
+  },
+  {
+    "id": "wrld_8d290ee2-d388-46b5-b7b6-8274b1ece4d4",
+    "name": "Plants vs․ Zombies⁄植物大战僵尸",
+    "author_name": "༒sasioverlxrd༒",
+    "description": "I've finished all the levels in adventure mode‚ It's still in the testing phase‚ so there might be a lot of bugs，but some of the plants' effects aren't very ideal․ I'll have time to optimize them⁄测试阶段，尚未修复完所有BUG",
+    "publication_date": "2026-10-09T14:14:53.734Z",
+    "tags": ["tech","strategy"]
+  },
+  {
+    "id": "wrld_3221d7c7-1926-4551-961e-bdd0b7b0810f",
+    "name": "Station Canopée",
+    "author_name": "HelicityOhNo",
+    "description": "A solarpunk world",
+    "publication_date": "2026-10-09T13:12:53.178Z",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "wrld_c63190b9-d573-45c4-a743-3cc0e81aebd9",
+    "name": "Blue Lagoon",
+    "author_name": "Shinyflvres",
+    "description": "The Blue Lagoon is a place inspired by a real location in the beautiful country of Spain․ Enjoy a wonderful‚ cozy wooden hut surrounded by a breathtaking bioluminescent lagoon․ Relax by the campfire and spend quality time with your friends‚ surrounded by beautiful plants and a peaceful atmosphere․ A calm and cozy place to unwind‚ watch videos‚ listen to music‚ and enjoy unforgettable moments together․ - The Water shader was inspired by liminal cove by Shigure․",
+    "publication_date": "2026-10-08T15:32:44.888Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_30a5140a-a3f3-4c44-acce-c92e3cfb2664",
+    "name": "The Bunker",
+    "author_name": "strasz",
+    "description": "An unmapped island‚ somewhere․ A facility constructed as a signals monitoring center․ As the world falls apart‚ at least we can be safe here․ Features a handful of Strasz's favorite songs and albums․ World built by VVolfly‚ comissioned by Strasz․",
+    "publication_date": "2026-10-13T10:47:08.372Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_2e850923-584d-41a7-8c0c-25dcb7371799",
+    "name": "Tower",
+    "author_name": "amanek",
+    "description": "白い塔のある場所 Where the White Tower Stands",
+    "publication_date": "2026-10-13T12:50:08.805Z",
+    "tags": ["art"]
+  },
+  {
+    "id": "wrld_8df12c98-a330-486c-bd0b-81232e75e4a3",
+    "name": "「花の向こうに」 - Beyond the Flowers",
+    "author_name": "Art_Vin",
+    "description": "",
+    "publication_date": "2026-10-15T04:40:18.209Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_b26c8a97-5c38-4dd2-9aa7-520eea7b3e69",
+    "name": "星の入り江 - Liminal Cove",
+    "author_name": "- Shigure -",
+    "description": "［WIP］ Update˸ アバターのライティングを調整",
+    "publication_date": "2026-09-30T06:57:27.599Z",
+    "tags": ["hangout"]
+  },
+  {
+    "id": "wrld_f3db768b-561b-461e-beea-c72957cb263d",
+    "name": "フレンドを天ぷらにして食べるワールド",
+    "author_name": "Hyakuashi",
+    "description": "You Fry Your Friends as Tempura and Eat Them․ Created with assistance from Astra․ Avatar Tempura",
+    "publication_date": "2026-09-28T12:34:23.761Z",
+    "tags": ["tech"]
   }
 ]
